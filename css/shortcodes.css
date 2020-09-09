@@ -68,7 +68,7 @@
 }
 .template-title p.subtitle {
 	font-size: 18px;
-	color: #adaba5;
+	color: #000;
 }
 /*========== Services Area ==========*/
 .services-area {
@@ -229,6 +229,7 @@
 }
 .iconbox .iconbox-content p {
 	line-height: 24px;
+	color: #000;
 }
 /*========== Services Single ==========*/
 .customs-single:not(.fleet-single) {
@@ -2173,7 +2174,7 @@ ul.booking-steps li .text {
 }
 .schedule-booking .form-booking label{
 	font-size: 16px;
-    color: #999;
+    color: #d9c77e;
     display: block;
 }
 .schedule-booking .form-booking input,.schedule-booking .form-booking select{
@@ -2229,12 +2230,12 @@ ul.booking-steps li .text {
 .add-box .tab_booking li a{
 	font-weight:500;
 	text-transform:uppercase;
-	color:#fff;
+	color:#d9c77e;
 	font-size:18px;
 	padding: 0 40px;
 }
 .add-box .tab_booking li.active{
-	background-color:#eeead7;
+	background-color:#ffffff63;
 }
 .add-box .tab_booking li.active:before{
 	width:12px;
@@ -2242,10 +2243,10 @@ ul.booking-steps li .text {
 	bottom:-7px;
 }
 .add-box .tab_booking li.active a{
-	color:#1e1e1e;
+	color:#FFF;
 }
 .add-box .schedule-booking{
-	background:rgba(30,30,30,0.9);
+	background:rgba(0,0,0,0.8);
 }
 .add-box .schedule-booking .form-booking{
 	padding-top:12px;
@@ -2288,13 +2289,15 @@ ul.booking-steps li .text {
 	padding-top: 20px;
     padding-bottom: 17px;
 	border-radius:3px;
-	background-color: #bf9c60;
+	color: black ;
+	background-color: #d9c77e;
 	border: 2px solid #bf9c60;
 	display: block;
 }
 .add-box .schedule-booking .form-booking .btn-submit a:hover {
-	background-color: transparent;
-	border: 2px solid #bf9c60;
+	background: rgb(170,153,88);
+	border: 2px solid rgb(170,153,88);
+	color: #000;
 }
 .add-box .schedule-booking .form-booking select option{
 	color:#1e1e1e;
@@ -2549,7 +2552,7 @@ hr{
 }
 .icon-box .content-box .view_service a img{margin-left:16px;}
 .icon-box .content-box .view_service a:hover{
-	color: #f28b00;
+	color:#e5d591;
 }
 .our_services{
 	margin-bottom:85px;
@@ -2614,11 +2617,11 @@ hr{
 }
 .tab_menu li a{
 	font-family: Dosis;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 18px;
     line-height: 24px;
     text-transform: capitalize;
-    color: #adaba5;
+    color: #000;
 }
 .tab_menu li.current{
 	background: #1e1e1e;
@@ -2626,7 +2629,7 @@ hr{
     padding: 4px 20px;
 }
 .tab_menu li.current a{
-	color:#d7d2bd;
+	color:#d9c77e;
 }
 .block-fleet .fleet-carousel{
 	display: block;
@@ -2661,8 +2664,6 @@ hr{
 	padding-bottom:74px;
 }
 .no-slider .fleet-carousels .fleet-item .fleet-content{
-	position:absolute;
-	width:100%;
 	opacity: 0;
 	padding-top: 3px;
     z-index: -2;
@@ -2678,7 +2679,8 @@ hr{
 	-o-animation: fadeIn 0.4s both;
 	animation: fadeIn 0.4s both;
 	opacity: 1;
-    z-index: 2;
+	visibility: visible;
+	z-index: 2;
 }
 .block-fleet .fleet-carousel.active{
 	height:auto!important;
@@ -2905,18 +2907,19 @@ hr{
 }
 .info-box .booking{
 	font-family: Dosis;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
-    color: #fff;
-    background: #bf9c60;
+    color: black;
+    background: #d9c77e;
     display: inline-block;
-    border: 2px solid #bf9c60;
+    border: 2px solid #d9c77e;
 	border-radius:3px;
 	padding: 11px 34px 9px 42px;
 }
 .info-box .booking:hover {
-	background-color: transparent;
-	border: 2px solid #bf9c60;
+	background: rgb(170,153,88);
+	border: 2px solid rgb(170,153,88);
+	color: #000;
 }
 .info-box .booking img{
 	padding-left:10px;
@@ -2951,7 +2954,7 @@ hr{
 	font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    color: #969696;
+    color: #000;
 	padding-top: 10px;
 }
 
@@ -2991,7 +2994,8 @@ hr{
 .testimonial .items .content p{
 	font-size: 16px;
     line-height: 24px;
-    color: #969696;
+	color: white;
+	font-weight: 500;
 	display:inline-block;
 	max-width:734px;
 	padding-top: 10px;
@@ -3086,7 +3090,8 @@ hr{
 	opacity:1;
 }
 .change_dark .fleet-item.nb:hover .fleet-title a,.change_dark .fleet-item.nb:hover .automatic,.change_dark .fleet-item.nb:hover .fleet-content ul li a{
-	color:#1e1e1e;
+	color:#000;
+	font-weight: 500;
 }
 .change_dark .fleet-item.nb:hover .images span{
 	opacity:1;

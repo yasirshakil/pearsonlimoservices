@@ -337,7 +337,7 @@
 		color:#1e1e1e;
 	}
 	.header-04 .navigation{
-		text-align:right;
+		/* text-align:right; */
 	}
 	.header-05 .main-menu > ul > li:not(.logo-pro_text) > a{
 		line-height:80px;
