@@ -2061,7 +2061,7 @@ ul.social-ft li a:hover {
 	color: #d9c77e;
 }
 .widget-footer h3.title-ft {
-	color: #fffffe;
+	color: #d9c77e;
 	margin-bottom: 25px;
 }
 .widget-about .logo-pro-ft {
@@ -2402,7 +2402,9 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(24,24,24,1) 50%,
 
 
 .Content-Box h2{
-    color: white;
+	color: white;
+	color: #d9c77e;
+    text-shadow: 0px 1px 3px #d9c77e;
 }
 
 .borderr{
