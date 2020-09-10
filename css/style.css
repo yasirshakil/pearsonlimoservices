@@ -487,6 +487,7 @@ button:focus {
 }
 .main-menu {
 	/* position: relative; */
+	position: absolute !important;
 	
 }
 .main-menu .logo-pro-menu {
