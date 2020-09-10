@@ -2358,7 +2358,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(24,24,24,1) 50%,
 
 .FleetBox-img {
 	height: 100%;
-    width: 100%;
+    width: auto;
 }
 
 .Col-Box{

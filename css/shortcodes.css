@@ -2758,14 +2758,14 @@ hr{
     transition: opacity 0.35s, transform 0.35s;
 }
 .fleet-item:before{
-	border-top: 1px solid #ebe9dc;
-    border-bottom: 1px solid #ebe9dc;
+	border-top: 1px solid #d9c77e;
+    border-bottom: 1px solid #d9c77e;
     -webkit-transform: scale(0,1);
     transform: scale(0,1);
 }
 .fleet-item:after{
-	border-right: 1px solid #ebe9dc;
-    border-left: 1px solid #ebe9dc;
+	border-right: 1px solid #d9c77e;
+    border-left: 1px solid #d9c77e;
     -webkit-transform: scale(1,0);
     transform: scale(1,0);
 }
