@@ -1377,7 +1377,7 @@ button:focus {
 	color: #969696;
 }
 .footer-bottom ul li a:hover {
-	color: #fff;
+	color: #d9c77e;
 }
 .footer-04{
 	padding: 77px 0 48px 0
@@ -2057,7 +2057,7 @@ ul.social-ft li a:hover {
 }
 
 .widget-footer ul li a:hover {
-	color: #ffffff;
+	color: #d9c77e;
 }
 .widget-footer h3.title-ft {
 	color: #fffffe;
@@ -2209,6 +2209,16 @@ ul.social-ft li:last-child {
 
 
 /* my changes */
+
+
+.Contact-us{
+	color: white;
+
+}
+
+.Contact-us:hover{
+	color: #d9c77e;
+}
 
 .Animated-P{
 	border: none;
