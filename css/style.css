@@ -2343,11 +2343,12 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(24,24,24,1) 50%,
 .fleet-img{
 	height: 200px !important;
 	width: 350px;
+	padding: 0px !important;
 }
 
 .fleet-details{
 	height: 30%;
-	width: 100%;
+	width: 100% !important;
 }
 
 
@@ -2358,7 +2359,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(24,24,24,1) 50%,
 
 .FleetBox-img {
 	height: 100%;
-    width: auto;
+    width: 100%;
 }
 
 .Col-Box{
