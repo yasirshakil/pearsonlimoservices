@@ -52,6 +52,7 @@
 }
 .template-title h1 {
 	font-weight: 600;
+    color: #d9c77e;
 	margin-bottom: 25px;
 }
 .template-title span {
@@ -519,15 +520,39 @@
 	text-align: right;
 }
 .contact-form form .btn-submit-form button {
-	padding: 0 28px 0 58px;
+	position: relative;
 	margin-top: 9px;
+	overflow: hidden;
+	z-index: 2;
 }
+
+.contact-form form .btn-submit-form button::after{
+	content: "";
+	height: 0px;
+	width: 300px;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	transform: rotate(60deg);
+	position: absolute;
+	transition: all 0.5s;
+	z-index: -2;
+}
+
+.contact-form form .btn-submit-form button:hover::after{
+	background-color: #d9c77e;
+	transform: rotate(0deg);
+	height: 50px;
+}
+
+
+
 .contact-form form .btn-submit-form button:hover {
-	background: #bf9c60;
+	color: black;
 }
-.contact-form form .btn-submit-form button img {
+/* .contact-form form .btn-submit-form button img {
 	padding-left: 40px;
-}
+} */
 .contact-item {
 	padding: 0 25px;
 }
@@ -1350,7 +1375,7 @@ ul.booking-steps li .text {
 	height: 50px;
 	padding: 0 85px 0 48px;
 	color: #fff;
-	background: #bf9c60;
+	background: #d9c77e;
 	border-radius: 4px;
 	display: block;
 	position: relative;
@@ -1391,7 +1416,8 @@ ul.booking-steps li .text {
 	position: relative;
 }
 .select-car .box-text .bottom .btn-select a:hover,.select-car.ofl .bottom .btn-select a:hover {
-	background: #1e1e1e;
+	background: rgb(170,153,88);
+	color: black;
 }
 .select-car .box-text .bottom .btn-select a:before{
 	content: "\f3d6";

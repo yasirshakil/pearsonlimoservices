@@ -2271,7 +2271,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(24,24,24,1) 50%,
 }
 
 .Dropdown{
-	z-index: 999999;
+	z-index: 1;
 	background: transparent;
 }
 
@@ -2343,7 +2343,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(24,24,24,1) 50%,
 .fleet-img{
 	height: 200px !important;
 	width: 350px;
-	padding: 0px !important;
+	padding: 0px ;
 }
 
 .fleet-details{
