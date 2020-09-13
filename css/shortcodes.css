@@ -90,6 +90,7 @@
 .services-item .services-image {
 	border-radius: 6px;
 	overflow: hidden;
+	height: 180px;
 }
 .section-iconbox.fix-ssbt{
 	padding-bottom: 87px;
@@ -526,30 +527,6 @@
 	z-index: 2;
 }
 
-.contact-form form .btn-submit-form button::after{
-	content: "";
-	height: 0px;
-	width: 300px;
-	left: 0;
-	top: 0;
-	bottom: 0;
-	transform: rotate(60deg);
-	position: absolute;
-	transition: all 0.5s;
-	z-index: -2;
-}
-
-.contact-form form .btn-submit-form button:hover::after{
-	background-color: #d9c77e;
-	transform: rotate(0deg);
-	height: 50px;
-}
-
-
-
-.contact-form form .btn-submit-form button:hover {
-	color: black;
-}
 /* .contact-form form .btn-submit-form button img {
 	padding-left: 40px;
 } */
@@ -2421,7 +2398,7 @@ ul.booking-steps li .text {
     font-weight: 600;
     font-size: 40.02px;
 	line-height:55px;
-    color: #1e1e1e;
+	color: #d9c77e;
 	margin-bottom: 6px;
     text-transform: capitalize;
 }
@@ -2560,7 +2537,9 @@ hr{
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    color: #969696;
+	/* color: #969696; */
+	color:black;
+	
 }
 .icon-box .content-box .left-content{
 	font-size:20px;
@@ -3004,7 +2983,7 @@ hr{
 
 /*========== Testimonial ==========*/
 .testimonial.parallax{
-	background-image: url(../images/iconbox/testimonial.jpg);
+	background-image: url(https://platinumrides.ca/wp-content/uploads/2015/11/about-us-new-bg.jpg);
 	padding-top:103px;
 	padding-bottom:32px;
 }
@@ -3037,7 +3016,7 @@ hr{
 	margin-bottom:35px;
 }
 .testimonial .items .info .name{
-	color: #d7d2bd;
+	color: #d9c77e;
 	line-height: 20px;
 }
 .testimonial .items .info .company{
@@ -3259,13 +3238,15 @@ hr{
 }
 /* Info About */
 .info-about {
-	padding-top: 30px;
+	/* padding-top: 30px; */
 }
 .info-about h4 {
 	margin-bottom: 15px;
 }
 .info-about p {
 	margin-bottom: 20px;
+	color:black;
+
 }
 
 /** Calendar */
