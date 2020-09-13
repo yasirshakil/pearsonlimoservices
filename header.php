@@ -134,7 +134,7 @@
 										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
-										<a class="links" href="#">About</a>
+										<a class="links" href="about.php">About</a>
 										<ul class="menu-dropdown after-drop">
 											<li><a href="booking-car-class.html">Booking Car Class</a></li>
 											<li><a href="booking-card.html">Booking Card</a></li>

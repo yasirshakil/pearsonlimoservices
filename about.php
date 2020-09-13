@@ -1,31 +1,6 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<!-- Basic Page Needs -->
-	<meta charset="UTF-8">
-	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-	<!-- Mobile Specific Metas -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="keywords" content="">
-	<meta name="author" content="CreativeLayers">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Prodrive</title>
-	<!-- Boostrap style -->
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<!-- theme style -->
-	<link rel="stylesheet" href="css/style.css">
-	<!-- Responsive style -->
-	<link rel="stylesheet" href="css/responsive.css">
-</head>
-
-<body>
-	<div class="layout-theme">
-		<div id="loading-overlay">
-			<div class="loader"></div>
-		</div>
-		<!-- Start Header -->
-		<!-- End Header -->
+<?php
+include ('./header.php');
+?>		<!-- End Header -->
 		<!-- Start Top Title -->
 
 		<!-- End Top Title -->
@@ -267,24 +242,8 @@
 		</section>
 		<!-- End Section Iconbox -->
 		<!-- Start Footer -->
-
-		<div class="scroll-top">
-		</div>
-	</div>
-	<!-- Javascript -->
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/tether.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="js/waypoints.min.js"></script>
-	<script type="text/javascript" src="js/easing.js"></script>
-	<script type="text/javascript" src="js/owl.carousel.js"></script>
-	<script type="text/javascript" src="js/bootstrap-datetimepicker.js"></script>
-	<script type="text/javascript"
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtRmXKclfDp20TvfQnpgXSDPjut14x5wk&region=GB"></script>
-	<script type="text/javascript" src="js/gmap3.min.js"></script>
-	<script type="text/javascript" src="js/waves.min.js"></script>
-	<script type="text/javascript" src="js/template.js"></script>
-	<!-- End Javascript -->
-</body>
-
-</html>
+		<!-- Start Footer -->
+		<?php
+		include ('./footer.php');
+	?>
+<!-- End Footer -->
