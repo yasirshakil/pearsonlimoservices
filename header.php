@@ -173,13 +173,13 @@
 										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
-										<a class="links" href="#">Services</a>
+										<a class="links" href="services.php">Services</a>
 										<ul class="menu-dropdown after-drop">
 
 										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
-										<a class="links" href="#">Contact</a>
+										<a class="links" href="contact.php">Contact</a>
 										<ul class="menu-dropdown after-drop">
 											<li><a href="contact1.html">Contact 01</a></li>
 											<li><a href="contact2.html">Contact 02</a></li>
