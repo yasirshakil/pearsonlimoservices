@@ -133,7 +133,7 @@
 }
 .price-car ul.level-price li .value .price {
 	font-size: 30px;
-	color: #1e1e1e;
+	color: #d9c77e;
 	font-weight: 500;
 }
 .price-car.bg-1 ul.level-price li,
@@ -150,7 +150,7 @@
 }
 .price-car.bg-1 .price-header,
 .price-car.bg-1 .price-bottom a {
-	background: #d7d2bd
+	background: #d9c77e;
 }
 
 .price-car.bg-1 .price-header,
@@ -164,6 +164,7 @@
 .price-car .price-bottom a {
 	display: block;
 	height: 60px;
+	color: #fff;
 	line-height: 60px;
 	font-size: 20px;
 }
@@ -197,7 +198,7 @@
 }
 .price-car.bg-3 .price-header,
 .price-car.bg-3 .price-bottom a {
-	background: #bf9c60;
+	background: #d9c77e;
 }
 
 .price-car.bg-3 .price-header,
@@ -214,7 +215,7 @@
 }
 .price-car.bg-2 .price-header p,
 .price-car.bg-3 .price-header p {
-	color: #fff;
+	color: #000;
 }
 /*========== Section Iconbox ==========*/
 .section-iconbox {
@@ -674,7 +675,7 @@ button.no-bg:hover {
 	border-bottom: 1px solid #ebe9dc;
 }
 .accordion-toggle .toggle-title.active {
-	color: #bf9c60;
+	color: #d9c77e;
 	margin-bottom: 10px;
 	border-bottom: none;
 }
@@ -697,6 +698,8 @@ button.no-bg:hover {
 	padding-bottom: 32px;
 }
 .accordion-toggle .toggle-content p {
+	color: #000;
+	font-weight: 500;
 	line-height: 24px;
 }
 /*========== Tabs Area ==========*/
