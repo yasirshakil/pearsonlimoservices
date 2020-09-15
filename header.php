@@ -126,7 +126,7 @@
 										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
-										<a class="links" href="#">Service Rates</a>
+										<a class="links" href="services-rates.php">Service Rates</a>
 										<ul class="menu-dropdown after-drop">
 											<li><a href="services.html">Services</a></li>
 											<li><a href="services-rates.html">Services Rates</a></li>
@@ -155,7 +155,7 @@
 										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
-										<a class="links" href="#">reservation</a>
+										<a class="links" href="Reservation.php">reservation</a>
 										<ul class="menu-dropdown after-drop">
 											<li><a href="blog.html">Blog</a></li>
 											<li><a href="blog-grid.html">Blog Grid</a></li>
@@ -167,7 +167,7 @@
 										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
-										<a class="links" href="#">area we serve</a>
+										<a class="links" href="Area-We-Serve.php">area we serve</a>
 										<ul class="menu-dropdown after-drop">
 
 										</ul>
@@ -181,6 +181,7 @@
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="contact.php">Contact</a>
 										<ul class="menu-dropdown after-drop">
+										<li><a href="faq.php">FAQ</a></li>
 											<li><a href="contact1.html">Contact 01</a></li>
 											<li><a href="contact2.html">Contact 02</a></li>
 										</ul>
