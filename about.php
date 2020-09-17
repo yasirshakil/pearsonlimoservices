@@ -10,10 +10,10 @@ include ('./header.php');
 				<div class="row">
 					<div class="col-md-12">
 						<section class="template-title center">
-							<h1 class="title has-over">Story About Us</h1>
-							<span>Story About Us</span>
-							<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
-								<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+							<h1 class="title has-over">About</h1>
+							<span>About</span>
+							<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+								<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
 							</div>
 						</section>
 					</div>
@@ -21,7 +21,7 @@ include ('./header.php');
 				<div class="row">
 					<div class="col-md-12">
 						<div class="images">
-							<img width="100%" src="images/slider2.jpg" alt="">
+							<!-- <img width="100%" src="images/slider2.jpg" alt=""> -->
 						</div>
 					</div>
 					<div class="col-lg-12 col-md-12">
@@ -168,9 +168,137 @@ include ('./header.php');
 				</div>
 			</div>
 		</section>
+		<section class="template-title has-over ovvs">
+			<div class="container">
+				<h3 class="title">Our Services</h3>
+				<div class="row">
+					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+					</div>
+				</div>
+				<p class="subtitle">Our aim is to fill a gap in niche market of Trade</p>
+			</div>
+		</section>
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+						<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
+						<div class="Content-Box">
+							<h2>AIRPORT LIMOUSINE<br>TRANSFERS</h2>
+							<div class="borderr"></div>
+							<p class="bb-descr">
+								Our Premium Limo Service is available for your airport transfer needs.
+								Professional Chauffer’s would receive or drop you at your designated airports
+								across Canada. Never miss a flight again, with our airport limo service. Always catch
+								that flight on time.
+							</p>
+							<div>
+								<div class="LinksBox">
+									<a class="Box-Links" href="">BOOK NOW</a>
+									<div class="LinkBorder"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+						<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
+						<div class="Content-Box">
+							<h2>CORPORATE LIMO<br>SERVICE</h2>
+							<div class="borderr"></div>
+							<p class="bb-descr">
+								Limo Service for the corporate world is specifically designed to attend professional
+								needs of the corporate world. This service includes limousines rentals for corporate
+								meetings and recreational activities.
+								You can also book this service for airport transfers. Have an important meeting? you
+								need a reliable limo service.
+							</p>
+							<div class="LinksBox">
+								<a class="Box-Links" href="">BOOK NOW</a>
+								<div class="LinkBorder"></div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
+						<div class="Content-Box">
+							<h2>OUT OF TOWN LIMO<br>SERVICES</h2>
+							<div class="borderr"></div>
+							<p class="bb-descr">
+								Road trips can be hectic; you need a luxury limousine to drive you to your destination.
+								Our out of town Limo Services is the best solution. This service includes recreational
+								tours, city base tours,
+								a day tour to Niagara Falls or Winery tours. We also provide Trip suggestion and
+								planning.
+								Need to escape the regular routine?
+							</p>
+							<div class="LinksBox">
+								<a class="Box-Links" href="">BOOK NOW</a>
+								<div class="LinkBorder"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
+						<div class="Content-Box">
+							<h2>SPECIAL OCCASIONS<br>LIMO</h2>
+							<div class="borderr"></div>
+							<p class="bb-descr">
+								A special occasion deserves a special ride. Ride along our limousine fleet to your
+								special day.
+								Pick and Click a limo from our fleet to make your wedding, prom, birthday, trip to
+								casino, night party or any
+								other special occasion even more special.
+							</p>
+							<div class="LinksBox">
+								<a class="Box-Links" href="">BOOK NOW</a>
+								<div class="LinkBorder"></div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+						<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
+						<div class="Content-Box">
+							<h2>LIMOUSINE MEDICAL<br>TRANSFERS</h2>
+							<div class="borderr"></div>
+							<p class="bb-descr">
+								Limo Services offers non-emergency patient transfer services for people
+								with disabilities who require non-emergency transportation service. We focus primarily
+								on patient transfers between hospitals, long-term facilities, clinics, medical centers,
+								retirement homes, and private residences.
+							</p>
+							<div class="LinksBox">
+								<a class="Box-Links" href="">BOOK NOW</a>
+								<div class="LinkBorder"></div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
+						<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
+						<div class="Content-Box">
+							<h2>CUSTOMIZE LIMOUSINE<br>RENTAL SOLUTIONS</h2>
+							<div class="borderr"></div>
+							<p class="bb-descr">
+								You can always customize our limousine services as per your specific needs. Just let us
+								know
+								what we can do for you. We can arrange Per hour basis limousine rides. Event Fleet Limos
+								or any other need.
+								You name and we got it. Get in Touch.
+							</p>
+							<div class="LinksBox">
+								<a class="Box-Links" href="">BOOK NOW</a>
+								<div class="LinkBorder"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		<!-- End Testimonial Area -->
 		<!-- Start Section Iconbox -->
-		<section class="section-iconbox icon-box">
+		<!-- <section class="section-iconbox icon-box">
 			<div class="container">
 				<div class="template-title has-over">
 					<h3 class="title">Our Services</h3>
@@ -239,7 +367,7 @@ include ('./header.php');
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End Section Iconbox -->
 		<!-- Start Footer -->
 		<!-- Start Footer -->
