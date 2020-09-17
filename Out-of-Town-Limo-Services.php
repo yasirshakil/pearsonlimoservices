@@ -35,7 +35,7 @@ include ('./header.php');
                             have city tour and to make it memorable drive in our world class limousines.
                         </p>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5">
                         <h4 class="Services-Details">
                             Niagara Falls Tour:
                         </h4>
@@ -47,13 +47,13 @@ include ('./header.php');
                         <h4 class="Services-Details">
                             Trip Suggests:
                         </h4>
-                        <p>
+                        <p class="mb-5">
                             A unique and state of the art service in which we plan your trip and provide you with a full
                             day schedule and pricings. This is our one stop solution to your out of town travelling
                             needs and yes it includes our best limos. Book us and leave the rest to us.
                         </p>
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                        <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>

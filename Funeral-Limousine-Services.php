@@ -3,7 +3,7 @@ include ('./header.php');
 ?>		<!-- End Header -->
     <div class="container-fluid">
             <div class="container">
-                <div class="row">
+                <div class="row mb-5">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
                         <h1 class="Services-Heading p-5">Non-Emergency Medical Limo Transfer</h1>
                     </div>
@@ -43,8 +43,8 @@ include ('./header.php');
                         </p>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                    <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>

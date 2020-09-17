@@ -41,13 +41,13 @@ include ('./header.php');
                         <h4 class="Services-Details">
                             Night parties:
                         </h4>
-                        <p>
+                        <p class="mb-5">
                             Work hard and party even harder! Platinum Limo Service is at your disposal to take you
                             around all the happening parties in Toronto. We got your back, you just relax. Share your
                             evening plans and your limo would be there. Book Now
                         </p>
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                        <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>

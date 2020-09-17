@@ -8,6 +8,12 @@ include ('./header.php');
 				<div class="template-title center has-over">
 					<h1>Enjoy Coffee With Us</h1>
 					<span>Enjoy Coffee With Us</span>
+					<div class="row">
+						<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+							<div class="Borders m-auto co-lg-12 col-md-4 col-sm-6 col-6">
+						</div>
+					</div>
+				</div>
 				</div>
 				<div class="row">
 					<div class="col-lg-2 col-sm-1"></div>
@@ -16,7 +22,7 @@ include ('./header.php');
 							<h4>Melbourne, Australia</h4>
 							<p>329 Queensberry Street, North Melbourne VIC 3051, Australia. </p>
 							<div class="contact">
-								<p><span>Email: </span>support@prodrive.com</p>
+								<p><span>Email: </span><a style="color:#000;" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a></p>
 								<p><span>Skype: </span>prodrive</p>
 							</div>
 						</div>
@@ -74,12 +80,15 @@ include ('./header.php');
 					<div class="col-lg-2 col-md-1"></div>
 				</div>
 				<div class="container mt-5">
-					<div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5 text-center">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-3 text-center">
 						<h1 class="center">Please fulfil the form below.</h1>
 					</div>
-					<div class="row">
+						<div class="co-lg-12 col-md-12 col-sm-12 col-12 mt-3 ">
+							<div class="Borders m-auto co-lg-12 col-md-6 col-sm-6 col-6">
+						</div>
+					<div class="row mt-5">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-12">
-							<div class="field-Box">
+							<div style="width=:100%;" class="field-Box">
 								<label for="">Reservation Date</label>
 								<input class="data-time" type="date">
 							</div>

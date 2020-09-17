@@ -40,7 +40,7 @@
 							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us" href="tel:+14373707407">+1 (437) 370-7407</a></li>
 							<li>
 								<i class="fa fa-envelope mr-2"></i>
-								<a class="Contact-us" href="https://platinumrides.ca">info@pearsonlimoservices.ca</a>
+								<a class="Contact-us" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a>
 							</li>
 						</ul>
 					</div>

@@ -57,8 +57,8 @@ include ('./header.php');
                         </p>
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5">
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                    <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>

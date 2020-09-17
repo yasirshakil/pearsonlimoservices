@@ -42,9 +42,10 @@ include ('./header.php');
                             call to speak to someone from our office is <a style="color: #d9c77e;"
                                 href="tel:+14373707407">+1 (437) 370-7407</a>. When you call, we can provide you with a
                             free consultation to go over the details of the job. And we can go over the pricing options
-                            available. We look forward to helping you through this difficult time.</p>
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                            available. We look forward to helping you through this difficult time.
+                        </p>
+                        <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>

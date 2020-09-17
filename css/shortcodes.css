@@ -75,6 +75,12 @@
 .services-area {
 	padding: 97px 0 79px;
 }
+
+.Boking-btn{
+	height: 100px;
+	width: 100px;
+	background-color: red !important;
+  }
 .services-item {
 	margin-bottom: 30px;
 	overflow: hidden;

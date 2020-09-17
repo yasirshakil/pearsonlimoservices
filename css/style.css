@@ -1004,6 +1004,17 @@ button:focus {
   display: inline-block;
   vertical-align: middle;
 }
+.booking-btn {
+  font-family: Dosis;
+  font-weight: 500;
+  font-size: 16px;
+  color: black;
+  background: #d9c77e;
+  display: inline-block;
+  border: 2px solid #d9c77e;
+  border-radius: 3px;
+  padding: 11px 34px 9px 42px;
+}
 .header-03 .box-right .login {
   margin-right: 6px;
   border: 0;
@@ -2799,10 +2810,16 @@ ul.social-ft li:last-child {
 
 .Services-Heading{
   color: #d9c77e;
+
 }
 
 .Services-Details{
   font-weight: 700;
+}
+
+.Boking-btn{
+
+  background-color: red !important;
 }
 
 @media only screen and (min-device-width: 280px) and (max-device-width: 1024px) {

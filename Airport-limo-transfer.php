@@ -3,7 +3,7 @@ include ('./header.php');
 ?>
         <div class="container-fluid">
             <div class="container">
-                <div class="row">
+                <div class="row mb-5">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
                         <h1 class="Services-Heading p-5">Airport Limousine ransfer</h1>
                     </div>
@@ -25,17 +25,17 @@ include ('./header.php');
                             reliability. Book us now to feel the difference.
                         </p>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5 details">
                         <h4 class="Services-Details">Meet and Greet:</h4>
-                        <p class="mb-2">Platinum rides along with its airport limousine transfers, provides a prestigious service of
+                        <p class="mb-5">Platinum rides along with its airport limousine transfers, provides a prestigious service of
                             meet and greet at the airport. Are you expecting a VIP guest or you are new to Canada; we
                             are there to give you a warm welcome. Our Courteous and Friendly Staff would be there at the
                             arrival terminal to get your visit to Canada started. They will make you feel like home,
                             take care of your luggage, assist with any queries and purchases and escort to your
                             luxurious limousine waiting for you at the exit. Try it- Its great!
                         </p>
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                        <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>

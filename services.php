@@ -9,7 +9,10 @@ include ('./header.php');
 					<div class="col-md-12">
 						<div class="template-title center">
 							<h1>Our Services</h1>
-							<span>Our Services</span>
+							<span>Our Services</span>			
+							<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+								<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+							</div>				
 							<p class="subtitle">
 								Our aim is to fill a gap in niche market of Trade
 							</p>

@@ -13,7 +13,12 @@
 						<div class="template-title center">
 							<h1>The Prodrive Fleet</h1>
 							<span>The Prodrive Fleet</span>
-							<p>We also take custom orders and will help you acquire a specific yacht.</p>
+							<div class="row">
+								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+									<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+								</div>
+							</div>
+							<p style="color:#000;">We also take custom orders and will help you acquire a specific yacht.</p>
 						</div>
 					</div>
 				</div>
@@ -31,8 +36,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Platinum
-										Rides Limousine fleet.</p>
+									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
@@ -71,6 +75,36 @@
 								<div class="bottom">
 									<div class="price">
 										<span>$65</span> / hour
+									</div>
+									<div class="btn-select">
+										<a href="#" title="">Book Now</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="select-car ver1">
+							<div class="image-car one-half">
+								
+								<img height="200px" width="100%" src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
+							</div>
+							<div class="box-text one-half">
+								<div class="top">
+									<h3>5CADDILAC ESCLADE Pearson</h3>
+									<!-- <div class="name-car">
+										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
+									</div> -->
+								</div>
+								<div class="content">
+									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<ul>
+										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+									</ul>
+								</div>
+								<div class="bottom">
+									<div class="price">
+										<span>$120</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -120,6 +154,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="select-car ver1">
+						<div class="select-car ver1">
 							<div class="image-car one-half">
 								<img height="200px" width="100%" src="images/cars/bmw-7-series-750i.png" alt="">
 							</div>
@@ -131,7 +166,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services  offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine. </p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
@@ -161,7 +196,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services  offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 2</li>
@@ -211,26 +246,27 @@
 						</div>
 						<div class="select-car s1 ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
+							<img height="200px" width="100%" src="images/cars/55-passenger-bus-rental-irvine.jpg"
+									alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>CADDILAC ESCLADE PLATINUM</h3>
+									<h3>Limo Bus</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides has the largest selection of Cadillac Escalades in Greater
-										Toronto..</p>
+								<p>Pearson limo services  offers the latest technology car along with the elegance and
+										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 55</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 55</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+										<span>$275</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -261,7 +297,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services  offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 8</li>
@@ -292,7 +328,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services  offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
@@ -322,7 +358,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services  offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.
 									</p>
 									<ul>
@@ -353,7 +389,7 @@
 									</div>
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 24</li>
@@ -392,7 +428,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 36</li>
@@ -423,42 +459,11 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
+									<p>Pearson limo services offers the latest technology car along with the elegance and
 										reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 50</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 50</li>
-									</ul>
-								</div>
-								<div class="bottom">
-									<div class="price">
-										<span>$275</span> / hour
-									</div>
-									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-									</div>
-								</div>
-							</div>
-							<div class="clearfix"></div>
-						</div>
-						<div class="select-car ver1">
-							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/55-passenger-bus-rental-irvine.jpg"
-									alt="">
-							</div>
-							<div class="box-text one-half">
-								<div class="top">
-									<h3>55 PASSENGER LIMO BUS</h3>
-									<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
-								</div>
-								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
-									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 55</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 55</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -488,7 +493,12 @@
 						<div class="template-title center">
 							<h1>Why Choose Us</h1>
 							<span>Why Choose Us</span>
-							<p class="sub-title">Explore our first class limousine & car rental services</p>
+							<div class="row">
+								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+									<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+								</div>
+							</div>
+							<p style="color:#000;" class="sub-title">Explore our first class limousine & car rental services</p>
 						</div>
 					</div>
 				</div>

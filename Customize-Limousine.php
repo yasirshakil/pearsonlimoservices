@@ -36,15 +36,15 @@ include ('./header.php');
                             information
                         </p>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5">
                         <h4 class="Services-Details">
                             Customize limo needs:
                         </h4>
-                        <p>
+                        <p class="mb-5">
                             Anything you need, we got you covered get in touch and share your requirements and we ensure an impeccable limousine experience.
                         </p>
-                        <a href="">Our Fleet</a>
-                        <a href="">Book Now</a>
+                        <a class="booking-btn" href="">Our Fleet</a>
+                        <a class="booking-btn" href="">Book Now</a>
                     </div>
                 </div>
             </div>
