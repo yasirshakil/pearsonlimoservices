@@ -7,6 +7,15 @@ include ('./header.php');
 		<section class="services-rates">
 			<div class="container">
 				<div class="row">
+				<div class="col-md-12">
+						<section class="template-title center">
+							<h1 class="title has-over">Service Rates</h1>
+							<span>Service Rates</span>
+							<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+								<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+							</div>
+						</section>
+					</div>
 					<div class="col-md-3">
 						<div class="price-car center">
 							<div class="price-header">
