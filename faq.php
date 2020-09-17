@@ -17,13 +17,7 @@ include ('./header.php');
 			</div>
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-12 text-center mb-5 faq-detail">
-						<h3>CAN'T FIND ANSWER? ASK US.</h3>
-						<p>
-							Please ask your question by sending it to<br>
-							<a href="info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a>
-						</p>
-					</div>
+
 					<div class="col-md-1"></div>
 					<div class="col-md-10">
 						<div class="accordion">
