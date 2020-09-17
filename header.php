@@ -98,92 +98,37 @@
 										<i class="pe-7s-close"></i>
 								</div>
 								<ul class="menu">
-									<li class="has-dropdown Dropdown">
+									<li>
 										<a class="links" href="index.php">Home</a>
-										<ul class="menu-dropdown after-drop">
-											<li><a href="index.html">Home 01</a></li>
-											<div class="border-down"></div>
-											<li><a href="index2.html">Home 02</a></li>
-											<div class="border-down"></div>
-											<li><a href="index3.html">Home 03</a></li>
-											<div class="border-down"></div>
-											<li><a href="index4.html">Home 04</a></li>
-											<div class="border-down"></div>
-											<li><a href="index5.html">Home 05</a></li>
-											<div class="border-down"></div>
-										</ul>
 									</li>
-									<li class="has-dropdown Dropdown">
+									<li>
+										<a class="links" href="about.php">About Us</a>
+									</li>
+									<li>
 										<a class="links" href="our-fleet.php">Our Fleet</a>
-										<ul class="menu-dropdown after-drop">
-											<li><a href="our-fleet-01.html">Our Fleet 01</a></li>
-											<li><a href="our-fleet-02.html">Our Fleet 02</a></li>
-											<li><a href="our-fleet-03.html">Our Fleet 03</a></li>
-											<li><a href="our-fleet-04.html">Our Fleet 04</a></li>
-											<li><a href="our-fleet-05.html">Our Fleet 05</a></li>
-											<li><a href="our-fleet-single1.html">Our Fleet Single 01</a></li>
-											<li><a href="our-fleet-single2.html">Our Fleet Single 02</a></li>
-										</ul>
-									</li>
-									<li class="has-dropdown Dropdown">
-										<a class="links" href="services-rates.php">Service Rates</a>
-										<ul class="menu-dropdown after-drop">
-											<li><a href="services.html">Services</a></li>
-											<li><a href="services-rates.html">Services Rates</a></li>
-											<li><a href="services-single.html">Services Single</a></li>
-										</ul>
-									</li>
-									<li class="has-dropdown Dropdown">
-										<a class="links" href="about.php">About</a>
-										<ul class="menu-dropdown after-drop">
-											<li><a href="booking-car-class.html">Booking Car Class</a></li>
-											<li><a href="booking-card.html">Booking Card</a></li>
-											<li><a href="booking-check-out.html">Booking Checkout</a></li>
-											<li><a href="booking-login.html">Booking Login</a></li>
-											<li><a href="booking-options.html">Booking Options</a></li>
-											<li><a href="404.html">404 Page</a></li>
-											<li><a href="about1.html">About 01</a></li>
-											<li><a href="about2.html">About 02</a></li>
-											<li><a href="accordion.html">Accordion</a></li>
-											<li><a href="alert.html">Alert</a></li>
-											<li><a href="button.html">Button</a></li>
-											<li><a href="price-table.html">Price Table</a></li>
-											<li><a href="progress.html">Progress</a></li>
-											<li><a href="tables.html">Tables</a></li>
-											<li><a href="tabs.html">Tabs</a></li>
-											<li><a href="typography.html">Typography</a></li>
-										</ul>
-									</li>
-									<li class="has-dropdown Dropdown">
-										<a class="links" href="Reservation.php">reservation</a>
-										<ul class="menu-dropdown after-drop">
-											<li><a href="blog.html">Blog</a></li>
-											<li><a href="blog-grid.html">Blog Grid</a></li>
-											<li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-											<li><a href="blog-fullwidth.html">Blog Fullwidth</a></li>
-											<li><a href="blog-fullwidth-sidebar.html">Blog Fullwidth Sidebar</a>
-											</li>
-											<li><a href="blog-single.html">Blog Single</a></li>
-										</ul>
-									</li>
-									<li class="has-dropdown Dropdown">
-										<a class="links" href="Area-We-Serve.php">area we serve</a>
-										<ul class="menu-dropdown after-drop">
-
-										</ul>
 									</li>
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="services.php">Services</a>
 										<ul class="menu-dropdown after-drop">
-
+											<li><a href="blog.html">Airport Pickup Procedure</a></li>
 										</ul>
 									</li>
+									<li>
+										<a class="links" href="services-rates.php">Service Rates</a>
+									</li>
+									<li>
+										<a class="links" href="Area-We-Serve.php">area we serve</a>
+									</li>
+									
+									<li>
+										<a class="links" href="Reservation.php">reservation</a>
+									</li>
+									</li>
+
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="contact.php">Contact</a>
 										<ul class="menu-dropdown after-drop">
-										<li><a href="faq.php">FAQ</a></li>
-											<li><a href="contact1.html">Contact 01</a></li>
-											<li><a href="contact2.html">Contact 02</a></li>
+											<li><a href="faq.php">FAQ</a></li>
 										</ul>
 									</li>
 								</ul>

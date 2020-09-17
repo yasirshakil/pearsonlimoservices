@@ -333,8 +333,8 @@
 		border-radius:3px;
 	}
 	.header-04 .navigation .menu > li:hover a{
-		background:#fff;
-		color:#1e1e1e;
+		/* background:transparent; */
+		/* color:#1e1e1e; */
 	}
 	.header-04 .navigation{
 		/* text-align:right; */
