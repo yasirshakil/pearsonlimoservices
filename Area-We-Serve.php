@@ -3,7 +3,7 @@ include ('./header.php');
 ?>
 		
 		<div class="container">
-			<div class="row mt-5 mb-5">
+			<div class="row mt-5">
 				<div class="clo-lg-12 col-md-12 col-sm-12 col-12 text-center Area-We-Serve">
 					<h1 class="mb-3">Area We Serve</h1>
 					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
@@ -15,16 +15,12 @@ include ('./header.php');
 						geographic stretch in the industry providing its luxury limo rides from Kingston to Windsor.
 					</p>
 				</div>
-				<div class="clo-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5 p-0">
+				<div class="clo-lg-12 col-md-12 col-sm-12 col-12 text-center p-0">
 					<h1 class="p-3 Area-We-Serve-Heading"><strong>“You name it and we got you covered”</strong></h1>
 				</div>
 			</div>
 			<div class="row mb-5">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-3 text-center">
-					<h2>Area We Serve</h2>
-					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
-						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
-					</div>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Ajex</a>
