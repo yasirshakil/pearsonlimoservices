@@ -5,7 +5,7 @@ include ('./header.php');
 		<div class="container">
 			<div class="row mt-5">
 				<div class="clo-lg-12 col-md-12 col-sm-12 col-12 text-center Area-We-Serve">
-					<h1 class="mb-3">Area We Serve</h1>
+					<h1 class="mb-3 template-title center">Area We Serve</h1>
 					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 					</div>

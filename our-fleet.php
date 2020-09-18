@@ -11,8 +11,8 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="template-title center">
-							<h1>The Prodrive Fleet</h1>
-							<span>The Prodrive Fleet</span>
+							<h1> Our Fleet </h1>
+							<span> OUr Fleet </span>
 							<div class="row">
 								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 									<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>

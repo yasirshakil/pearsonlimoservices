@@ -2,12 +2,15 @@
 include ('./header.php');
 ?>		<!-- End Header -->
 	<div class="container">
-			<div class="row mb-5">
+			<div class="row my-5">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
 					<section class="template-title center">
 						<h1 class="title has-over">Reservation</h1>
 						<span>Reservation</span>
 					</section>
+				</div>
+				<div class="co-lg-12 col-md-12 col-sm-12 col-12">
+					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 				</div>
 			</div>
 			<div class="row mb-5">

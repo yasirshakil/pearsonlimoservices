@@ -40,7 +40,7 @@
 
 /*========== Section Title ==========*/
 .template-title {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 	position: relative;
 	text-align: center;
 }
@@ -51,7 +51,7 @@
 	margin-top: 82px;
 }
 .template-title h1 {
-	font-weight: 600;
+	font-weight: 700;
     color: #d9c77e;
 	margin-bottom: 25px;
 }
@@ -437,7 +437,7 @@
 	padding: 100px 0 91px;
 }
 .contact-area .template-title {
-	margin-bottom: 101px;
+	/* margin-bottom: 101px; */
 }
 .address-box {
 	margin-right: 20px;

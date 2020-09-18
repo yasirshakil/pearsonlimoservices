@@ -334,7 +334,7 @@ include ('./header.php');
 						<div class="price-car center border bg-3">
 							<div class="price-header">
 								<h3>AIRPORT TRANSFER</h3>
-								<p>*Flat Rate</p>
+								<p style="color:#000;">*Flat Rate</p>
 							</div>
 							<ul class="level-price">
 								<li>
