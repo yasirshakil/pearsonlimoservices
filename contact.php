@@ -106,7 +106,7 @@ include ('./header.php');
 								<input class="Contact-detail" type="email" name="email" minlength="3" maxlength="64"  required="">
 							</div>
 							<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-								<label for="">Number</label>
+								<label for="">Phone Number</label>
 								<input class="Contact-detail" type="tel" maxlength="15" name="number" required="">
 							</div>
 							<div class=" BtnBox col-lg-12 col-md-12 col-sm-12 col-12 mt-3 text-right">

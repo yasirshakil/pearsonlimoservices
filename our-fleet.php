@@ -86,25 +86,25 @@
 						<div class="select-car ver1">
 							<div class="image-car one-half">
 								
-								<img height="200px" width="100%" src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
+								<img height="200px" width="100%" src="images/cars/bmw 7.png" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>5CADDILAC ESCLADE Pearson</h3>
+									<h3>BMW 750i</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<p>Platinum Rides offers the latest technology car along with the elegance and reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+										<span>$90</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -149,33 +149,29 @@
 						</div> -->
 					</div>
 				</div>
-			</div>
-			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="select-car ver1">
-						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/bmw-7-series-750i.png" alt="">
+								<img height="200px" width="100%" src="images/cars/Bentley flying spur.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>BMW 750i</h3>
+									<h3>Bentley flying spur </h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine. </p>
+									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$90</span> / hour
+										<span>$65</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -196,8 +192,8 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 2</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
@@ -216,7 +212,8 @@
 						</div>
 						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/CHEVROLET-SUBURBAN2.jpg" alt="">
+								
+								<img height="200px" width="100%" src="images/cars/chevrolet-sub.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
@@ -226,8 +223,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>The Chevrolet Suburban is one of a kind vehicle that can meet all your
-										transportation needs. Powerful, comfortable and spacious.</p>
+									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
@@ -246,27 +242,26 @@
 						</div>
 						<div class="select-car s1 ver1">
 							<div class="image-car one-half">
-							<img height="200px" width="100%" src="images/cars/55-passenger-bus-rental-irvine.jpg"
-									alt="">
+								<img height="200px" width="100%" src="images/cars/gmc.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>Limo Bus</h3>
+									<h3>GMC YUKON XL</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-								<p>Pearson limo services  offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 55</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 55</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$275</span> / hour
+										<span>$120</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -281,24 +276,51 @@
 						</div> -->
 					</div>
 				</div>
-			</div>
-			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/lincolin.jpeg" alt="">
+								<img height="200px" width="100%" src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>LINCOLN MKT STRETCH LIMOUSINE</h3>
+									<h3>Cadillac Escalade platinum</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
+									<ul>
+										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+									</ul>
+								</div>
+								<div class="bottom">
+									<div class="price">
+										<span>$120</span> / hour
+									</div>
+									<div class="btn-select">
+										<a href="#" title="">Book Now</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="select-car s1 ver1">
+							<div class="image-car one-half">
+								<img height="200px" width="100%" src="images/cars/lincolin.jpeg" alt="">
+							</div>
+							<div class="box-text one-half">
+								<div class="top">
+									<h3>Lincoln MKT STRETCH LIMOUSINE</h3>
+									<!-- <div class="name-car">
+										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
+									</div> -->
+								</div>
+								<div class="content">
+									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 8</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
@@ -315,21 +337,50 @@
 							</div>
 							<div class="clearfix"></div>
 						</div>
-						<div class="select-car s1 ver1">
+						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%"
-									src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
+								
+								<img height="200px" width="100%" src="images/cars/SUV-Limousines-1.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>HUMMER STRETCH LIMOUSINE</h3>
+									<h3>Lincoln Navigator</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<ul>
+										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+									</ul>
+								</div>
+								<div class="bottom">
+									<div class="price">
+										<span>$120</span> / hour
+									</div>
+									<div class="btn-select">
+										<a href="#" title="">Book Now</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="select-car s1 ver1">
+							<div class="image-car one-half">
+								<img height="200px" width="100%" src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
+							</div>
+							<div class="box-text one-half">
+								<div class="top">
+									<h3>Hummer Stretch Limousine</h3>
+									<!-- <div class="name-car">
+										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
+									</div> -->
+								</div>
+								<div class="content">
+									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 4</li>
@@ -346,21 +397,27 @@
 							</div>
 							<div class="clearfix"></div>
 						</div>
+
+						<!-- <div class="loadmore">
+							<a href="#" title="">Load More</a>
+						</div> -->
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
 						<div class="select-car ver1">
 							<div class="image-car one-half">
 								<img height="200px" width="100%" src="images/cars/4.jpeg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>MERCEDES BENZ SPRINTER</h3>
+									<h3>Mercedes Benz Sprinter</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.
-									</p>
+									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 14</li>
@@ -383,16 +440,16 @@
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>24 PASSENGER MINIBUS</h3>
-									<div class="name-car">
+									<h3> 20 passenger mini limo bus</h3>
+									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div>
+									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+										than a decade..</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 24</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 20</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 20</li>
 									</ul>
 								</div>
@@ -407,32 +464,23 @@
 							</div>
 							<div class="clearfix"></div>
 						</div>
-						<!-- <div class="loadmore">
-							<a href="#" title="">Load More</a>
-						</div> -->
-					</div>
-				</div>
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
 						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/36-limo-bus.jpg" alt="">
+								
+								<img height="200px" width="100%" src="images/cars/36.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>36 PASSENGER BUS</h3>
+									<h3>30 passenger mini limo bus</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 36</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 36</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 30</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 30</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -448,19 +496,48 @@
 						</div>
 						<div class="select-car s1 ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/55-passenger-bus-rental-irvine.jpg"
-									alt="">
+								<img height="200px" width="100%" src="images/cars/55.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>LIMO BUS</h3>
+									<h3>40 passenger limo bus</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services offers the latest technology car along with the elegance and
-										reliability you expect in an Executive Stretch Limousine.</p>
+									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+										a kind of limousine that you cannot find anywhere else in Toronto.</p>
+									<ul>
+										<li><img src="images/booking/people.png" alt=""> Max . 40</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 40</li>
+									</ul>
+								</div>
+								<div class="bottom">
+									<div class="price">
+										<span>$275</span> / hour
+									</div>
+									<div class="btn-select">
+										<a href="#" title="">Book Now</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="select-car ver1">
+							<div class="image-car one-half">
+								
+								<img height="200px" width="100%" src="images/cars/55.jpg" alt="">
+							</div>
+							<div class="box-text one-half">
+								<div class="top">
+									<h3>50 passenger limo bus</h3>
+									<!-- <div class="name-car">
+										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
+									</div> -->
+								</div>
+								<div class="content">
+									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 50</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 50</li>
@@ -477,6 +554,7 @@
 							</div>
 							<div class="clearfix"></div>
 						</div>
+
 						<!-- <div class="loadmore">
 							<a href="#" title="">Load More</a>
 						</div> -->
