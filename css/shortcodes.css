@@ -2320,7 +2320,7 @@ ul.booking-steps li .text {
 
 /*========== Change Template ==========*/
 .text-up.has-over .title{
-	font-weight: 500;
+	font-weight: 700;
     text-transform: uppercase;
 }
 .text-up.has-over{
@@ -2331,7 +2331,7 @@ ul.booking-steps li .text {
 }
 .has-over.ovvs .title{
 	text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 700;
 }
 .change_text .title{
 	font-weight: 400;
@@ -2409,7 +2409,7 @@ ul.booking-steps li .text {
 }
 .template-title .title{
 	font-family: Dosis;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 40.02px;
 	line-height:55px;
 	color: #d9c77e;

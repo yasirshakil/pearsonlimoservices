@@ -270,7 +270,7 @@
 				<ul class="tab_menu">
 					<li class="current"><a href="#tab-1">All</a></li>
 					<li><a href="#tab-2">Sedan</a></li>
-					<li><a href="#tab-3">Suv</a></li>
+					<li><a href="#tab-3">SUV</a></li>
 					<li><a href="#tab-4">Stretch limo </a></li>
 					<li><a href="#tab-5">party bus</a></li>
 				</ul>
