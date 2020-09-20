@@ -2803,8 +2803,10 @@ hr{
 	z-index:9;
 }
 .fleet-content .fleet-title a,.automatic{
-	font-family: Dosis;
+    font-family: Dosis;
     font-size: 20px;
+    color: #d9c77e !important;
+    font-weight: 900;
     line-height: 30px;
     color: #1e1e1e;
     text-transform: capitalize;

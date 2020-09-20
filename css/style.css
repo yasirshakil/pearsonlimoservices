@@ -2559,7 +2559,7 @@ ul.social-ft li:last-child {
 
 .FleetBox-img {
   height: 100%;
-  width: 100%;
+  width: auto;
 }
 
 .Col-Box {
