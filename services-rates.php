@@ -8,13 +8,13 @@ include ('./header.php');
 			<div class="container">
 				<div class="row">
 				<div class="col-md-12">
-						<section class="">
+						<section class="template-title center">
 							<div class="template-title center has-over">
 								<h1>Service Rates</h1>
 								<span>Service Rates</span>
-									<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2">
-										<div class="Borders m-auto co-lg-12 col-md-4 col-sm-6 col-6"></div>
-									</div>
+								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+									<div class="Borders m-auto co-lg-12 col-md-4 col-sm-6 col-6"></div>
+								</div>
 							</div>
 						</section>
 					</div>
@@ -33,15 +33,7 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/bmw-7-series-750i.png" alt="">
-									</div>
-									<h4 class="name-car">
-										Bmw 750i
-									</h4>
-								</li>
-								<li>
-									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/Cadillac-CTS-1.jpg" alt="">
+										<img src="images/cars/2017_cadillac_xts_angularfront.jpg" alt="">
 									</div>
 									<h4 class="name-car">
 										Cadillac XTS 1
@@ -49,26 +41,26 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
+										<img src="images/cars/bmw 7.png" alt="">
+									</div>
+									<h4 class="name-car">
+										BMW 750i
+									</h4>
+								</li>
+								<li>
+									<div class="image-car Service-Rates-Boxes">
 										<img src="images/cars/Executive-Mercedes.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										Mercedes
+										Mercedes S550
 									</h4>
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/CHEVROLET-SUBURBAN2.jpg" alt="">
+										<img src="images/cars/Bentley flying spur.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										Chevorlet suburban
-									</h4>
-								</li>
-								<li>
-									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
-									</div>
-									<h4 class="name-car">
-										Cadillac Escalde
+										Bentley Flyind Spur
 									</h4>
 								</li>
 								<li>
@@ -81,10 +73,42 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
+										<img src="images/cars/chevrolet-sub.jpg" alt="">
+									</div>
+									<h4 class="name-car">
+										Chevrolet Suburban
+									</h4>
+								</li>
+								<li>
+									<div class="image-car Service-Rates-Boxes">
+										<img src="images/cars/gmc.jpg" alt="">
+									</div>
+									<h4 class="name-car">
+										GMC Yukon XL
+									</h4>
+								</li>
+								<li>
+									<div class="image-car Service-Rates-Boxes">
+										<img src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
+									</div>
+									<h4 class="name-car">
+										Cadilac Escalade Platinum
+									</h4>
+								</li>
+								<li>
+									<div class="image-car Service-Rates-Boxes">
 										<img src="images/cars/lincolin.jpeg" alt="">
 									</div>
 									<h4 class="name-car">
-										Lincolin Mkt Stresh Limousine
+										Lincolin MKT Stretch Limousine
+									</h4>
+								</li>
+								<li>
+									<div class="image-car Service-Rates-Boxes">
+										<img src="images/cars/SUV-Limousines-1.jpg" alt="">
+									</div>
+									<h4 class="name-car">
+										Lincolin Navigator
 									</h4>
 								</li>
 								<li>
@@ -108,31 +132,31 @@ include ('./header.php');
 										<img src="images/cars/24.jpeg" alt="">
 									</div>
 									<h4 class="name-car">
-										24 Passengers Minibus
+										20 Passenger Mini Limo Bus
 									</h4>
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/36-limo-bus.jpg" alt="">
+										<img src="images/cars/36.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										36 Passengers Bus
+										30 Passsenger Mini Limo Bus
 									</h4>
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/55-passenger-bus-rental-irvine.jpg" alt="">
+										<img src="images/cars/55.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										50 Passengers Limo Bus
+										40 Passsenger Limo Bus	
 									</h4>
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/55-passenger-bus-rental-irvine.jpg" alt="">
+									<img src="images/cars/55.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										55 Passengers Limo Bus
+										50 Passsenger Limo Bus
 									</h4>
 								</li>
 							</ul>
@@ -153,24 +177,12 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$90</span> / hour
-									</div>
-									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
-								</li>
-								<li>
-									<div class="value">
 										<span class="price">$65</span> / hour
 									</div>
 									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$120</span> / hour
-									</div>
-									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
-								</li>
-								<li>
-									<div class="value">
 										<span class="price">$90</span> / hour
 									</div>
 									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
@@ -178,6 +190,12 @@ include ('./header.php');
 								<li>
 									<div class="value">
 										<span class="price">$120</span> / hour
+									</div>
+									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$00</span> / hour
 									</div>
 									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
 								</li>
@@ -189,7 +207,31 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="value">
+										<span class="price">$90</span> / hour
+									</div>
+									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$120</span> / hour
+									</div>
+									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$120</span> / hour
+									</div>
+									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
 										<span class="price">$95</span> / hour
+									</div>
+									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$00</span> / hour
 									</div>
 									<p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
 								</li>
@@ -244,85 +286,103 @@ include ('./header.php');
 							<ul class="level-price">
 								<li>
 									<div class="value">
-										<span class="price">$500</span> / hour
+										<span class="price">$500</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$700</span> / hour
+										<span class="price">$500</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$500</span> / hour
+										<span class="price">$700</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$850</span> / hour
+										<span class="price">$850</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$700</span> / hour
+										<span class="price">$00</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$850</span> / hour
+										<span class="price">$2200</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$2200</span> / hour
+										<span class="price">$700</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$750</span> / hour
+										<span class="price">$00</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$1100</span> / hour
+										<span class="price">$850</span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$900 </span> / hour
+										<span class="price">$750 </span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$1300 </span> / hour
+										<span class="price">$00 </span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$1350 </span> / hour
+										<span class="price">$1100 </span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$1900 </span> / hour
+										<span class="price">$900 </span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$2000 </span> / hour
+										<span class="price">$1300 </span> / Day
+									</div>
+									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$1350</span> / Day
+									</div>
+									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$1900 </span> / Day
+									</div>
+									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$2000 </span> / Day
 									</div>
 									<p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
 								</li>
@@ -347,24 +407,12 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$90</span>
-									</div>
-									<p class="Our-Services-Text">*Starting From + 13% HST</p>
-								</li>
-								<li>
-									<div class="value">
 										<span class="price">$65</span>
 									</div>
 									<p class="Our-Services-Text">*Starting From + 13% HST</p>
 								</li>
 								<li>
 									<div class="value">
-										<span class="price">$120</span>
-									</div>
-									<p class="Our-Services-Text">*Starting From + 13% HST</p>
-								</li>
-								<li>
-									<div class="value">
 										<span class="price">$90</span>
 									</div>
 									<p class="Our-Services-Text">*Starting From + 13% HST</p>
@@ -372,6 +420,12 @@ include ('./header.php');
 								<li>
 									<div class="value">
 										<span class="price">$120</span>
+									</div>
+									<p class="Our-Services-Text">*Starting From + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$00</span>
 									</div>
 									<p class="Our-Services-Text">*Starting From + 13% HST</p>
 								</li>
@@ -383,7 +437,31 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="value">
+										<span class="price">$90</span>
+									</div>
+									<p class="Our-Services-Text">*Starting From + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$00</span>
+									</div>
+									<p class="Our-Services-Text">*Starting From + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$120</span>
+									</div>
+									<p class="Our-Services-Text">*Starting From + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
 										<span class="price">$175</span>
+									</div>
+									<p class="Our-Services-Text">*Starting From + 13% HST</p>
+								</li>
+								<li>
+									<div class="value">
+										<span class="price">$00</span>
 									</div>
 									<p class="Our-Services-Text">*Starting From + 13% HST</p>
 								</li>
