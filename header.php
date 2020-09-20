@@ -8,7 +8,7 @@
 	<!-- Mobile Specific Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="author" content="CreativeLayers">
-	<title>Prodrive - Homepage 04</title>
+	<title>Pearson Limo Services</title>
 	<!-- Boostrap style -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-glyphicons.css">
@@ -85,7 +85,7 @@
 					<div class="logo col-1g-2 col-md-2 col-sm-6 col-6">
 						<img height="100%" width="100%" src="images/Logo transparent for Website.png" alt="">
 					</div>
-					<div class="col-1g-10 col-md-10 col-sm-6 col-6 mt-4">
+					<div class="col-1g-10 col-md-10 col-sm-6 col-6 mt-4 text-center">
 						<div class="navigation">
 							<div class="mobile-menu">
 								<span></span>

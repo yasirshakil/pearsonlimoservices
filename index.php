@@ -269,10 +269,10 @@
 			<div class="container">
 				<ul class="tab_menu">
 					<li class="current"><a href="#tab-1">All</a></li>
-					<li><a href="#tab-2">Party Bus</a></li>
-					<li><a href="#tab-3">Sedan</a></li>
-					<li><a href="#tab-4">Stretch Limo</a></li>
-					<li><a href="#tab-5">Limo</a></li>
+					<li><a href="#tab-2">Sedan</a></li>
+					<li><a href="#tab-3">Suv</a></li>
+					<li><a href="#tab-4">Stretch limo </a></li>
+					<li><a href="#tab-5">party bus</a></li>
 				</ul>
 				<div id="tab-1" class="fleet-carousels">
 					<div class="row">
@@ -300,97 +300,12 @@
 						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
 							<div class="fleet-itme-inner">
 								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/55-passenger-bus-rental-irvine.jpg"
+									<img class="FleetBox-img" src="images/cars/chevrolet-sub.jpg"
 										alt="">
 								</div>
 								<div class="fleet-content fleet-details">
 									<h4 class="fleet-title">
-										<a href="#">55 Passenger Limo Bus</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 55</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 55</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/bmw3.webp" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">Mercedes S350 </a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 4</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div id="tab-2" class="fleet-carousels">
-					<div class="row">
-
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img height="100%" width="100%" src="images/cars/Executive-Mercedes.jpg" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">Mercedes S550</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="fleet-img">
-									<img height="100%" width="100%" src="images/cars/4-passengers-lincoln.jpg" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">LINCOLN TOWN CAR</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">CADILLAC ESCALADE2</a>
+										<a href="#">CHEVROLET SUBURBAN</a>
 									</h4>
 									<ul>
 										<li class="author">
@@ -398,118 +313,6 @@
 										</li>
 										<li class="mail">
 											<a href="#"><img src="images/icon/mail.png" alt="">Max . 6</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div id="tab-3" class="fleet-carousels">
-					<div class="row">
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/Rolls Royce.png" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">ROLLS ROYCE PHANTOM</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 2</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/bmw-7-series-750i.png" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">BMW 750i</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/Cadillac-CTS-1.jpg" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">Cadillac CTS 1</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div id="tab-4" class="fleet-carousels">
-					<div class="row">
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img class="FleetBox-img"
-										src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">HUMMER STRETCH LIMOUSINE</a>
-									</h4>
-									<h4 class="automatic">4 Matic</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 14</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 4</a>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-
-						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
-							<div class="fleet-itme-inner">
-								<div class="images fleet-img">
-									<img height="100%" width="100%" src="images/cars/36-limo-bus.jpg" alt="">
-								</div>
-								<div class="fleet-content fleet-details">
-									<h4 class="fleet-title">
-										<a href="#">36 Passenger bus
-										</a>
-									</h4>
-									<ul>
-										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 36</a>
-										</li>
-										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 36</a>
 										</li>
 									</ul>
 								</div>
@@ -537,17 +340,81 @@
 						</div>
 					</div>
 				</div>
-				<div id="tab-5" class="fleet-carousels">
+				<div id="tab-2" class="fleet-carousels">
 					<div class="row">
 						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
 							<div class="fleet-itme-inner">
 								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/2020-suburban-1lz-gji-colorizer.webp"
+									<img class="FleetBox-img" src="images/cars/2017_cadillac_xts_angularfront.jpg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">Cadillac XTS</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img height="100%" width="100%" src="images/cars/Executive-Mercedes.jpg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">Mercedes S550</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img" src="images/cars/Rolls Royce.png" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">ROLLS ROYCE PHANTOM</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 2</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="tab-3" class="fleet-carousels">
+					<div class="row">
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img" src="images/cars/chevrolet-sub.jpg"
 										alt="">
 								</div>
 								<div class="fleet-content fleet-details">
 									<h4 class="fleet-title">
-										<a href="#">Chevrolet Suburban</a>
+										<a href="#">CHEVROLET SUBURBAN</a>
 									</h4>
 									<ul>
 										<li class="author">
@@ -563,18 +430,18 @@
 						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
 							<div class="fleet-itme-inner">
 								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/24.jpeg" alt="">
+									<img class="FleetBox-img" src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
 								</div>
 								<div class="fleet-content fleet-details">
 									<h4 class="fleet-title">
-										<a href="#">24 PASSENGER MINIBUS</a>
+										<a href="#">CADILLAC ESCALADE2</a>
 									</h4>
 									<ul>
 										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 24</a>
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 6</a>
 										</li>
 										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 20</a>
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 6</a>
 										</li>
 									</ul>
 								</div>
@@ -595,6 +462,138 @@
 										</li>
 										<li class="mail">
 											<a href="#"><img src="images/icon/mail.png" alt="">Max . 14</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="tab-4" class="fleet-carousels">
+					<div class="row">
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img" src="images/cars/lincolin.jpeg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">LINCOLN MKT</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 8</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 6</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img" src="images/cars/SUV-Limousines-1.jpg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">LINCOLN NAVIGATOR</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 12</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 4</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img"
+										src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">HUMMER</a>
+									</h4>
+									<!-- <h4 class="automatic">4 Matic</h4> -->
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 14</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 4</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="tab-5" class="fleet-carousels">
+					<div class="row">
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img" src="images/cars/24.jpeg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">20 PASSENGER MINI LIMO BUS</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 20</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 20</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img height="100%" width="100%" src="images/cars/36-limo-bus.jpg" alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">30 PASSENGER MINI LIMO BUS
+										</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 30</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 30</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
+							<div class="fleet-itme-inner">
+								<div class="images fleet-img">
+									<img class="FleetBox-img" src="images/cars/55-passenger-bus-rental-irvine.jpg"
+										alt="">
+								</div>
+								<div class="fleet-content fleet-details">
+									<h4 class="fleet-title">
+										<a href="#">45 PASSENGER LIMO BUS</a>
+									</h4>
+									<ul>
+										<li class="author">
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 45</a>
+										</li>
+										<li class="mail">
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 45</a>
 										</li>
 									</ul>
 								</div>
@@ -694,7 +693,7 @@
 					<p class="contact"><span style="color:#ccb867;">Call now </span><a style="color: #ccb867;"
 							href="tel:+14373707407">+1 (437) 370-7407</a></p>
 
-					<a href="#" class="booking">Online Booking<img src="images/icon/arrow-white.png" alt=""></a>
+					<a href="#" class="booking">Online Booking</a>
 				</div>
 			</div>
 		</section>

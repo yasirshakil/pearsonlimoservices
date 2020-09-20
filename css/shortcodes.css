@@ -2303,7 +2303,7 @@ ul.booking-steps li .text {
 	border-radius:3px;
 	color: black ;
 	background-color: #d9c77e;
-	border: 2px solid #bf9c60;
+	border: 2px solid #d9c77e;
 	display: block;
 }
 .add-box .schedule-booking .form-booking .btn-submit a:hover {
@@ -2336,7 +2336,9 @@ ul.booking-steps li .text {
     text-transform: uppercase;
 }
 .info-box.change_text .booking{
-	
+	height: 50px;
+    width: 250px;
+	padding: 8px;
 }
 .change_bg{
 	background-color:#f3f3f3;
@@ -2921,13 +2923,13 @@ hr{
 .info-box .booking{
 	font-family: Dosis;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     color: black;
     background: #d9c77e;
     display: inline-block;
     border: 2px solid #d9c77e;
 	border-radius:3px;
-	padding: 11px 34px 9px 42px;
+	/* padding: 11px 34px 9px 42px; */
 }
 .info-box .booking:hover {
 	background: rgb(170,153,88);
