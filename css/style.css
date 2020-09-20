@@ -2888,3 +2888,9 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     font-size: 30px;
   }
 }
+
+.validate-error {
+  color: red;
+  font-size: 15px;
+  font-weight: 500;
+}

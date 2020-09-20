@@ -218,6 +218,9 @@
 	<script type="text/javascript" src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
 	<script type="text/javascript" src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
 	<script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+	<!-- jQuery Validation -->
+	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="js/additional-methods.min.js"></script>
 </body>
 
 </html>
