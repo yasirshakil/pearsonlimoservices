@@ -57,7 +57,7 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/Bentley flying spur.jpg" alt="">
+										<img src="images/cars/bentlet.png" alt="">
 									</div>
 									<h4 class="name-car">
 										Bentley Flyind Spur

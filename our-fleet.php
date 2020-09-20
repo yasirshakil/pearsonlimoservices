@@ -153,7 +153,7 @@
 					<div class="col-md-12">
 						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/Bentley flying spur.jpg" alt="">
+								<img height="200px" width="100%" src="images/cars/bentlet.png" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
