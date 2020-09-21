@@ -434,7 +434,7 @@
 								</div>
 								<div class="fleet-content fleet-details">
 									<h4 class="fleet-title">
-										<a href="#">CADILLAC ESCALADE2</a>
+										<a href="#">CADILLAC ESCALADE</a>
 									</h4>
 									<ul>
 										<li class="author">
@@ -458,10 +458,10 @@
 									</h4>
 									<ul>
 										<li class="author">
-											<a href="#"><img src="images/icon/author.png" alt="">Max . 14</a>
+											<a href="#"><img src="images/icon/author.png" alt="">Max . 12</a>
 										</li>
 										<li class="mail">
-											<a href="#"><img src="images/icon/mail.png" alt="">Max . 14</a>
+											<a href="#"><img src="images/icon/mail.png" alt="">Max . 12</a>
 										</li>
 									</ul>
 								</div>
@@ -519,7 +519,7 @@
 								</div>
 								<div class="fleet-content fleet-details">
 									<h4 class="fleet-title">
-										<a href="#">HUMMER</a>
+										<a href="#">HUMMER 2</a>
 									</h4>
 									<!-- <h4 class="automatic">4 Matic</h4> -->
 									<ul>
@@ -560,7 +560,7 @@
 						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
 							<div class="fleet-itme-inner">
 								<div class="images fleet-img">
-									<img height="100%" width="100%" src="images/cars/36-limo-bus.jpg" alt="">
+									<img height="100%" width="100%" src="images/cars/36.jpg" alt="">
 								</div>
 								<div class="fleet-content fleet-details">
 									<h4 class="fleet-title">
@@ -581,7 +581,7 @@
 						<div class="fleet-item col-lg-4 col-md-4 col-sm-12 col-12">
 							<div class="fleet-itme-inner">
 								<div class="images fleet-img">
-									<img class="FleetBox-img" src="images/cars/55-passenger-bus-rental-irvine.jpg"
+									<img class="FleetBox-img" src="images/cars/55.jpg"
 										alt="">
 								</div>
 								<div class="fleet-content fleet-details">

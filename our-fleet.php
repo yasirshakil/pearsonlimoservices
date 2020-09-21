@@ -104,7 +104,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$90</span> / hour
+										<span>$120</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -242,7 +242,7 @@
 						</div>
 						<div class="select-car s1 ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/gmc.jpg" alt="">
+								<img height="200px" width="100%" src="images/cars/Gmc.png" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
@@ -419,8 +419,8 @@
 								<div class="content">
 									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 14</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 12</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 12</li>
 									</ul>
 								</div>
 								<div class="bottom">
