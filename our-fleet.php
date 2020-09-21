@@ -134,7 +134,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+										<span>$150</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -153,7 +153,7 @@
 					<div class="col-md-12">
 						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/bentlet.png" alt="">
+								<img height="200px" width="100%" src="images/cars/betling.png" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
@@ -171,7 +171,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$65</span> / hour
+										<span>$350</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -255,13 +255,13 @@
 									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+										<span>$90</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -328,7 +328,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$95</span> / hour
+										<span>$125</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
@@ -352,13 +352,13 @@
 								<div class="content">
 									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+										<span>$125</span> / hour
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>

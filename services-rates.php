@@ -28,7 +28,7 @@ include ('./header.php');
 										<img class="" src="images/cars/chryler-300.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										chryler 300
+										Chryler 300
 									</h4>
 								</li>
 								<li>
@@ -36,7 +36,7 @@ include ('./header.php');
 										<img src="images/cars/2017_cadillac_xts_angularfront.jpg" alt="">
 									</div>
 									<h4 class="name-car">
-										Cadillac XTS 1
+										Cadillac XTS
 									</h4>
 								</li>
 								<li>
@@ -57,10 +57,10 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/bentlet.png" alt="">
+										<img src="images/cars/betling.png" alt="">
 									</div>
 									<h4 class="name-car">
-										Bentley Flyind Spur
+										Bentley Flying Spur
 									</h4>
 								</li>
 								<li>
@@ -81,7 +81,7 @@ include ('./header.php');
 								</li>
 								<li>
 									<div class="image-car Service-Rates-Boxes">
-										<img src="images/cars/gmc.jpg" alt="">
+										<img src="images/cars/Gmc.png" alt="">
 									</div>
 									<h4 class="name-car">
 										GMC Yukon XL
