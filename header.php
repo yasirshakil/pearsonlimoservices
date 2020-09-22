@@ -26,6 +26,9 @@
 </head>
 
 <body>
+	<div class="loader-div d-none">
+	    <img src="./images/loader.gif" alt="">
+	</div>
 	<div id="loading-overlay">
 		<div class="loader"></div>
 	</div>

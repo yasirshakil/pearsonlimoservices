@@ -1,5 +1,8 @@
 <?php
 include ('./header.php');
+require_once('recaptchalib.php');
+
+$publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 ?>
 	<!-- Start contact Area -->
 	<section class="contact-area">
@@ -15,10 +18,11 @@ include ('./header.php');
 			</div>
 			<div class="mt-5 py-3 row">
 				<div class="col-md-8 Form-bg h-100 py-3">
-					<form id="contact-form">
+					<form id="contact-form" method="post" action="./functions.php?action=add_tank">
 						<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
 							<h3 class="Form-Tital">Please fulfil the form below.</h3>
 						</div>
+						<input type="hidden" name="form_of" value="contact">
 						<div class="row mt-5">
 							<div class="col-lg-6 col-md-6 col-sm-12 col-12">
 								<div style="width=:100%;" class="field-Box">
@@ -109,6 +113,9 @@ include ('./header.php');
 								<label for="">Phone Number</label>
 								<input class="Contact-detail" type="tel" maxlength="15" name="number" required="">
 							</div>
+							<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+								<?php echo recaptcha_get_html($publickey, $error); ?>
+							</div>
 							<div class=" BtnBox col-lg-12 col-md-12 col-sm-12 col-12 mt-3 text-right">
 								<!-- <div class="">
 									<button type="submit submit-after">Submit</button>
@@ -186,9 +193,42 @@ include ('./header.php');
 <?php
 	include ('./footer.php');
 ?>
-	<script type="text/javascript">
-		$("#contact-form").validate({ 	
-		    errorClass: "validate-error"
-		});
-	</script>
+<script>
+	$("#contact-form").submit( function(e){
+		e.preventDefault()
+		if( $(this).valid() ) {
+			$(".loader-div").removeClass("d-none").addClass('loader-background')
+			$.ajax({
+	          url     : $(this).attr('action'),
+	          type    : 'post',
+	          dataType: 'json',
+	          data    : $('#contact-form input').serialize(),
+	          success : function(json) {
+	            if(json['status_code'] == 200) {
+	              $("#contact-form")[0].reset();
+
+	              $("select").each( function(){
+	                    $(this).children('option:eq(0)').trigger('change');
+	              });
+
+	              $('.Form-bg').prepend('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+	            }
+	            $(".alert-success").fadeTo(2000, 500).slideUp(500, function(){
+	              $(".alert-success").slideUp(500);
+	              $(".alert-success").remove()
+	            });
+	          },
+	          error: function(xhr, ajaxOptions, thrownError) {
+	            alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+	          }
+	        }).done(function() {
+	          $(".loader-div").addClass("d-none").removeClass('loader-background')
+	        });
+		}
+	})
+
+	$("#contact-form").validate({ 	
+	    errorClass: "validate-error"
+	});
+</script>
 <!-- End Footer -->
