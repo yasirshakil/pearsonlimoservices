@@ -586,19 +586,19 @@ include ('./header.php');
 				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Washago Airport Limo</a>
 				</div>
-				<div class="col-lg-6 col-md-6 col-sm-6 col-6 px-1 mb-2 buttons">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Vest Gwillimbury Airport Limo</a>
 				</div>
-				<div class="col-lg-6 col-md-6 col-sm-6 col-6 px-1 mb-2 buttons">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Woodstock Airport Limo</a>
 				</div>
-				<div class="col-lg-6 col-md-6 col-sm-6 col-6 px-1 mb-2 buttons">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Wainfleet Airport Limo</a>
 				</div>
-				<div class="col-lg-6 col-md-6 col-sm-6 col-6 px-1 mb-2 buttons">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Winona Airport Limo</a>
 				</div>
-				<div class="col-lg-6 col-md-6 col-sm-6 col-6 px-1 mb-2 buttons">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-6 px-1 mb-2 buttons">
 					<a class="Area-We-Serve-Btn" href="">Welland Airport Limo</a>
 				</div>
 			</div>
