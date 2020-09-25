@@ -2859,6 +2859,16 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 }
 
+.PearsonLimoEmail{
+  color: #d9c77e;
+  font-size: 18px;
+}
+
+.PearsonLimoNumber{
+  color: #d9c77e;
+  font-size: 18px;
+}
+
 .Services-Details{
   font-weight: 700;
 }

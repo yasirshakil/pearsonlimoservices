@@ -13,12 +13,8 @@ include ('./header.php');
                         Transportation to/from Toronto Airport, Buffalo Airport, Niagara Airport and Hamilton Airport Our
                         extraordinary and luxurious fleet of limousines are ready at your disposal in Ajax and its
                         surrounding areas, to get a quote or make your reservation call us at
-                        <span style="color: #d9c77e;"><a style="color: #d9c77e;" href="tel:+14373707407">+1 (437)
-                                370-7407</a>
-                        </span> or visit:
-                        <span style="color: #d9c77e;"><a
-                                href="https://Pearsonlimoservices.ca/">www.Pearsonlimoservices.ca</a>
-                        </span>
+                        <span style="color: #d9c77e;"><a class="PearsonLimoNumber" href="tel:+14373707407">+1 (437) 370-7407</a></span> or visit:
+                        <span><a class="PearsonLimoEmail" href="https://Pearsonlimoservices.ca/">www.Pearsonlimoservices.ca</a></span>
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-10 col-10 py-3 OnlineBookig">
@@ -52,7 +48,7 @@ include ('./header.php');
 						 Rolls Royce Phantom, Chevrolet Suburban, Hummer Stretch Limousine, Shuttle Van, Minibus, and many more.
 						Our limousine fleet is astonishingly luxurious and our professionally trained chauffeurs are there to help you throughout your journey.
 						Regardless of the occasion, count on us to get you where you need to go. Getting a Limo in Ajax has never been easier; visit our website 
-						<a href="https://Pearsonlimoservices.ca/fleet">.Pearsonlimoservices.ca</a> and fill up your reservation.
+						<a class="PearsonLimoEmail" href="https://Pearsonlimoservices.ca/fleet">.Pearsonlimoservices.ca</a> and fill up your reservation.
 					</p>
                     <p class="mb-2 AreaDetails">Our belief is in providing the highest quality limo experience to fulfill your requirements. Our team
                         ensures a state-of-the-art limousine experience is delivered every single time you ride with the
