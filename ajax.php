@@ -47,8 +47,8 @@ include ('./header.php');
 					<p>Ajax Airport Limo Service offers premium limousine experience, in an Executive Mercedes, Chrysler 300, Cadillac Escalade ESV,
 						 Rolls Royce Phantom, Chevrolet Suburban, Hummer Stretch Limousine, Shuttle Van, Minibus, and many more.
 						Our limousine fleet is astonishingly luxurious and our professionally trained chauffeurs are there to help you throughout your journey.
-						Regardless of the occasion, count on us to get you where you need to go. Getting a Limo in Ajax has never been easier; visit our website 
-						<a class="PearsonLimoEmail" href="https://Pearsonlimoservices.ca/fleet">.Pearsonlimoservices.ca</a> and fill up your reservation.
+						Regardless of the occasion, count on us to get you where you need to go. Getting a Limo in Ajax has never been easier; visit our website. 
+						<a class="PearsonLimoEmail" href="https://Pearsonlimoservices.ca/fleet"> Pearsonlimoservices.ca</a> and fill up your reservation.
 					</p>
                     <p class="mb-2 AreaDetails">Our belief is in providing the highest quality limo experience to fulfill your requirements. Our team
                         ensures a state-of-the-art limousine experience is delivered every single time you ride with the
