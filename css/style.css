@@ -2842,14 +2842,14 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 .Detail-Or-Contact {
   padding: 20px 0px 20px 0px;
-  border: solid 1px #d9c77e;
+  /* border: solid 1px #d9c77e;
   background: rgb(247, 240, 192);
   background: linear-gradient(
     180deg,
     rgba(247, 240, 192, 1) 0%,
     rgba(255, 255, 255, 1) 50%,
     rgba(254, 253, 249, 0.9640231092436975) 100%
-  );
+  ); */
 }
 
 /* Reservation ende */
@@ -2868,6 +2868,71 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   background-color: red !important;
 }
 
+/* Area Pages Start */
+.OnlineBookig{
+  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100% );
+  /* border: solid 1px #d9c77e; */
+}
+
+.ReservationBox{
+  display: flex;
+}
+
+
+.makeReservation{
+  /* padding: 10px 5px 10px 5px; */
+  margin-bottom: 20px !important;
+  background: #d9c77e;
+  width: 250px;
+}
+
+.makeReservation a {
+  text-decoration:  none;
+}
+
+.makeReservation a i {
+  font-size: 23px;
+  color: #333;
+  margin-right: 10px;
+  display: inline-block;
+  background-color: white;
+  width: 41px;
+  height: 41px;
+  line-height: 40px;
+  text-align: center;
+}
+
+/* .bgColor{
+  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100% );
+  border: solid 1px #d9c77e;
+} */
+
+.makeReservation a {
+  color: black;
+  font-weight: 500;
+}
+
+.social_Links_Div a i {
+  color: black;
+  border: solid 1px #d9c77e;
+  width: 40px;
+  
+  background: whitesmoke;
+  margin-right: 0;
+  font-size: 22px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.AreaDetails{
+  
+}
+
+
+
+/* Area Pages end */
+
+
 @media only screen and (min-device-width: 280px) and (max-device-width: 1024px) {
   .Content-Box h2 {
     font-size: 20px;
@@ -2885,6 +2950,17 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   }
 
   .Area-We-Serve-Heading {
+    font-size: 30px;
+  }
+
+}
+
+@media only screen and (min-device-width: 280px) and (max-device-width: 812px) {
+  .ReservationBox{
+    display: inline-block;
+  }
+
+  .AjaxLimo{
     font-size: 30px;
   }
 }
