@@ -113,7 +113,7 @@
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="services.php">Services</a>
 										<ul class="menu-dropdown after-drop">
-											<li><a href="blog.html">Airport Pickup Procedure</a></li>
+											<li><a href="airportpickup.php">Airport Pickup Procedure</a></li>
 										</ul>
 									</li>
 									<li>
