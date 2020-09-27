@@ -2859,9 +2859,10 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 }
 
-.PearsonLimoEmail{
+.Highlight{
   color: #d9c77e;
   font-size: 18px;
+  font-weight: 600;
 }
 
 .PearsonLimoNumber{
@@ -2926,7 +2927,6 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   color: black;
   border: solid 1px #d9c77e;
   width: 40px;
-  
   background: whitesmoke;
   margin-right: 0;
   font-size: 22px;
@@ -2934,9 +2934,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   text-align: center;
 }
 
-.AreaDetails{
-  
-}
+
 
 
 
