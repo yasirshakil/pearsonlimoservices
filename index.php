@@ -38,7 +38,7 @@
 								data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":1000,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['center','center','center','center']" data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0" data-paddingleft="[0,0,0,0]"
-								style="z-index: 16; white-space: nowrap;font-weight: 400;">TRAVEL ON YOUR TERM
+								style="z-index: 16; white-space: nowrap;font-weight: 400;">Travel the way you want. <br> Travel as you desire
 							</div>
 							<!-- <a href="#" target="_self" class="tp-caption button-a text-center"         
 	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
@@ -85,8 +85,7 @@
 								data-frames='[{"delay":0,"split":"chars","splitdelay":0.05,"speed":1000,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
 								data-textAlign="['center','center','center','center']" data-paddingright="[0,0,0,0]"
 								data-paddingbottom="[0,0,0,0" data-paddingleft="[0,0,0,0]"
-								style="z-index: 16; white-space: nowrap;font-weight: 400;"> GIVE YOURSELF A NEW <br>
-								EXPERIEANCE
+								style="z-index: 16; white-space: nowrap;font-weight: 400;"> Wherever you want and whenever <br> you want we would take you
 							</div>
 							<!-- <a href="#" target="_self" class="tp-caption button-a text-center"         
 	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
@@ -719,19 +718,16 @@
 					<div class="col-md-5 full-sm">
 						<ul>
 							<li>
-								<h3>1 - Book Via App Or Web</h3>
-								<p>Enter your pickup & dropoff locations or the number of hours you wish to book a car
-									and driver for</p>
+								<h3>1 - Information</h3>
+								<p>Visit our website, download our app or just simply give us a call. We need your destination and time preferences and that is the first step toward your limo ride </p>
 							</li>
 							<li>
-								<h3>2 - Choose Your Ride</h3>
-								<p>On the day of your ride, you will receive two email and SMS updates - one informing
-									you that your car is on its way, and a second letting</p>
+								<h3>2 - Confirmation</h3>
+								<p>Select the limousine you want to ride in and confirm your booking. You would receive confirmation messages via email and sms.</p>
 							</li>
 							<li>
-								<h3>3 - Enjoy Your Ride</h3>
-								<p>After your ride has taken place, we would appreciate it if you could rate your car
-									and driver.</p>
+								<h3>3 - Destination</h3>
+								<p>On the day of your travel all you need to think is of your destination. After confirmation, your limo ride would be ready to pick you up on the time and place you have provided and we would  take you to your destination.</p>
 							</li>
 						</ul>
 					</div>
@@ -807,13 +803,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 						<div class="Content-Box">
-							<h2>AIRPORT LIMOUSINE<br>TRANSFERS</h2>
+							<h2>Airport Limo Service</h2>
 							<div class="borderr"></div>
 							<p class="bb-descr">
-								Our Premium Limo Service is available for your airport transfer needs.
-								Professional Chauffer’s would receive or drop you at your designated airports
-								across Canada. Never miss a flight again, with our airport limo service. Always catch
-								that flight on time.
+							Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport.
 							</p>
 							<div>
 								<div class="LinksBox">
@@ -826,7 +819,7 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
 						<div class="Content-Box">
-							<h2>CORPORATE LIMO<br>SERVICE</h2>
+							<h2>Corporate Limo Service</h2>
 							<div class="borderr"></div>
 							<p class="bb-descr">
 								Limo Service for the corporate world is specifically designed to attend professional
@@ -844,15 +837,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 						<div class="Content-Box">
-							<h2>OUT OF TOWN LIMO<br>SERVICES</h2>
+							<h2>Wedding Limo Rentals</h2>
 							<div class="borderr"></div>
 							<p class="bb-descr">
-								Road trips can be hectic; you need a luxury limousine to drive you to your destination.
-								Our out of town Limo Services is the best solution. This service includes recreational
-								tours, city base tours,
-								a day tour to Niagara Falls or Winery tours. We also provide Trip suggestion and
-								planning.
-								Need to escape the regular routine?
+							Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in stretch limo with luxury interior and comfort. We would love to be a part of your special day by offering you the best limo service. We have a range of limo rides for you to choose from. Visit our fleet for more information or Call us at 905-974-9873for your special ride.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -865,14 +853,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 						<div class="Content-Box">
-							<h2>SPECIAL OCCASIONS<br>LIMO</h2>
+							<h2>Special Occasion Limo</h2>
 							<div class="borderr"></div>
 							<p class="bb-descr">
-								A special occasion deserves a special ride. Ride along our limousine fleet to your
-								special day.
-								Pick and Click a limo from our fleet to make your wedding, prom, birthday, trip to
-								casino, night party or any
-								other special occasion even more special.
+							Looking to plan a party, a special event or even a date with a special someone. If you want to feel confident and amazing you need a luxury limo ride to reach that occasion. We understand the power of first impressions, therefore we would make sure you have a great first impression on your special occasion. Call us at 905-974-9873 for a limo ride.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -883,13 +867,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
 						<div class="Content-Box">
-							<h2>LIMOUSINE MEDICAL<br>TRANSFERS</h2>
+							<h2>Niagara Falls Tours</h2>
 							<div class="borderr"></div>
 							<p class="bb-descr">
-								Limo Services offers non-emergency patient transfer services for people
-								with disabilities who require non-emergency transportation service. We focus primarily
-								on patient transfers between hospitals, long-term facilities, clinics, medical centers,
-								retirement homes, and private residences.
+							Planning a day at Niagara fall makes it as memorable as seeing the falls through booking  a luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the world Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -900,14 +881,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
 						<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
 						<div class="Content-Box">
-							<h2>CUSTOMIZE LIMOUSINE<br>RENTAL SOLUTIONS</h2>
+							<h2>Pearson For You <br>( Custom Solutions)</h2>
 							<div class="borderr"></div>
 							<p class="bb-descr">
-								You can always customize our limousine services as per your specific needs. Just let us
-								know
-								what we can do for you. We can arrange Per hour basis limousine rides. Event Fleet Limos
-								or any other need.
-								You name and we got it. Get in Touch.
+							If you think you have a certain set of requirements not covered in our standard packages. We are more than willing to help you with a customized limousine rental solution. Call us at 905-974-9873 for custom limo solutions.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>

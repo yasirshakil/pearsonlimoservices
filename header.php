@@ -39,8 +39,8 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-12 col-md-6 left-content">
 						<ul>
-							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us" href="tel:+18889211116">+1 (888) 921-1116</a></li>
-							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us" href="tel:+14373707407">+1 (437) 370-7407</a></li>
+							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us" href="tel:+18889211116">+1888-900-3001</a></li>
+							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us" href="tel:+14373707407">+1905-974-9873</a></li>
 							<li>
 								<i class="fa fa-envelope mr-2"></i>
 								<a class="Contact-us" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a>

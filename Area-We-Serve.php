@@ -12,10 +12,8 @@ include ('./header.php');
 							<div class="Borders m-auto co-lg-12 col-md-4 col-sm-6 col-6"></div>
 						</div>
 					</div>
-					<p>Platinum rides give the premium limousine experience throughout the Greater Toronto Area. Our
-						services are stretched over 52 cities in Ontario. Our limousine rental service is available to
-						and from these cities throughout the year. Platinum rides take pride in including the largest
-						geographic stretch in the industry providing its luxury limo rides from Kingston to Windsor.
+					<p>
+					We have dedicated teams and limo rides throughout the GTA, we have been able to stretch our business over the years into 200 cities across Ontario Canada.  Our limousine rental service is available to and from these locations to a detention of your choice.
 					</p>
 				</div>
 				<div class="clo-lg-12 col-md-12 col-sm-12 col-12 text-center p-0">

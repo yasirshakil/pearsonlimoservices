@@ -9,11 +9,14 @@ include ('./header.php');
 				<div class="row">
 				<div class="col-md-12">
 						<section class="template-title center">
-							<div class="template-title center has-over">
+							<div class="template-title center">
 								<h1>Service Rates</h1>
 								<span>Service Rates</span>
 								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 									<div class="Borders m-auto co-lg-12 col-md-4 col-sm-6 col-6"></div>
+								</div>
+								<div>
+									<p> Superior Service Quality with the best price in the market. </p>
 								</div>
 							</div>
 						</section>
