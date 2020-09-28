@@ -185,13 +185,10 @@ include ('./header.php');
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 						<div class="Content-Box">
-							<h2>AIRPORT LIMOUSINE<br>TRANSFERS</h2>
+							<h2 class="mb-2">Airport Limo Service</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-								Our Premium Limo Service is available for your airport transfer needs.
-								Professional Chauffer’s would receive or drop you at your designated airports
-								across Canada. Never miss a flight again, with our airport limo service. Always catch
-								that flight on time.
+							<p class="bb-descr mt-3">
+							Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport.
 							</p>
 							<div>
 								<div class="LinksBox">
@@ -204,9 +201,9 @@ include ('./header.php');
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
 						<div class="Content-Box">
-							<h2>CORPORATE LIMO<br>SERVICE</h2>
+							<h2 class="mb-2">Corporate Limo Service</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
+							<p class="bb-descr mt-3">
 								Limo Service for the corporate world is specifically designed to attend professional
 								needs of the corporate world. This service includes limousines rentals for corporate
 								meetings and recreational activities.
@@ -222,15 +219,10 @@ include ('./header.php');
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 						<div class="Content-Box">
-							<h2>OUT OF TOWN LIMO<br>SERVICES</h2>
+							<h2 class="mb-2">Wedding Limo Rentals</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-								Road trips can be hectic; you need a luxury limousine to drive you to your destination.
-								Our out of town Limo Services is the best solution. This service includes recreational
-								tours, city base tours,
-								a day tour to Niagara Falls or Winery tours. We also provide Trip suggestion and
-								planning.
-								Need to escape the regular routine?
+							<p class="bb-descr mt-3">
+								Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in stretch limo with luxury interior and comfort. We would love to be a part of your special day by offering you the best limo service. We have a range of limo rides for you to choose from. Visit our fleet for more information or Call us at 905-974-9873for your special ride.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -243,14 +235,10 @@ include ('./header.php');
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 						<div class="Content-Box">
-							<h2>SPECIAL OCCASIONS<br>LIMO</h2>
+							<h2 class="mb-2">Special Occasion Limo</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-								A special occasion deserves a special ride. Ride along our limousine fleet to your
-								special day.
-								Pick and Click a limo from our fleet to make your wedding, prom, birthday, trip to
-								casino, night party or any
-								other special occasion even more special.
+							<p class="bb-descr mt-3">
+								Looking to plan a party, a special event or even a date with a special someone. If you want to feel confident and amazing you need a luxury limo ride to reach that occasion. We understand the power of first impressions, therefore we would make sure you have a great first impression on your special occasion. Call us at 905-974-9873 for a limo ride.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -261,13 +249,10 @@ include ('./header.php');
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
 						<div class="Content-Box">
-							<h2>LIMOUSINE MEDICAL<br>TRANSFERS</h2>
+							<h2 class="mb-2">Niagara Falls Tours</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-								Limo Services offers non-emergency patient transfer services for people
-								with disabilities who require non-emergency transportation service. We focus primarily
-								on patient transfers between hospitals, long-term facilities, clinics, medical centers,
-								retirement homes, and private residences.
+							<p class="bb-descr mt-3">
+								Planning a day at Niagara fall makes it as memorable as seeing the falls through booking  a luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the world Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -278,14 +263,10 @@ include ('./header.php');
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
 						<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
 						<div class="Content-Box">
-							<h2>CUSTOMIZE LIMOUSINE<br>RENTAL SOLUTIONS</h2>
+							<h2 class="mb-2">Pearson For You <br>( Custom Solutions)</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-								You can always customize our limousine services as per your specific needs. Just let us
-								know
-								what we can do for you. We can arrange Per hour basis limousine rides. Event Fleet Limos
-								or any other need.
-								You name and we got it. Get in Touch.
+							<p class="bb-descr mt-3">
+								If you think you have a certain set of requirements not covered in our standard packages. We are more than willing to help you with a customized limousine rental solution. Call us at 905-974-9873 for custom limo solutions.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>

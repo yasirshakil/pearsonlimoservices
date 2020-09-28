@@ -14,11 +14,15 @@ include ('./header.php');
 								<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 							</div>				
 							<p class="subtitle">
-								Our aim is to fill a gap in niche market of Trade
+								Our service is what makes the difference.
 							</p>
 						</div>
 					</div>
 				</div>
+				<p class="mb-4">
+					We have a range of limousines services available for our clients. These services are designed on best industry standards. Book us now to experience astonishing limousine rental services. 
+					Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport
+				</p>
 				<div class="row">
 					<div class="col-lg-3 col-md-3 col-sm-6">
 						<div class="services-item center">

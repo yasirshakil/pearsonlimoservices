@@ -690,7 +690,7 @@
 					<p class="content">Not only taking to night parties, weddings, casinos, birthdays but we also take
 						you to anywhere you want to go. </p>
 					<p class="contact"><span style="color:#ccb867;">Call now </span><a style="color: #ccb867;"
-							href="tel:+14373707407">+1 (437) 370-7407</a></p>
+							href="tel:+1905-974-9873">+1905-974-9873</a></p>
 
 					<a href="#" class="booking">Online Booking</a>
 				</div>
@@ -803,9 +803,9 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 						<div class="Content-Box">
-							<h2>Airport Limo Service</h2>
+							<h2 class="mb-2">Airport Limo Service</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
+							<p class="bb-descr mt-3">
 							Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport.
 							</p>
 							<div>
@@ -819,9 +819,9 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
 						<div class="Content-Box">
-							<h2>Corporate Limo Service</h2>
+							<h2 class="mb-2">Corporate Limo Service</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
+							<p class="bb-descr mt-3">
 								Limo Service for the corporate world is specifically designed to attend professional
 								needs of the corporate world. This service includes limousines rentals for corporate
 								meetings and recreational activities.
@@ -837,10 +837,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 						<div class="Content-Box">
-							<h2>Wedding Limo Rentals</h2>
+							<h2 class="mb-2">Wedding Limo Rentals</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-							Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in stretch limo with luxury interior and comfort. We would love to be a part of your special day by offering you the best limo service. We have a range of limo rides for you to choose from. Visit our fleet for more information or Call us at 905-974-9873for your special ride.
+							<p class="bb-descr mt-3">
+								Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in stretch limo with luxury interior and comfort. We would love to be a part of your special day by offering you the best limo service. We have a range of limo rides for you to choose from. Visit our fleet for more information or Call us at 905-974-9873for your special ride.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -853,10 +853,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 						<div class="Content-Box">
-							<h2>Special Occasion Limo</h2>
+							<h2 class="mb-2">Special Occasion Limo</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-							Looking to plan a party, a special event or even a date with a special someone. If you want to feel confident and amazing you need a luxury limo ride to reach that occasion. We understand the power of first impressions, therefore we would make sure you have a great first impression on your special occasion. Call us at 905-974-9873 for a limo ride.
+							<p class="bb-descr mt-3">
+								Looking to plan a party, a special event or even a date with a special someone. If you want to feel confident and amazing you need a luxury limo ride to reach that occasion. We understand the power of first impressions, therefore we would make sure you have a great first impression on your special occasion. Call us at 905-974-9873 for a limo ride.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -867,10 +867,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 						<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
 						<div class="Content-Box">
-							<h2>Niagara Falls Tours</h2>
+							<h2 class="mb-2">Niagara Falls Tours</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-							Planning a day at Niagara fall makes it as memorable as seeing the falls through booking  a luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the world Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
+							<p class="bb-descr mt-3">
+								Planning a day at Niagara fall makes it as memorable as seeing the falls through booking  a luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the world Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>
@@ -881,10 +881,10 @@
 					<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
 						<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
 						<div class="Content-Box">
-							<h2>Pearson For You <br>( Custom Solutions)</h2>
+							<h2 class="mb-2">Pearson For You <br>( Custom Solutions)</h2>
 							<div class="borderr"></div>
-							<p class="bb-descr">
-							If you think you have a certain set of requirements not covered in our standard packages. We are more than willing to help you with a customized limousine rental solution. Call us at 905-974-9873 for custom limo solutions.
+							<p class="bb-descr mt-3">
+								If you think you have a certain set of requirements not covered in our standard packages. We are more than willing to help you with a customized limousine rental solution. Call us at 905-974-9873 for custom limo solutions.
 							</p>
 							<div class="LinksBox">
 								<a class="Box-Links" href="">BOOK NOW</a>

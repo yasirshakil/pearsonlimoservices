@@ -14,7 +14,8 @@
 								329 Queensberry Street, North Melbourne VIC 3051, Australia.
 							</li>
 							<li>123 456 7890</li>
-							<li>support@prodrive.com</li>
+								<li><a class="Contact-us" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a></li>
+							
 						</ul>
 						<ul class="social-ft">
 							<a class="Font-Links" href="#">
@@ -185,7 +186,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p>Copyright Prodrive © 2018. All Rights Reserved</p>
+					<p>Copyright Pearsonlimoservices © 2020. All Rights Reserved</p>
 				</div>
 			</div>
 		</div>

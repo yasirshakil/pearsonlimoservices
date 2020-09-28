@@ -12,7 +12,7 @@ include ('./header.php');
                     </p>
                     <p class="">
                         Just as you plan to visit <a class="Highlight" href="">Toronto</a>  and you are in need of Ground Transportation from <a class="Highlight" href="">Toronto Pearson Airport</a> 
-                        Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:+1 (437) 370-7407">+1 (437) 370-7407</a>
+                        Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:+19059749873">+1905-974-9873</a>
                         to pre-book your Toronto Airport Limo. You have the option of booking your Limo online by
                         filling our <a class="Highlight" href="">online reservation form</a> or writing us an email <a class="Highlight" href="">reservation@platinumrides.ca</a> with
                         your travel plan details. Our representative will assist you through simple procedures of
@@ -27,8 +27,8 @@ include ('./header.php');
                         the readable content of a page when looking at its layout.
                     </p>
                     <div class="ReservationBox">
-                        <p class="makeReservation m-auto"><a href="tel:+18889211116"><i class="fa fa-phone"></i>+1 (888) 921-1116</a></p>
-                        <p class="makeReservation m-auto"><a href="tel:+14373707407"><i class="fa fa-mobile-phone"></i>+1 (437) 370-7407</a></p>
+                        <p class="makeReservation m-auto"><a href="tel:+18889003001"><i class="fa fa-phone"></i>+1888-900-3001</a></p>
+                        <p class="makeReservation m-auto"><a href="tel:+19059749873"><i class="fa fa-mobile-phone"></i>+1905-974-9873</a></p>
                     </div>
                     <div class="ReservationBox">
                         <p class="makeReservation m-auto"><a href="https://www.platinumrides.ca/reservation/"><i class="fa fa-car"></i>Make Reservation</a></p>
@@ -59,7 +59,7 @@ include ('./header.php');
                         page your driver informing him of your arrival at the door. Your Limo will be released from the
                         compound and your Limo will arrive at Door A in about 4 minutes. If you have trouble finding the
                         prearranged Limousine counter or you need any assistance upon arrival, please don’t hesitate to
-                        CALL us at <a class="Highlight" href="tel:+1 (437) 370-7407">+1 (437) 370-7407</a> and we will assist you through the pickup procedure.
+                        CALL us at <a class="Highlight" href="tel:+1905-974-9873">+1905-974-9873</a> and we will assist you through the pickup procedure.
                     </p>
                     <hr>
                     <h2>PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 3.(Post 7)</h2>
@@ -74,7 +74,7 @@ include ('./header.php');
                         pre-booked with Platinum Rides. The officer will then page your driver informing him of your arrival
                         at the door. Your Limo will be released from the compound and <b>your Limo will arrive at Door A (POST7) </b>
                         in about 4 minutes. If you have trouble finding the prearranged Limousine counter or you need any
-                        assistance upon arrival, please don’t hesitate to CALL us at <a class="Highlight" href="tel:+1 (437) 370-7407">+1 (437) 370-7407</a> and we will
+                        assistance upon arrival, please don’t hesitate to CALL us at <a class="Highlight" href="tel:+1905-974-9873">+1905-974-9873</a> and we will
                         assist
                         you through the pickup procedure.
                     </p>

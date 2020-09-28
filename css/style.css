@@ -2905,6 +2905,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   font-size: 23px;
   color: #333;
   margin-right: 10px;
+  border-left: 1px solid #d9c77e;
   display: inline-block;
   background-color: white;
   width: 41px;

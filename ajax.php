@@ -13,7 +13,7 @@ include ('./header.php');
                         Transportation to/from Toronto Airport, Buffalo Airport, Niagara Airport and Hamilton Airport Our
                         extraordinary and luxurious fleet of limousines are ready at your disposal in Ajax and its
                         surrounding areas, to get a quote or make your reservation call us at
-                        <span style="color: #d9c77e;"><a class="Highlight" href="tel:+14373707407">+1 (437) 370-7407</a></span> or visit:
+                        <span style="color: #d9c77e;"><a class="Highlight" href="tel:+19059749873">+1905-974-9873</a></span> or visit:
                         <span><a class="Highlight" href="https://Pearsonlimoservices.ca/">www.Pearsonlimoservices.ca</a></span>
                     </p>
                 </div>
@@ -24,8 +24,8 @@ include ('./header.php');
                         the readable content of a page when looking at its layout.
                     </p>
 						<div class="ReservationBox">
-							<p class="makeReservation m-auto"><a href="tel:+18889211116"><i class="fa fa-phone"></i>+1 (888) 921-1116</a></p>
-                    		<p class="makeReservation m-auto"><a href="tel:+14373707407"><i class="fa fa-mobile-phone"></i>+1 (437) 370-7407</a></p>
+							<p class="makeReservation m-auto"><a href="tel:+18889211116"><i class="fa fa-phone"></i>+1888-900-3001</a></p>
+                    		<p class="makeReservation m-auto"><a href="tel:+19059749873"><i class="fa fa-mobile-phone"></i>+1905-974-9873</a></p>
 						</div>
 						<div class="ReservationBox">
 							<p class="makeReservation m-auto"><a href="https://www.platinumrides.ca/reservation/"><i class="fa fa-car"></i>Make Reservation</a></p>

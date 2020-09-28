@@ -127,14 +127,15 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 				</div>
 				<div class="col-md-4 pl-md-5">
 					<div class="address-box">
-						<h4>Melbourne, Australia</h4>
-						<p>329 Queensberry Street, North Melbourne VIC 3051, Australia. </p>
+						<p class="mb-2">Let’s get in touch and here out your requirements. We have a dedicated line to answer all your questions. Following are the ways you can contact us.</p>
+						<p class="mb-2"><b>32 English Lane Brantford, ON N3T 5L5</b></p>
 						<div class="contact">
-							<p><span>Email: </span><a style="color:#000;" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a></p>
-							<p><span>Skype: </span>prodrive</p>
+							<p class="makeReservation"><a href="mailto:info@pearsonlimoservices.ca"><i class="fa fa-envelope"></i>info@pearsonlimoservices.ca</a></p>
+							<p class="makeReservation"><a href="tel:+18889003001"><i class="fa fa-phone"></i>+1888-900-3001</a></p>
+                    		<p class="makeReservation"><a href="tel:+19059749873"><i class="fa fa-mobile-phone"></i>+1905-974-9873</a></p>
 						</div>
 					</div>
-					<div class="address-box style1">
+					<!-- <div class="address-box style1">
 						<h4>Call directly</h4>
 						<p><a style="color: #d9c77e;" href="tel:+14373707407">+1 (437) 370-7407</a></p>
 						<div class="hours">
@@ -147,39 +148,10 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 						<div class="follow">
 							<h5>Follow Us</h5>
 							<ul>
-								<li>
-									<a href="#" title="">
-										<i class="fa fa-facebook" aria-hidden="true"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" title="">
-										<i class="fa fa-twitter" aria-hidden="true"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" title="">
-										<i class="fa fa-linkedin" aria-hidden="true"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" title="">
-										<i class="fa fa-instagram" aria-hidden="true"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" title="">
-										<i class="fa fa-envelope-open" aria-hidden="true"></i>
-									</a>
-								</li>
-								<li>
-									<a href="#" title="">
-										<i class="fa fa-google-plus" aria-hidden="true"></i>
-									</a>
-								</li>
+								
 							</ul>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
