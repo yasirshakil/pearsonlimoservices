@@ -6,17 +6,9 @@
 						<div class="logo-ft">
 							<a href="#" title="">
 								<!-- <img src="images/logo-ft.png" alt=""> -->
-								<img class="footer-logo" src="images/Logo transparent for Website.png" alt="">
+								<img class="footer-logo" src="images/logo/Pearson Limo without background for web.png" alt="">
 							</a>
 						</div>
-						<ul class="infomation-ft">
-							<li>
-								329 Queensberry Street, North Melbourne VIC 3051, Australia.
-							</li>
-							<li>123 456 7890</li>
-								<li><a class="Contact-us" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a></li>
-							
-						</ul>
 						<ul class="social-ft">
 							<a class="Font-Links" href="#">
 								<i class="fa fa-facebook font-Awesome"></i>

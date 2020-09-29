@@ -116,7 +116,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<div class="sdl-booking add-box AddBox">
+					<div class="sdl-booking add-box AddBox">
 							<ul class="tab_booking">
 								<li class="active"><a href="#bk-1">Distance</a></li>
 								<li><a href="#bk-2">Hourly</a></li>
@@ -710,9 +710,9 @@
 					<p class="subtitle">Our booking process is simple and efficient</p>
 				</div>
 				<div class="row">
-					<div class="col-md-7 full-sm">
-						<img style="height: 400px;"
-							src="https://cdn.fash.com/assets/images/content/fash-stretch-limo-rental-suv-20-passengers.jpg"
+					<div class="col-md-7 full-sm px-5">
+						<img style="height: auto; width:auto"
+							src="images/Pearson-limo-Works.jpg"
 							alt="">
 					</div>
 					<div class="col-md-5 full-sm">
@@ -972,6 +972,7 @@
 					</div>
 				</div>
 			</div>
+
 		</section>
 		<!-- End Testimonial -->
 		<!-- Start Template Title -->

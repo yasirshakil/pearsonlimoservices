@@ -16,6 +16,15 @@ include ('./header.php');
 								<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
 							</div>
 						</section>
+						<section>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-6 col-md-6 col-sm-6 col-6">
+										
+									</div>
+								</div>
+							</div>
+						</section>
 					</div>
 				</div>
 				<div class="row">
