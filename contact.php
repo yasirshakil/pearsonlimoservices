@@ -18,7 +18,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 			</div>
 			<div class="mt-5 py-3 row">
 				<div class="col-md-8 Form-bg h-100 py-3">
-					<form id="contact-form" method="post" action="./functions.php?action=add_tank">
+					<form id="contact-form" method="POST" action="/functions.php">
 						<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
 							<h3 class="Form-Tital">Please fulfil the form below.</h3>
 						</div>
@@ -33,7 +33,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 							<div class="col-lg-2 col-md-2 col-sm-12 col-12">
 								<div class="field-Box">
 									<label for="">Hours</label>
-									<select class="Select" name="" id="" required="" name="hours">
+									<select class="Select" id="" required="" name="hours">
 										<option value="">Hours</option>
 										<option value="01">01</option>
 										<option value="02">02</option>
@@ -111,7 +111,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 							</div>
 							<div class="col-lg-12 col-md-12 col-sm-12 col-12">
 								<label for="">Phone Number</label>
-								<input class="Contact-detail" type="tel" maxlength="15" name="number" required="">
+								<input class="Contact-detail" type="tel" maxlength="15" name="telephone" required="">
 							</div>
 							<div class="col-lg-12 col-md-12 col-sm-12 col-12">
 								<?php echo recaptcha_get_html($publickey, $error); ?>
@@ -120,7 +120,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 								<!-- <div class="">
 									<button type="submit submit-after">Submit</button>
 								</div> -->
-								<button type="submit" class="Contact-Btn"> Submit </button>
+								<input type="submit" name="submit" class="Contact-Btn" value="submit" />
 							</div>
 						</div>
 					</form>
@@ -148,7 +148,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 						<div class="follow">
 							<h5>Follow Us</h5>
 							<ul>
-								
+
 							</ul>
 						</div>
 					</div> -->
@@ -160,12 +160,15 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 	<div class="w-100">
 		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5771.065461733466!2d-79.813125!3d43.678687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b1489f9bd91c3%3A0xac6fe621a7d305c1!2s17%20Willick%20Pl%2C%20Brampton%2C%20ON%20L6X%204Z5%2C%20Canada!5e0!3m2!1sen!2sus!4v1600577310613!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 	</div>
+
+
+
 	<!-- End contact Area -->
 <!-- Start Footer -->
 <?php
 	include ('./footer.php');
 ?>
-<script>
+<!-- <script>
 	$("#contact-form").submit( function(e){
 		e.preventDefault()
 		if( $(this).valid() ) {
@@ -199,8 +202,58 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 		}
 	})
 
-	$("#contact-form").validate({ 	
+	$("#contact-form").validate({
 	    errorClass: "validate-error"
 	});
-</script>
+</script> -->
 <!-- End Footer -->
+<!-- <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+//echo "<script> alert("working"); </script>";
+echo "Start";
+
+die('hello');
+
+// if(isset($_POST['submit'])) {
+// 	die('hello');
+// }
+	// if (isset($_POST['submit']))
+	// {
+	// 	$date      = $_POST['date'];
+	// 	$hours     = $_POST['hours'];
+	// 	$minutes   = $_POST['minutes'];
+	// 	$period    = $_POST['period'];
+	// 	$selectcar = $_POST['select-car'];
+	// 	$name      = $_POST['name'];
+	// 	$email     = $_POST['email'];
+	// 	$number    = $_POST['number'];
+	// 	if ($date == '' || $hours == '' || $minutes == '' || $period == '' || $selectcar == '' || $name == '' || $email == '' || $number == '') {
+	// 			//echo "<script> alert("all fields required"); </script>";
+	// 		echo "Required";
+	// 	}
+
+	// 	$form      = "Pearson Limo Service";
+	// 	$webmaster = "info@pearsonlimoservice.ca"
+	// 	$to        = "m.yasirshakil@gmail.com";
+	// 	$subject   = "Contact Us form Pearsonlimoservice"
+	// 	$headers   = "From: " . $from . "<" . $webmaster . ">\r\n";
+	// 	$headers   .= "X-Mailer: PHP/". phpversion() . "\r\n";
+	// 	$headers   .= "MIME-Version: 1.0" . "\r\n";
+	// 	$headers   .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+
+	// 	$message   = "<html><body>";
+	// 	$message   .= "<p> Date:". $_POST['date'] . "<p>";
+	// 	$message   .= "<p> Hours:". $_POST['hours'] . "<p>";
+	// 	$message   .= "<p> Minutes:". $_POST['minutes'] . "<p>";
+	// 	$message   .= "<p> Period:". $_POST['period'] . "<p>";
+	// 	$message   .= "<p> Select Car:". $_POST['select-car'] . "<p>";
+	// 	$message   .= "<p> Name:". $_POST['name'] . "<p>";
+	// 	$message   .= "<p> Email:". $_POST['email'] . "<p>";
+	// 	$message   .= "<p> Phone Number:". $_POST['number'] . "<p>";
+	// 	$sendmail  = mail($to, $subject, $message, $headers);
+	// 	//echo "<script> alert("Thank you") </script>";
+	// 	echo "End";
+	// }
+?> -->
