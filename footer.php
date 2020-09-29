@@ -5,30 +5,29 @@
 					<div class="widget-footer widget-about">
 						<div class="logo-ft">
 							<a href="#" title="">
-								<!-- <img src="images/logo-ft.png" alt=""> -->
-								<img class="footer-logo" src="images/logo/Pearson Limo without background for web.png" alt="">
+								<img class="footer-logo" src="images/logo/logo.png" alt="">
 							</a>
 						</div>
-						<ul class="social-ft">
-							<a class="Font-Links" href="#">
+						<!-- <ul class="social-ft">
+							<a class="Font-Links ml-2" href="#">
 								<i class="fa fa-facebook font-Awesome"></i>
 							</a>
-							<a class="Font-Links " href="#">
+							<a class="Font-Links ml-2 " href="#">
 								<i class="fa fa-instagram font-Awesome"></i>
 							</a>
-							<a class="Font-Links" href="#">
+							<a class="Font-Links ml-2" href="#">
 								<i class="fa fa-twitter font-Awesome"></i>
 							</a>
-							<a class="Font-Links" href="#">
+							<a class="Font-Links ml-2" href="#">
 								<i class="fa fa-linkedin font-Awesome"></i>
 							</a>
-							<a class="Font-Links" href="#">
+							<a class="Font-Links ml-2" href="#">
 								<i class="fa fa-google-plus font-Awesome"></i>
 							</a>
-							<a class="Font-Links" href="#">
+							<a class="Font-Links ml-2" href="#">
 								<i class="fa fa-envelope-open font-Awesome"></i>
 							</a>
-						</ul>
+						</ul> -->
 					</div>
 				</div>
 				<div class="col-md-2 ft2">
