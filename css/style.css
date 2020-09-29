@@ -2459,7 +2459,7 @@ ul.social-ft li:last-child {
 
 .logo img {
   position: absolute;
-  top: -40px;
+  left: 25px;
   height: 200px;
   width: auto;
 }

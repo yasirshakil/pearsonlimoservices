@@ -36,8 +36,8 @@ require 'vendor/autoload.php';
 			    $mail->Port       = 25;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
 
 			    //Recipients
-			    $mail->setFrom('yasir.shakeel@cooperativecomputing.com', 'Mailer');
-			    $mail->addAddress('yasir.shakeel@cooperativecomputing.com', 'Joe User');     // Add a recipient
+			    $mail->setFrom('info@pearsonlimoservice.ca', 'Mailer');
+			    $mail->addAddress('info@pearsonlimoservice.ca', 'Joe User');     // Add a recipient
 			    $mail->addAddress('yasir.shakeel@cooperativecomputing.com');               // Name is optional
 			    $mail->addReplyTo('yasir.shakeel@cooperativecomputing.com', 'Information');
 			    // $mail->addCC('cc@example.com');
@@ -48,10 +48,18 @@ require 'vendor/autoload.php';
 			    // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 
 			    // Content
-			    $mail->isHTML(true);                                  // Set email format to HTML
-			    $mail->Subject = 'Here is the subject';
-			    $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
-			    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+				$mail->isHTML(true);                                  // Set email format to HTML
+				$mail->Subject = 'Here is the subject';
+				$mail->Body    = "<html><body>";
+				$mail->Body    .= "<p> Date:". $_POST['date'] . "<p>";
+				$mail->Body    .= "<p> Hours:". $_POST['hours'] . "<p>";
+				$mail->Body    .= "<p> Minutes:". $_POST['minutes'] . "<p>";
+				$mail->Body    .= "<p> Period:". $_POST['period'] . "<p>";
+				$mail->Body    .= "<p> Select Car:". $_POST['select-car'] . "<p>";
+				$mail->Body    .= "<p> Name:". $_POST['name'] . "<p>";
+				$mail->Body    .= "<p> Email:". $_POST['email'] . "<p>";
+				$mail->Body    .= "<p> Phone Number:". $_POST['telephone'] . "<p>";
+				$mail->AltBody  = 'This is the body in plain text for non-HTML mail clients';
 
 			    $mail->send();
 			    echo 'Message has been sent';
