@@ -3362,5 +3362,8 @@ hr{
 
 .colorOne{color: #d7d2bd !important;}
 
-
+.howItWorks-ImgBox{
+	display: flex;
+	justify-content: center;
+}
 

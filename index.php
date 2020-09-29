@@ -710,8 +710,8 @@
 					<p class="subtitle">Our booking process is simple and efficient</p>
 				</div>
 				<div class="row">
-					<div class="col-md-7 full-sm px-5">
-						<img style="height: auto; width:auto"
+					<div class="col-md-7 full-sm howItWorks-ImgBox">
+						<img style="height: 410px; width:auto"
 							src="images/Yasir infographics shape.png"
 							alt="">
 					</div>
