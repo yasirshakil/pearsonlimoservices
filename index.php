@@ -712,7 +712,7 @@
 				<div class="row">
 					<div class="col-md-7 full-sm px-5">
 						<img style="height: auto; width:auto"
-							src="images/Pearson-limo-Works.jpg"
+							src="images/Yasir infographics shape.png"
 							alt="">
 					</div>
 					<div class="col-md-5 full-sm">

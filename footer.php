@@ -8,26 +8,16 @@
 								<img class="footer-logo" src="images/logo/logo.png" alt="">
 							</a>
 						</div>
-						<!-- <ul class="social-ft">
-							<a class="Font-Links ml-2" href="#">
-								<i class="fa fa-facebook font-Awesome"></i>
-							</a>
-							<a class="Font-Links ml-2 " href="#">
-								<i class="fa fa-instagram font-Awesome"></i>
-							</a>
-							<a class="Font-Links ml-2" href="#">
-								<i class="fa fa-twitter font-Awesome"></i>
-							</a>
-							<a class="Font-Links ml-2" href="#">
-								<i class="fa fa-linkedin font-Awesome"></i>
-							</a>
-							<a class="Font-Links ml-2" href="#">
-								<i class="fa fa-google-plus font-Awesome"></i>
-							</a>
-							<a class="Font-Links ml-2" href="#">
-								<i class="fa fa-envelope-open font-Awesome"></i>
-							</a>
-						</ul> -->
+					</div>
+				</div>
+				<div class="col-md-3 ft1">
+					<div class="widget-footer newletter">
+						<h3 class="title-ft">
+							Our Promise
+						</h3>
+							<p style="color:#969696; font-size:14px;">
+								we  believe our client is our priority. We strive in serving you as per your requirement. We focus on differentiating our service quality to make your limousine ride a memorable experience. Our dedicated and trained team of professionals are always there to help you find the best limousine solution for your travel needs. Pearson Limo Service, is the name you can rely on as we believe in giving superior quality service and placing our customers as our priority.
+							</p>
 					</div>
 				</div>
 				<div class="col-md-2 ft2">
@@ -106,30 +96,6 @@
 								<a href="#" title="">Hummer Strech Limousine </a>
 							</li>
 						</ul>
-					</div>
-				</div>
-				<div class="col-md-3 ft1">
-					<div class="widget-footer newletter">
-						<h3 class="title-ft">
-							Newsletter
-						</h3>
-						<p class="content-newletter">Subscribe to our newsletter for news,
-							updates, exclusive discounts and offers.</p>
-						<form id="subscribe-form" action="#" method="post" accept-charset="utf-8"
-							data-mailchimp="true">
-							<!-- <div id="subscribe-content">
-								<div class="field-one-third">
-									<div class="field-name">
-										<input id="subscribe-email" type="text" name="email" placeholder="Email">
-									</div>
-								</div>
-								<div class="btn-submit">
-									<button id="subscribe-button" type="button" class="base box-shadow"></button>
-								</div>
-							</div> -->
-							<div id="subscribe-msg">
-							</div>
-						</form>
 					</div>
 				</div>
 			</div>
