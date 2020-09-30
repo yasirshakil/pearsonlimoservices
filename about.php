@@ -339,7 +339,7 @@ include ('./header.php');
 				<div class="Content-Box">
 					<h2 class="mb-2">Airport Limo Service</h2>
 					<div class="borderr"></div>
-					<p class="bb-descr mt-3">
+					<p style="margin-bottom:48px;" class="bb-descr mt-3">
 						Looking to book a limo for the airport transfer. We are here to help with the best service and
 						luxurious fleet. We have a dedicated fleet for airport transfers which covers all international
 						and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport.
@@ -357,7 +357,7 @@ include ('./header.php');
 				<div class="Content-Box">
 					<h2 class="mb-2">Corporate Limo Service</h2>
 					<div class="borderr"></div>
-					<p class="bb-descr mt-3">
+					<p style="margin-bottom:20px;" class="bb-descr mt-3">
 						Limo Service for the corporate world is specifically designed to attend professional
 						needs of the corporate world. This service includes limousines rentals for corporate
 						meetings and recreational activities.
@@ -394,7 +394,7 @@ include ('./header.php');
 				<div class="Content-Box">
 					<h2 class="mb-2">Special Occasion Limo</h2>
 					<div class="borderr"></div>
-					<p class="bb-descr mt-3">
+					<p style="margin-bottom:20px;" class="bb-descr mt-3">
 						Looking to plan a party, a special event or even a date with a special someone. If you want to
 						feel confident and amazing you need a luxury limo ride to reach that occasion. We understand the
 						power of first impressions, therefore we would make sure you have a great first impression on
@@ -411,7 +411,7 @@ include ('./header.php');
 				<div class="Content-Box">
 					<h2 class="mb-2">Niagara Falls Tours</h2>
 					<div class="borderr"></div>
-					<p class="bb-descr mt-3">
+					<p style="margin-bottom:43px;" class="bb-descr mt-3">
 						Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
 						luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the world
 						Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
@@ -427,7 +427,7 @@ include ('./header.php');
 				<div class="Content-Box">
 					<h2 class="mb-2">Pearson For You <br>( Custom Solutions)</h2>
 					<div class="borderr"></div>
-					<p class="bb-descr mt-3">
+					<p style="margin-bottom:36px;" class="bb-descr mt-3">
 						If you think you have a certain set of requirements not covered in our standard packages. We are
 						more than willing to help you with a customized limousine rental solution. Call us at
 						905-974-9873 for custom limo solutions.
