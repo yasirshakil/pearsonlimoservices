@@ -681,7 +681,7 @@
 				<p class="content">Not only taking to night parties, weddings, casinos, birthdays but we also take
 					you to anywhere you want to go. </p>
 				<p class="contact"><span style="color:#d9c77e;">Call Now </span><a style="color: #d9c77e;"
-						href="tel:+1905-974-9873">1905-974-9873</a></p>
+						href="tel:+1905-974-9873">905-974-9873</a></p>
 
 				<a href="#" class="booking">Online Booking</a>
 			</div>

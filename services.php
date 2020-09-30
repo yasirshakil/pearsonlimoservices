@@ -21,7 +21,8 @@ include ('./header.php');
 				</div>
 				<p class="mb-4">
 					We have a range of limousines services available for our clients. These services are designed on best industry standards. Book us now to experience astonishing limousine rental services. 
-					Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport
+					Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports of GTA. Call us at <a style="color: #d9c77e;"
+						href="tel:+1905-974-9873">905-974-9873</a> for your perfect ride to airport
 				</p>
 				<div class="row">
 					<div class="col-lg-3 col-md-3 col-sm-6">
