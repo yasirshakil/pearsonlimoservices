@@ -27,23 +27,26 @@
 
 <body>
 	<div class="loader-div d-none">
-	    <img src="./images/loader.gif" alt="">
+		<img src="./images/loader.gif" alt="">
 	</div>
 	<div id="loading-overlay">
 		<div class="loader"></div>
 	</div>
 	<!-- Start Header -->
-		<header id="header" class="header-04">
+	<header id="header" class="header-04">
 		<div class="top-header">
 			<div class="container-fluid px-5">
 				<div class="row">
 					<div class="col-xs-12 col-sm-12 col-md-6 left-content">
 						<ul>
-							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us" href="tel:+18889211116">+1888-900-3001</a></li>
-							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us" href="tel:+14373707407">+1905-974-9873</a></li>
+							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us"
+									href="tel:+18889211116">+1888-900-3001</a></li>
+							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us"
+									href="tel:+14373707407">+1905-974-9873</a></li>
 							<li>
 								<i class="fa fa-envelope mr-2"></i>
-								<a class="Contact-us" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a>
+								<a class="Contact-us"
+									href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a>
 							</li>
 						</ul>
 					</div>
@@ -68,16 +71,6 @@
 								<i class="fa fa-envelope-open font-Awesome"></i>
 							</a>
 						</div>
-						<!-- <div class="top-menuleft no_bo">
-								<div class="x_language">
-									<img src="images/icon/web.png" alt="">
-									<select id="languages">
-									  <option value="saab">KR</option>
-									  <option value="vw">FR</option>
-									  <option value="audi" selected>TR</option>
-									</select>
-								</div>
-							</div> -->
 					</div>
 				</div>
 			</div>
@@ -122,12 +115,10 @@
 									<li>
 										<a class="links" href="Area-We-Serve.php">area we serve</a>
 									</li>
-									
 									<li>
 										<a class="links" href="Reservation.php">reservation</a>
 									</li>
 									</li>
-
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="contact.php">Contact</a>
 										<ul class="menu-dropdown after-drop">
@@ -153,5 +144,5 @@
 					</div> -->
 			</div>
 		</div>
-		</header>
+	</header>
 	<!-- End Header -->

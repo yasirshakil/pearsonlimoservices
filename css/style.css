@@ -3019,3 +3019,14 @@ div.loader-background {
   margin: auto;
   height: 25%;
 }
+
+.Modal{
+  height: 555px;
+  position: relative;
+  margin-bottom: 30px;
+
+}
+
+.adjust-modal-about{
+  top: 0;
+}
