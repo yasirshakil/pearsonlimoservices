@@ -16,7 +16,7 @@
 							Our Promise
 						</h3>
 							<p style="color:#969696; font-size:14px;">
-								we  believe our client is our priority. We strive in serving you as per your requirement. We focus on differentiating our service quality to make your limousine ride a memorable experience. Our dedicated and trained team of professionals are always there to help you find the best limousine solution for your travel needs. Pearson Limo Service, is the name you can rely on as we believe in giving superior quality service and placing our customers as our priority.
+								We  believe our client is our priority. We strive in serving you as per your requirement. We focus on differentiating our service quality to make your limousine ride a memorable experience. Our dedicated and trained team of professionals are always there to help you find the best limousine solution for your travel needs. Pearson Limo Service, is the name you can rely on as we believe in giving superior quality service and placing our customers as our priority.
 							</p>
 					</div>
 				</div>

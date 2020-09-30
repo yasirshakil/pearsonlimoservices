@@ -2655,36 +2655,49 @@ ul.social-ft li:last-child {
 
 .Box-Links {
   font-size: 14px;
-  font: 14px;
   text-transform: uppercase;
   color: #d9c77e;
   display: inline-block;
   position: relative;
   transition: 0.5s;
-  margin: 0px;
+  padding: 5px 20px 5px 20px;
+  background: #d9c77e;
+  color: black;
+  margin: 10px 0px 0px 0px;
+  z-index: 1;
+}
+
+.Box-Links::after{
+  content: '';
+  height: 100%;
+  width: 100%;
+  background: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: rotatex(-90deg);
+  z-index: -1;
+  transition: all 0.3s;
+}
+
+.Box-Links:hover::after{
+  transform: rotatex(0deg);
 }
 
 .Box-Links:hover {
-  font-size: 14px;
-  font: 14px;
-  text-transform: uppercase;
-  color: #d9c77e;
-  display: inline-block;
-  text-decoration: none;
-  position: relative;
-  margin: 0px;
+  color: #fff;
 }
 
 .LinkBorder {
-  height: 1px;
+  /* height: 1px;
   width: 0px;
   visibility: hidden;
   background-color: white;
-  transition: 0.2s;
+  transition: 0.2s; */
 }
 
 .LinksBox:hover .LinkBorder {
-  height: 1px;
+  /* height: 1px;
   visibility: visible;
   width: 80px;
   background: rgb(112, 112, 112);
@@ -2693,7 +2706,7 @@ ul.social-ft li:last-child {
     rgba(73, 73, 73, 1) 0%,
     rgba(255, 255, 255, 0.9780287114845938) 44%,
     rgba(73, 73, 73, 1) 100%
-  );
+  ); */
 }
 
 .Font-Links {
