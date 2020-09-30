@@ -40,7 +40,7 @@ include ('./header.php');
 								<img height="100px" width="100%" src="images/FleetBox_images/fleet2.jpeg" alt="">
 							</div>
 							<div class="services-content">
-								<h4><a class="Golden" href="Corporate-Limo-Services.php">Corporate Limo Services</a></h4>
+								<h4><a class="Golden" href="Corporate-Limo-Services.php">Corporate Limo Service</a></h4>
 							</div>
 						</div>
 					</div>
@@ -50,7 +50,7 @@ include ('./header.php');
 								<img height="100px" width="100%" src="images/FleetBox_images/wdding-limo.jpeg" alt="">
 							</div>
 							<div class="services-content">
-								<h4><a class="Golden" href="Wedding-Limo-Services.php">Wedding Limo Services</a></h4>
+								<h4><a class="Golden" href="Wedding-Limo-Services.php">Wedding Limo Rentals</a></h4>
 							</div>
 						</div>
 					</div>
@@ -90,7 +90,7 @@ include ('./header.php');
 								<img height="100px" width="100%" src="images/FleetBox_images/Funeral-limo.jpg" alt="">
 							</div>
 							<div class="services-content">
-								<h4><a class="Golden" href="Funeral-Limousine-Services.php">Fueranl</a></h4>
+								<h4><a class="Golden" href="Funeral-Limousine-Services.php"> Funeral Limo Service</a></h4>
 							</div>
 						</div>
 					</div>
@@ -100,7 +100,7 @@ include ('./header.php');
 								<img height="100px" width="100%" src="images/FleetBox_images/a-stethoscope-in-the-shape-of-18223082.jpg" alt="">
 							</div>
 							<div class="services-content">
-								<h4><a class="Golden" href="Medical-Limo-Transfer.php">Medical  </a></h4>
+								<h4><a class="Golden" href="Medical-Limo-Transfer.php"> Non-Emergency Medical Limo Transfer   </a></h4>
 							</div>
 						</div>
 					</div>
