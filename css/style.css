@@ -2963,6 +2963,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 
 @media only screen and (min-device-width: 280px) and (max-device-width: 1024px) {
+  
   .Content-Box h2 {
     font-size: 20px;
   }
@@ -2980,6 +2981,10 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
   .Area-We-Serve-Heading {
     font-size: 30px;
+  }
+
+  .About-Text-Col{
+    margin-top: 50px;
   }
 
 }

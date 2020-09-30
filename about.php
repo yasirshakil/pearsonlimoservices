@@ -19,10 +19,10 @@ include ('./header.php');
 			</div>
 		</div>
 	<section>
-		<div class="container-fluid p-4">
+		<div class="container p-4">
 			<div class="row">
-				<div class="col-lg-2 col-md-0 col-sm-0 col-0"></div>
-				<div class="col-lg-4 col-md-12 col-sm-12 col-12 Modal p-0">
+				<!-- <div class="col-lg-2 col-md-0 col-sm-0 col-0"></div> -->
+				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
 						<ul class="tab_booking">
 							<li class="active"><a href="#bk-1">Distance</a></li>
@@ -147,8 +147,8 @@ include ('./header.php');
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-6 col-md-12 col-sm-12 col-12">
-					<p class="mb-2">
+				<div class="col-lg-7 col-md-12 col-sm-12 col-12 About-Text-Col">
+					<p class="mb-2  text-justify">
 						At Pearson Limo Service we  believe our client is our priority. We strive in serving you as per your requirement.
 						We focus on differentiating our service quality to make your limousine ride a memorable experience. Our dedicated
 						and trained team of professionals are always there to help you find the best limousine solution for your travel needs.
@@ -156,13 +156,14 @@ include ('./header.php');
 						as our priority. <br>
 						We have devised a system which ensures a comfortable and luxurious limo ride each time you book with us. Pearson Limo service is dedicated toward achieving the best industry standards. We focus on limousines rental solutions which match your needs, we provide what you require. 
 					</p>
-					<h3 class="mb-2">Approach:</h3>
+					<h3 class="mb-2 text-justify">Approach:</h3>
 					<p class="mb-2">
 						Our approach is simple, understanding your needs is our main focus. We have a wide range of limo fleet with multiple standard packages for limousine rentals. What makes us different from others is that we dont tell you which limousine ride is available, we cater your choice of a limo and make it available at your doorstep. That is why we always say:
 					</p>
-					<h4 class="mb-2">“A limousine experience that is hard to forget”</h4>
-					<p class="mb-2">
-					If you want to feel the difference and you are looking for a quality limo rental solution, we are the right fit for you. Our three step solution makes it easier for you to have a limo ride on your doorstep within no time. Information, confirmation and you are all set for your destination.  Booking a Limousine is as simple as that with Pearson Limousines services. We would cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate limo services, out of town and special occasion limo service, and personalized limo solutions.
+					<h3 class="mb-4 text-center"><b>“A limousine experience that is hard to forget”</b></h3>
+					<h3 class="mb-2">Call To Action:</h3>
+					<p class="mb-2 text-justify">
+						If you want to feel the difference and you are looking for a quality limo rental solution, we are the right fit for you. Our three step solution makes it easier for you to have a limo ride on your doorstep within no time. Information, confirmation and you are all set for your destination.  Booking a Limousine is as simple as that with Pearson Limousines services. We would cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate limo services, out of town and special occasion limo service, and personalized limo solutions.
 					</p>
 				</div>
 			</div>
@@ -175,38 +176,6 @@ include ('./header.php');
 					<!-- <img width="100%" src="images/slider2.jpg" alt=""> -->
 				</div>
 			</div>
-			<div class="col-lg-12 col-md-12">
-				<div class="info-about">
-					<p>Pearson limo services. is a professional Limousine Service, dedicated to provide best limo
-						experience in Greater Toronto Area and Southern Ontario. Our vast network of Limo fleets
-						accompanied by our well trained staff is always there to cater you limo service needs.
-						Platinum Rides is a 24/7 limousine service operator which provides Airport Limo pick and
-						drops, Limousine Service for Corporate Clients, Limo booking for special events and out
-						of town Limo service.
-					</p>
-					<p>We believe in commitment, dedication and professionalism. We at Platinum rides understand
-						that booking a limo service demands premium expectation from our clients. Therefore we
-						strive to give you a superior and prestigious experience of riding a limousine and
-						enjoying your premium limo choice. We have variety of Limousines lined up for you, you
-						just have to PICK and CLICK! A limo would be there waiting for you.
-					</p>
-					<p>Pearson limo services. is a profound name in Limo Service Industry of Toronto and has served over
-						10,000 satisfied Limo Clients. Over the years; satisfaction, constructive feedback and
-						repeat visit of our Limousine Client has driven our core business and pushed us to
-						strike for excellence.
-					</p>
-					<p>
-						Pearson limo services. Rides, believe in providing premium limousine services at an affordable
-						price.
-						We provide sedan style limousines, stretch limousines and SUV’s Limo’s. You name it and
-						we got you covered; whether it is Limo SUV like Cadillac Escalades, stretched limo like
-						Lincoln Town cars or a Chevrolet Suburban Limo. Our Limo Service has got it covered for
-						you and that to at the most affordable price in the market. Book us now to feel the
-						difference.
-					</p>
-				</div>
-			</div>
-		</div>
 		<!-- <div class="row">
 					<div class="col-md-12">
 						<div class="info-about">
