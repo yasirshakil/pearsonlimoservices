@@ -1,48 +1,63 @@
 <?php
 include ('./header.php');
 ?>
-        <div class="container-fluid">
-            <div class="container">
-                <div class="row mb-5">
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                        <h1 class="Services-Heading p-5">Airport Limousine ransfer</h1>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                        <img width="100%" src="images/FleetBox_images/fleet1.jpg" alt="" />
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                        <h4 class="Services-Details">
-                            Airport Transfers:
-                        </h4>
-                        <p>
-                            Our Premium Limo Service is available for your airport transfer
-                            needs. Professional Chauffer’s would receive or drop you at your
-                            designated airport across Canada. Never miss a flight again,
-                            with our airport limo service. Our commitment of time management
-                            is our core promise, book in advance, or even a last minute
-                            call, if we confirm you, we would be there at your service. We
-                            treat our limousine services as a symbol of trust and
-                            reliability. Book us now to feel the difference.
-                        </p>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5 details">
-                        <h4 class="Services-Details">Meet and Greet:</h4>
-                        <p class="mb-5">Platinum rides along with its airport limousine transfers, provides a prestigious service of
-                            meet and greet at the airport. Are you expecting a VIP guest or you are new to Canada; we
-                            are there to give you a warm welcome. Our Courteous and Friendly Staff would be there at the
-                            arrival terminal to get your visit to Canada started. They will make you feel like home,
-                            take care of your luggage, assist with any queries and purchases and escort to your
-                            luxurious limousine waiting for you at the exit. Try it- Its great!
-                        </p>
-                        <a class="booking-btn" href="">Our Fleet</a>
-                        <a class="booking-btn" href="">Book Now</a>
-                    </div>
-                </div>
+<div class="container-fluid">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+                <h1 class="Services-Heading p-5">Airport Limo Service</h1>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                <img width="100%" src="images/FleetBox_images/fleet1.jpg" alt="" />
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                <h4 class="Services-Details">
+                    Airport Limo Service
+                </h4>
+                <p class="text-justify mb-2">
+                    Looking to book a limo for the airport transfer. We are here to help with the best service and
+                    luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and
+                    domestic airports of GTA. Call us at 123-456-7891 for your perfect ride to airport
+                </p>
+                <p class="text-justify mb-2">
+                    We cover all international and domestic airports in Toronto and Greater Toronto Area. Pearson YYZ is
+                    our top priority Toronto limo service.Pearson Limousine Service offer the most competitive rates
+                    (FROM or TO) Toronto Pearson International Airport (YYZ), Billy Bishop Toronto City Airport (YTZ),
+                    Downsview Airport (YZD), John C. Munro Hamilton International Airport (YHM), Buffalo Niagara
+                    International Airport (BUF), Niagara Falls International Airport (IAG). Our dedicated team of
+                    airport transfers understand both the urgency and accuracy of airport travels. Therefore, we urge
+                    you to book a limo ride which brings in both comfort, luxury and peace of mind.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5 details">
+                <h3 class="mb-2">We also offer additional services under our airport limo in toronto category as follow </h3>
+                <p class="text-justify mb-2">
+                    Meet and Greet: We offer official meet and greet service at the airport arrival areas, where a
+                    friendly and professional staff member would receive you and your luggage and escort to your
+                    designated limo service.
+                </p>
+                <p class="text-justify mb-2">
+                    Hotel Booking: We can also help you book a hotel or drop you off at the nearest hotel with your
+                    destination. Our Chauffeurs are well aware of the general market and would be more than happy to
+                    make suggestions.
+                </p>
+                <p class="text-justify mb-2">
+                    Non Emergency Medical transfers. If you are coming to Toronto to seek medical attention we would be
+                    able to assist you to take you to a designated hospital. For more details visit.
+                </p>
+                <p class="text-justify mb-2">
+                    City Tours: Airport transfers are city wide with pearson limo. We would pick and drop you to the
+                    airport from any city in GTA. Visit areas we serve for more details.
+                </p>
+                <a class="booking-btn" href="">Our Fleet</a>
+                <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>
-        <div class="scroll-top"></div>
     </div>
-    <?php
+</div>
+<div class="scroll-top"></div>
+</div>
+<?php
     include ('./footer.php');
 ?>
 <!-- End Footer -->

@@ -576,7 +576,7 @@
 									<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
 								</div>
 							</div>
-							<p style="color:#000;" class="sub-title">Explore our first class limousine & car rental services</p>
+							<p style="color:#000;" class="sub-title">Explore our first class limousine & car rental services.</p>
 						</div>
 					</div>
 				</div>
@@ -590,7 +590,7 @@
 								<h3>
 									<a href="#" title="">Easy Online Booking</a>
 								</h3>
-								<p>Lorem ipsum dolor sit amet, consectadipiscing elit. Aenean commodo ligula eget dolor.
+								<p>3 steps to book a perfect limo ride. Information, confirmation and destination.
 								</p>
 							</div>
 						</div>
@@ -604,8 +604,7 @@
 								<h3>
 									<a href="#" title="">Professional Drivers</a>
 								</h3>
-								<p>A new shuttle train service between Singapore and Johor Bahru kicked off on
-									Wednesday. </p>
+								<p>A dedicated team of professional chauffeurs, carrying valid license and due training to treat you with best service.</p>
 							</div>
 						</div>
 					</div>
@@ -618,8 +617,7 @@
 								<h3>
 									<a href="#" title="">Variety of Car Brands</a>
 								</h3>
-								<p>The service, called Shuttle Tebrau, is operated by Malaysia’s JB Sentral in just five
-									minutes.</p>
+								<p>A variety of limo rides to choose from; you name it and we got it.</p>
 							</div>
 						</div>
 					</div>
@@ -632,8 +630,7 @@
 								<h3>
 									<a href="#" title="">Online Payment</a>
 								</h3>
-								<p>York Airport Service is a private bus company that provides transportation area
-									airports and Manhattan.</p>
+								<p>Easy online payments before and after the ride.</p>
 							</div>
 						</div>
 					</div>

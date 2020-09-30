@@ -7,17 +7,17 @@ include ('./header.php');
 <!-- End Top Title -->
 <!-- Start About Area -->
 <section class="about">
-		<div class="row mb-3">
-			<div class="col-md-12">
-				<section class="template-title center">
-					<h1 class="title has-over">About Us</h1>
-					<span>About us</span>
-					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-						<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
-					</div>
-				</section>
-			</div>
+	<div class="row mb-3">
+		<div class="col-md-12">
+			<section class="template-title center">
+				<h1 class="title has-over">About Us</h1>
+				<span>About us</span>
+				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+					<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+				</div>
+			</section>
 		</div>
+	</div>
 	<section>
 		<div class="container p-4">
 			<div class="row">
@@ -149,21 +149,35 @@ include ('./header.php');
 				</div>
 				<div class="col-lg-7 col-md-12 col-sm-12 col-12 About-Text-Col">
 					<p class="mb-2  text-justify">
-						At Pearson Limo Service we  believe our client is our priority. We strive in serving you as per your requirement.
-						We focus on differentiating our service quality to make your limousine ride a memorable experience. Our dedicated
-						and trained team of professionals are always there to help you find the best limousine solution for your travel needs.
-						Pearson Limo Service, is the name you can rely on as we believe in giving superior quality service and placing our customers
+						At Pearson Limo Service we believe our client is our priority. We strive in serving you as per
+						your requirement.
+						We focus on differentiating our service quality to make your limousine ride a memorable
+						experience. Our dedicated
+						and trained team of professionals are always there to help you find the best limousine solution
+						for your travel needs.
+						Pearson Limo Service, is the name you can rely on as we believe in giving superior quality
+						service and placing our customers
 						as our priority. <br>
-						We have devised a system which ensures a comfortable and luxurious limo ride each time you book with us. Pearson Limo service is dedicated toward achieving the best industry standards. We focus on limousines rental solutions which match your needs, we provide what you require. 
+						We have devised a system which ensures a comfortable and luxurious limo ride each time you book
+						with us. Pearson Limo service is dedicated toward achieving the best industry standards. We
+						focus on limousines rental solutions which match your needs, we provide what you require.
 					</p>
-					<h3 class="mb-2 text-justify">Approach:</h3>
+					<h3 style="color:#d9c77e;" class="mb-2 text-justify">Approach:</h3>
 					<p class="mb-2">
-						Our approach is simple, understanding your needs is our main focus. We have a wide range of limo fleet with multiple standard packages for limousine rentals. What makes us different from others is that we dont tell you which limousine ride is available, we cater your choice of a limo and make it available at your doorstep. That is why we always say:
+						Our approach is simple, understanding your needs is our main focus. We have a wide range of limo
+						fleet with multiple standard packages for limousine rentals. What makes us different from others
+						is that we dont tell you which limousine ride is available, we cater your choice of a limo and
+						make it available at your doorstep. That is why we always say:
 					</p>
 					<h3 class="mb-4 text-center"><b>“A limousine experience that is hard to forget”</b></h3>
-					<h3 class="mb-2">Call To Action:</h3>
+					<h3 style="color:#d9c77e;" class="mb-2">Call To Action:</h3>
 					<p class="mb-2 text-justify">
-						If you want to feel the difference and you are looking for a quality limo rental solution, we are the right fit for you. Our three step solution makes it easier for you to have a limo ride on your doorstep within no time. Information, confirmation and you are all set for your destination.  Booking a Limousine is as simple as that with Pearson Limousines services. We would cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate limo services, out of town and special occasion limo service, and personalized limo solutions.
+						If you want to feel the difference and you are looking for a quality limo rental solution, we
+						are the right fit for you. Our three step solution makes it easier for you to have a limo ride
+						on your doorstep within no time. Information, confirmation and you are all set for your
+						destination. Booking a Limousine is as simple as that with Pearson Limousines services. We would
+						cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate
+						limo services, out of town and special occasion limo service, and personalized limo solutions.
 					</p>
 				</div>
 			</div>
@@ -176,7 +190,7 @@ include ('./header.php');
 					<!-- <img width="100%" src="images/slider2.jpg" alt=""> -->
 				</div>
 			</div>
-		<!-- <div class="row">
+			<!-- <div class="row">
 					<div class="col-md-12">
 						<div class="info-about">
 							<h4>Our Company</h4>
@@ -192,7 +206,7 @@ include ('./header.php');
 						</div>
 					</div>
 				</div> -->
-	</div>
+		</div>
 </section>
 <!-- End About Area -->
 <!-- Start Testimonial Area -->
@@ -306,12 +320,13 @@ include ('./header.php');
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 				<div class="Content-Box">
-					<h2 class="mb-2">Airport Limo Service</h2>
+					<h2 class="mb-3">Airport Limo Service</h2>
 					<div class="borderr"></div>
 					<p style="margin-bottom:48px;" class="bb-descr mt-3">
-						Looking to book a limo for the airport transfer. We are here to help with the best service and
-						luxurious fleet. We have a dedicated fleet for airport transfers which covers all international
-						and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to airport.
+						Looking to book a limo for the airport transfer. We are here to help with the best service
+						and luxurious fleet. We have a dedicated fleet for airport transfers which covers all
+						international and domestic airports of GTA. Call us at 905-974-9873 for your perfect ride to
+						airport.
 					</p>
 					<div>
 						<div class="LinksBox">
@@ -324,9 +339,9 @@ include ('./header.php');
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
 				<div class="Content-Box">
-					<h2 class="mb-2">Corporate Limo Service</h2>
+					<h2 class="mb-3">Corporate Limo Service</h2>
 					<div class="borderr"></div>
-					<p style="margin-bottom:20px;" class="bb-descr mt-3">
+					<p style="margin-bottom:24px;" class="bb-descr mt-3">
 						Limo Service for the corporate world is specifically designed to attend professional
 						needs of the corporate world. This service includes limousines rentals for corporate
 						meetings and recreational activities.
@@ -342,13 +357,14 @@ include ('./header.php');
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 				<div class="Content-Box">
-					<h2 class="mb-2">Wedding Limo Rentals</h2>
+					<h2 class="mb-3">Wedding Limo Rentals</h2>
 					<div class="borderr"></div>
 					<p class="bb-descr mt-3">
-						Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home
-						in stretch limo with luxury interior and comfort. We would love to be a part of your special day
-						by offering you the best limo service. We have a range of limo rides for you to choose from.
-						Visit our fleet for more information or Call us at 905-974-9873for your special ride.
+						Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her
+						home in stretch limo with luxury interior and comfort. We would love to be a part of your
+						special day by offering you the best limo service. We have a range of limo rides for you to
+						choose from. Visit our fleet for more information or Call us at 905-974-9873for your special
+						ride.
 					</p>
 					<div class="LinksBox">
 						<a class="Box-Links" href="">BOOK NOW</a>
@@ -361,13 +377,13 @@ include ('./header.php');
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 				<div class="Content-Box">
-					<h2 class="mb-2">Special Occasion Limo</h2>
+					<h2 class="mb-3">Special Occasion Limo</h2>
 					<div class="borderr"></div>
 					<p style="margin-bottom:20px;" class="bb-descr mt-3">
-						Looking to plan a party, a special event or even a date with a special someone. If you want to
-						feel confident and amazing you need a luxury limo ride to reach that occasion. We understand the
-						power of first impressions, therefore we would make sure you have a great first impression on
-						your special occasion. Call us at 905-974-9873 for a limo ride.
+						Looking to plan a party, a special event or even a date with a special someone. If you want
+						to feel confident and amazing you need a luxury limo ride to reach that occasion. We
+						understand the power of first impressions, therefore we would make sure you have a great
+						first impression on your special occasion. Call us at 905-974-9873 for a limo ride.
 					</p>
 					<div class="LinksBox">
 						<a class="Box-Links" href="">BOOK NOW</a>
@@ -378,12 +394,12 @@ include ('./header.php');
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
 				<div class="Content-Box">
-					<h2 class="mb-2">Niagara Falls Tours</h2>
+					<h2 class="mb-3">Niagara Falls Tours</h2>
 					<div class="borderr"></div>
 					<p style="margin-bottom:43px;" class="bb-descr mt-3">
 						Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
-						luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the world
-						Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
+						luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the
+						world Niagara falls. Call us at 905-974-9873 for special Niagara Limo Deals.
 					</p>
 					<div class="LinksBox">
 						<a class="Box-Links" href="">BOOK NOW</a>
@@ -394,11 +410,11 @@ include ('./header.php');
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
 				<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
 				<div class="Content-Box">
-					<h2 class="mb-2">Pearson For You <br>( Custom Solutions)</h2>
+					<h2 class="mb-3">Pearson For You <br>( Custom Solutions)</h2>
 					<div class="borderr"></div>
 					<p style="margin-bottom:36px;" class="bb-descr mt-3">
-						If you think you have a certain set of requirements not covered in our standard packages. We are
-						more than willing to help you with a customized limousine rental solution. Call us at
+						If you think you have a certain set of requirements not covered in our standard packages. We
+						are more than willing to help you with a customized limousine rental solution. Call us at
 						905-974-9873 for custom limo solutions.
 					</p>
 					<div class="LinksBox">
@@ -408,6 +424,7 @@ include ('./header.php');
 				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 </section>
 <!-- End Testimonial Area -->

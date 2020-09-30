@@ -253,7 +253,7 @@
 					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 				</div>
 			</div>
-			<p class="subtitle">We also take custom orders and will help you acquire a specific yacht</p>
+			<p class="subtitle">A limo ride for everyone, your choice is our command. We have the most versatile limo fleet in the business. You name it and we have it.</p>
 		</div>
 	</section>
 	<!-- End Template title -->
@@ -680,8 +680,8 @@
 				</h3>
 				<p class="content">Not only taking to night parties, weddings, casinos, birthdays but we also take
 					you to anywhere you want to go. </p>
-				<p class="contact"><span style="color:#ccb867;">Call now </span><a style="color: #ccb867;"
-						href="tel:+1905-974-9873">+1905-974-9873</a></p>
+				<p class="contact"><span style="color:#d9c77e;">Call Now </span><a style="color: #d9c77e;"
+						href="tel:+1905-974-9873">1905-974-9873</a></p>
 
 				<a href="#" class="booking">Online Booking</a>
 			</div>
@@ -796,7 +796,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 					<div class="Content-Box">
-						<h2 class="mb-2">Airport Limo Service</h2>
+						<h2 class="mb-3">Airport Limo Service</h2>
 						<div class="borderr"></div>
 						<p style="margin-bottom:48px;" class="bb-descr mt-3">
 							Looking to book a limo for the airport transfer. We are here to help with the best service
@@ -815,7 +815,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
 					<div class="Content-Box">
-						<h2 class="mb-2">Corporate Limo Service</h2>
+						<h2 class="mb-3">Corporate Limo Service</h2>
 						<div class="borderr"></div>
 						<p style="margin-bottom:24px;" class="bb-descr mt-3">
 							Limo Service for the corporate world is specifically designed to attend professional
@@ -833,7 +833,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 					<div class="Content-Box">
-						<h2 class="mb-2">Wedding Limo Rentals</h2>
+						<h2 class="mb-3">Wedding Limo Rentals</h2>
 						<div class="borderr"></div>
 						<p class="bb-descr mt-3">
 							Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her
@@ -853,7 +853,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 					<div class="Content-Box">
-						<h2 class="mb-2">Special Occasion Limo</h2>
+						<h2 class="mb-3">Special Occasion Limo</h2>
 						<div class="borderr"></div>
 						<p style="margin-bottom:20px;" class="bb-descr mt-3">
 							Looking to plan a party, a special event or even a date with a special someone. If you want
@@ -870,7 +870,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
 					<div class="Content-Box">
-						<h2 class="mb-2">Niagara Falls Tours</h2>
+						<h2 class="mb-3">Niagara Falls Tours</h2>
 						<div class="borderr"></div>
 						<p style="margin-bottom:43px;" class="bb-descr mt-3">
 							Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
@@ -886,7 +886,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
 					<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
 					<div class="Content-Box">
-						<h2 class="mb-2">Pearson For You <br>( Custom Solutions)</h2>
+						<h2 class="mb-3">Pearson For You <br>(Custom Solutions)</h2>
 						<div class="borderr"></div>
 						<p style="margin-bottom:36px;" class="bb-descr mt-3">
 							If you think you have a certain set of requirements not covered in our standard packages. We

@@ -27,13 +27,22 @@
 						</h3>
 						<ul>
 							<li>
-								<a href="#" title="">Airport transfer</a>
+								<a href="#" title="">Airport Limo Service</a>
 							</li>
 							<li>
-								<a href="#" title="">Limousine service</a>
+								<a href="#" title="">Corporate Limo Service</a>
 							</li>
 							<li>
-								<a href="#" title="">Chauffeur service</a>
+								<a href="#" title="">Wedding Limo Rentals</a>
+							</li>
+							<li>
+								<a href="#" title="">Special Occasion Limo</a>
+							</li>
+							<li>
+								<a href="#" title="">Niagara Falls Tours</a>
+							</li>
+							<li>
+								<a href="#" title="">Pearson For You ( Custom Solutions )</a>
 							</li>
 						</ul>
 					</div>
@@ -112,25 +121,22 @@
 					</div>
 					<ul class="city">
 						<li>
-							<a href="#" title="">New York</a>
+							<a href="#" title="">TORONTO</a>
 						</li>
 						<li>
-							<a href="#" title="">Istanbul</a>
+							<a href="#" title="">RICHMOND HILL</a>
 						</li>
 						<li>
-							<a href="#" title="">London</a>
+							<a href="#" title="">OSHAWA</a>
 						</li>
 						<li>
-							<a href="#" title="">Berlin</a>
+							<a href="#" title="">MUSKOKA</a>
 						</li>
 						<li>
-							<a href="#" title="">Los Angeles</a>
+							<a href="#" title="">OAKVILLE</a>
 						</li>
 						<li>
-							<a href="#" title="">Paris</a>
-						</li>
-						<li>
-							<a href="#" title="">All cities</a>
+							<a href="#" title="">NIAGARA FALLS</a>
 						</li>
 					</ul>
 				</div>
