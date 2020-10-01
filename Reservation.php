@@ -17,7 +17,7 @@ include ('./header.php');
 				<div class="col-lg-12 col-md-12 col-sm-12 col-12">
 					<h1 class="Limousine-Reservation mb-5">Limousine Reservation:</h1>
 					<hr />
-					<h1 class="Making-Reservation mt-3">Making a Reservation</h1>
+					<h1 class="Limousine-Reservation mt-3">Making a Reservation</h1>
 				</div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-12 px-4 Detail-Or-Contact mt-4">
 					<p style="margin-top: 10px; font-size: 16px">

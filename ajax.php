@@ -17,7 +17,7 @@ include ('./header.php');
                         <span><a class="Highlight" href="https://Pearsonlimoservices.ca/">www.Pearsonlimoservices.ca</a></span>
                     </p>
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-10 col-10 py-3 OnlineBookig">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig">
                     <h3 class="Reaervationonline text-center">ONLINE RESERVATION</h3>
                     <p class="AreaDetails mb-5">
                         It is a long established fact that a reader will be distracted by
