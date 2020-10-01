@@ -324,7 +324,7 @@ include ('./header.php');
 					<p style="margin-bottom:48px;" class="bb-descr mt-3">
 						Looking to book a limo for the airport transfer. We are here to help with the best service
 						and luxurious fleet. We have a dedicated fleet for airport transfers which covers all
-						international and domestic airports of GTA. Call us at <a class="Highlight" href="tel:1905-974-9873">1905-974-9873</a> for your perfect ride to
+						international and domestic airports of GTA. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your perfect ride to
 						airport.
 					</p>
 					<div>
@@ -362,7 +362,7 @@ include ('./header.php');
 						Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her
 						home in stretch limo with luxury interior and comfort. We would love to be a part of your
 						special day by offering you the best limo service. We have a range of limo rides for you to
-						choose from. Visit our fleet for more information or Call us at <a class="Highlight" href="tel:1905-974-9873">1905-974-9873</a> for your special
+						choose from. Visit our fleet for more information or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your special
 						ride.
 					</p>
 					<div class="LinksBox">
@@ -382,7 +382,7 @@ include ('./header.php');
 						Looking to plan a party, a special event or even a date with a special someone. If you want
 						to feel confident and amazing you need a luxury limo ride to reach that occasion. We
 						understand the power of first impressions, therefore we would make sure you have a great
-						first impression on your special occasion. Call us at <a class="Highlight" href="tel:1905-974-9873">1905-974-9873</a> for a limo ride.
+						first impression on your special occasion. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for a limo ride.
 					</p>
 					<div class="LinksBox">
 						<a class="Box-Links" href="">BOOK NOW</a>
@@ -398,7 +398,7 @@ include ('./header.php');
 					<p style="margin-bottom:43px;" class="bb-descr mt-3">
 						Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
 						luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the
-						world Niagara falls. Call us at <a class="Highlight" href="tel:1905-974-9873">1905-974-9873</a> for special Niagara Limo Deals.
+						world Niagara falls. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for special Niagara Limo Deals.
 					</p>
 					<div class="LinksBox">
 						<a class="Box-Links" href="">BOOK NOW</a>
@@ -414,7 +414,7 @@ include ('./header.php');
 					<p style="margin-bottom:36px;" class="bb-descr mt-3">
 						If you think you have a certain set of requirements not covered in our standard packages. We
 						are more than willing to help you with a customized limousine rental solution. Call us at
-						<a class="Highlight" href="tel:1905-974-9873">1905-974-9873</a> for custom limo solutions.
+						<a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for custom limo solutions.
 					</p>
 					<div class="LinksBox">
 						<a class="Box-Links" href="">BOOK NOW</a>

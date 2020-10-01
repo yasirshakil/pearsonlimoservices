@@ -50,7 +50,7 @@ include ('./header.php');
                         When You <b>Arrive at</b> <a class="Highlight" href="">Toronto Pearson Airport</a> you just need to follow a simple pickup procedure to
                         get to your prearranged Limo service booked with Platinum Rides.
                     </p>
-                    <h2 class="my-2">PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 1.(Door A)</h2>
+                    <h2 class="my-2 Airport-pickup-headings">PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 1.(Door A)</h2>
                     <p class="mb-2 ">Clear Customs, pick up your checked-in bags if any, and walk through the
                         arrival hall, just as you step out of the arrival hall and come out to the terminal’s public
                         area you will see the doors with alphabets. You need to look for <b>Door A</b>. you will see a
@@ -62,7 +62,7 @@ include ('./header.php');
                         CALL us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> and we will assist you through the pickup procedure.
                     </p>
                     <hr>
-                    <h2>PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 3.(Post 7)</h2>
+                    <h2 class="Airport-pickup-headings">PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 3.(Post 7)</h2>
                     <p class="my-2">Clear Customs, pick up your checked-in bags if any, and walk through the
                         arrival hall, just as you step out of the arrival hall and come out to the terminal’s public
                         area you will see the doors with alphabets. You need to <b>look for Door A</b>. Now you
@@ -79,7 +79,7 @@ include ('./header.php');
                         you through the pickup procedure.
                     </p>
                     <hr>
-                    <h2 class="my-2">Meet and Greet Service: Toronto Pearson Airport (YYZ)</h2>
+                    <h2 class="my-2 Airport-pickup-headings">Meet and Greet Service: Toronto Pearson Airport (YYZ)</h2>
                     <p class="mb-2">
                         We offer <b>Meet and Greet Service at Toronto Pearson Airport.</b> Platinum rides along with its
                         airport limousine transfers provide a prestigious service of meet and greet at the airport. Are

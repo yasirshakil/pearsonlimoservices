@@ -2669,7 +2669,7 @@ ul.social-ft li:last-child {
   content: '';
   height: 100%;
   width: 100%;
-  background: black;
+  background: #bf9c60;
   position: absolute;
   top: 0;
   left: 0;
@@ -2683,7 +2683,7 @@ ul.social-ft li:last-child {
 }
 
 .Box-Links:hover {
-  color: #fff;
+  color: #000000;
 }
 
 .LinkBorder {
@@ -2884,7 +2884,8 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 }
 
 .Highlight:hover{
-  color: #000;
+  color: #d9c77e;
+  text-decoration: underline;
   font-size: 18px;
   font-weight: 600;
 }
@@ -3021,7 +3022,13 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   font-size: 36px;
 }
 
+.Airport-pickup-headings{
+  line-height: 25px;
+  font-size: 25px;
 }
+}
+
+
 
 .validate-error {
   color: red;
@@ -3066,7 +3073,8 @@ div.loader-background {
 }
 
 .Golden:hover{
-  color: #000;
+  color: #d9c77e;
+  text-decoration: underline;
   font-weight: 600;
 }
 
