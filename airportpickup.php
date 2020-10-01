@@ -4,7 +4,7 @@ include ('./header.php');
         <div class="container my-5 bgColor">
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                    <h1 style="color:#d9c77e;" class="my-5 AjaxLimo">Airport Pickup Procedure</h1>
+                    <h1 style="color:#d9c77e;" class="mb-5 AjaxLimo">Airport Pickup Procedure</h1>
                     <p class="mb-2 AreaDetails">
                         Arriving at <a class="Highlight" href="">Toronto Pearson Airport</a>  from an International destination or from within Canada, let
                         us take care of your ground transportation just as you arrive in <a class="Highlight" href="">Toronto</a> . You can pre-book your
