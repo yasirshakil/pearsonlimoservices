@@ -5,7 +5,17 @@ include ('./header.php');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                <h1 class="Services-Heading p-5">Medical</h1>
+                <section class="template-title center mt-5">
+                    <h1 class="title has-over">
+
+                        Non-Emergency Medical Limo Transfer</h1>
+                    <span>
+
+                        Non-Emergency Medical Limo Transfer</span>
+                    <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                    </div>
+                </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/Funeral-limo.jpg" alt="" />
@@ -15,7 +25,7 @@ include ('./header.php');
                     Medical
                 </h4>
                 <h4 class="mb-2">
-                    Reliable and Safe Medical Transportation Services:
+                    Non-Emergency Medical Limo Transfer
                 </h4>
                 <p class="text-justify mb-2">
                     Platinum Rides Limo Services offers non-emergency patient transfer services provider for people with
@@ -40,7 +50,8 @@ include ('./header.php');
                     <li>Dialysis treatments</li>
                 </ul>
                 <p class="mb-5 text-justify">
-                    If you have any questions regarding our medical transportation service, Please Email us <a class="Highlight"href="mailto:pearsonlimoervices.ca">info@pearsonlimoervices.ca</a> 
+                    If you have any questions regarding our medical transportation service, Please Email us <a
+                        class="Highlight" href="mailto:pearsonlimoervices.ca">info@pearsonlimoervices.ca</a>
                     or call our dispatch for more
                     inquiries <a class="Highlight" href="tel:+1905-974-9873">+1905-974-9873</a>
                 </p>

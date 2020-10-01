@@ -250,6 +250,7 @@ input[type="submit"] {
 } */
 
 .Contact-Btn{
+  position: relative;
   height: 50px;
   width: 120px;
   background-color: #d9c77e;
@@ -258,33 +259,30 @@ input[type="submit"] {
   font-weight: 600;
   letter-spacing: 2px;
   text-transform: uppercase;
-  position: relative;
   z-index: 2;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.3s ;
 }
 
 .Contact-Btn::after{
+  content: '';
+  background-color: black;
   position: absolute;
-  content: "";
-  border: none;
+  height: 100%;
+  width: 100%;
+  transform: rotatex(-90deg);
   top: 0;
   left: 0;
-  font-weight: 600;
-  height: 100%;
-  transform: rotatex(90deg);
-  width: 100%;
-  background-color:transparent;
-  transition: all 0.3s ease-in-out;
-}
-
-.Contact-Btn:hover{
-  color: #d9c77e;
+  transition: all 0.3s ;
 }
 
 .Contact-Btn:hover::after{
   transform: rotatex(0deg);
-  background-color: #000 ;
   z-index: -2;
+
+}
+
+.Contact-Btn:hover{
+  color: #fff;
 }
 
 select,
@@ -2997,6 +2995,23 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   .AjaxLimo{
     font-size: 30px;
   }
+  .Area-We-Serve-Btn {
+    padding: 5px 0px 5px 0px;
+    background: #d9c77e;
+    color: #000;
+    border: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 10px;
+}
+
+.howItWorks-ImgBox img{
+  height: 370px;
+  width: auto;
+}
+
+
 }
 
 .validate-error {
@@ -3039,4 +3054,10 @@ div.loader-background {
 .Golden{
   color: #d9c77e;
   font-weight: 600;
+}
+
+
+.howItWorks-ImgBox img{
+  height: 400px;
+  width: auto;
 }

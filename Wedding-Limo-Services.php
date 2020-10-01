@@ -6,15 +6,18 @@ include ('./header.php');
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                <h1 class="Services-Heading p-5">Wedding Limo Rentals</h1>
+            <section class="template-title center mt-5">
+                    <h1 class="title has-over">Wedding Limo Services</h1>
+                    <span>Wedding Limo Services</span>
+                    <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                    </div>
+                </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/wdding-limo.jpeg" alt="" />
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <h4 class="mb-2">
-                    Wedding Limo Rentals
-                </h4>
                 <p class="text-justify mb-2">
                     Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
                     stretch limo with luxury interior and comfort. We would love to be a part of your special day by

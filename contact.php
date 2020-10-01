@@ -117,10 +117,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 								<?php echo recaptcha_get_html($publickey, $error); ?>
 							</div>
 							<div class=" BtnBox col-lg-12 col-md-12 col-sm-12 col-12 mt-3 text-right">
-								<!-- <div class="">
-									<button type="submit submit-after">Submit</button>
-								</div> -->
-								<input type="submit" name="submit" class="Contact-Btn" value="submit" />
+								<button type="submit" name="submit" class="Contact-Btn" value="">submit</button>
 							</div>
 						</div>
 					</form>

@@ -6,14 +6,20 @@ include ('./header.php');
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                <h1 class="Services-Heading p-5">Funeral</h1>
+            <section class="template-title center mt-5">
+                    <h1 class="title has-over">Funeral Limo Services</h1>
+                    <span>Funeral Limo Services</span>
+                    <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                    </div>
+                </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/Funeral-limo.jpg" alt="" />
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <h4 class="Services-Details">
-                    Funeral
+                    Funeral Limo Services
                 </h4>
                 <p class="text-justify mb-2">
                     We provide service to funerals, wakes, and any other kind of service where a loved one has passed.

@@ -6,7 +6,13 @@ include ('./header.php');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                <h1 class="Services-Heading p-5">Customize Limousine Rental Solution</h1>
+            <section class="template-title center mt-5">
+                    <h1 class="title has-over">Customize solutions</h1>
+                    <span>OCustomize solutions</span>
+                    <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                    </div>
+                </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/fleet6.png" alt="" />
