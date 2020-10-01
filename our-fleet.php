@@ -18,7 +18,7 @@
 									<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
 								</div>
 							</div>
-							<p style="color:#000;">We also take custom orders and will help you acquire a specific yacht.</p>
+							<p style="color:#000;">A limo ride for everyone, your choice is our command. We have the most versatile limo fleet in the business. You name it and we have it.</p>
 						</div>
 					</div>
 				</div>
