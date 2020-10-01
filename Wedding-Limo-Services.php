@@ -22,7 +22,7 @@ include ('./header.php');
                     Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
                     stretch limo with luxury interior and comfort. We would love to be a part of your special day by
                     offering you the best limo service. We have a range of limo rides for you to choose from. Visit our
-                    fleet for more information or Call us at 905-974-9873 for your special ride.
+                    fleet for more information or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your special ride.
                 </p>
                 <p class="text-justify mb-2">
                     The biggest event in your life just got better, we would be pleased to help you out in your grand

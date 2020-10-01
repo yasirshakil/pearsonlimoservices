@@ -24,7 +24,7 @@ include ('./header.php');
 						<i class="fa fa-info-circle text-warning"></i> If you require
 						limousine service within the next 8 hours, or you wish to modify
 						an existing reservation, please call
-						<a style="color: #d9c77e" href="tel:+1 (437) 370-7407">+1 (437) 370-7407</a>.
+						<a style="color: #d9c77e" href="tel:1905-974-9873">905-974-9873</a>
 					</p>
 				</div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-12 my-4">

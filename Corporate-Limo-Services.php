@@ -22,7 +22,7 @@ include ('./header.php');
                     If you are looking for a professional limousine service to cater your corporate needs; we have the
                     right solution for you. Our system is designed to understand your needs and offer limousine rental
                     solutions as per your requirement. A dedicated fleet with highly trained chauffeur awaits your call
-                    at 905-974-9873.
+                    at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a>
                 </p>
                 <p class="text-justify mb-2">
                     At Pearson Limousine Service, we understand the business environment and the professional approach

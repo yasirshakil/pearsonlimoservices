@@ -23,7 +23,7 @@ include ('./header.php');
                 <p class="text-justify mb-2">
                     Looking to book a limo for the airport transfer. We are here to help with the best service and
                     luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and
-                    domestic airports of GTA. Call us at 123-456-7891 for your perfect ride to airport
+                    domestic airports of GTA. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your perfect ride to airport
                 </p>
                 <p class="text-justify mb-2">
                     We cover all international and domestic airports in Toronto and Greater Toronto Area. Pearson YYZ is

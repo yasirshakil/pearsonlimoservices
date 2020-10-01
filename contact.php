@@ -128,7 +128,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 						<p class="mb-2"><b>32 English Lane Brantford, ON N3T 5L5</b></p>
 						<div class="contact">
 							<p class="makeReservation"><a href="mailto:info@pearsonlimoservices.ca"><i class="fa fa-envelope"></i>info@pearsonlimoservices.ca</a></p>
-							<p class="makeReservation"><a href="tel:+18889003001"><i class="fa fa-phone"></i>+1888-900-3001</a></p>
+							<p class="makeReservation"><a href="tel:8889003001"><i class="fa fa-phone"></i>888-900-3001</a></p>
                     		<p class="makeReservation"><a href="tel:+19059749873"><i class="fa fa-mobile-phone"></i>905-974-9873</a></p>
 						</div>
 					</div>

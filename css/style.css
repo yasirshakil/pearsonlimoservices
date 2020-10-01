@@ -2883,6 +2883,12 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   font-weight: 600;
 }
 
+.Highlight:hover{
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
 .PearsonLimoNumber{
   color: #d9c77e;
   font-size: 18px;
@@ -3012,7 +3018,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 }
 
 .Limousine-Reservation {
-  font-size: 36px;
+  font-size: 3px;
 }
 
 }
@@ -3056,6 +3062,11 @@ div.loader-background {
 
 .Golden{
   color: #d9c77e;
+  font-weight: 600;
+}
+
+.Golden:hover{
+  color: #000;
   font-weight: 600;
 }
 
