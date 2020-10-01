@@ -13,8 +13,8 @@ include ('./header.php');
                         Transportation to/from Toronto Airport, Buffalo Airport, Niagara Airport and Hamilton Airport Our
                         extraordinary and luxurious fleet of limousines are ready at your disposal in Ajax and its
                         surrounding areas, to get a quote or make your reservation call us at
-                        <span style="color: #d9c77e;"><a class="Highlight" href="tel:+19059749873">+1905-974-9873</a></span> or visit:
-                        <span><a class="Highlight" href="https://Pearsonlimoservices.ca/">www.Pearsonlimoservices.ca</a></span>
+                        <span style="color: #d9c77e;"><a class="Highlight" href="tel:9059749873">905-974-9873</a></span> or visit:
+                        <span><a class="Highlight" href="https://pearsonlimoservices.ca">www.Pearsonlimoservices.ca</a></span>
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig">
@@ -24,19 +24,19 @@ include ('./header.php');
                         the readable content of a page when looking at its layout.
                     </p>
 						<div class="ReservationBox">
-							<p class="makeReservation m-auto"><a href="tel:+18889211116"><i class="fa fa-phone"></i>+1888-900-3001</a></p>
-                    		<p class="makeReservation m-auto"><a href="tel:+19059749873"><i class="fa fa-mobile-phone"></i>+1905-974-9873</a></p>
+							<p class="makeReservation m-auto"><a href="tel:8889211116"><i class="fa fa-phone"></i>888-900-3001</a></p>
+                    		<p class="makeReservation m-auto"><a href="tel:9059749873"><i class="fa fa-mobile-phone"></i>905-974-9873</a></p>
 						</div>
 						<div class="ReservationBox">
-							<p class="makeReservation m-auto"><a href="https://www.platinumrides.ca/reservation/"><i class="fa fa-car"></i>Make Reservation</a></p>
-                   			<p class="makeReservation m-auto"><a href="https://www.platinumrides.ca/fleet"><i class="fa fa-car"></i>Our Fleet</a></p>
+							<p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/reservation.php"><i class="fa fa-car"></i>Make Reservation</a></p>
+                   			<p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/our-fleet.php"><i class="fa fa-car"></i>Our Fleet</a></p>
 						</div>
                     <div class="social_Links_Div ml-3">
-                        <a  href="https://www.facebook.com/platinumrides7"><i class="fa fa-facebook"></i></a>
-                        <a  href="https://twitter.com/platinumrides7"><i class="fa fa-twitter"></i></a>
-                        <a  href="http://platinumridesca@gmail.com"><i class="fa fa-google-plus"></i></a>
-                        <a  href="https://www.linkedin.com/in/shehroz-qamar7/"><i class="fa fa-linkedin"></i></a>
-                        <a  href="https://www.instagram.com/platinumrides7/?hl=en"><i class="fa fa-instagram"></i></a>
+                        <a  href=""><i class="fa fa-facebook"></i></a>
+                        <a  href=""><i class="fa fa-twitter"></i></a>
+                        <a  href=""><i class="fa fa-google-plus"></i></a>
+                        <a  href=""><i class="fa fa-linkedin"></i></a>
+                        <a  href=""><i class="fa fa-instagram"></i></a>
                         </li>
                         </ul>
                         <br /><br />
@@ -48,7 +48,7 @@ include ('./header.php');
 						 Rolls Royce Phantom, Chevrolet Suburban, Hummer Stretch Limousine, Shuttle Van, Minibus, and many more.
 						Our limousine fleet is astonishingly luxurious and our professionally trained chauffeurs are there to help you throughout your journey.
 						Regardless of the occasion, count on us to get you where you need to go. Getting a Limo in Ajax has never been easier; visit our website. 
-						<a class="Highlight" href="https://Pearsonlimoservices.ca/fleet"> Pearsonlimoservices.ca</a> and fill up your reservation.
+						<a class="Highlight" href="https://Pearsonlimoservices.ca"> Pearsonlimoservices.ca</a> and fill up your reservation.
 					</p>
                     <p class="mb-2 AreaDetails">Our belief is in providing the highest quality limo experience to fulfill your requirements. Our team
                         ensures a state-of-the-art limousine experience is delivered every single time you ride with the
@@ -59,7 +59,7 @@ include ('./header.php');
                     </p>
                     <hr>
                     <h4 class="mb-2">“Mark your destinations and we will mark the difference”</h4>
-                    <p class="mb-2 AreaDetails">
+                    <p class="mb-2">
                         All our chauffeurs are licensed and insured professionals who work hard to ensure the safety and
                         satisfaction of every client on each trip. The best customer service rating in the limousine
                         industry of
@@ -78,7 +78,7 @@ include ('./header.php');
                         <li>Stags and Bachelorette party transportation</li>
                         <li>Prom and Graduation Limo Rental</li>
                         <li>Concerts Limo Rentals</li>
-                        <li>Sporting events such as Maple&nbsp;Leaf’s games, or&nbsp;Blue Jays Games</li>
+                        <li>Sporting events such as Maple Leaf’s games, or Blue Jays Games</li>
                         <li>Girls night out limo rental</li>
                         <li>Guys night out limo rental</li>
                         <li>Conferences, conventions and business meetings</li>
@@ -89,8 +89,8 @@ include ('./header.php');
                         <li>and so much more</li>
                     </ul>
                     <hr>
-                    <h4 class="mb-2 AreaDetails">If you need a limo… Call us now and reserve your limo!</h4>
-                    <p class=" mb-2 AreaDetails">Call Us! Our Ajax Limousine Service would be pleased to offer our airport limo service to pick you up
+                    <h4 class="mb-2 ">If you need a limo… Call us now and reserve your limo!</h4>
+                    <p class=" mb-2 ">Call Us! Our Ajax Limousine Service would be pleased to offer our airport limo service to pick you up
                         and
                         shuttle you to/from Toronto Pearson International Airport, Toronto City Centre Airport, Oshawa
                         Airport,
@@ -98,9 +98,9 @@ include ('./header.php');
 					</p>
 					<hr>
                     <h4 class="mb-2">Limo Rentals Around Ajax</h4>
-                    <p class="mb-2 AreaDetails">Are you looking for&nbsp;reliable airport transportation? Try Ajax Airport Limo Service.
-                        Our&nbsp;Airport
-                        Limo/Shuttle/ service&nbsp;provides Limousine Service to/from Ajax and the neighboring communities
+                    <p class="mb-2 ">Are you looking for reliable airport transportation? Try Ajax Airport Limo Service.
+                        Our Airport
+                        Limo/Shuttle/ service provides Limousine Service to/from Ajax and the neighboring communities
                         of
                     </p>
                     <hr>
