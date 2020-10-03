@@ -90,8 +90,6 @@
 							<div id="main-menu" class="main-menu">
 								<div class="top-text">
 									<span>
-										<!-- <a href="index.html" title=""><img src="images/logo.png" alt=""></a></span> -->
-										<!-- <a href="index.html" title=""><img style="height: 70px; width: 150px;" sty src="../Logo - Final (24 Jul 20)/Logo transparent for Website.png" alt=""></a></span> -->
 										<i class="pe-7s-close"></i>
 								</div>
 								<ul class="menu">

@@ -3088,7 +3088,6 @@ div.loader-background {
 
 .Cars-Detail-imgBox {
   height: auto;
-  border: solid 1px whitesmoke;
 }
 
 .Cars-Detail-imgBox img {
@@ -3104,7 +3103,6 @@ div.loader-background {
 .About-Car {
   border-radius: 10px;
   padding: 5px 0px 5px 10px;
-  border: solid 1px whitesmoke;
   margin: 5px 0px 5px 5px;
   background: #fff;
 }
@@ -3119,4 +3117,52 @@ div.loader-background {
 
 .Car-Detail-Btn:hover {
   color: #fff;
+}
+
+.limoking-car-rate-wrapper{
+  background-color: red;
+}
+
+.Rates{
+  border-radius: 10px;
+  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100%);
+  height: auto;
+}
+
+.rates-heading{
+  display: flex;
+}
+
+.rates-heading h5 {
+  margin-top: -7px;
+  margin-left: 15px;
+  color: #000;
+}
+
+.rates-heading2{
+  display: flex;
+  margin-left: 40px;
+}
+
+.rates-heading2 p{
+  color: #000;
+  font-size: 17px;
+  margin-right: 10px;
+}
+
+.rates-heading2 sub{
+  font-size: 12px;
+  margin-left: 8px;
+}
+
+.rates-heading2 b {
+  font-size: 23px;
+  color: #d9c77e;
+  margin-right: 10px;
+
+}
+
+.small-text{
+  color: #000;
+  font-size: 12px !important;
 }
