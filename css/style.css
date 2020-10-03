@@ -3083,3 +3083,40 @@ div.loader-background {
   height: 400px;
   width: auto;
 }
+
+/* cars detail */
+
+.Cars-Detail-imgBox {
+  height: auto;
+  border: solid 1px whitesmoke;
+}
+
+.Cars-Detail-imgBox img {
+  width: 100%;
+  height: auto;
+}
+
+.Cars-Detail {
+  border-radius: 10px;
+  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100%);
+}
+
+.About-Car {
+  border-radius: 10px;
+  padding: 5px 0px 5px 10px;
+  border: solid 1px whitesmoke;
+  margin: 5px 0px 5px 5px;
+  background: #fff;
+}
+
+.Car-Detail-Btn {
+  background-color: #d9c77e;
+  padding: 10px 30px 10px 30px;
+  color: #000000;
+  position: relative;
+  transition: all 0.3s;
+}
+
+.Car-Detail-Btn:hover {
+  color: #fff;
+}
