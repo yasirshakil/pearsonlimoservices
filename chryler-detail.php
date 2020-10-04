@@ -127,7 +127,7 @@ include ('./header.php');
                     accommodated.</p>
                 <hr>
                 <p>
-                    Don’t waste your time in searching of useless sites, go on Book now, <br> and reserve your desired
+                    Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
                     car, or Call us at +1 (437) 370-7407 or Tollfree +1 (888) 921-1116.
                 </p>
             </div>
