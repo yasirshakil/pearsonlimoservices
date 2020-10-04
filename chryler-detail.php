@@ -39,7 +39,7 @@ include ('./header.php');
                 <a class="Car-Detail-Btn ml-2 m-3" href=""> Make Reservation</a>
             </div>
             <div class="col-lg-7 col-md-7 col-sm-12 col-12 py-4 pr-5">
-                <h3 class="mb-2 limoColor">Chrysler 300 Limousine</h3>
+                <h3 class="mb-2 limoColor">Chrysler 300:</h3>
                 <p class="mb-2">
                     Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Platinum Rides Limousine
                     fleet. This unique retro design is reminiscent and exceptional. The Chrysler 300 limo is very
