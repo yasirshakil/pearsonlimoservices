@@ -3128,6 +3128,7 @@ div.loader-background {
 }
 
 .Rates{
+  padding: 28px 60px;
   border-radius: 10px;
   background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100%);
   height: auto;

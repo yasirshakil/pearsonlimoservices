@@ -56,7 +56,7 @@ include ('./header.php');
                 </p>
             </div>
             <div class="col-lg-5 Rates">
-                <div class="Rates-main-box pt-5">  
+                <div class="Rates-main-box">  
                     <span class="rates-heading">
                     <img src="https://yyzlimo.ca/wp-content/plugins/gdlr-car/images/per-hour-rate.png" alt="">
                     <h5 class=""> PER HOUR RATE</h5>
@@ -68,7 +68,7 @@ include ('./header.php');
                     </span>
                     <hr>
                 </div>
-                <div class="Rates-main-box pt-5">  
+                <div class="Rates-main-box">  
                     <span class="rates-heading">
                     <img src="https://yyzlimo.ca/wp-content/plugins/gdlr-car/images/per-day-rate.png" alt="">
                     <h5 class=""> PER DAY RATE</h5>
@@ -80,7 +80,7 @@ include ('./header.php');
                     </span>
                     <hr>
                 </div>
-                <div class="Rates-main-box pt-5">  
+                <div class="Rates-main-box">  
                     <span class="rates-heading">
                     <img src="https://yyzlimo.ca/wp-content/plugins/gdlr-car/images/airport-transfer.png" alt="">
                     <h5 class="">AIRPORT TRANSFER</h5>
