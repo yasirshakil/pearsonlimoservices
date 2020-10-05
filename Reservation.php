@@ -156,7 +156,7 @@ include ('./header.php');
 				</div>
 			</div> -->
 	<div class="row mb-5">
-		<div class="col-lg-12 col-md-12 sm-12 col-12">
+		<div class="col-lg-12 col-md-12 sm-12 col-12 mb-3">
 			<h3>Information</h3>
 		</div>
 		<div class="col-lg-6 col-md-6 sm-12 col-12">
@@ -185,7 +185,7 @@ include ('./header.php');
 		</div>
 		<div class="col-lg-12">
 			<hr>
-			<h3>Reservation</h3>
+			<h3 class="mb-3">Reservation</h3>
 		</div>
 		<div class="col-lg-5 col-md-5 sm-12 col-12">
 			<label for="">Date:</label>
@@ -207,9 +207,9 @@ include ('./header.php');
 				<option value="PM">PM</option>
 			</select>
 		</div>
-		<div class="col-lg-12">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
 			<hr>
-			<h3>Form:</h3>
+			<h3 class="mb-3">Form:</h3>
 			<p>
 				<b>Are you arriving at a Toronto Airport?</b>
 				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
@@ -231,9 +231,9 @@ include ('./header.php');
 			<label for="">Flight No.:</label>
 			<input type="text" />
 		</div>
-		<div class="col-lg-12">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-3">
 			<hr>
-			<h3>To:</h3>
+			<h3 class="mb-3">To:</h3>
 			<p>
 				<b>Are you going to a Toronto Airport? </b>
 				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
@@ -255,6 +255,15 @@ include ('./header.php');
 			<label for="">Flight No.:</label>
 			<input type="text" />
 		</div>
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+		<hr>
+		<h3 class="mb-3">Return</h3>
+		<p>
+				<b>Are you going to a Toronto Airport?</b>
+				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
+				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
+			</p>
+		</div>
 		<div class="col-lg-6 col-md-5 sm-12 col-12">
 			<label for="">Date:</label>
 			<input type="date" />
@@ -271,7 +280,65 @@ include ('./header.php');
 				<option value="PM">PM</option>
 			</select>
 		</div>
-		<div class="col-lg-12">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+			<hr>
+			<h3 class="mb-3">Form:</h3>
+			<p>
+				<b>Are you arriving from an Toronto Airport?</b>
+				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
+				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
+			</p>
+		</div>
+		<div class="col-lg-4 col-md-12 sm-12 col-12">
+			<label for="">Airport:</label>
+			<select name="" id="">
+				<option value=""></option>
+				<option value=""></option>
+			</select>
+		</div>
+		<div class="col-lg-4 col-md-6 sm-12 col-12">
+			<label for="">Airline:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-4 col-md-6 sm-12 col-12">
+			<label for="">Flight No.:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+			<hr>
+			<h3 class="mb-3">To:</h3>
+			<p>
+				<b>Are you going to a Toronto Airport?</b>
+				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
+				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
+			</p>
+		</div>
+		<div class="col-lg-4 col-md-12 sm-12 col-12">
+			<label for="">Airport:</label>
+			<select name="" id="">
+				<option value=""></option>
+				<option value=""></option>
+			</select>
+		</div>
+		<div class="col-lg-4 col-md-6 sm-12 col-12">
+			<label for="">Airline:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-4 col-md-6 sm-12 col-12">
+			<label for="">Flight No.:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+			<hr>
+			<h3 class="mb-3">To:</h3>
+			<p>
+				<b>Are you going to a Toronto Airport?</b>
+				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
+				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
+			</p>
+		</div>
+		
+		<!-- <div class="col-lg-12">
 			<hr>
 			<h3>From:</h3>
 			<p>
@@ -294,18 +361,17 @@ include ('./header.php');
 		<div class="col-lg-4 col-md-6 sm-12 col-12">
 			<label for="">Flight No.:</label>
 			<input type="text" />
+		</div> -->
+		<div class="col-lg-12 col-md-12 sm-12 col-12 mb-3">
+		<hr>
+			<h3>Special Requests</h3>
 		</div>
-		<div class="col-lg-5 col-md-5 sm-12 col-12">
-			<label for="">Suit:</label>
-			<input type="date" />
+		<div class="col-lg-6 col-md-6 col-sm-8 col-8">
+			<label for="">Request:</label>
+			<textarea name="" id="" cols="30" rows="10"></textarea>
 		</div>
-		<div class="col-lg-3 col-md-3 sm-12 col-12">
-			<label for="">NO:</label>
-			<select name="" id=""></select>
-		</div>
-		<div class="col-lg-3 col-md-3 sm-6 col-6">
-			<label for="">Postal Code:</label>
-			<select name="" id=""></select>
+		<div class="col-lg-6 col-md-6 col-sm-4 col-4 Reservation-request-box">
+			<p class="">(e.g. coffee, wake-up call, stop en route)</p>
 		</div>
 	</div>
 </div>

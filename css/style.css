@@ -3171,3 +3171,8 @@ div.loader-background {
   color: #000;
   font-size: 12px !important;
 }
+
+.Reservation-request-box{
+  display: flex;
+  align-items: center;
+}
