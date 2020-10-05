@@ -1,19 +1,20 @@
 <?php
 include ('./header.php');
-?>		<!-- End Header -->
-	<div class="container">
-			<div class="row my-5">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-					<section class="template-title center">
-						<h1 class="title has-over">Reservation</h1>
-						<span>Reservation</span>
-					</section>
-				</div>
-				<div class="co-lg-12 col-md-12 col-sm-12 col-12">
-					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
-				</div>
-			</div>
-			<div class="row mb-5">
+?>
+<!-- End Header -->
+<div class="container">
+	<div class="row my-5">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+			<section class="template-title center">
+				<h1 class="title has-over">Reservation</h1>
+				<span>Reservation</span>
+			</section>
+		</div>
+		<div class="co-lg-12 col-md-12 col-sm-12 col-12">
+			<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+		</div>
+	</div>
+	<!-- <div class="row mb-5">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-12">
 					<h1 class="Limousine-Reservation mb-5">Limousine Reservation:</h1>
 					<hr />
@@ -117,8 +118,8 @@ include ('./header.php');
 						</select>
 					</span>
 				</div>
-			</div>
-			<div class="row mb-5">
+			</div> -->
+	<!-- <div class="row mb-5">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<h1 class="From mb-5">From:</h1>
 					<hr />
@@ -153,11 +154,72 @@ include ('./header.php');
 							class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control required"
 							id="flightno" aria-required="true" aria-invalid="false"></span>
 				</div>
-			</div>
+			</div> -->
+	<div class="row mb-5">
+		<div class="col-lg-12 col-md-12 sm-12 col-12">
+			<h3>Information</h3>
+		</div>
+		<div class="col-lg-6 col-md-6 sm-12 col-12">
+			<label for="">Full Name:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-6 col-md-6 sm-12 col-12">
+			<label for="">Company:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-6 col-md-6 sm-12 col-12">
+			<label for="">Phone Number:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-6 col-md-6 sm-12 col-12">
+			<label for="">Company:</label>
+			<input type="text" />
+		</div>
+		<div class="col-lg-3 col-md-3 sm-6 col-6">
+			<label for="">Payment Method:</label>
+			<select name="" id=""></select>
+		</div>
+		<div class="col-lg-3 col-md-3 sm-6 col-6">
+			<label for="">Vehicle</label>
+			<select name="" id=""></select>
+		</div>
+		<div class="col-lg-12">
+			<hr>
+			<h3>Reservation</h3>
+		</div>
+		<div class="col-lg-5 col-md-5 sm-12 col-12">
+			<label for="">Date:</label>
+			<input type="date" />
+		</div>
+		<div class="col-lg-3 col-md-3 sm-12 col-12">
+			<label for="">Occasion:</label>
+			<select name="" id=""></select>
+		</div>
+		<div class="col-lg-3 col-md-3 sm-6 col-6">
+			<label for="">Time:</label>
+			<select name="" id=""></select>
+			( i.e. 12:00 )
+		</div>
+		<div class="col-lg-1 col-md-1 sm-6 col-6">
+			<label for="">AM/PM</label>
+			<select name="" id="">
+				<option value="AM">AM</option>
+				<option value="PM">PM</option>
+			</select>
+		</div>
+		<div class="col-lg-12">
+			<hr>
+			<h3>Form:</h3>
+			<p>
+				<b>Are you arriving at a Toronto Airport?</b>
+				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
+				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
+			</p>
 		</div>
 	</div>
+</div>
 
-	<?php
+<?php
     include ('./footer.php');
 ?>
 <!-- End Footer -->
