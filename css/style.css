@@ -3178,12 +3178,77 @@ div.loader-background {
 }
 
 .collapse-box{
-  border: solid 1px #dcdcdc;
+  background: whitesmoke;
   transition: all 0.2s ease-out !important;
   overflow: hidden;
 }
 
 .SelectCars{
-  border: solid 1px #dcdcdc;
-  height: 180px;
+  position: relative;
+  height: 200px;
+}
+
+.img-reservation-cars{
+  width: 100%;
+  height: 80%;
+
+}
+
+.reservartion-car-detail{
+  height: 20%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+  /* transition: 0.5s all; */
+}
+
+.reservartion-car-detail h5 {
+  padding-right: 40px;
+  padding-left: 40px;
+  transition: all 0.3s;
+  color: transparent;
+}
+
+.SelectCars:hover .reservartion-car-detail h5 {
+  color: #000;
+}
+
+.SelectCars:hover .reservartion-car-detail{
+  visibility: visible;
+
+}
+
+
+.SelectCars img {
+  width: 100%;
+}
+
+.car-name{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 0px;
+  width: 100%;
+  overflow: hidden;
+  transition: 0.2s ease-in-out;
+  background-color: rgba(0,0,0,0.5);
+  display: grid;
+  place-items: center;
+}
+
+.SelectCars:hover .car-name {
+  height: 100%;
+
+}
+
+.car-name h2 {
+  color: #fff;
+}
+
+.reservation-btn{
+  height: 42px;
+  width: 100%;
+  text-align: left;
 }

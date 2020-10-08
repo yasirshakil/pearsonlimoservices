@@ -14,41 +14,37 @@
 		</div>
 	</div>
 	<div class="row mt-5">
-		<div id="collapse-div" class="col-lg-12 collapse-box mb-5">
-			<button class="mb-4" onclick="Collapse(1)">Reservation Form</button>
+		<div id="collapse-div" class="col-lg-12 collapse-box p-0">
+			<button class="mb-4 reservation-btn" onclick="Collapse(1)">Section 1</button>
 		</div>
 	</div>
 </div>
 
-<div id="collapse-div2" class="container collapse-box mb-5">
-	<button class="mb-4" onclick="Collapse(2)">Select Cars</button>
+<div id="collapse-div2" class="container collapse-box p-0">
+	<button class="mb-4 reservation-btn" onclick="Collapse(2)">Section 2</button>
 	<div class="row">
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
-		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars p-2">
+			<div class="img-reservation-cars">
+				<img src="images/cars/bentlet.png" alt="">
+			</div>
+			<div class="reservartion-car-detail">
+				<h5>Max 0</h5>
+				<h5>Max 0</h5>
+			</div>
+			<div class="car-name">
+				<h2>Name</h2>
+			</div>
+		</div>
 	</div>
 </div>
 
 <div class="container">
 	<div class="row mb-5">
-		<div id="collapse-div3" class="col-lg-12 collapse-box mb-5">
-			<button class="mb-4" onclick="Collapse(3)">Payment Mathods</button>
+		<div id="collapse-div3" class="col-lg-12 collapse-box p-0">
+			<button class="mb-4 reservation-btn" onclick="Collapse(3)">Section 3</button>
 		</div>
-		<div id="collapse-div4" class="col-lg-12 collapse-box mb-5">
-			<button class="mb-4" onclick="Collapse(4)">Select Cars</button>
+		<div id="collapse-div4" class="col-lg-12 collapse-box mb-5 p-0">
+			<button class="mb-4 reservation-btn" onclick="Collapse(4)">Section 4</button>
 		</div>
 	</div>
 </div>
@@ -73,11 +69,11 @@
 			}
 		}
 		if (x == 2) {
-			if (Collapse_div2.style.height == "768px") {
+			if (Collapse_div2.style.height == "848px") {
 				Collapse_div2.style.height = "40px"
 			}
 			else {
-				Collapse_div2.style.height = "768px"
+				Collapse_div2.style.height = "848px"
 			}
 		}
 		if (x == 3) {
