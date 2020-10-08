@@ -3176,3 +3176,14 @@ div.loader-background {
   display: flex;
   align-items: center;
 }
+
+.collapse-box{
+  border: solid 1px #dcdcdc;
+  transition: all 0.2s ease-out !important;
+  overflow: hidden;
+}
+
+.SelectCars{
+  border: solid 1px #dcdcdc;
+  height: 180px;
+}

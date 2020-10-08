@@ -1,7 +1,6 @@
 <?php
-include ('./header.php');
+	include('./header.php');
 ?>
-<!-- End Header -->
 <div class="container">
 	<div class="row my-5">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
@@ -14,369 +13,92 @@ include ('./header.php');
 			<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 		</div>
 	</div>
-	<!-- <div class="row mb-5">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-					<h1 class="Limousine-Reservation mb-5">Limousine Reservation:</h1>
-					<hr />
-					<h1 class="Limousine-Reservation mt-3">Making a Reservation</h1>
-				</div>
-				<div class="col-lg-12 col-md-12 col-sm-12 col-12 px-4 Detail-Or-Contact mt-4">
-					<p style="margin-top: 10px; font-size: 16px">
-						<i class="fa fa-info-circle text-warning"></i> If you require
-						limousine service within the next 8 hours, or you wish to modify
-						an existing reservation, please call
-						<a style="color: #d9c77e" href="tel:1905-974-9873">905-974-9873</a>
-					</p>
-				</div>
-				<div class="col-lg-12 col-md-12 col-sm-12 col-12 my-4">
-					<p class="lead">Thank You for choosing Platinum Rides Limousine!</p>
-					<hr />
-				</div>
-				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<label>Reservation Date</label><br />
-					<span class="reservation-date">
-						<input type="date" name="reservation-date" value="" class="form-control/" />
-					</span>
-				</div>
-				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-					<label>Hours</label>
-					<span class="form-control-wrap">
-						<select name="HH" class="required">
-							<option value="">HH</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-					<label>Minuts</label><br />
-					<span class="form-control-wrap">
-						<select name="MM" class="required">
-							<option value="">MM</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-					<label>AM/PM</label><br />
-					<span class="form-control-wrap">
-						<select name="AM/PM" class="required">
-							<option value="">AM</option>
-							<option value="01">PM</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-					<label>No. of passenger</label><br />
-					<span class="form-control-wrap">
-						<select name="select_pessenger" class="required">
-							<option value="1">1</option>
-							<option value="2">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-					<label>No. of kids</label><br />
-					<span class="form-control-wrap">
-						<select name="select_kids" class="required">
-							<option value="1">1</option>
-							<option value="2">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-					<label>Child Seat Count</label><br />
-					<span class="form-control-wrap">
-						<select name="select_child" class="required">
-							<option value="1">1</option>
-							<option value="2">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-					<label># of Pax:</label><br />
-					<span class="form-control-wrap">
-						<select name="select_pessenger" class="required">
-							<option value="1">1</option>
-							<option value="2">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-					<label>Luggage:</label><br />
-					<span class="form-control-wrap">
-						<select name="Luggage" class="required">
-							<option value="1">1</option>
-							<option value="2">2</option>
-							<option value="3">3</option>
-							<option value="4">4</option>
-						</select>
-					</span>
-				</div>
-			</div> -->
-	<!-- <div class="row mb-5">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-					<h1 class="From mb-5">From:</h1>
-					<hr />
-				</div>
-				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-					<label>Pickup From</label><br />
-					<span class="form-control-wrap">
-						<select name="pickup-from" class="required">
-							<option value="Airport">Airport</option>
-							<option value="Other">Other</option>
-						</select>
-					</span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-					<label>Airport</label><br>
-					<span class="form-control-wrap">
-						<input type="text" name="pickup-from-name"
-							class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control required"
-							aria-required="true" aria-invalid="false"></span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-					<label>Airline</label><br>
-					<span class="wpcf7-form-control-wrap pickup-from-airline"><input type="text"
-							name="pickup-from-airline" value="" size="40"
-							class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control required"
-							aria-required="true" aria-invalid="false"></span>
-				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-					<label>Flight No#</label><br>
-					<span class="wpcf7-form-control-wrap pickup-from-flightno"><input type="text"
-							name="pickup-from-flightno" value="" size="40"
-							class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control required"
-							id="flightno" aria-required="true" aria-invalid="false"></span>
-				</div>
-			</div> -->
-	<div class="row mb-5">
-		<div class="col-lg-12 col-md-12 sm-12 col-12 mb-3">
-			<h3>Information</h3>
-		</div>
-		<div class="col-lg-6 col-md-6 sm-12 col-12">
-			<label for="">Full Name:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-6 col-md-6 sm-12 col-12">
-			<label for="">Company:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-6 col-md-6 sm-12 col-12">
-			<label for="">Phone Number:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-6 col-md-6 sm-12 col-12">
-			<label for="">Company:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-3 col-md-3 sm-6 col-6">
-			<label for="">Payment Method:</label>
-			<select name="" id=""></select>
-		</div>
-		<div class="col-lg-3 col-md-3 sm-6 col-6">
-			<label for="">Vehicle</label>
-			<select name="" id=""></select>
-		</div>
-		<div class="col-lg-12">
-			<hr>
-			<h3 class="mb-3">Reservation</h3>
-		</div>
-		<div class="col-lg-5 col-md-5 sm-12 col-12">
-			<label for="">Date:</label>
-			<input type="date" />
-		</div>
-		<div class="col-lg-3 col-md-3 sm-12 col-12">
-			<label for="">Occasion:</label>
-			<select name="" id=""></select>
-		</div>
-		<div class="col-lg-3 col-md-3 sm-6 col-6">
-			<label for="">Time:</label>
-			<select name="" id=""></select>
-			( i.e. 12:00 )
-		</div>
-		<div class="col-lg-1 col-md-1 sm-6 col-6">
-			<label for="">AM/PM</label>
-			<select name="" id="">
-				<option value="AM">AM</option>
-				<option value="PM">PM</option>
-			</select>
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-			<hr>
-			<h3 class="mb-3">Form:</h3>
-			<p>
-				<b>Are you arriving at a Toronto Airport?</b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		<div class="col-lg-4 col-md-12 sm-12 col-12">
-			<label for="">Airport:</label>
-			<select name="" id="">
-				<option value=""></option>
-				<option value=""></option>
-			</select>
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Airline:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Flight No.:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-3">
-			<hr>
-			<h3 class="mb-3">To:</h3>
-			<p>
-				<b>Are you going to a Toronto Airport? </b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		<div class="col-lg-4 col-md-12 sm-12 col-12">
-			<label for="">Airport:</label>
-			<select name="" id="">
-				<option value=""></option>
-				<option value=""></option>
-			</select>
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Airline:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Flight No.:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-		<hr>
-		<h3 class="mb-3">Return</h3>
-		<p>
-				<b>Are you going to a Toronto Airport?</b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		<div class="col-lg-6 col-md-5 sm-12 col-12">
-			<label for="">Date:</label>
-			<input type="date" />
-		</div>
-		<div class="col-lg-3 col-md-3 sm-6 col-6">
-			<label for="">Time:</label>
-			<select name="" id=""></select>
-			( i.e. 12:00 )
-		</div>
-		<div class="col-lg-3 col-md-3 sm-6 col-6">
-			<label for="">AM/PM</label>
-			<select name="" id="">
-				<option value="AM">AM</option>
-				<option value="PM">PM</option>
-			</select>
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-			<hr>
-			<h3 class="mb-3">Form:</h3>
-			<p>
-				<b>Are you arriving from an Toronto Airport?</b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		<div class="col-lg-4 col-md-12 sm-12 col-12">
-			<label for="">Airport:</label>
-			<select name="" id="">
-				<option value=""></option>
-				<option value=""></option>
-			</select>
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Airline:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Flight No.:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-			<hr>
-			<h3 class="mb-3">To:</h3>
-			<p>
-				<b>Are you going to a Toronto Airport?</b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		<div class="col-lg-4 col-md-12 sm-12 col-12">
-			<label for="">Airport:</label>
-			<select name="" id="">
-				<option value=""></option>
-				<option value=""></option>
-			</select>
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Airline:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Flight No.:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12">
-			<hr>
-			<h3 class="mb-3">To:</h3>
-			<p>
-				<b>Are you going to a Toronto Airport?</b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		
-		<!-- <div class="col-lg-12">
-			<hr>
-			<h3>From:</h3>
-			<p>
-				<b>Are you arriving from an Toronto Airport? </b>
-				<input type="radio" name="ResFromChoice" value="Yes" onclick=""> Yes
-				<input type="radio" name="ResFromChoice" value="No" onclick="" checked=""> No
-			</p>
-		</div>
-		<div class="col-lg-4 col-md-12 sm-12 col-12">
-			<label for="">Airport:</label>
-			<select name="" id="">
-				<option value=""></option>
-				<option value=""></option>
-			</select>
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Airline:</label>
-			<input type="text" />
-		</div>
-		<div class="col-lg-4 col-md-6 sm-12 col-12">
-			<label for="">Flight No.:</label>
-			<input type="text" />
-		</div> -->
-		<div class="col-lg-12 col-md-12 sm-12 col-12 mb-3">
-		<hr>
-			<h3>Special Requests</h3>
-		</div>
-		<div class="col-lg-6 col-md-6 col-sm-8 col-8">
-			<label for="">Request:</label>
-			<textarea name="" id="" cols="30" rows="10"></textarea>
-		</div>
-		<div class="col-lg-6 col-md-6 col-sm-4 col-4 Reservation-request-box">
-			<p class="">(e.g. coffee, wake-up call, stop en route)</p>
+	<div class="row mt-5">
+		<div id="collapse-div" class="col-lg-12 collapse-box mb-5">
+			<button class="mb-4" onclick="Collapse(1)">Reservation Form</button>
 		</div>
 	</div>
 </div>
 
+<div id="collapse-div2" class="container collapse-box mb-5">
+	<button class="mb-4" onclick="Collapse(2)">Select Cars</button>
+	<div class="row">
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+		<div class="col-lg-3 SelectCars"></div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row mb-5">
+		<div id="collapse-div3" class="col-lg-12 collapse-box mb-5">
+			<button class="mb-4" onclick="Collapse(3)">Payment Mathods</button>
+		</div>
+		<div id="collapse-div4" class="col-lg-12 collapse-box mb-5">
+			<button class="mb-4" onclick="Collapse(4)">Select Cars</button>
+		</div>
+	</div>
+</div>
+<script>
+	let Collapse_div = document.getElementById("collapse-div")
+	let Collapse_div2 = document.getElementById("collapse-div2")
+	let Collapse_div3 = document.getElementById("collapse-div3")
+	let Collapse_div4 = document.getElementById("collapse-div4")
+
+
+	Collapse_div.style.height = "500px"
+	Collapse_div2.style.height = "40px"
+	Collapse_div3.style.height = "40px"
+	Collapse_div4.style.height = "40px"
+	function Collapse(x, v) {
+		if (x == 1) {
+			if (Collapse_div.style.height == "500px") {
+				Collapse_div.style.height = "40px"
+			}
+			else {
+				Collapse_div.style.height = "500px"
+			}
+		}
+		if (x == 2) {
+			if (Collapse_div2.style.height == "768px") {
+				Collapse_div2.style.height = "40px"
+			}
+			else {
+				Collapse_div2.style.height = "768px"
+			}
+		}
+		if (x == 3) {
+			if (Collapse_div3.style.height == "500px") {
+				Collapse_div3.style.height = "40px"
+			}
+			else {
+				Collapse_div3.style.height = "500px"
+			}
+		}
+		if (x == 4) {
+			if (Collapse_div4.style.height == "500px") {
+				Collapse_div4.style.height = "40px"
+			}
+			else {
+				Collapse_div4.style.height = "500px"
+			}
+		}
+	}
+</script>
+
 <?php
     include ('./footer.php');
 ?>
-<!-- End Footer -->
