@@ -1,100 +1,374 @@
 <?php
-	include('./header.php');
+include ('./header.php');
 ?>
+<!-- Start Header -->
+<!-- End Header -->
+<!-- Start Top Title -->
+<!-- End Top Title -->
+<!-- Start Accordion Area -->
+<section class="accordion-area">
+  <div class="container">
+    <div class="col-md-12">
+      <section class="template-title center">
+        <h1 class="title has-over">Frequently Asked Questions</h1>
+        <span>FAQ</span>
+      </section>
+    </div>
+  </div>
+</section>
+<!-- Used some part of the code from Chris Wright (https://codepen.io/chriswrightdesign/)'s Pen  -->
 <div class="container">
-	<div class="row my-5">
-		<div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-			<section class="template-title center">
-				<h1 class="title has-over">Reservation</h1>
-				<span>Reservation</span>
-			</section>
-		</div>
-		<div class="co-lg-12 col-md-12 col-sm-12 col-12">
-			<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
-		</div>
-	</div>
-	<div class="row mt-5">
-		<div id="collapse-div" class="col-lg-12 collapse-box p-0">
-			<button class="mb-4 reservation-btn" onclick="Collapse(1)">Section 1</button>
-		</div>
-	</div>
-</div>
+  <dt>
+    <!-- accordion tab 2 - Shipping Info -->
+    <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
+      class="accordion-title accordionTitle js-accordionTrigger">Shipping Information</a>
+  </dt>
+  <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
+    <div class="container-fluid" style="padding-top: 20px;">
+      <p class="headings">Shipping Address</p>
+      <form class="main-container">
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="fullname" class="label-style">Pickup Date</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="date" id="fullname" class="form-control" placeholder="Enter your full name" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="companyname" class="label-style">Pickup Time</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="time" id="companyname" class="form-control" placeholder="Enter Company Name (optional)"
+              required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="phonenumber" class="label-style">Pickup Your Location</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="phonenumber" class="form-control" placeholder="Location" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="address-line1" class="label-style">Drop Your Location</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="address-line1" class="form-control" placeholder="Drop Location" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+          </div>
+        </div>
+        <!-- <div class="row">
+          <div class="col-xs-4">
+            <label for="address-line2" class="label-style">Line 2</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="address-line2" class="form-control" placeholder="Apt, Suite, Bldg (optional)"
+              required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Address Line 2</p>
+          </div>
+        </div> -->
+        <!-- <div class="row">
+          <div class="col-xs-4">
+            <label for="city" class="label-style">City</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="city" class="form-control" placeholder="Enter City" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter your City</p>
+          </div>
+        </div> -->
+        <!-- <div class="row">
+          <div class="col-xs-4">
+            <label for="state" class="label-style">State</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="state" class="form-control" placeholder="Enter State" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Ex: Indiana as IN</p>
+          </div>
+        </div> -->
+        <!-- <div class="row">
+          <div class="col-xs-4">
+            <label for="country" class="label-style">Country</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="country" class="form-control" placeholder="Enter Country" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter your country</p>
+          </div>
+        </div> -->
+        <!-- <div class="row">
+          <div class="col-xs-4">
+            <label for="zipcode" class="label-style">Zip Code</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="zipcode" class="form-control" placeholder="Enter Zip Code" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter ZipCode.</p>
+          </div>
+        </div> -->
+        <div class="button-container">
+          <button class="Reservation-btn-submit" type="submit">Submit</button>
+          <button class="Reservation-btn-submit" type="reset">Reset</button>
+        </div>
+      </form>
+    </div>
+  </dd>
+  <div class="accordion">
+    <dl>
+      <!-- description list -->
+      <dt>
+        <!-- accordion tab 1 - Delivery and Pickup Options -->
+        <a href="#accordion1" aria-expanded="false" aria-controls="accordion1"
+          class="accordion-title accordionTitle js-accordionTrigger">Delivery and Pickup Options</a>
+      </dt>
+      <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/bentlet.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h3>Benlet</h3>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/bentlet.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h3>Benlet</h3>
+                <button>Select Car</button>
+              </div>
+            </div>
+          </div>
+        </div>
+  </div>
+  </dd>
+  <dt>
+    <!-- accordion tab 3 - Payment Info -->
+    <a href="#accordion3" aria-expanded="false" aria-controls="accordion3"
+      class="accordion-title accordionTitle js-accordionTrigger">Payment Information</a>
+  </dt>
+  <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
+    <div class="container-fluid" style="padding-top: 20px;">
+      <p class="headings">Billing Information</p>
+      <form class="main-container">
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="fullname" class="label-style">Full Name</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="fullname" class="form-control" placeholder="Enter your full name" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter your full name</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="companyname" class="label-style">Company Name</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="companyname" class="form-control" placeholder="Enter Company Name (optional)"
+              required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter your Company name</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="phonenumber" class="label-style">Phone Number</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="phonenumber" class="form-control" placeholder="Enter Phone Number" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">In (555)5555-555 Format</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="address-line1" class="label-style">Address Line 1</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="address-line1" class="form-control" placeholder="Enter Address" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Address Line 1</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="address-line2" class="label-style">Line 2</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="address-line2" class="form-control" placeholder="Apt, Suite, Bldg (optional)"
+              required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Address Line 2</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="city" class="label-style">City</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="city" class="form-control" placeholder="Enter City" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter your City</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="state" class="label-style">State</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="state" class="form-control" placeholder="Enter State" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Ex: Indiana as IN</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="country" class="label-style">Country</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="country" class="form-control" placeholder="Enter Country" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter your country</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-4">
+            <label for="zipcode" class="label-style">Zip Code</label>
+          </div>
+          <div class="form-group col-lg-4">
+            <input type="text" id="address-line2" class="form-control" placeholder="Enter Zip Code" required>
+          </div>
+          <div class="hint">
+            <i class="hint-icon">i</i>
+            <p class="hint-description">Enter ZipCode.</p>
+          </div>
+        </div>
+        <div class="button-container">
+          <button class="btn btn-success" type="submit">Submit</button>
+          <button class="btn btn-warning" type="reset">Reset</button>
+        </div>
+      </form>
+    </div>
+  </dd>
+  <!-- end accordion tab 3 -->
 
-<div id="collapse-div2" class="container collapse-box p-0">
-	<button class="mb-4 reservation-btn" onclick="Collapse(2)">Section 2</button>
-	<div class="row">
-		<div class="col-lg-3 SelectCars p-2">
-			<div class="img-reservation-cars">
-				<img src="images/cars/bentlet.png" alt="">
-			</div>
-			<div class="reservartion-car-detail">
-				<h5>Max 0</h5>
-				<h5>Max 0</h5>
-			</div>
-			<div class="car-name">
-				<h2>Name</h2>
-			</div>
-		</div>
-	</div>
+  </dl>
+  <!-- end description list -->
 </div>
-
-<div class="container">
-	<div class="row mb-5">
-		<div id="collapse-div3" class="col-lg-12 collapse-box p-0">
-			<button class="mb-4 reservation-btn" onclick="Collapse(3)">Section 3</button>
-		</div>
-		<div id="collapse-div4" class="col-lg-12 collapse-box mb-5 p-0">
-			<button class="mb-4 reservation-btn" onclick="Collapse(4)">Section 4</button>
-		</div>
-	</div>
+<!-- end accordion -->
 </div>
 <script>
-	let Collapse_div = document.getElementById("collapse-div")
-	let Collapse_div2 = document.getElementById("collapse-div2")
-	let Collapse_div3 = document.getElementById("collapse-div3")
-	let Collapse_div4 = document.getElementById("collapse-div4")
+  (function () {
+    var d = document,
+      accordionToggles = d.querySelectorAll('.js-accordionTrigger'),
+      setAria,
+      setAccordionAria,
+      switchAccordion,
+      touchSupported = ('ontouchstart' in window),
+      pointerSupported = ('pointerdown' in window);
 
+    skipClickDelay = function (e) {
+      e.preventDefault();
+      e.target.click();
+    }
 
-	Collapse_div.style.height = "500px"
-	Collapse_div2.style.height = "40px"
-	Collapse_div3.style.height = "40px"
-	Collapse_div4.style.height = "40px"
-	function Collapse(x, v) {
-		if (x == 1) {
-			if (Collapse_div.style.height == "500px") {
-				Collapse_div.style.height = "40px"
-			}
-			else {
-				Collapse_div.style.height = "500px"
-			}
-		}
-		if (x == 2) {
-			if (Collapse_div2.style.height == "848px") {
-				Collapse_div2.style.height = "40px"
-			}
-			else {
-				Collapse_div2.style.height = "848px"
-			}
-		}
-		if (x == 3) {
-			if (Collapse_div3.style.height == "500px") {
-				Collapse_div3.style.height = "40px"
-			}
-			else {
-				Collapse_div3.style.height = "500px"
-			}
-		}
-		if (x == 4) {
-			if (Collapse_div4.style.height == "500px") {
-				Collapse_div4.style.height = "40px"
-			}
-			else {
-				Collapse_div4.style.height = "500px"
-			}
-		}
-	}
+    setAriaAttr = function (el, ariaType, newProperty) {
+      el.setAttribute(ariaType, newProperty);
+    };
+    setAccordionAria = function (el1, el2, expanded) {
+      switch (expanded) {
+        case "true":
+          setAriaAttr(el1, 'aria-expanded', 'true');
+          setAriaAttr(el2, 'aria-hidden', 'false');
+          break;
+        case "false":
+          setAriaAttr(el1, 'aria-expanded', 'false');
+          setAriaAttr(el2, 'aria-hidden', 'true');
+          break;
+        default:
+          break;
+      }
+    };
+    //function
+    switchAccordion = function (e) {
+      e.preventDefault();
+      var thisAnswer = e.target.parentNode.nextElementSibling;
+      var thisQuestion = e.target;
+      if (thisAnswer.classList.contains('is-collapsed')) {
+        setAccordionAria(thisQuestion, thisAnswer, 'true');
+      } else {
+        setAccordionAria(thisQuestion, thisAnswer, 'false');
+      }
+      thisQuestion.classList.toggle('is-collapsed');
+      thisQuestion.classList.toggle('is-expanded');
+      thisAnswer.classList.toggle('is-collapsed');
+      thisAnswer.classList.toggle('is-expanded');
+
+      thisAnswer.classList.toggle('animateIn');
+    };
+    for (var i = 0, len = accordionToggles.length; i < len; i++) {
+      if (touchSupported) {
+        accordionToggles[i].addEventListener('touchstart', skipClickDelay, false);
+      }
+      if (pointerSupported) {
+        accordionToggles[i].addEventListener('pointerdown', skipClickDelay, false);
+      }
+      accordionToggles[i].addEventListener('click', switchAccordion, false);
+    }
+  })();
 </script>
+<!-- end container -->
 
 <?php
-    include ('./footer.php');
+	include ('./footer.php');
 ?>
+<!-- End Footer -->
