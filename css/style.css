@@ -3032,7 +3032,9 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   font-size: 25px;
 }
 
-
+.Reservation-cars-name {
+  font-size: 13px !important;
+}
 
 }
 
@@ -3505,3 +3507,6 @@ div.loader-background {
   text-align: center;
 }
 
+.Reservation-cars-name {
+  font-size: 18px;
+}
