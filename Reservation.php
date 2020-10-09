@@ -11,13 +11,13 @@ include ('./header.php');
 <section>
   <div class="container mt-5">
     <div class="col-md-12">
-    <section class="template-title center">
-				<h1 class="title has-over">Reservation</h1>
-				<span>Reservation</span>
-				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-					<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
-				</div>
-			</section>
+      <section class="template-title center">
+        <h1 class="title has-over">Reservation</h1>
+        <span>Reservation</span>
+        <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+          <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+        </div>
+      </section>
     </div>
   </div>
 </section>
@@ -32,42 +32,42 @@ include ('./header.php');
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Shipping Address</p>
       <form class="main-container my-4">
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Pickup time</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="time">
-              <i class="i-icon">i</i>
-            </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Pickup time</label>
           </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Pickup Date</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="date">
-              <i class="i-icon">i</i>
-            </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input class="reservation-form" type="time">
+            <i class="i-icon">i</i>
           </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Your Location</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Pickup Date</label>
           </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Drop Location</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input class="reservation-form" type="date">
+            <i class="i-icon">i</i>
           </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Your Location</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input class="reservation-form" type="text">
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Drop Location</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input class="reservation-form" type="text">
+            <i class="i-icon">i</i>
+          </div>
+        </div>
       </form>
     </div>
   </dd>
@@ -87,7 +87,7 @@ include ('./header.php');
                 <img src="images/cars/chryler-300.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Chryler 300</h5>
+                <h5 class="mb-1 Reservation-cars-name">Chryler 300</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -96,7 +96,7 @@ include ('./header.php');
                 <img src="images/cars/2017_cadillac_xts_angularfront.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Cadillac XTS</h5>
+                <h5 class="mb-1 Reservation-cars-name">Cadillac XTS</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -105,7 +105,7 @@ include ('./header.php');
                 <img src="images/cars/bmw 7.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">BMW 75i</h5>
+                <h5 class="mb-1 Reservation-cars-name">BMW 75i</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -114,7 +114,7 @@ include ('./header.php');
                 <img src="images/cars/Executive-Mercedes.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Mercedes S550</h5>
+                <h5 class="mb-1 Reservation-cars-name">Mercedes S550</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -125,7 +125,7 @@ include ('./header.php');
                 <img src="images/cars/bentlet.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Bentley Flying Spur</h5>
+                <h5 class="mb-1 Reservation-cars-name">Bentley Flying Spur</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -134,7 +134,7 @@ include ('./header.php');
                 <img src="images/cars/Rolls Royce.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Rolls Royce Phantom</h5>
+                <h5 class="mb-1 Reservation-cars-name">Rolls Royce Phantom</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -143,7 +143,7 @@ include ('./header.php');
                 <img src="images/cars/chevrolet-sub.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Chevrolet Suburban</h5>
+                <h5 class="mb-1 Reservation-cars-name">Chevrolet Suburban</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -152,7 +152,7 @@ include ('./header.php');
                 <img src="images/cars/gmc.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">GMC Yukon XL</h5>
+                <h5 class="mb-1 Reservation-cars-name">GMC Yukon XL</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -163,7 +163,7 @@ include ('./header.php');
                 <img src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Cadillac Escalade</h5>
+                <h5 class="mb-1 Reservation-cars-name">Cadillac Escalade</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -172,7 +172,7 @@ include ('./header.php');
                 <img src="images/cars/lincolin.jpeg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Lincoln MKT Strech Limousine</h5>
+                <h5 class="mb-1 Reservation-cars-name">Lincoln MKT Strech Limousine</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -181,7 +181,7 @@ include ('./header.php');
                 <img src="images/cars/SUV-Limousines-1.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Lincoln Navigator</h5>
+                <h5 class="mb-1 Reservation-cars-name">Lincoln Navigator</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -190,7 +190,7 @@ include ('./header.php');
                 <img src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Hummer Stretch Limousine</h5>
+                <h5 class="mb-1 Reservation-cars-name">Hummer Stretch Limousine</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -201,7 +201,7 @@ include ('./header.php');
                 <img src="images/cars/4.jpeg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">Mercedes Benz Sprinter</h5>
+                <h5 class="mb-1 Reservation-cars-name">Mercedes Benz Sprinter</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -210,7 +210,7 @@ include ('./header.php');
                 <img src="images/cars/24.jpeg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">20 Passengers Mini Limo bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">20 Passengers Mini Limo bus</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -219,7 +219,7 @@ include ('./header.php');
                 <img src="images/cars/36.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">30 Passengers Mini Limo Bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">30 Passengers Mini Limo Bus</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -228,7 +228,7 @@ include ('./header.php');
                 <img src="images/cars/55.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">40 Passengers Limo Bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">40 Passengers Limo Bus</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -237,7 +237,7 @@ include ('./header.php');
                 <img src="images/cars/55.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1 Reservation-cars-name">50 Passengers Limo Bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">50 Passengers Limo Bus</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -253,120 +253,108 @@ include ('./header.php');
   <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Billing Information</p>
-      <form class="main-container">
+      <form class="main-container my-4">
+        <form class="main-container my-4">
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Full Name</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Phone Number</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Address Line 1</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Line 2</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Write City</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Write State</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Write Country</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Zip Code</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+        </form>
         <div class="row">
-          <div class="col-xs-4">
-            <label for="fullname" class="label-style">Full Name</label>
+          <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-4">
+            <h1>Payment Option</h1>
           </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="fullname" class="form-control" placeholder="Enter your full name" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter your full name</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="companyname" class="label-style">Company Name</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="companyname" class="form-control" placeholder="Enter Company Name (optional)"
-              required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter your Company name</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="phonenumber" class="label-style">Phone Number</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="phonenumber" class="form-control" placeholder="Enter Phone Number" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">In (555)5555-555 Format</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="address-line1" class="label-style">Address Line 1</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="address-line1" class="form-control" placeholder="Enter Address" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Address Line 1</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="address-line2" class="label-style">Line 2</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="address-line2" class="form-control" placeholder="Apt, Suite, Bldg (optional)"
-              required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Address Line 2</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="city" class="label-style">City</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="city" class="form-control" placeholder="Enter City" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter your City</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="state" class="label-style">State</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="state" class="form-control" placeholder="Enter State" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Ex: Indiana as IN</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="country" class="label-style">Country</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="country" class="form-control" placeholder="Enter Country" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter your country</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="zipcode" class="label-style">Zip Code</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="address-line2" class="form-control" placeholder="Enter Zip Code" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter ZipCode.</p>
+          <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+            <label> Payment Option</label><br><span class="">
+              <span class="">
+                <span class="">
+                  <input class="mr-1" type="radio" name="payment-option" value="In car payment Cash/Debit/Credit"
+                    checked="checked">
+                  <span class="mr-2">
+                    In car payment Cash/Debit/Credit</span>
+                </span>
+                <span class="mx-2">
+                  <input type="radio" name="payment-option" value="Credit Card">
+                  <span class="mx-2">Credit Card</span>
+                </span>
+                <span class="">
+                  <input type="radio" name="payment-option" value="Account">
+                    <span class="">Account</span>
+                </span>
+              </span>
+            </span>
           </div>
         </div>
         <div class="button-container">
-          <button class="btn btn-success" type="submit">Submit</button>
-          <button class="btn btn-warning" type="reset">Reset</button>
+          <button class="Contact-Btn mr-5" type="submit">Submit</button>
         </div>
       </form>
     </div>
