@@ -26,11 +26,11 @@ include ('./header.php');
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
-      class="accordion-title accordionTitle js-accordionTrigger">Information</a>
+      class="accordion-title accordionTitle js-accordionTrigger">Shipping Information</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
-      <p class="headings">Information</p>
+      <p class="headings">Shipping Address</p>
       <form class="main-container my-4">
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
@@ -84,41 +84,165 @@ include ('./header.php');
           <div class="row">
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
               <div class="reservation-cars">
-                <img src="images/cars/bentlet.png" alt="">
+                <img src="images/cars/chryler-300.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1">Benlet</h5>
+                  <h5 class="mb-1">Chryler 300</h5>
                 <button>Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
               <div class="reservation-cars">
-                <img src="images/cars/bentlet.png" alt="">
+                <img src="images/cars/2017_cadillac_xts_angularfront.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1">Benlet</h5>
+                  <h5 class="mb-1">Cadillac XTS</h5>
                 <button>Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
               <div class="reservation-cars">
-                <img src="images/cars/bentlet.png" alt="">
+                <img src="images/cars/bmw 7.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1">Benlet</h5>
+                  <h5 class="mb-1">BMW 75i</h5>
                 <button>Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
               <div class="reservation-cars">
-                <img src="images/cars/bentlet.png" alt="">
+                <img src="images/cars/Executive-Mercedes.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h5 class="mb-1">Benlet</h5>
+                  <h5 class="mb-1">Mercedes S550</h5>
                 <button>Select Car</button>
               </div>
             </div>
           </div>
+          <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/bentlet.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Bentley Flying Spur</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/Rolls Royce.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Rolls Royce Phantom</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/chevrolet-sub.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Chevrolet Suburban</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/gmc.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">GMC Yukon XL</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/CADILLAC-ESCALADE2.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Cadillac Escalade</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/lincolin.jpeg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Lincoln MKT Strech Limousine</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/SUV-Limousines-1.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Lincoln Navigator</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Hummer Stretch Limousine</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/4.jpeg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Mercedes Benz Sprinter</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/24.jpeg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">20 Passengers Mini Limo bus</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/36.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">30 Passengers Mini Limo Bus</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/55.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">40 Passengers Limo Bus</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/55.jpg" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">50 Passengers Limo Bus</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+          </div>
+
         </div>
   </div>
   </dd>

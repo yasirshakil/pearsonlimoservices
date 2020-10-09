@@ -48,6 +48,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -78,6 +79,8 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
+									
 									</div>
 								</div>
 							</div>
@@ -108,6 +111,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -138,6 +142,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -175,6 +180,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -205,6 +211,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -235,6 +242,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -265,6 +273,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -302,6 +311,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -332,6 +342,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -362,6 +373,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -392,6 +404,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -429,6 +442,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -459,6 +473,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -489,6 +504,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -519,6 +535,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -549,6 +566,7 @@
 									</div>
 									<div class="btn-select">
 										<a href="#" title="">Book Now</span></a>
+										<a href="#" title="">Details</span></a>
 									</div>
 								</div>
 							</div>

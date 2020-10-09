@@ -20,42 +20,7 @@ include ('./header.php');
             </div>
             <div class="col-lg-1 col-md-1 col-sm-0 col-0">
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Cars-Detail p-5 mb-4">
-                <h5 class="ml-2">Chrysler 300 Details</h5>
-                <p>
-                <div class="About-Car">
-                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 4<br>
-                </div>
-                <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 3<br>
-                </div>
-                <div class="About-Car">
-                    <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound<br>
-                </div>
-                <div class="About-Car mb-4">
-                    <i class=" fa fa-car mr-1" aria-hidden="true "></i> Tinted Windows
-                </div>
-                </p>
-                <a class="Car-Detail-Btn ml-2 m-3" href=""> Make Reservation</a>
-            </div>
-            <div class="col-lg-7 col-md-7 col-sm-12 col-12 py-4 pr-5">
-                <h3 class="mb-2 limoColor">Chrysler 300:</h3>
-                <p class="mb-2">
-                    Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Platinum Rides Limousine
-                    fleet. This unique retro design is reminiscent and exceptional. The Chrysler 300 limo is very
-                    impressive, spacious and elegant. With its interior and amenities,
-                    this Chrysler Limo will turn heads. It was created amazingly and the result definitely impresses
-                    everyone. It is affordable and will suit all your needs. It represents the pinnacle of style and
-                    elegance. You cannot go wrong with choosing
-                    this massive fleet limo to get you to your big event.
-                    <hr> Platinum Rides is proud to offer this new exotic limousine for the price of a traditional
-                    stretch limo. The Chrysler 300 is the perfect wedding vehicln when choosing one of our modern SUV
-                    limousines or when you want to stand out from
-                    the crowd. Allow Platinum Rides of Greater Toronto provide you with first class service on your
-                    special day, special event or prom!
-                </p>
-            </div>
-            <div class="col-lg-5 Rates">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Rates">
                 <div class="Rates-main-box">  
                     <span class="rates-heading">
                     <img src="https://yyzlimo.ca/wp-content/plugins/gdlr-car/images/per-hour-rate.png" alt="">
@@ -93,9 +58,45 @@ include ('./header.php');
                     <hr>
                 </div>
             </div>
+            <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
+                <h3 class="mb-2 limoColor">Chrysler 300:</h3>
+                <p class="mb-2">
+                    Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson Limo 
+                    fleet. This unique retro design is reminiscent and exceptional. The Chrysler 300 limo is very
+                    impressive, spacious and elegant. With its interior and amenities,
+                    this Chrysler Limo will turn heads. It was created amazingly and the result definitely impresses
+                    everyone. It is affordable and will suit all your needs. It represents the pinnacle of style and
+                    elegance. You cannot go wrong with choosing
+                    this massive fleet limo to get you to your big event.
+                    <hr> Pearson Limo is proud to offer this new exotic limousine for the price of a traditional
+                    stretch limo. The Chrysler 300 is the perfect wedding vehicln when choosing one of our modern SUV
+                    limousines or when you want to stand out from
+                    the crowd. Allow Pearson Limo of Greater Toronto provide you with first class service on your
+                    special day, special event or prom!
+                </p>
+            </div>
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 mb-4">
+                <h5 class="ml-2">Chrysler 300 Details</h5>
+                <p>
+                <div class="About-Car">
+                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 4<br>
+                </div>
+                <div class="About-Car">
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 3<br>
+                </div>
+                <div class="About-Car">
+                    <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound<br>
+                </div>
+                <div class="About-Car mb-4">
+                    <i class=" fa fa-car mr-1" aria-hidden="true "></i> Tinted Windows
+                </div>
+                </p>
+                <a class="Car-Detail-Btn ml-2 m-3" href=""> Make Reservation</a>
+            </div>
+
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
                 <p>
-                    Platinum Rides limousine fleets also are daily inspected and maintained for your safety and comfort
+                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
                     in mind. Please call any time to set up an appointment or place your airport transportation request
                     online on the reservation page.
                 </p>
@@ -128,22 +129,11 @@ include ('./header.php');
                 <hr>
                 <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
-                    car, or Call us at +1 (437) 370-7407 or Tollfree +1 (888) 921-1116.
+                    car, or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> or Tollfree <a class="Highlight" href="tel:888-900-3001">888-900-3001</a>
                 </p>
             </div>
         </div>
     </div>
-    <script>
-        $(window).scroll(function () {
-            var scroll = $(window).scrollTop();
-
-            if (scroll >= 250) {
-                $(".Cars-Detail").addClass("animate__animated animate__backInLeft");
-            } else {
-                $(".Cars-Detail").removeClass("animate__animated animate__backInLeft");
-            }
-        });
-    </script>
 </body>
 <div class="scroll-top"></div>
 </div>

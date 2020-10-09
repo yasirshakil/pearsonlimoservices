@@ -436,9 +436,7 @@
 .contact-area.ver-1 {
 	padding: 100px 0 91px;
 }
-.contact-area .template-title {
-	/* margin-bottom: 101px; */
-}
+
 .address-box {
 	margin-right: 20px;
 }
@@ -1262,11 +1260,6 @@ ul.booking-steps li .text {
 	padding: 0 15px;
 }
 
-.select-car .one-half.image-car img {
-	/* margin-top: 35px; */
-
-}
-
 .select-car .one-half.box-text {
 	width: 50%;
 	float: left;
@@ -1322,7 +1315,7 @@ ul.booking-steps li .text {
 }
 .select-car .box-text .bottom .price,
 .select-car .box-text .bottom .btn-select,.select-car.ofl .bottom .price,.select-car.ofl .bottom .btn-select{
-	display: inline-block;
+	display: flex;
 }
 .select-car .box-text .bottom .price,.select-car.ofl .bottom .price {
 	color: #bf9c60;
@@ -1368,6 +1361,7 @@ ul.booking-steps li .text {
 	border-radius: 4px;
 	display: block;
 	position: relative;
+	margin: 5px 10px 0px 0px;
 }
 .select-car.ofl .top{
 	margin-bottom:7px;
@@ -2066,9 +2060,7 @@ ul.booking-steps li .text {
   visibility: hidden;
   padding-right: 10px;
 }
-.box-time .select {
-  
-}
+
 .box-time .select-styled {
     line-height: 90px;
     background: #161616;
@@ -2183,10 +2175,7 @@ ul.booking-steps li .text {
 	right: -10px;
 	top: 39px;
 }
-.schedule-booking .form-booking > div:last-child{
-	
-	
-}
+
 .schedule-booking .form-booking label{
 	font-size: 16px;
     color: #d9c77e;
