@@ -1,23 +1,28 @@
 <?php
 include ('./header.php');
 ?>
+
+
 <!-- Start Header -->
 <!-- End Header -->
 <!-- Start Top Title -->
 <!-- End Top Title -->
 <!-- Start Accordion Area -->
-<section class="accordion-area">
-  <div class="container">
+<section>
+  <div class="container mt-5">
     <div class="col-md-12">
-      <section class="template-title center">
-        <h1 class="title has-over">Frequently Asked Questions</h1>
-        <span>FAQ</span>
-      </section>
+    <section class="template-title center">
+				<h1 class="title has-over">Reservation</h1>
+				<span>Reservation</span>
+				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
+					<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+				</div>
+			</section>
     </div>
   </div>
 </section>
 <!-- Used some part of the code from Chris Wright (https://codepen.io/chriswrightdesign/)'s Pen  -->
-<div class="container">
+<div class="container my-5">
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
@@ -26,117 +31,43 @@ include ('./header.php');
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Shipping Address</p>
-      <form class="main-container">
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="fullname" class="label-style">Pickup Date</label>
+      <form class="main-container my-4">
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Pickup time</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="time">
+              <i class="i-icon">i</i>
+            </div>
           </div>
-          <div class="form-group col-lg-4">
-            <input type="date" id="fullname" class="form-control" placeholder="Enter your full name" required>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Pickup Date</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="date">
+              <i class="i-icon">i</i>
+            </div>
           </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Your Location</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="companyname" class="label-style">Pickup Time</label>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Drop Location</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
           </div>
-          <div class="form-group col-lg-4">
-            <input type="time" id="companyname" class="form-control" placeholder="Enter Company Name (optional)"
-              required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="phonenumber" class="label-style">Pickup Your Location</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="phonenumber" class="form-control" placeholder="Location" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-4">
-            <label for="address-line1" class="label-style">Drop Your Location</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="address-line1" class="form-control" placeholder="Drop Location" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-          </div>
-        </div>
-        <!-- <div class="row">
-          <div class="col-xs-4">
-            <label for="address-line2" class="label-style">Line 2</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="address-line2" class="form-control" placeholder="Apt, Suite, Bldg (optional)"
-              required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Address Line 2</p>
-          </div>
-        </div> -->
-        <!-- <div class="row">
-          <div class="col-xs-4">
-            <label for="city" class="label-style">City</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="city" class="form-control" placeholder="Enter City" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter your City</p>
-          </div>
-        </div> -->
-        <!-- <div class="row">
-          <div class="col-xs-4">
-            <label for="state" class="label-style">State</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="state" class="form-control" placeholder="Enter State" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Ex: Indiana as IN</p>
-          </div>
-        </div> -->
-        <!-- <div class="row">
-          <div class="col-xs-4">
-            <label for="country" class="label-style">Country</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="country" class="form-control" placeholder="Enter Country" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter your country</p>
-          </div>
-        </div> -->
-        <!-- <div class="row">
-          <div class="col-xs-4">
-            <label for="zipcode" class="label-style">Zip Code</label>
-          </div>
-          <div class="form-group col-lg-4">
-            <input type="text" id="zipcode" class="form-control" placeholder="Enter Zip Code" required>
-          </div>
-          <div class="hint">
-            <i class="hint-icon">i</i>
-            <p class="hint-description">Enter ZipCode.</p>
-          </div>
-        </div> -->
-        <div class="button-container">
-          <button class="Reservation-btn-submit" type="submit">Submit</button>
-          <button class="Reservation-btn-submit" type="reset">Reset</button>
-        </div>
       </form>
     </div>
   </dd>
@@ -156,7 +87,7 @@ include ('./header.php');
                 <img src="images/cars/bentlet.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h3>Benlet</h3>
+                  <h5 class="mb-1">Benlet</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -165,7 +96,25 @@ include ('./header.php');
                 <img src="images/cars/bentlet.png" alt="">
               </div>
               <div class="reservation-cars-select">
-                  <h3>Benlet</h3>
+                  <h5 class="mb-1">Benlet</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/bentlet.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Benlet</h5>
+                <button>Select Car</button>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
+              <div class="reservation-cars">
+                <img src="images/cars/bentlet.png" alt="">
+              </div>
+              <div class="reservation-cars-select">
+                  <h5 class="mb-1">Benlet</h5>
                 <button>Select Car</button>
               </div>
             </div>
