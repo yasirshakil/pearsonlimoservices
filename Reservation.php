@@ -26,11 +26,11 @@ include ('./header.php');
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
-      class="accordion-title accordionTitle js-accordionTrigger">Shipping Information</a>
+      class="accordion-title accordionTitle js-accordionTrigger">Information</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
-      <p class="headings">Shipping Address</p>
+      <p class="headings">Information</p>
       <form class="main-container my-4">
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
