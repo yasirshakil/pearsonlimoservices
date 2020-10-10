@@ -25,7 +25,7 @@ include ('./header.php');
 <div class="container my-5">
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
-    <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
+    <a href="#accordion1" aria-expanded="false" aria-controls="accordion2"
       class="accordion-title hov accordionTitle js-accordionTrigger">Information</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
@@ -215,7 +215,7 @@ include ('./header.php');
       </form>
     </div>
   </dd>
-  <div class="accordion">
+  <div class="accordion3">
     <dl>
       <!-- description list -->
       <dt>
@@ -391,7 +391,7 @@ include ('./header.php');
   </dd>
   <dt>
     <!-- accordion tab 3 - Payment Info -->
-    <a href="#accordion3" aria-expanded="false" aria-controls="accordion3"
+    <a href="#accordion4git" aria-expanded="false" aria-controls="accordion3"
       class="accordion-title accordionTitle js-accordionTrigger">Payment Information</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
