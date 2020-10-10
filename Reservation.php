@@ -37,7 +37,7 @@ include ('./header.php');
             <label class="" for="">Pickup time</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input class="reservation-form" type="time">
+            <input name="Pickup-time" id="" class="reservation-form" type="time">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -46,7 +46,7 @@ include ('./header.php');
             <label class="" for="">Pickup Date</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input class="reservation-form" type="date">
+            <input name="Pickup-Date" id="" class="reservation-form" type="date">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -55,7 +55,7 @@ include ('./header.php');
             <label class="" for="">Your Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input class="reservation-form" type="text">
+            <input name="Your-ocation" id="" class="reservation-form" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -64,7 +64,7 @@ include ('./header.php');
             <label class="" for="">Drop Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input class="reservation-form" type="text">
+            <input name="Pickup Date" id="" class="reservation-form" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -85,7 +85,7 @@ include ('./header.php');
             <label class="" for="">Drop Your Name</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input placholder="Name" class="reservation-form" type="text">
+            <input name="Drop-Your-Name" id="" placholder="Name" class="reservation-form" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -94,7 +94,7 @@ include ('./header.php');
             <label class="" for="">Contact</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input placholder="123456789" class="reservation-form" type="text">
+            <input name="Contact" id="" placholder="123456789" class="reservation-form" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -103,7 +103,7 @@ include ('./header.php');
             <label class="" for="">Drop Your Email</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input placholder="example@gmail.com" class="reservation-form" type="Email">
+            <input name="Drop-Your-Email" id="" placholder="example@gmail.com" class="reservation-form" type="Email">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -112,7 +112,7 @@ include ('./header.php');
             <label class="" for="">No Of Passengers</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="" id="">
+              <select class="reservation-form" name="No-Of-Passengers" id="">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -132,7 +132,7 @@ include ('./header.php');
             <label class="" for="">Luggage</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="" id="">
+              <select class="reservation-form" name="Luggage" id="">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -152,7 +152,7 @@ include ('./header.php');
             <label class="" for="">No Of Kids</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="" id="">
+              <select class="reservation-form" name="No-Of-Kids" id="">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -172,7 +172,7 @@ include ('./header.php');
             <label class="" for="">Child Seat Required</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="" id="">
+              <select class="reservation-form" name="Child-Seat-Required" id="">
                 <option value="Yes">Yes</option>
                 <option value="No">No</option>
               </select>
@@ -184,7 +184,7 @@ include ('./header.php');
             <label class="" for="">Child Seat Count</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="" id="">
+              <select class="reservation-form" name="Child-Seat-Count" id="">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -204,7 +204,7 @@ include ('./header.php');
             <label class="" for="">Child Seat type</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="" id="">
+              <select class="reservation-form" name="Child-Seat-type" id="">
                 <option value="Forward Facing">Forward Facing</option>
                 <option value="Rear Facing">Rear Facing</option>
                 <option value="Booster Seat">Booster Seat</option>
@@ -404,7 +404,7 @@ include ('./header.php');
               <label class="" for="">Full Name</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Full-Name" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -413,16 +413,16 @@ include ('./header.php');
               <label class="" for="">Phone Number</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Phone-Number" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Address Line 1</label>
+              <label name="Pickup Date" id="" class="" for="">Address Line 1</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Address-Line-1" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -431,7 +431,7 @@ include ('./header.php');
               <label class="" for="">Line 2</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Line-2" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -440,7 +440,7 @@ include ('./header.php');
               <label class="" for="">Write City</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Write-City" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -449,7 +449,7 @@ include ('./header.php');
               <label class="" for="">Write State</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Write-State" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -458,7 +458,7 @@ include ('./header.php');
               <label class="" for="">Write Country</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Write-Country" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -467,7 +467,7 @@ include ('./header.php');
               <label class="" for="">Zip Code</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input class="reservation-form" type="text">
+              <input name="Zip-Code" id="" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -476,7 +476,7 @@ include ('./header.php');
               <label class="" for="">Payment Method</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select name="" id="">
+              <select name="Payment-Method" id="">
                 <option value="Cash">Cash</option>
                 <option value="Dabit Card">Dabit Card</option>
                 <option value="Account">Account</option>
