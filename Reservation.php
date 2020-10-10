@@ -220,7 +220,7 @@ include ('./header.php');
       <!-- description list -->
       <dt>
         <!-- accordion tab 1 - Delivery and Pickup Options -->
-        <a href="#accordion1" aria-expanded="false" aria-controls="accordion1"
+        <a href="#accordion4" aria-expanded="false" aria-controls="accordion1"
           class="accordion-title accordionTitle js-accordionTrigger">Delivery and Pickup Options</a>
       </dt>
       <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
@@ -391,9 +391,9 @@ include ('./header.php');
   </dd>
   <dt>
     <!-- accordion tab 3 - Payment Info -->
-    <a href="#accordion4git" aria-expanded="false" aria-controls="accordion3"
+    <a href="#accordion5" aria-expanded="false" aria-controls="accordion3"
       class="accordion-title accordionTitle js-accordionTrigger">Payment Information</a>
-  </dt>
+  </dt> 
   <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Billing Information</p>
