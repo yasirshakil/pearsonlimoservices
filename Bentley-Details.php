@@ -61,12 +61,17 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">Bentley Flying Spur:</h3>
                 <p class="mb-2">
-                For years, the Lincoln Town Car has dictated the standards of the limousine market. Style, class, and comfort are the three qualities of Lincoln town car limousine. This limousine is the perfect and luxurious transport service with a modern and elegant stretch for any occasion. <br>
-                This limousine is able to accommodate 4 passengers. It is a real star limousine with colored lights and soft interiors which make it perfect for any evening particularly different from the usual routine. <br>
-                Whatever your special event or requirement, you can trust Platinum Rides to provide the finest Lincoln Town Car and the most professional chauffeurs available anywhere in Toronto.
+                    For years, the Lincoln Town Car has dictated the standards of the limousine market. Style, class,
+                    and comfort are the three qualities of Lincoln town car limousine. This limousine is the perfect and
+                    luxurious transport service with a modern and elegant stretch for any occasion. <br>
+                    This limousine is able to accommodate 4 passengers. It is a real star limousine with colored lights
+                    and soft interiors which make it perfect for any evening particularly different from the usual
+                    routine. <br>
+                    Whatever your special event or requirement, you can trust Platinum Rides to provide the finest
+                    Lincoln Town Car and the most professional chauffeurs available anywhere in Toronto.
                 </p>
             </div>
-            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail my-4 p-5">
                 <h5 class="ml-2">Cadillac XTS Details</h5>
                 <p>
                 <div class="About-Car">
@@ -82,47 +87,25 @@ include ('./header.php');
                     <i class=" fa fa-car mr-1" aria-hidden="true "></i> Tinted Windows
                 </div>
                 </p>
-                <a class="Box-Links ml-2 m-3" href=""> Make Reservation</a>
+                <a class="Box-Links ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
-
-            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
-                <p>
-                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
-                    in mind. Please call any time to set up an appointment or place your airport transportation request
-                    online on the reservation page.
-                </p>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <hr>
-            </div> -->
-            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-12"> -->
-                <!-- <p>Airport transportation for departures and arrivals.<br> Corporate meetings and events transportation
-                    services.<br> Comfortable, safe, convenient limousine services.<br> Door to Door transportation
-                    Services.</p> -->
-                <!-- <hr>
+                <h3 class="mb-2">SPECIAL OFFERS</h3>
                 <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+                    <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
+                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>Wake Up Calls</li>
+                    <li>Coffee & News Paper</li>
+                    <li>Meet and greet at an airport for only 49.00</li>
                 </ul>
-            </div>
-            <div class="col-lg-12 col-12">
-            <hr> -->
-
-                <!-- <p>We will offer you the most appropriate package according to your desires. After the payment, the deal will be done from both sides. Then, we will inform you officially that your request has been accommodated</p> -->
-                <!-- <p>
+                <hr>
+                <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
                     car, or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> or Tollfree <a
                         class="Highlight" href="tel:888-900-3001">888-900-3001</a>
                 </p>
-            </div> -->
+            </div>
         </div>
     </div>
 </body>

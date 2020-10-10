@@ -61,10 +61,17 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">BMW 750I:</h3>
                 <p class="mb-2">
-                A luxurious experience you would always remember. Our limo fleet now includes the latest 2020 BMW 7 Series 750i. A powerful machine, with amazing tech and dazzling features. BMW 750i is all about power, style, cutting edge technology, floating air control and simply luxurious. BMW 750i is the latest edition to our limo fleet. It’s available for booking. Give us a call to enjoy the luxurious ride of this perfect combination of beauty and the beast. The quilted Merino leathers interior with massaging chairs and amazing audio systems, this stretched beauty is far superior than any of its predecessors. BMW 750i is a perfect example of a luxury limo ride you want to book. Key features of this amazing vehicle include:
+                    A luxurious experience you would always remember. Our limo fleet now includes the latest 2020 BMW 7
+                    Series 750i. A powerful machine, with amazing tech and dazzling features. BMW 750i is all about
+                    power, style, cutting edge technology, floating air control and simply luxurious. BMW 750i is the
+                    latest edition to our limo fleet. It’s available for booking. Give us a call to enjoy the luxurious
+                    ride of this perfect combination of beauty and the beast. The quilted Merino leathers interior with
+                    massaging chairs and amazing audio systems, this stretched beauty is far superior than any of its
+                    predecessors. BMW 750i is a perfect example of a luxury limo ride you want to book. Key features of
+                    this amazing vehicle include:
                 </p>
             </div>
-            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail my-4 p-5">
                 <h5 class="ml-2">Cadillac XTS Details</h5>
                 <p>
                 <div class="About-Car">
@@ -74,7 +81,8 @@ include ('./header.php');
                     <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 3<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-play mr-2" aria-hidden="true "></i>Flat screen TV’s, DVD player with CD player with AM <br> / FM surround sound, Plush leather seats<br>
+                    <i class=" fa fa-play mr-2" aria-hidden="true "></i>Flat screen TV’s, DVD player with CD player with
+                    AM <br> / FM surround sound, Plush leather seats<br>
                 </div>
                 <div class="About-Car mb-4">
                     <i class=" fa fa-car mr-1" aria-hidden="true "></i> Tinted Windows
@@ -82,19 +90,7 @@ include ('./header.php');
                 </p>
                 <a class="Box-Links ml-2 m-3" href=""> Make Reservation</a>
             </div>
-
-            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
-                <p>
-                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
-                    in mind. Please call any time to set up an appointment or place your airport transportation request
-                    online on the reservation page.
-                </p>
-                <hr>
-            </div> -->
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <!-- <p>Airport transportation for departures and arrivals.<br> Corporate meetings and events transportation
-                    services.<br> Comfortable, safe, convenient limousine services.<br> Door to Door transportation
-                    Services.</p> -->
                 <hr>
                 <ul>
                     <li>Up to 4 Passengers</li>
@@ -111,18 +107,27 @@ include ('./header.php');
                     <li>Daily Newspapers and Magazines</li>
                 </ul>
             </div>
-            <div class="col-lg-12 col-12">
-            <hr>
-
-                <p>We will offer you the most appropriate package according to your desires. After the payment, the deal will be done from both sides. Then, we will inform you officially that your request has been accommodated</p>
-                <!-- <p>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the
+                    payment, the deal will be done from both sides. Then, we will inform you officially that your
+                    request has been accommodated</p>
+                <hr>
+                <h3 class="mb-2">SPECIAL OFFERS</h3>
+                <ul>
+                    <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
+                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>Wake Up Calls</li>
+                    <li>Coffee & News Paper</li>
+                    <li>Meet and greet at an airport for only 49.00</li>
+                </ul>
+                <hr>
+                <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
                     car, or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> or Tollfree <a
                         class="Highlight" href="tel:888-900-3001">888-900-3001</a>
                 </p>
-            </div> -->
+            </div>
         </div>
-    </div>
 </body>
 <div class="scroll-top"></div>
 </div>
