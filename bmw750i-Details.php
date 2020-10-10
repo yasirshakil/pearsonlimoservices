@@ -2,7 +2,6 @@
 include ('./header.php');
 ?>
 
-
 <body>
     <div class="container">
         <div class="row my-5">
@@ -11,7 +10,7 @@ include ('./header.php');
                     <h1 class="title has-over">BMW 750I:</h1>
                     <span>Mercedes S550</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-                        <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+                        <div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
