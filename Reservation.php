@@ -25,10 +25,10 @@ include ('./header.php');
 <div class="container my-5">
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
-    <a href="#accordion1" aria-expanded="false" aria-controls="accordion2"
+    <a href="#accordion1" aria-expanded="false" aria-controls="accordion1"
       class="accordion-title hov accordionTitle js-accordionTrigger">Information</a>
   </dt>
-  <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
+  <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Information</p>
       <form class="main-container my-4">
@@ -220,10 +220,10 @@ include ('./header.php');
       <!-- description list -->
       <dt>
         <!-- accordion tab 1 - Delivery and Pickup Options -->
-        <a href="#accordion4" aria-expanded="false" aria-controls="accordion1"
+        <a href="#accordion3" aria-expanded="false" aria-controls="accordion3"
           class="accordion-title accordionTitle js-accordionTrigger">Delivery and Pickup Options</a>
       </dt>
-      <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
+      <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
         <div class="container-fluid">
           <div class="row">
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -391,10 +391,10 @@ include ('./header.php');
   </dd>
   <dt>
     <!-- accordion tab 3 - Payment Info -->
-    <a href="#accordion5" aria-expanded="false" aria-controls="accordion3"
+    <a href="#accordion4" aria-expanded="false" aria-controls="accordion4"
       class="accordion-title accordionTitle js-accordionTrigger">Payment Information</a>
   </dt> 
-  <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
+  <dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Billing Information</p>
       <form class="main-container my-4">
