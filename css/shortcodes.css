@@ -1352,7 +1352,7 @@ ul.booking-steps li .text {
 	font-size:26px;
 	font-weight:400;
 }
-.select-car .box-text .bottom .btn-select a{
+/* .select-car .box-text .bottom .btn-select a{
 	line-height: 50px;
 	height: 50px;
 	padding: 0 85px 0 48px;
@@ -1362,6 +1362,10 @@ ul.booking-steps li .text {
 	display: block;
 	position: relative;
 	margin: 5px 10px 0px 0px;
+} */
+
+.btn-width-class{
+	width: 100px !important;
 }
 .select-car.ofl .top{
 	margin-bottom:7px;
@@ -1402,7 +1406,7 @@ ul.booking-steps li .text {
 	background: rgb(170,153,88);
 	color: black;
 }
-.select-car .box-text .bottom .btn-select a:before{
+/* .select-car .box-text .bottom .btn-select a:before{
 	content: "\f3d6";
 	position: absolute;
 	font-family: 'ionicons';
@@ -1410,7 +1414,7 @@ ul.booking-steps li .text {
 	top: 0;
 	right: 39px;
 	font-size: 28px;
-}
+} */
 .select-car.al-center{
 	height: 480px;
 	-webkit-transition: all .4s ease-in-out;

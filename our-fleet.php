@@ -47,8 +47,8 @@
 										<span>$65</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="chryler-detail.php" title="">Details</span></a>
+										<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -56,7 +56,7 @@
 						</div>
 						<div class="select-car s1 ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/Cadillac-CTS-1.jpg" alt="">
+								<img height="200px" width="100%" src="images/cars/2017_cadillac_xts_angularfront.jpg" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
@@ -78,8 +78,8 @@
 										<span>$65</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="Cadillac-details.php" title="">Details</span></a>
 									
 									</div>
 								</div>
@@ -110,8 +110,8 @@
 										<span>$120</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="bmw750i-Details.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -141,8 +141,8 @@
 										<span>$150</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="mercedes-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -179,8 +179,8 @@
 										<span>$350</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="Bentley-Details.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -210,8 +210,8 @@
 										<span>$400</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -241,8 +241,8 @@
 										<span>$90</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -272,8 +272,8 @@
 										<span>$90</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -310,8 +310,8 @@
 										<span>$120</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -341,8 +341,8 @@
 										<span>$125</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -372,8 +372,8 @@
 										<span>$125</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -403,8 +403,8 @@
 										<span>$150</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -441,8 +441,8 @@
 										<span>$125</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -472,8 +472,8 @@
 										<span>$170</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -503,8 +503,8 @@
 										<span>$175</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -534,8 +534,8 @@
 										<span>$275</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -565,8 +565,8 @@
 										<span>$275</span> / hour
 									</div>
 									<div class="btn-select">
-										<a href="#" title="">Book Now</span></a>
-										<a href="#" title="">Details</span></a>
+									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
