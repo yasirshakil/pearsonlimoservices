@@ -26,7 +26,7 @@ include ('./header.php');
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
-      class="accordion-title accordionTitle js-accordionTrigger">Shipping Information</a>
+      class="accordion-title hov accordionTitle js-accordionTrigger">Shipping Information</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
@@ -65,6 +65,150 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
             <input class="reservation-form" type="text">
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+      </form>
+    </div>
+  </dd>
+  <dt>
+    <!-- accordion tab 2 - Shipping Info -->
+    <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
+      class="accordion-title hov accordionTitle js-accordionTrigger">Passengers Details</a>
+  </dt>
+  <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
+    <div class="container-fluid" style="padding-top: 20px;">
+      <p class="headings">Shipping Address</p>
+      <form class="main-container my-4">
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Drop Your Name</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input placholder="Name" class="reservation-form" type="text">
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Contact</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input placholder="123456789" class="reservation-form" type="text">
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Drop Your Email</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+            <input placholder="example@gmail.com" class="reservation-form" type="Email">
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">No Of Passengers</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select class="reservation-form" name="" id="">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select>
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Luggage</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select class="reservation-form" name="" id="">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select>
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">No Of Kids</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select class="reservation-form" name="" id="">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select>
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Child Seat Required</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select class="reservation-form" name="" id="">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+              </select>
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Child Seat Count</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select class="reservation-form" name="" id="">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+              </select>
+            <i class="i-icon">i</i>
+          </div>
+        </div>
+        <div class="row mb-3">
+          <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+            <label class="" for="">Child Seat type</label>
+          </div>
+          <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select class="reservation-form" name="" id="">
+                <option value="Forward Facing">Forward Facing</option>
+                <option value="Rear Facing">Rear Facing</option>
+                <option value="Booster Seat">Booster Seat</option>
+              </select>
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -327,8 +471,21 @@ include ('./header.php');
               <i class="i-icon">i</i>
             </div>
           </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Payment Method</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <select name="" id="">
+                <option value="Cash">Cash</option>
+                <option value="Dabit Card">Dabit Card</option>
+                <option value="Account">Account</option>
+              </select>
+              <i class="i-icon">i</i>
+            </div>
+          </div>
         </form>
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-4">
             <h1>Payment Option</h1>
           </div>
@@ -352,7 +509,7 @@ include ('./header.php');
               </span>
             </span>
           </div>
-        </div>
+        </div> -->
         <div class="button-container">
           <button class="Contact-Btn mr-5" type="submit">Submit</button>
         </div>

@@ -3258,6 +3258,14 @@ div.loader-background {
   color: #000;
 }
 
+.hov:hover{
+  color: #000 !important;
+}
+
+.hov:focus{
+  color: #000 !important;
+}
+
 .accordionTitleActive,
 .accordionTitle.is-expanded {
   background-color: #d9c77e;
@@ -3265,9 +3273,9 @@ div.loader-background {
 
 .accordionTitleActive:before,
 .accordionTitle.is-expanded:before {
-  -webkit-transform: rotate(-225deg);
-  -ms-transform: rotate(-225deg);
-  transform: rotate(-225deg);
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
 
 .accordionItem {
