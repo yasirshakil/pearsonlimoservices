@@ -15,7 +15,7 @@
 							<span> OUr Fleet </span>
 							<div class="row">
 								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
-									<div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+									<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
 								</div>
 							</div>
 							<p style="color:#000;">A limo ride for everyone, your choice is our command. We have the most versatile limo fleet in the business. You name it and we have it.</p>
@@ -504,7 +504,7 @@
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
-										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
+										<a class="Box-Links text-center btn-width-class" href="30-Passengers-Bus.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -535,7 +535,7 @@
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
-										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
+										<a class="Box-Links text-center btn-width-class" href="40 Passengers-Bus.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -566,7 +566,7 @@
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
-										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
+										<a class="Box-Links text-center btn-width-class" href="50-Passenges-Bus.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
