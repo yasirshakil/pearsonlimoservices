@@ -476,7 +476,7 @@ a {
 }
 a:hover,
 a:focus {
-  /* color:#d9c77e; */
+  color: #000;
   text-decoration: none;
   outline: 0;
   -webkit-transition: all 0.3s ease-in-out;
@@ -3233,7 +3233,7 @@ div.loader-background {
   
   text-indent: 3px;
   font-weight: 700;
-  padding: 2em;
+  padding: 1.5em;
   display: block;
   text-decoration: none;
   color: #000;
@@ -3245,8 +3245,8 @@ div.loader-background {
 .accordionTitle:before,
 .accordion__Heading:before {
   content: "+";
-  font-size: 1.5em;
-  line-height: 0.9em;
+  font-size: 1.2em;
+  line-height: 1em;
   float: left;
   -webkit-transition: -webkit-transform 0.3s ease-in-out;
   transition: transform 0.3s ease-in-out;
@@ -3522,4 +3522,7 @@ div.loader-background {
 .active-car
 {
   border: 1px solid black;
+}
+.accordian-heading {
+  font-size: 20px;
 }

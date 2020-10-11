@@ -26,7 +26,7 @@ include ('./header.php');
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion1" aria-expanded="false" aria-controls="accordion1"
-      class="accordion-title hov accordionTitle js-accordionTrigger">Information</a>
+      class="accordion-title hov accordionTitle js-accordionTrigger accordian-heading">Information</a>
   </dt>
   <dd class="" id="accordion1" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
@@ -74,7 +74,7 @@ include ('./header.php');
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion2" aria-expanded="false" aria-controls="accordion2"
-      class="accordion-title hov accordionTitle js-accordionTrigger">Passengers Details</a>
+      class="accordion-title hov accordionTitle js-accordionTrigger accordian-heading">Passengers Details</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
@@ -82,7 +82,7 @@ include ('./header.php');
       <form class="main-container my-4">
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">Drop Your Name</label>
+            <label class="" for="">Name</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
             <input name="Drop-Your-Name" id="Drop-Your-Name" placholder="Name" class="reservation-form passenger-field" type="text">
@@ -113,6 +113,7 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="No-Of-Passengers" id="No Of Passengers">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -129,10 +130,11 @@ include ('./header.php');
         </div>
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">Luggage</label>
+            <label class="" for="">No. Of Luggage</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="Luggage" id="Luggage">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -153,6 +155,7 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="No-Of-Kids" id="No-Of-Kids">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -173,8 +176,8 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="Child-Seat-Required" id="Child-Seat-Required">
-                <option value="Yes">Yes</option>
                 <option value="No">No</option>
+                <option value="Yes">Yes</option>
               </select>
             <i class="i-icon">i</i>
           </div>
@@ -185,6 +188,7 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="Child-Seat-Count" id="Child-Seat-Count">
+                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -219,9 +223,9 @@ include ('./header.php');
     <dl>
       <!-- description list -->
       <dt>
-        <!-- accordion tab 1 - Delivery and Pickup Options -->
+        <!-- accordion tab 1 - Select Car Options -->
         <a href="#accordion3" aria-expanded="false" aria-controls="accordion3"
-          class="accordion-title accordionTitle js-accordionTrigger">Delivery and Pickup Options</a>
+          class="accordion-title accordionTitle js-accordionTrigger accordian-heading">Select Car</a>
       </dt>
       <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
         <div class="container-fluid">
@@ -393,7 +397,7 @@ include ('./header.php');
   <dt>
     <!-- accordion tab 3 - Payment Info -->
     <a href="#accordion4" aria-expanded="false" aria-controls="accordion4"
-      class="accordion-title accordionTitle js-accordionTrigger">Payment Information</a>
+      class="accordion-title accordionTitle js-accordionTrigger accordian-heading">Payment Information</a>
   </dt> 
   <dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
