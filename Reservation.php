@@ -294,7 +294,7 @@ include ('./header.php');
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
               <div class="reservation-cars">
-                <img src="images/cars/gmc.png" alt="">
+                <img src="images/cars/Gmc.png" alt="">
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">GMC Yukon XL</h5>
@@ -593,7 +593,7 @@ include ('./header.php');
   function passenger () {
     var respone = true;
       $(".passenger-field").each(function (i, ele){
-            if ( $(ele).val().length < 1)
+            if ( $(ele).val().trim().length < 1)
               response = false;
       })
       return true;
