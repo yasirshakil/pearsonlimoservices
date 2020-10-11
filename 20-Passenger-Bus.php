@@ -8,15 +8,15 @@ include ('./header.php');
         <div class="row my-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5">
                 <section class="template-title center">
-                    <h1 class="title has-over">Executive Stretch Limousine</h1>
-                    <span>Executive Stretch Limousine</span>
+                    <h1 class="title has-over">20 Passengers Mini Bus</h1>
+                    <span>20 Passengers Mini Bus</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
                         <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 Cars-Detail-imgBox">
-                <img src="images/cars/lincolin.jpeg" alt="">
+                <img src="images/cars/24.jpeg" alt="">
             </div>
             <div class="col-lg-1 col-md-1 col-sm-0 col-0">
             </div>
@@ -59,18 +59,25 @@ include ('./header.php');
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
-                <h3 class="mb-2 limoColor">Executive Stretch Limousine:</h3>
+                <h3 class="mb-2 limoColor">20 Passenger Mini Bus:</h3>
                 <p class="mb-2">
-                Platinum Rides offer the Lincoln stretch limo has been one of our top-notch collections when it comes to the limo services. Lincoln stretch limousines provide spacious seating of 8 people with 31 feet stretched beauty, making it essentially the best limo to ride for special occasions. LED interior, private bar, spacious seating, leather interior and a majestic exterior makes it a sight to watch. Enjoy the luxury and power of the Lincoln Stretch limo with Platinum rides.  A private LED light show, a privacy divider and capacity to have an in-house party Lincoln stretch limo is one of our top most booked limos when it comes to travel parties and casino rides. Feel like a star by booking the Rockstar of Limo world through platinum rides Lincoln limo service.                </p>
+                    Platinum Rides Offer luxurious modern amenities, spacious legroom and ample storage space for your
+                    luggage, our charter buses are used for many different types of trips ranging from wedding
+                    receptions to corporate functions. The charter bus can take you just about anywhere you wish to and
+                    in a timely manner. All you need to do is to sit back, relax and enjoy the ride! <br>
+                    The charter buses can be used for events of all types and it includes birthday parties,
+                    team-building events, festivals, conventions, meetings, airport transfers, prom nights and even
+                    bachelor or bachelorette parties. Using a charter bus frees you and your family and friends from
+                    having to get someone to be the designated driver for the night and everyone gets to have fun. </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
-                <h5 class="ml-2">Executive Stretch Limousine Details</h5>
+                <h5 class="ml-2">20 Passengers Mini Bus Details</h5>
                 <p>
                 <div class="About-Car">
-                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 2<br>
+                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 20<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 2<br>
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 20<br>
                 </div>
                 <div class="About-Car">
                     <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound
@@ -83,28 +90,36 @@ include ('./header.php');
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
                 <p>
-                We will offer you the most appropriate package according to your desires. After the payment, the deal will be done from both sides. Then, we will inform you officially that your request has been accommodated.
+                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
+                    in mind. Please call any time to set up an appointment or place your airport transportation request
+                    online on the reservation page.
                 </p>
                 <hr>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-2">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
+                <h3 class="mb-2 limoColor">The Benefits of Using a 24-Passenger Charter Bus:</h3>
+
                 <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+                    <li>Affordable Pricing</li>
+                    <li>Timely Departure and Arrival</li>
+                    <li>Spacious</li>
+                    <li>On-board amenities like luxurious leather high-back reclining seats, AM-FM stereo, DVD player
+                    </li>
+                    <li>with TV for on-board entertainment (varies from vehicle to vehicle and dependent on area of
+                        service)</li>
+                    <li>Professionally-trained driver/chauffeur</li>
+                    <li>Expert help in planning</li>
+                    <li>Safety</li>
+                    <li>Perfectly-sized charter buses for your group and everyone gets to arrive together instead of
+                        individual driving</li>
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                    <hr>
+                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the
+                    payment, the deal
+                    will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.</p>
+                <hr>
                 <h3 class="mb-2">SPECIAL OFFERS</h3>
                 <ul>
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>

@@ -66,7 +66,7 @@ include ('./header.php');
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
-                <h5 class="ml-2">Rolls Royce Phantom Details</h5>
+                <h5 class="ml-2">Cadillac Escalade Details</h5>
                 <p>
                 <div class="About-Car">
                     <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger : 6<br>

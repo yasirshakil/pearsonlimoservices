@@ -8,15 +8,15 @@ include ('./header.php');
         <div class="row my-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5">
                 <section class="template-title center">
-                    <h1 class="title has-over">Executive Stretch Limousine</h1>
-                    <span>Executive Stretch Limousine</span>
+                    <h1 class="title has-over">Hummer Stretch Limousine</h1>
+                    <span>Hummer Stretch Limousine</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
                         <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 Cars-Detail-imgBox">
-                <img src="images/cars/lincolin.jpeg" alt="">
+                <img src="images/cars/Black-Hummer-Limo-Up-to-16-passengers.jpg" alt="">
             </div>
             <div class="col-lg-1 col-md-1 col-sm-0 col-0">
             </div>
@@ -59,18 +59,26 @@ include ('./header.php');
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
-                <h3 class="mb-2 limoColor">Executive Stretch Limousine:</h3>
+                <h3 class="mb-2 limoColor">Hummer Stretch Limousine:</h3>
                 <p class="mb-2">
-                Platinum Rides offer the Lincoln stretch limo has been one of our top-notch collections when it comes to the limo services. Lincoln stretch limousines provide spacious seating of 8 people with 31 feet stretched beauty, making it essentially the best limo to ride for special occasions. LED interior, private bar, spacious seating, leather interior and a majestic exterior makes it a sight to watch. Enjoy the luxury and power of the Lincoln Stretch limo with Platinum rides.  A private LED light show, a privacy divider and capacity to have an in-house party Lincoln stretch limo is one of our top most booked limos when it comes to travel parties and casino rides. Feel like a star by booking the Rockstar of Limo world through platinum rides Lincoln limo service.                </p>
+                    King of limo world, the Hummer stretch limo has been one of our top-notch collections when it comes
+                    to the limo services. Hummer stretch limousines provide spacious seating of 20 people with 31 feet
+                    stretched beauty, making it essentially the best limo to ride for special occasions. LED interior,
+                    private bar, spacious seating, leather interior and a majestic exterior makes it a sight to watch.
+                    Enjoy the luxury and power of the Hummer Stretch limo with Platinum rides. A private LED light show,
+                    a privacy divider and capacity to have an in-house party Hummer stretch limo is one of our top most
+                    booked limos when it comes to travel parties and casino rides. Feel like a star by booking the
+                    Rockstar of Limo world through platinum rides hummer limo service.
+                </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
-                <h5 class="ml-2">Executive Stretch Limousine Details</h5>
+                <h5 class="ml-2">Hummer Stretch Limousine Details</h5>
                 <p>
                 <div class="About-Car">
-                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 2<br>
+                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 14<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 2<br>
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 4<br>
                 </div>
                 <div class="About-Car">
                     <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound
@@ -81,30 +89,26 @@ include ('./header.php');
                 </p>
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
-                <p>
-                We will offer you the most appropriate package according to your desires. After the payment, the deal will be done from both sides. Then, we will inform you officially that your request has been accommodated.
-                </p>
-                <hr>
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-2">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
                 <ul>
-                    <li>Up to 4 Passengers</li>
+                    <li>Up to 14 Passengers</li>
                     <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
                     <li>Complimentary Bottled Water</li>
                     <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
                     <li>Tinted privacy windows</li>
                     <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+                    <li>-2 large flat-screen TVs</li>
+                    <li>-4 USB plug-ins &amp; Phone Chargers</li>
+                    <li>-Perimeter seating, reclining seats</li>
+                    <li>Very comfortable for meetings and corporate travel</li>
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                    <hr>
+                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the
+                    payment, the deal
+                    will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.</p>
+                <hr>
                 <h3 class="mb-2">SPECIAL OFFERS</h3>
                 <ul>
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
