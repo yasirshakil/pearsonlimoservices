@@ -28,16 +28,16 @@ include ('./header.php');
     <a href="#accordion1" aria-expanded="false" aria-controls="accordion1"
       class="accordion-title hov accordionTitle js-accordionTrigger">Information</a>
   </dt>
-  <dd class="accordion-content accordionItem is-collapsed" id="accordion1" aria-hidden="true">
+  <dd class="" id="accordion1" aria-hidden="true">
     <div class="container-fluid" style="padding-top: 20px;">
       <p class="headings">Information</p>
       <form class="main-container my-4">
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">Pickup time</label>
+            <Label for="">Pickup time</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Pickup-time" id="Pickup-time" class="reservation-form" type="time">
+            <input name="Pickup-time" id="Pickup-time" class="reservation-form info-field" type="time">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -46,7 +46,7 @@ include ('./header.php');
             <label class="" for="">Pickup Date</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Pickup-Date" id="Pickup-Date" class="reservation-form" type="date">
+            <input name="Pickup-Date" id="Pickup-Date" class="reservation-form info-field" type="date">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -55,7 +55,7 @@ include ('./header.php');
             <label class="" for="">Your Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Your-ocation" id="Your-ocation" class="reservation-form" type="text">
+            <input name="Your-ocation" id="Your-ocation" class="reservation-form info-field" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -64,7 +64,7 @@ include ('./header.php');
             <label class="" for="">Drop Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Pickup Date" id="Pickup Date" class="reservation-form" type="text">
+            <input name="Pickup Date" id="Pickup Date" class="reservation-form info-field" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -85,7 +85,7 @@ include ('./header.php');
             <label class="" for="">Drop Your Name</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Drop-Your-Name" id="Drop-Your-Name" placholder="Name" class="reservation-form" type="text">
+            <input name="Drop-Your-Name" id="Drop-Your-Name" placholder="Name" class="reservation-form passenger-field" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -94,7 +94,7 @@ include ('./header.php');
             <label class="" for="">Contact</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Contact" id="Contact" placholder="123456789" class="reservation-form" type="text">
+            <input name="Contact" id="Contact" placholder="123456789" class="reservation-form passenger-field" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -103,7 +103,7 @@ include ('./header.php');
             <label class="" for="">Drop Your Email</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Drop-Your-Email" id="Drop-Your-Email" placholder="example@gmail.com" class="reservation-form" type="Email">
+            <input name="Drop-Your-Email" id="Drop-Your-Email" placholder="example@gmail.com" class="reservation-form passenger-field" type="Email">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -112,7 +112,7 @@ include ('./header.php');
             <label class="" for="">No Of Passengers</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="No-Of-Passengers" id="No Of Passengers">
+              <select class="reservation-form passenger-field" name="No-Of-Passengers" id="No Of Passengers">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -132,7 +132,7 @@ include ('./header.php');
             <label class="" for="">Luggage</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="Luggage" id="Luggage">
+              <select class="reservation-form passenger-field" name="Luggage" id="Luggage">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -152,7 +152,7 @@ include ('./header.php');
             <label class="" for="">No Of Kids</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="No-Of-Kids" id="No-Of-Kids">
+              <select class="reservation-form passenger-field" name="No-Of-Kids" id="No-Of-Kids">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -172,7 +172,7 @@ include ('./header.php');
             <label class="" for="">Child Seat Required</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="Child-Seat-Required" id="Child-Seat-Required">
+              <select class="reservation-form passenger-field" name="Child-Seat-Required" id="Child-Seat-Required">
                 <option value="Yes">Yes</option>
                 <option value="No">No</option>
               </select>
@@ -184,7 +184,7 @@ include ('./header.php');
             <label class="" for="">Child Seat Count</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="Child-Seat-Count" id="Child-Seat-Count">
+              <select class="reservation-form passenger-field" name="Child-Seat-Count" id="Child-Seat-Count">
                 <option value="1">1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -204,7 +204,7 @@ include ('./header.php');
             <label class="" for="">Child Seat type</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select class="reservation-form" name="Child-Seat-type" id="Child-Seat-type">
+              <select class="reservation-form passenger-field" name="Child-Seat-type" id="Child-Seat-type">
                 <option value="Forward Facing">Forward Facing</option>
                 <option value="Rear Facing">Rear Facing</option>
                 <option value="Booster Seat">Booster Seat</option>
@@ -226,6 +226,7 @@ include ('./header.php');
       <dd class="accordion-content accordionItem is-collapsed" id="accordion3" aria-hidden="true">
         <div class="container-fluid">
           <div class="row">
+            <input type="hidden" name="cars[]" id="cars">
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
               <div class="reservation-cars">
                 <img src="images/cars/chryler-300.jpg" alt="">
@@ -523,6 +524,12 @@ include ('./header.php');
 </div>
 <!-- end accordion -->
 </div>
+<!-- end container -->
+
+<?php
+	include ('./footer.php');
+?>
+
 <script>
   (function () {
     var d = document,
@@ -582,10 +589,53 @@ include ('./header.php');
       accordionToggles[i].addEventListener('click', switchAccordion, false);
     }
   })();
-</script>
-<!-- end container -->
 
-<?php
-	include ('./footer.php');
-?>
+  function passenger () {
+    var respone = true;
+      $(".passenger-field").each(function (i, ele){
+            if ( $(ele).val().length < 1)
+              response = false;
+      })
+      return true;
+  }
+
+  $(".passenger-field").blur(function() {
+      if(passenger())
+      {
+          $("#accordion3").removeClass("accordion-content accordionItem is-collapsed");
+      }
+  });
+
+  function checkInfoSecValidity()
+  {
+      let response = true;
+      $(".info-field").each( function(i, ele){
+          if($(ele).val().trim().length < 1)
+              response =  false;
+      })
+      return response
+  }
+
+  $(".info-field").blur( function(){
+    if(checkInfoSecValidity())
+        $("#accordion2").removeClass("accordion-content accordionItem is-collapsed")
+  })
+
+
+  $(".Select-Cars button").click( function(){
+    cars = [];
+    if($(this).hasClass('disselect')) {
+        $(this).parents('.Select-Cars').removeClass('active-car')
+        $(this).text('Select Car').removeClass('disselect')
+    } else {
+        $(this).parents('.Select-Cars').addClass('active-car')
+        $(this).text('Unselect Car').addClass('disselect')
+    }
+    $(".active-car").each( function(){
+        cars.push($(this).find(".Reservation-cars-name").text())
+    })
+    $("#cars").val(cars)
+})
+
+</script>
 <!-- End Footer -->

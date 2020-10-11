@@ -3518,3 +3518,8 @@ div.loader-background {
 .Reservation-cars-name {
   font-size: 18px;
 }
+
+.active-car
+{
+  border: 1px solid black;
+}
