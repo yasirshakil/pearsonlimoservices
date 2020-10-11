@@ -29,8 +29,8 @@ include ('./header.php');
       class="accordion-title hov accordionTitle js-accordionTrigger accordian-heading">Information</a>
   </dt>
   <dd class="" id="accordion1" aria-hidden="true">
-    <div class="container-fluid" style="padding-top: 20px;">
-      <p class="headings">Information</p>
+    <div class="container-fluid" style="">
+      <!-- <p class="headings">Information</p> -->
       <form class="main-container my-4">
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
@@ -77,8 +77,8 @@ include ('./header.php');
       class="accordion-title hov accordionTitle js-accordionTrigger accordian-heading">Passengers Details</a>
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
-    <div class="container-fluid" style="padding-top: 20px;">
-      <p class="headings">Passengers Details</p>
+    <div class="container-fluid" style="">
+      <!-- <p class="headings">Passengers Details</p> -->
       <form class="main-container my-4">
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
@@ -209,8 +209,8 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="Child-Seat-type" id="Child-Seat-type">
-                <option value="Forward Facing">Forward Facing</option>
-                <option value="Rear Facing">Rear Facing</option>
+                <option value="Infant">Infant</option>
+                <option value="Toddler">Toddler</option>
                 <option value="Booster Seat">Booster Seat</option>
               </select>
             <i class="i-icon">i</i>
@@ -400,8 +400,8 @@ include ('./header.php');
       class="accordion-title accordionTitle js-accordionTrigger accordian-heading">Payment Information</a>
   </dt> 
   <dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
-    <div class="container-fluid" style="padding-top: 20px;">
-      <p class="headings">Billing Information</p>
+    <div class="container-fluid" style="">
+      <!-- <p class="headings">Billing Information</p> -->
       <form class="main-container my-4">
         <form class="main-container my-4">
           <div class="row mb-3">
