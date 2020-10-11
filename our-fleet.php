@@ -342,7 +342,7 @@
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
-										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
+										<a class="Box-Links text-center btn-width-class" href="Executive-Stretch-Limousine.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
@@ -373,7 +373,7 @@
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
-										<a class="Box-Links text-center btn-width-class" href="chryler-detail.php" title="">Details</span></a>
+										<a class="Box-Links text-center btn-width-class" href="Lincon-Navigator-Details.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>
