@@ -2,20 +2,21 @@
 include ('./header.php');
 ?>
 
+
 <body>
     <div class="container">
         <div class="row my-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5">
                 <section class="template-title center">
-                    <h1 class="title has-over">BMW 750I</h1>
-                    <span>Mercedes S550</span>
+                    <h1 class="title has-over">Rolls Royce Phantom</h1>
+                    <span>Rolls Royce Phantom</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-                        <div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+                        <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 Cars-Detail-imgBox">
-                <img src="images/cars/bmw 7.png" alt="">
+                <img src="images/cars/Rolls Royce.png" alt="">
             </div>
             <div class="col-lg-1 col-md-1 col-sm-0 col-0">
             </div>
@@ -26,7 +27,7 @@ include ('./header.php');
                         <h5 class=""> PER HOUR RATE</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$90 </b></h6>
+                        <h6><b>$55 </b></h6>
                         <p>/ HOUR <sub>*Minimum 2 Hr Service</sub></p>
                         <p class=''> </p>
                     </span>
@@ -50,7 +51,7 @@ include ('./header.php');
                         <h5 class="">AIRPORT TRANSFER</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$90</b></h6>
+                        <h6><b>$55</b></h6>
                         <p><sub>*Starting From</sub></p>
                         <p class=''> </p>
                     </span>
@@ -58,39 +59,38 @@ include ('./header.php');
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
-                <h3 class="mb-2 limoColor">BMW 750I:</h3>
+                <h3 class="mb-2 limoColor">Rolls Royce Phantom:</h3>
                 <p class="mb-2">
-                    A luxurious experience you would always remember. Our limo fleet now includes the latest 2020 BMW 7
-                    Series 750i. A powerful machine, with amazing tech and dazzling features. BMW 750i is all about
-                    power, style, cutting edge technology, floating air control and simply luxurious. BMW 750i is the
-                    latest edition to our limo fleet. It’s available for booking. Give us a call to enjoy the luxurious
-                    ride of this perfect combination of beauty and the beast. The quilted Merino leathers interior with
-                    massaging chairs and amazing audio systems, this stretched beauty is far superior than any of its
-                    predecessors. BMW 750i is a perfect example of a luxury limo ride you want to book. Key features of
-                    this amazing vehicle include:
+                King of Sedans, the luxurious Rolls Royce Phantom VIII edition has been recently added to the limo fleet collection of Platinum rides. The ultra luxurious Royal Royce Phantom is the most comfortable and stretched design when it comes to luxury sedans. Time seems to slow down when you are riding a Phantom, so let our professional chaffers drive you to your destination while you lean back and relax in the custom designed pure and soft leather seats and wool carpets. This amazing vehicle and its built makes your ride exclusive and out of this world.  A luxury world of your own inside one of the most expensive sedans out there. The trade mark long hatch front and glossy outdoor finish this sedan is custom built for the riders of Platinum rides:
                 </p>
             </div>
-            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail my-4 p-5">
-                <h5 class="ml-2">Cadillac XTS Details</h5>
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
+                <h5 class="ml-2">Rolls Royce Phantom Details</h5>
                 <p>
                 <div class="About-Car">
-                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 4<br>
+                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 2<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 3<br>
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 2<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-play mr-2" aria-hidden="true "></i>Flat screen TV’s, DVD player with CD player with
-                    AM <br> / FM surround sound, Plush leather seats<br>
+                    <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound
                 </div>
                 <div class="About-Car mb-4">
                     <i class=" fa fa-car mr-1" aria-hidden="true "></i> Tinted Windows
                 </div>
                 </p>
-                <a class="Box-Links ml-2 m-3" href=""> Make Reservation</a>
+                <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <p>
+                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
+                    in mind. Please call any time to set up an appointment or place your airport transportation request
+                    online on the reservation page.
+                </p>
                 <hr>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
                 <ul>
                     <li>Up to 4 Passengers</li>
                     <li>Black Leather Interior</li>
@@ -107,10 +107,10 @@ include ('./header.php');
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the
-                    payment, the deal will be done from both sides. Then, we will inform you officially that your
-                    request has been accommodated</p>
-                <hr>
+                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the payment, the deal
+                    will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.</p>
+                    <hr>
                 <h3 class="mb-2">SPECIAL OFFERS</h3>
                 <ul>
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
@@ -127,6 +127,7 @@ include ('./header.php');
                 </p>
             </div>
         </div>
+    </div>
 </body>
 <div class="scroll-top"></div>
 </div>
