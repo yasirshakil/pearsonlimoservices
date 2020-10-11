@@ -5,7 +5,7 @@ include ('./header.php');
         <div class="container mt-5 mb-5 bgColor">
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                    <h1 class="mb-2 AjaxLimo">Ajax Limousine Services</h1>
+                    <h1 class="mb-2 AjaxLimo">Ajax Limousine Services </h1>
                     <p class="mb-2 AreaDetails">Ajax, the town named after a royal navy cruiser, deserves a royal treatment. Therefore, we at
                         Platinum Rides take pride in providing its finest Ajax limo service in the eastern part of GTA
                         throughout the town of Ajax. Our Ajax airport shuttle service is available from Ajax to YYZ Pearson
