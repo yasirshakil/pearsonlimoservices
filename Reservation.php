@@ -475,8 +475,8 @@ include ('./header.php');
               </div>
               <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
                   <select name="Billing-Detail" id="Billing-Detail">
+                    <option value="Yes">Yes</option>    
                     <option value="No">No</option>
-                    <option value="Yes">Yes</option>
                   </select>
                 <i class="i-icon">i</i>
               </div>
@@ -710,9 +710,9 @@ $(document).ready(function() {
   });
 
   $("#Billing-Detail").change(function() {
-      var yes = $("#Billing-Detail option:selected").val()
+      var no = $("#Billing-Detail option:selected").val()
 
-      if(yes == "Yes")
+      if(no == "No")
       {
           $("#billing-detail-yes").css("display", "block")
       }else {
