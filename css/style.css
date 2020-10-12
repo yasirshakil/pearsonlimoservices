@@ -3538,3 +3538,6 @@ div.loader-background {
 .accordian-heading {
   font-size: 20px;
 }
+.active-credit-card {
+  display: block;
+}

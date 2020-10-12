@@ -109,7 +109,7 @@ include ('./header.php');
         </div>
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">No Of Passengers</label>
+            <label class="" for="">No. Of Passengers</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="No-Of-Passengers" id="No Of Passengers">
@@ -411,106 +411,140 @@ include ('./header.php');
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select name="Payment-Method" id="Payment-Method">
                 <option value="Cash">Cash</option>
-                <option value="Dabit Card">Dabit Card</option>
+                <option value="credit-card">Credit Card</option>
                 <option value="Account">Account</option>
               </select>
               <i class="i-icon">i</i>
             </div>
           </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Card Type</label>
+          <div id="credit-card" style="display: none">
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Card Type</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                  <select name="Card-Type" id="Card-Type">
+                    <option value="Visa ">Visa</option>
+                    <option value="Mastercard">Mastercard</option>
+                    <option value="American-Express">American Express </option>
+                    <option value="Discover">Discover</option>
+                  </select>
+                <i class="i-icon">i</i>
+              </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-                <select name="Card-Type" id="Card-Type">
-                  <option value="Visa ">Visa</option>
-                  <option value="Mastercard">Mastercard</option>
-                  <option value="American-Express">American Express </option>
-                  <option value="Discover">Discover</option>
-                </select>
-              <i class="i-icon">i</i>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Name on card</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                  <input type="text" class="form-control" name="name-on-card" id="name-on-card" />
+                <i class="i-icon">i</i>
+              </div>
             </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Name on card</label>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Credit Card #</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                  <input type="text" class="form-control" name="credit-card-no" id="credit-card-no" />
+                <i class="i-icon">i</i>
+              </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-                <select name="Name-on-card " id="Name-on-card ">
-                  <option value="Credit-Card-# ">Credit Card #</option>
-                  <option value="Expiry-Date">Expiry Date</option>
-                  <option value="CVV ">CVV</option>
-                </select>
-              <i class="i-icon">i</i>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Expiry Date</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                  <input type="text" class="form-control" name="expiry-date" id="expiry-date" />
+                <i class="i-icon">i</i>
+              </div>
             </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Billing Details As Same Pickup</label>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">CVV</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                  <input type="text" class="form-control" name="cvv" id="cvv" />
+                <i class="i-icon">i</i>
+              </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-                <select name="Billing-Detail" id="Billing-Detail">
-                  <option value="Credit-Card-# ">Yes</option>
-                  <option value="Expiry-Date">No</option>
-                </select>
-              <i class="i-icon">i</i>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label name="Pickup Date" id="" class="" for="">Name</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Name" id="Name" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Address</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Address " id="Address" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Write City</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Write-City" id="Write-City" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Province</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Province" id="Province" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
+            
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Billing Details As Same Pickup</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                  <select name="Billing-Detail" id="Billing-Detail">
+                    <option value="No">No</option>
+                    <option value="Yes">Yes</option>
+                  </select>
+                <i class="i-icon">i</i>
+              </div>
             </div>
           </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Zip Code / Postal</label>
+          
+          <div id="billing-detail-yes" style="display:none">
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label name="Pickup Date" id="" class="" for="">Name</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="Name" id="Name" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Zip-Code" id="Zip-Code" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Address</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="Address " id="Address" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
             </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Write Country</label>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">City</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="Write-City" id="city" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
             </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Write-Country" id="Write-Country" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Province</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="Province" id="province" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
+            </div>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Zip Code / Postal</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="Zip-Code" id="Zip-Code" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
+            </div>
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label class="" for="">Country</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="Country" id="Country" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
             </div>
           </div>
         </form>
+        
+        
+        
+        
+        
         <!-- <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-4">
             <h1>Payment Option</h1>
@@ -661,6 +695,32 @@ include ('./header.php');
     })
     $("#cars").val(cars)
 })
+
+$(document).ready(function() {
+
+  $("#Payment-Method").change(function() {
+    var creditCard = $("#Payment-Method option:selected").val();
+    if (creditCard == "credit-card")
+    {
+        $("#credit-card").css("display", "block")
+    } else {
+         $("#credit-card").css("display", "none")   
+         $("#billing-detail-yes").css("display", "none")
+    }
+  });
+
+  $("#Billing-Detail").change(function() {
+      var yes = $("#Billing-Detail option:selected").val()
+
+      if(yes == "Yes")
+      {
+          $("#billing-detail-yes").css("display", "block")
+      }else {
+          $("#billing-detail-yes").css("display", "none")
+      }
+  });
+
+}); 
 
 </script>
 <!-- End Footer -->
