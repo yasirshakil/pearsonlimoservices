@@ -11,7 +11,7 @@ include ('./header.php');
                     <h1 class="title has-over">30 Passengers Bus</h1>
                     <span>30 Passengers Bus</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-                        <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
+                        <div class="Borders m-auto co-lg-5 col-md-5 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>

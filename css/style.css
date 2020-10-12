@@ -2978,7 +2978,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   }
   .Content-Box {
     padding: 10px;
-    /* justify-content: center; */
+    justify-content: center;
   }
   .Content-Box:hover {
     padding: 10px;
@@ -2995,6 +2995,14 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   .About-Text-Col{
     margin-top: 50px;
   }
+
+  .bb-descr {
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+    text-align: center;
+    line-height: 24px;
+}
 
 }
 
