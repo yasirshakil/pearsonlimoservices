@@ -398,7 +398,7 @@ include ('./header.php');
     <!-- accordion tab 3 - Payment Info -->
     <a href="#accordion4" aria-expanded="false" aria-controls="accordion4"
       class="accordion-title accordionTitle js-accordionTrigger accordian-heading">Payment Information</a>
-  </dt> 
+  </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
     <div class="container-fluid" style="">
       <!-- <p class="headings">Billing Information</p> -->
@@ -468,21 +468,21 @@ include ('./header.php');
                 <i class="i-icon">i</i>
               </div>
             </div>
-            
+
             <div class="row mb-3">
               <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
                 <label class="" for="">Billing Details As Same Pickup</label>
               </div>
               <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
                   <select name="Billing-Detail" id="Billing-Detail">
-                    <option value="Yes">Yes</option>    
+                    <option value="Yes">Yes</option>
                     <option value="No">No</option>
                   </select>
                 <i class="i-icon">i</i>
               </div>
             </div>
           </div>
-          
+
           <div id="billing-detail-yes" style="display:none">
             <div class="row mb-3">
               <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
@@ -539,37 +539,36 @@ include ('./header.php');
               </div>
             </div>
           </div>
+          <div id="account-selected" style="display: none;">
+            <div class="row mb-3">
+              <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                <label name="Pickup Date" id="" class="" for="">Name</label>
+              </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="account-name" id="account-name" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                  <label name="Pickup Date" id="" class="" for="">Company</label>
+                </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="company-name" id="company-name" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+                  <label name="Pickup Date" id="" class="" for="">Account No</label>
+                </div>
+              <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+                <input name="account-no" id="account-no" class="reservation-form" type="text">
+                <i class="i-icon">i</i>
+              </div>
+            </div>
+          </div>
         </form>
-        
-        
-        
-        
-        
-        <!-- <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-4">
-            <h1>Payment Option</h1>
-          </div>
-          <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-            <label> Payment Option</label><br><span class="">
-              <span class="">
-                <span class="">
-                  <input class="mr-1" type="radio" name="payment-option" value="In car payment Cash/Debit/Credit"
-                    checked="checked">
-                  <span class="mr-2">
-                    In car payment Cash/Debit/Credit</span>
-                </span>
-                <span class="mx-2">
-                  <input type="radio" name="payment-option" value="Credit Card">
-                  <span class="mx-2">Credit Card</span>
-                </span>
-                <span class="">
-                  <input type="radio" name="payment-option" value="Account">
-                    <span class="">Account</span>
-                </span>
-              </span>
-            </span>
-          </div>
-        </div> -->
         <div class="button-container">
           <button class="Contact-Btn mr-5" type="submit">Submit</button>
         </div>
@@ -704,7 +703,7 @@ $(document).ready(function() {
     {
         $("#credit-card").css("display", "block")
     } else {
-         $("#credit-card").css("display", "none")   
+         $("#credit-card").css("display", "none")
          $("#billing-detail-yes").css("display", "none")
     }
   });
@@ -720,7 +719,17 @@ $(document).ready(function() {
       }
   });
 
-}); 
+    $("#Payment-Method").change(function() {
+    var account = $("#Payment-Method option:selected").val()
+
+    if(account == "Account")
+    {
+        $("#account-selected").css("display", "block")
+    } else {
+        $("#account-selected").css("display", "none")
+    }
+});
+});
 
 </script>
 <!-- End Footer -->
