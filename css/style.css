@@ -3048,6 +3048,13 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   margin: 5px 10px 0px 0px;
 } */
 
+.select-car .box-text .bottom .price,
+.select-car .box-text .bottom .btn-select,.select-car.ofl .bottom .price,.select-car.ofl .bottom .btn-select{
+	display: flex;
+	justify-content: space-between;
+	padding-right: 0px;
+}
+
 }
 
 
@@ -3538,14 +3545,8 @@ div.loader-background {
 .accordian-heading {
   font-size: 20px;
 }
-<<<<<<< HEAD
-.active-credit-card {
-  display: block;
-}
-=======
 
 .hour{
   color: #d9c77e !important;
-  font-size: 16px !important;
+  font-size: 18px !important;
 }
->>>>>>> 44a055c... Bus Fixes
