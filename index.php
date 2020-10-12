@@ -707,17 +707,17 @@
 				<div class="col-md-5 full-sm">
 					<ul>
 						<li>
-							<h3>1 - Information</h3>
+							<h3><b>1 - Information</b></h3>
 							<p>Visit our website, download our app or just simply give us a call. We need your
 								destination and time preferences and that is the first step toward your limo ride </p>
 						</li>
 						<li>
-							<h3>2 - Confirmation</h3>
+							<h3><b>2 - Confirmation</b></h3>
 							<p>Select the limousine you want to ride in and confirm your booking. You would receive
 								confirmation messages via email and sms.</p>
 						</li>
 						<li>
-							<h3>3 - Destination</h3>
+							<h3><b>3 - Destination</b></h3>
 							<p>On the day of your travel all you need to think is of your destination. After
 								confirmation, your limo ride would be ready to pick you up on the time and place you
 								have provided and we would take you to your destination.</p>
