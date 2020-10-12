@@ -321,7 +321,7 @@ include ('./header.php');
                 <img src="images/cars/lincolin.jpeg" alt="">
               </div>
               <div class="reservation-cars-select">
-                <h5 class="mb-1 Reservation-cars-name">Lincoln MKT Strech Limousine</h5>
+                <h5 class="mb-1 Reservation-cars-name">Lincoln MKT Strech </h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -359,7 +359,7 @@ include ('./header.php');
                 <img src="images/cars/24.jpeg" alt="">
               </div>
               <div class="reservation-cars-select">
-                <h5 class="mb-1 Reservation-cars-name">20 Passengers Mini Limo bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">20 Passengers Mini bus</h5>
                 <button>Select Car</button>
               </div>
             </div>
@@ -368,7 +368,7 @@ include ('./header.php');
                 <img src="images/cars/36.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                <h5 class="mb-1 Reservation-cars-name">30 Passengers Mini Limo Bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">30 Passengers Mini Bus</h5>
                 <button>Select Car</button>
               </div>
             </div>

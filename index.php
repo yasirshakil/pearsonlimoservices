@@ -817,7 +817,7 @@
 					<div class="Content-Box">
 						<h2 class="mb-3">Corporate Limo Service</h2>
 						<div class="borderr"></div>
-						<p style="margin-bottom:24px;" class="bb-descr mt-3">
+						<p style="margin-bottom:24px;" class="bb-descr mt-3 ">
 							Limo Service for the corporate world is specifically designed to attend professional
 							needs of the corporate world. This service includes limousines rentals for corporate
 							meetings and recreational activities.
