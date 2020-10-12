@@ -1316,6 +1316,7 @@ button:focus {
 .header-05 .top-header .box-right {
   display: inline-block;
   vertical-align: middle;
+
 }
 .header-05 .top-header .login a {
   color: #969696;
@@ -2742,7 +2743,6 @@ ul.social-ft li:last-child {
 .data-time {
   height: 40px;
   width: 100%;
-  /* border: solid 1px rgb(217, 199, 126); */
   border-radius: 5px;
   transition: 0.5s all;
 }
@@ -3476,7 +3476,7 @@ div.loader-background {
   border-radius: 5px;
 }
 
-.Select-Cars{
+.Select-Cars{ 
   height: 200px;
 }
 
@@ -3538,6 +3538,14 @@ div.loader-background {
 .accordian-heading {
   font-size: 20px;
 }
+<<<<<<< HEAD
 .active-credit-card {
   display: block;
 }
+=======
+
+.hour{
+  color: #d9c77e !important;
+  font-size: 16px !important;
+}
+>>>>>>> 44a055c... Bus Fixes

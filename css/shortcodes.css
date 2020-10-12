@@ -1316,6 +1316,8 @@ ul.booking-steps li .text {
 .select-car .box-text .bottom .price,
 .select-car .box-text .bottom .btn-select,.select-car.ofl .bottom .price,.select-car.ofl .bottom .btn-select{
 	display: flex;
+	justify-content: space-between;
+	padding-right: 80px;
 }
 .select-car .box-text .bottom .price,.select-car.ofl .bottom .price {
 	color: #bf9c60;

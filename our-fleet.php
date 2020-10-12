@@ -36,7 +36,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
+									<p class="text-justify">Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
@@ -44,7 +44,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$65</span> / hour
+										<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 										<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -66,7 +66,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+									<p class="text-justify">The Cadillac XTS has been a popular choice with luxury sedan clients for more
 										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
@@ -75,9 +75,10 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$65</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
+
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
 										<a class="Box-Links text-center btn-width-class" href="Cadillac-details.php" title="">Details</span></a>
 									
@@ -99,7 +100,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Platinum Rides offers the latest technology car along with the elegance and reliability you expect in an Executive Stretch Limousine.</p>
+									<p class="text-justify"> Platinum Rides offers the latest technology car along with the elegance and reliability you expect in an Executive Stretch Limousine.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
@@ -107,7 +108,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -129,7 +130,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+									<p class="text-justify">This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
@@ -138,7 +139,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$150</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -168,7 +169,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
+									<p class="text-justify">Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
@@ -176,7 +177,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$350</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -198,7 +199,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+									<p class="text-justify">The Cadillac XTS has been a popular choice with luxury sedan clients for more
 										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 2</li>
@@ -207,7 +208,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$400</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -230,7 +231,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<p class="text-justify">Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
@@ -238,7 +239,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$90</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -260,7 +261,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+									<p class="text-justify">This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
@@ -269,7 +270,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$90</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -299,7 +300,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
+									<p class="text-justify">Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
@@ -307,7 +308,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$120</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -329,7 +330,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+									<p class="text-justify">The Cadillac XTS has been a popular choice with luxury sedan clients for more
 										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 8</li>
@@ -338,7 +339,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$125</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -361,7 +362,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<p class="text-justify">Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
@@ -369,7 +370,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$125</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -391,7 +392,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+									<p class="text-justify">This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
@@ -400,7 +401,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$150</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -430,7 +431,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
+									<p class="text-justify">Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 12</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 12</li>
@@ -438,7 +439,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$125</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -460,7 +461,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>The Cadillac XTS has been a popular choice with luxury sedan clients for more
+									<p class="text-justify">The Cadillac XTS has been a popular choice with luxury sedan clients for more
 										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 20</li>
@@ -469,7 +470,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$170</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -492,7 +493,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<p class="text-justify">Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 30</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 30</li>
@@ -500,7 +501,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$175</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -522,7 +523,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
+									<p class="text-justify">This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 40</li>
@@ -531,7 +532,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$275</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -554,7 +555,7 @@
 									</div> -->
 								</div>
 								<div class="content">
-									<p>Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
+									<p class="text-justify">Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 50</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 50</li>
@@ -562,7 +563,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-										<span>$275</span> / hour
+									<span>$65 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>

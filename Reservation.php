@@ -576,7 +576,6 @@ include ('./header.php');
     </div>
   </dd>
   <!-- end accordion tab 3 -->
-
   </dl>
   <!-- end description list -->
 </div>
