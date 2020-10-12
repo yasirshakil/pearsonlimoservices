@@ -406,37 +406,71 @@ include ('./header.php');
         <form class="main-container my-4">
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Full Name</label>
+              <label class="" for="">Payment Method</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Full-Name" id="Full-Name" class="reservation-form" type="text">
+              <select name="Payment-Method" id="Payment-Method">
+                <option value="Cash">Cash</option>
+                <option value="Dabit Card">Dabit Card</option>
+                <option value="Account">Account</option>
+              </select>
               <i class="i-icon">i</i>
             </div>
           </div>
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Phone Number</label>
+              <label class="" for="">Card Type</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Phone-Number" id="Phone-Number" class="reservation-form" type="text">
+                <select name="Card-Type" id="Card-Type">
+                  <option value="Visa ">Visa</option>
+                  <option value="Mastercard">Mastercard</option>
+                  <option value="American-Express">American Express </option>
+                  <option value="Discover">Discover</option>
+                </select>
               <i class="i-icon">i</i>
             </div>
           </div>
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label name="Pickup Date" id="" class="" for="">Address Line 1</label>
+              <label class="" for="">Name on card</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Address-Line-1" id="Address-Line-1" class="reservation-form" type="text">
+                <select name="Name-on-card " id="Name-on-card ">
+                  <option value="Credit-Card-# ">Credit Card #</option>
+                  <option value="Expiry-Date">Expiry Date</option>
+                  <option value="CVV ">CVV</option>
+                </select>
               <i class="i-icon">i</i>
             </div>
           </div>
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Line 2</label>
+              <label class="" for="">Billing Details As Same Pickup</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Line-2" id="Line-2" class="reservation-form" type="text">
+                <select name="Billing-Detail" id="Billing-Detail">
+                  <option value="Credit-Card-# ">Yes</option>
+                  <option value="Expiry-Date">No</option>
+                </select>
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label name="Pickup Date" id="" class="" for="">Name</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input name="Name" id="Name" class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Address</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input name="Address " id="Address" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -451,10 +485,19 @@ include ('./header.php');
           </div>
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Write State</label>
+              <label class="" for="">Province</label>
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Write-State" id="Write-State" class="reservation-form" type="text">
+              <input name="Province" id="Province" class="reservation-form" type="text">
+              <i class="i-icon">i</i>
+            </div>
+          </div>
+          <div class="row mb-3">
+            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
+              <label class="" for="">Zip Code / Postal</label>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
+              <input name="Zip-Code" id="Zip-Code" class="reservation-form" type="text">
               <i class="i-icon">i</i>
             </div>
           </div>
@@ -464,28 +507,6 @@ include ('./header.php');
             </div>
             <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <input name="Write-Country" id="Write-Country" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Zip Code</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <input name="Zip-Code" id="Zip-Code" class="reservation-form" type="text">
-              <i class="i-icon">i</i>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-              <label class="" for="">Payment Method</label>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-              <select name="Payment-Method" id="Payment-Method">
-                <option value="Cash">Cash</option>
-                <option value="Dabit Card">Dabit Card</option>
-                <option value="Account">Account</option>
-              </select>
               <i class="i-icon">i</i>
             </div>
           </div>
