@@ -3549,7 +3549,8 @@ div.loader-background {
 
 .active-car
 {
-  border: 1px solid black;
+  border: 1px solid #d9c77e;
+  box-shadow: 0px -1px 10px 1px #d9c77e;
 }
 .accordian-heading {
   font-size: 20px;
