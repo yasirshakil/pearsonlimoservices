@@ -528,8 +528,7 @@ include ('./header.php');
 				</ul>
 				<p>If there is anything we haven’t covered, or if you have any special requirements please let us
 					know and we will do our best to accommodate your transport needs in any way we can regardless of
-					volume, budget, or urgency. Please call us at any time of the day or night <a
-						style="color: #d9c77e;" href="tel:905-974-9873">905-974-9873</a></p>
+					volume, budget, or urgency. Please call us at any time of the day or night <a class="Highlight" href="tel:437-800-1547">437-800-1547</a></p>
 			</div>
 		</div>
 		<!-- End Services Ratea -->

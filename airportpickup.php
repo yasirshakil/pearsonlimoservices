@@ -59,7 +59,7 @@ include ('./header.php');
                         page your driver informing him of your arrival at the door. Your Limo will be released from the
                         compound and your Limo will arrive at Door A in about 4 minutes. If you have trouble finding the
                         prearranged Limousine counter or you need any assistance upon arrival, please don’t hesitate to
-                        CALL us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> and we will assist you through the pickup procedure.
+                        CALL us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> and we will assist you through the pickup procedure.
                     </p>
                     <hr>
                     <h2 class="Airport-pickup-headings">PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 3.(Post 7)</h2>
@@ -74,7 +74,7 @@ include ('./header.php');
                         pre-booked with Platinum Rides. The officer will then page your driver informing him of your arrival
                         at the door. Your Limo will be released from the compound and <b>your Limo will arrive at Door A (POST7) </b>
                         in about 4 minutes. If you have trouble finding the prearranged Limousine counter or you need any
-                        assistance upon arrival, please don’t hesitate to CALL us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> and we will
+                        assistance upon arrival, please don’t hesitate to CALL us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> and we will
                         assist
                         you through the pickup procedure.
                     </p>

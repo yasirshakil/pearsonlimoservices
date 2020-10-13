@@ -147,7 +147,7 @@ include ('./header.php');
                 <hr>
                 <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
-                    car, or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> or Tollfree <a
+                    car, or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Tollfree <a
                         class="Highlight" href="tel:888-900-3001">888-900-3001</a>
                 </p>
             </div>

@@ -22,7 +22,7 @@ include ('./header.php');
                     Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
                     stretch limo with luxury interior and comfort. We would love to be a part of your special day by
                     offering you the best limo service. We have a range of limo rides for you to choose from. Visit our
-                    fleet for more information or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your special ride.
+                    fleet for more information or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your special ride.
                 </p>
                 <p class="text-justify mb-2">
                     The biggest event in your life just got better, we would be pleased to help you out in your grand
@@ -46,7 +46,7 @@ include ('./header.php');
                     pleasure to be on your side on your big day,
 
                 </p>
-                <h4 class="mb-5"><b>Call us</b> <a class="Highlight" href="tel:9059749873">905-974-9873</a> or Book us
+                <h4 class="mb-5"><b>Call us</b> <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Book us
                     online for wedding packages.</h4>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">

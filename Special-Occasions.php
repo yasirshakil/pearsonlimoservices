@@ -22,13 +22,13 @@ include ('./header.php');
                     Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
                     stretch limo with luxury interior and comfort. We would love to be a part of your special day by
                     offering you the best limo service. We have a range of limo rides for you to choose from. Visit our
-                    fleet for more information or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your special ride.
+                    fleet for more information or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your special ride.
                 </p>
                 <p class="text-justify mb-2">
                     Looking to plan a party, a special event or even a date with a special someone. If you want to feel
                     confident and amazing you need a luxury limo ride to reach that occasion. We understand the power of
                     first impressions, therefore we would make sure you have a great first impression on your special
-                    occasion. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for a limo ride.
+                    occasion. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for a limo ride.
 
                 </p>
             </div>

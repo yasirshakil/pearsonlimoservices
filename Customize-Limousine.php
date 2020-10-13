@@ -20,7 +20,7 @@ include ('./header.php');
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <p class="text-justify mb-2">
                     If you think you have a certain set of requirements not covered in our standard packages. We are
-                    more than willing to help you with a customized limousine rental solution. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a>
+                    more than willing to help you with a customized limousine rental solution. Call us at<a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
                     for custom limo solutions Custom Solutions are important when you have unique needs, therefore we
                     have a dedicated limo service to cater these needs. If you want more than one limo for more than one
                     trip and existing packages are not what you are looking for, give us a call and we will provide you

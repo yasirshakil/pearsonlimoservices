@@ -53,7 +53,7 @@ include ('./header.php');
                     If you have any questions regarding our medical transportation service, Please Email us <a
                         class="Highlight" href="mailto:pearsonlimoervices.ca">info@pearsonlimoervices.ca</a>
                     or call our dispatch for more
-                    inquiries <a class="Highlight" href="tel:+1905-974-9873">+1905-974-9873</a>
+                    inquiries <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
                 </p>
                 <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
