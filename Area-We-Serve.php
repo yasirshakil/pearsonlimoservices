@@ -1,7 +1,6 @@
 <?php
 include ('./header.php');
-?>
-		
+?>		
 		<div class="container">
 			<div class="row mt-5">
 				<div class="clo-lg-12 col-md-12 col-sm-12 col-12 text-center Area-We-Serve">

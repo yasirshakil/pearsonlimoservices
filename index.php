@@ -100,7 +100,7 @@
 	                            data-width="['auto']"
 	                            data-height="['auto']"
 	                            style="z-index: 3;">OUR company
-	                            </a><!-- END LAYER LINK -->
+	                            </a><!- END LAYER LINK -->
 						<!-- <a href="#" target="_self" class="tp-caption button-b text-center"         
 	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
 	                            data-x="['center','center','center','center']" data-hoffset="['490','95','95','75']" 
@@ -244,16 +244,17 @@
 		</div>
 	</section>
 	<!-- End Tp Banner -->
-	<!-- Start Template title -->
+	<!-- Start Template title --
 	<section class="template-title has-over text-up">
 		<div class="container">
-			<h3 class="title">Our Fleet</h3>
+			<h3 class="title Our-Fleet">Our Fleet</h3>
 			<div class="row">
 				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 				</div>
 			</div>
-			<p class="subtitle">A limo ride for everyone, your choice is our command. We have the most versatile limo fleet in the business. You name it and we have it.</p>
+			<p class="subtitle">A limo ride for everyone, your choice is our command. We have the most versatile limo
+				fleet in the business. You name it and we have it.</p>
 		</div>
 	</section>
 	<!-- End Template title -->
@@ -801,7 +802,8 @@
 						<p style="margin-bottom:48px;" class="bb-descr mt-3">
 							Looking to book a limo for the airport transfer. We are here to help with the best service
 							and luxurious fleet. We have a dedicated fleet for airport transfers which covers all
-							international and domestic airports of GTA. Call us at <br><a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your perfect ride to
+							international and domestic airports of GTA. Call us at <br><a class="Highlight"
+								href="tel:905-974-9873">905-974-9873</a> for your perfect ride to
 							airport.
 						</p>
 						<div>
@@ -839,7 +841,8 @@
 							Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her
 							home in stretch limo with luxury interior and comfort. We would love to be a part of your
 							special day by offering you the best limo service. We have a range of limo rides for you to
-							choose from. Visit our fleet for more information or Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for your special
+							choose from. Visit our fleet for more information or Call us at <a class="Highlight"
+								href="tel:905-974-9873">905-974-9873</a> for your special
 							ride.
 						</p>
 						<div class="LinksBox">
@@ -859,7 +862,8 @@
 							Looking to plan a party, a special event or even a date with a special someone. If you want
 							to feel confident and amazing you need a luxury limo ride to reach that occasion. We
 							understand the power of first impressions, therefore we would make sure you have a great
-							first impression on your special occasion. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for a limo ride.
+							first impression on your special occasion. Call us at <a class="Highlight"
+								href="tel:905-974-9873">905-974-9873</a> for a limo ride.
 						</p>
 						<div class="LinksBox">
 							<a class="Box-Links" href="">BOOK NOW</a>
@@ -875,7 +879,8 @@
 						<p style="margin-bottom:43px;" class="bb-descr mt-3">
 							Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
 							luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the
-							world Niagara falls. Call us at <a class="Highlight" href="tel:905-974-9873">905-974-9873</a> for special Niagara Limo Deals.
+							world Niagara falls. Call us at <a class="Highlight"
+								href="tel:905-974-9873">905-974-9873</a> for special Niagara Limo Deals.
 						</p>
 						<div class="LinksBox">
 							<a class="Box-Links" href="">BOOK NOW</a>
@@ -979,6 +984,17 @@
 				</div>
 			</div>
 		</div>
+		<script>
+        $(window).scroll(function() {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= 250) {
+                $(".Our-Fleet").addClass("animate__animated animate__backInLeft ");
+            } else {
+                $(".Our-Fleet").removeClass("animate__animated animate__backInLeft ");
+            }
+        });
+		</script>
 
 	</section>
 	<!-- End Testimonial -->
