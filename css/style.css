@@ -3012,6 +3012,10 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     display: inline-block;
   }
 
+  .responsive{
+    display: block !important;
+  }
+
   .service-rates-heading{
     font-size: 18px;
   }
@@ -3695,3 +3699,6 @@ div.loader-background {
 
 /* Services Rates End*/
 
+.responsive{
+  display: none;
+}

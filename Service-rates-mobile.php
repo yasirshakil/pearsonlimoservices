@@ -172,6 +172,100 @@ include ('./header.php');
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
     </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-6 image-section p-0 responsive">
+      <div class="tital-sapce"></div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      
+    </div>
     <div class="col-lg-3 col-md-3 col-sm-6 col-6">
       <div class="tital">
         <h3 class="service-rates-heading">
@@ -242,6 +336,100 @@ include ('./header.php');
         <div class><span class="price">$65</span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-6 col-6 image-section p-0 responsive">
+      <div class="tital-sapce"></div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      <div class="img-box">
+        <div class="img">
+          <img src="images/cars/24.jpeg" alt="" />
+        </div>
+        <div class="Cars-names">20 Passengers Limo Bus</div>
+      </div>
+      
     </div>
     <div class="col-lg-3 col-md-3 col-sm-6 col-6">
       <div class="tital">
