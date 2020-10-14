@@ -3011,6 +3011,27 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   .ReservationBox{
     display: inline-block;
   }
+
+  .service-rates-heading{
+    font-size: 18px;
+  }
+
+  .service-rates-heading span p {
+    font-size: 12px !important;
+    
+  }
+
+  .Our-Services-Text{
+    font-size: 12px;
+  }
+
+  .img-box .Cars-names {
+    height: auto;
+    /* padding: 10px 20px; */
+    text-align: center;
+    width: 100%;
+    font-size: 16px !important;
+}
   
 
   .AjaxLimo{
@@ -3560,3 +3581,117 @@ div.loader-background {
   color: #d9c77e !important;
   font-size: 18px !important;
 }
+
+/* Services Rates Start*/
+
+.img-box{
+  padding: 20px 0px;
+  height: 200px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #eee;
+  border-right:  1px solid #eee; 
+  border-left: 1px solid #eee;
+
+}
+
+.img-box .img img {
+  width: 100%;
+  height: auto;
+}
+
+.Services-rates{
+  height: 200px;
+ 
+  /* background-color: red; */
+  box-sizing: border-box;
+  border-bottom: 1px solid #eee;
+  border-right:  1px solid #eee; 
+  border-left: 1px solid #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+/* .Day-rates{
+  height: 200px;
+  border-bottom: solid 1px #eee;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .Airport-Services{
+  height: 200px;
+  border-bottom: solid 1px #eee;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+.img-box .img{
+  /* height: 70%; */
+  /* background-color: blue; */
+  width: 100%;
+}
+
+.img-box .Cars-names{
+  height: auto;
+  /* padding: 10px 20px; */
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+}
+
+.tital{
+  text-align: center;
+  width: 100%;
+  padding: 20px 0px;
+  background-color: teal;
+}
+
+.tital-sapce{
+  height: 100px;
+  width: 100%;
+  border-bottom:solid 1px #eee;
+  
+}
+
+.service-rates-heading span p {
+  font-size: 16px;
+  text-align: center;
+}
+
+.Services-rates div .price {
+  font-size: 40px;
+  color: #d9c77e;
+}
+
+.Services-rates div {
+  color: #d9c77e;
+}
+
+.Services-rates div .price {
+  font-size: 40px;
+}
+
+/* .Day-rates div .price {
+  font-size: 40px;
+  color: #d9c77e;
+}
+.Airport-Services div .price {
+  font-size: 40px;
+}
+
+.Airport-Services div .price {
+  font-size: 40px;
+  color: #d9c77e;
+} */
+
+/* Services Rates End*/
+
