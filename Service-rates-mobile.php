@@ -4,8 +4,20 @@ include ('./header.php');
 <!-- Start Top Title -->
 <!-- <div class="col-lg-3 col-md-3 col-sm-6 col-6"></div> -->
 
-<div class="container">
-  <div class="row my-5">
+<div class="container my-5">
+  <section class="template-title center">
+    <div class="template-title center">
+      <h1>Service Rates</h1>
+      <span>Service Rates</span>
+      <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+        <div class="Borders m-auto co-lg-12 col-md-4 col-sm-6 col-6"></div>
+      </div>
+      <div>
+        <p> Superior Service Quality with the best price in the market. </p>
+      </div>
+    </div>
+  </section>
+  <div class="row mt-5">
     <div class="col-lg-2 col-md-3 col-sm-6 col-6 image-section p-0 offset">
       <div class="tital-sapce"></div>
       <div class="img-box">
@@ -570,6 +582,24 @@ include ('./header.php');
     </div>
   </div>
 </div>
+<div class="container mb-5">
+			<div class="limoking">
+				<h5><b>Please Note:</b></h5>
+				<p>Rates shown represent the “one-way” cost “per vehicle” to/from the airport for each of the
+					respective city/vehicle combinations. Rates quoted are for the vehicle not the number of
+					passengers.</p>
+				<ul>
+					<li>Additional Fee charged for use of Toll Highway 407.</li>
+					<li>Additional Charges Apply for Extra Stops for respective Vehicles.</li>
+					<li>All Rates are subject to 13% HST (Govt Tax)</li>
+					<li>All reservations are subject to 15% Driver Gratuity</li>
+					<li>Additional Charges Apply For airport pick-ups</li>
+				</ul>
+				<p>If there is anything we haven’t covered, or if you have any special requirements please let us
+					know and we will do our best to accommodate your transport needs in any way we can regardless of
+					volume, budget, or urgency. Please call us at any time of the day or night <a class="Highlight" href="tel:437-800-1547">437-800-1547</a></p>
+			</div>
+		</div>
 
 <?php
 	include ('./footer.php');
