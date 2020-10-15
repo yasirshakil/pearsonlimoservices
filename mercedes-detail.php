@@ -15,7 +15,7 @@ include ('./header.php');
                     </div>
                 </section>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 Cars-Detail-imgBox">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-12 Cars-Detail-imgBox animate__animated animate__backInLeft">
                 <img src="images/cars/Executive-Mercedes.jpg" alt="">
                 <h3 class="my-4 limoColor">Mercedes S550:</h3>
             </div>
