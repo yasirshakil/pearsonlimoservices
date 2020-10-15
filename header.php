@@ -109,7 +109,7 @@
 										</ul>
 									</li>
 									<li>
-										<a class="links" href="services-rates.php">Service Rates</a>
+										<a class="links" href="Service-rates-mobile.php">Service Rates</a>
 									</li>
 									<li>
 										<a class="links" href="Area-We-Serve.php">area we serve</a>

@@ -17,7 +17,7 @@ include ('./header.php');
       </div>
     </div>
   </section>
-  <div class="row mt-5">
+  <div class="row mt-5 justify-content-center">
     <div class="col-lg-2 col-md-3 col-sm-6 col-6 image-section p-0 offset">
       <div class="tital-sapce"></div>
       <div class="img-box">

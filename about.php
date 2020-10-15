@@ -19,7 +19,7 @@ include ('./header.php');
 		</div>
 	</div>
 	<section>
-		<div class="container p-4">
+		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
@@ -146,7 +146,7 @@ include ('./header.php');
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-7 col-md-12 col-sm-12 col-12 About-Text-Col">
+				<div class="col-lg-7 col-md-12 col-sm-12 col-12">
 					<p class="mb-2  text-justify">
 						At Pearson Limo Service we believe our client is our priority. We strive in serving you as per
 						your requirement.
@@ -161,7 +161,7 @@ include ('./header.php');
 						with us. Pearson Limo service is dedicated toward achieving the best industry standards. We
 						focus on limousines rental solutions which match your needs, we provide what you require.
 					</p>
-					<h3 style="color:#d9c77e;" class="mb-2 text-justify">Approach:</h3>
+					<h3 style="color:#d9c77e;font-weight:bold;" class="mb-2 text-justify">Approach:</h3>
 					<p class="mb-2">
 						Our approach is simple, understanding your needs is our main focus. We have a wide range of limo
 						fleet with multiple standard packages for limousine rentals. What makes us different from others
@@ -169,7 +169,7 @@ include ('./header.php');
 						make it available at your doorstep. That is why we always say:
 					</p>
 					<h3 class="mb-4 text-center"><b>“A limousine experience that is hard to forget”</b></h3>
-					<h3 style="color:#d9c77e;" class="mb-2">Call To Action:</h3>
+					<h3 style="color:#d9c77e;font-weight:bold;" class="mb-2">Call To Action:</h3>
 					<p class="mb-2 text-justify">
 						If you want to feel the difference and you are looking for a quality limo rental solution, we
 						are the right fit for you. Our three step solution makes it easier for you to have a limo ride
