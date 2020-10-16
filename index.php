@@ -260,6 +260,15 @@
 	<!-- End Template title -->
 	<!-- Start Block Fleet -->
 	<section class="block-fleet no-slider mt">
+	<div class="template-title has-over mtt ovvs">
+				<h3 class="title Our-fleet">Out Fleet</h3>
+				<div class="row">
+					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+					</div>
+				</div>
+				<p class="subtitle">Our booking process is simple and efficient</p>
+			</div>
 		<div class="container">
 			<ul class="tab_menu">
 				<li class="current"><a href="#tab-1">All</a></li>
@@ -692,7 +701,7 @@
 	<section class="about-box">
 		<div class="container">
 			<div class="template-title has-over mtt ovvs">
-				<h3 class="title">How It Works</h3>
+				<h3 class="title Get-Class">How It Works</h3>
 				<div class="row">
 					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
@@ -791,8 +800,8 @@
 				</div>
 			</section> -->
 	<section>
-		<div class="container">
-			<div class="row">
+		<div class="container Animate">
+			<div class="row ">
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 					<div class="Content-Box">
@@ -831,7 +840,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-					<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
+					<img class="Box-Image" src="images/FleetBox_images/wdding-limo.jpeg">
 					<div class="Content-Box">
 						<h2 class="mb-3">Wedding Limo Rentals</h2>
 						<div class="borderr"></div>
@@ -868,7 +877,7 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-					<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
+					<img class="Box-Image" src="images/FleetBox_images/Niggra-Falls.jpeg" alt="">
 					<div class="Content-Box">
 						<h2 class="mb-3">Niagara Falls Tours</h2>
 						<div class="borderr"></div>
@@ -979,18 +988,6 @@
 				</div>
 			</div>
 		</div>
-		<!-- <script>
-        $(window).scroll(function() {
-            var scroll = $(window).scrollTop();
-
-            if (scroll >= 250) {
-                $(".Our-Fleet").addClass("animate__animated animate__backInLeft ");
-            } else {
-                $(".Our-Fleet").removeClass("animate__animated animate__backInLeft ");
-            }
-        });
-		</script> -->
-
 	</section>
 	<!-- End Testimonial -->
 	<!-- Start Template Title -->

@@ -23,22 +23,38 @@ include ('./header.php');
 			<div class="row">
 				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
-						<ul class="tab_booking">
-							<li class="active"><a href="#bk-1">Distance</a></li>
-							<li><a href="#bk-2">Hourly</a></li>
+						<!-- <ul class="tab_booking">
+							<li class="active"><a href="#bk-1">Get A Quote</a></li>
+							<li><a href="Reservation.php">Book Now</a></li>
 							<li><a href="#bk-3">Flat Rate</a></li>
-						</ul>
+						</ul> -->
+						<div class="top-modal">
+							<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
+							<a class="Book" href="Reservation.php">Book Now</a>
+						</div>
 						<div id="bk-1" class="schedule-booking">
 							<form class="form-booking px-3" method="get" action="#">
+							<div class="pick-address">
+									<label>Name</label>
+									<input type="text" name="Name" placeholder="Drop Your Name,...">
+								</div>
 								<div class="pick-address">
-									<label>Pick Up Address</label>
-									<input type="text" name="pick-up" placeholder="From: address, airport, hotel, ...">
+									<label>Email</label>
+									<input type="text" name="Email" placeholder="Drop Your Email,...">
+								</div>
+								<div class="pick-address">
+									<label>Phone-No</label>
+									<input type="text" name="Contact" placeholder="Contact,...">
+								</div>
+								<div class="pick-address">
+									<label>PickUp</label>
+									<input type="text" name="pickup" placeholder="PickUp,...">
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>
-									<input type="text" name="pick-up" placeholder="From: address, airport, hotel, ...">
+									<input type="text" name="pick-up" placeholder="From: address,...">
 								</div>
-								<div class="pick-date">
+							<div class="pick-date">
 									<label>Pick Up Date</label>
 									<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
 										data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
@@ -60,13 +76,21 @@ include ('./header.php');
 									</div>
 									<input type="hidden" id="dtp_input3" value=""><br>
 								</div>
+								<!-- <div class=""> -->
+<!-- 									
+									<label class="Seclect">Select Car</label>
+									<select class="Seclect" name="" id="">
+										<option value="">nnnnnnnnnnnn</option>
+										<option  value="">select</option>
+									</select> -->
+								
+								<!-- </div> -->
 								<div class="btn-submit">
-									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"
-											alt=""></a>
+									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"alt=""></a>
 								</div>
 							</form>
 						</div>
-						<div id="bk-2" class="schedule-booking">
+						<!-- <div id="bk-2" class="schedule-booking">
 							<h1 class="text-over">RESERVE NOW</h1>
 							<form class="form-booking" method="get" action="#">
 								<div class="pick-address">
@@ -104,8 +128,8 @@ include ('./header.php');
 											alt=""></a>
 								</div>
 							</form>
-						</div>
-						<div id="bk-3" class="schedule-booking">
+						</div> -->
+						<!-- <div id="bk-3" class="schedule-booking">
 							<h1 class="text-over">RESERVE NOW</h1>
 							<form class="form-booking" method="get" action="#">
 								<div class="pick-address">
@@ -143,7 +167,7 @@ include ('./header.php');
 											alt=""></a>
 								</div>
 							</form>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="col-lg-7 col-md-12 col-sm-12 col-12">
@@ -209,6 +233,130 @@ include ('./header.php');
 </section>
 <!-- End About Area -->
 <!-- Start Testimonial Area -->
+<section class="template-title has-over ovvs">
+	<div class="container">
+		<h3 class="title">Our Services</h3>
+		<div class="row">
+			<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
+				<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
+			</div>
+		</div>
+		<p class="subtitle">Our aim is to fill a gap in niche market of Trade</p>
+	</div>
+</section>
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
+				<div class="Content-Box">
+					<h2 class="mb-3">Airport Limo Service</h2>
+					<div class="borderr"></div>
+					<p style="margin-bottom:48px;" class="bb-descr mt-3">
+						Looking to book a limo for the airport transfer. We are here to help with the best service
+						and luxurious fleet. We have a dedicated fleet for airport transfers which covers all
+						international and domestic airports of GTA. Call us at <br><a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
+						airport.
+					</p>
+					<div>
+						<div class="LinksBox">
+							<a class="Box-Links" href="">BOOK NOW</a>
+							<div class="LinkBorder"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
+				<div class="Content-Box">
+					<h2 class="mb-3">Corporate Limo Service</h2>
+					<div class="borderr"></div>
+					<p style="margin-bottom:24px;" class="bb-descr mt-3">
+						Limo Service for the corporate world is specifically designed to attend professional
+						needs of the corporate world. This service includes limousines rentals for corporate
+						meetings and recreational activities.
+						You can also book this service for airport transfers. Have an important meeting? you
+						need a reliable limo service.
+					</p>
+					<div class="LinksBox">
+						<a class="Box-Links" href="">BOOK NOW</a>
+						<div class="LinkBorder"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<img class="Box-Image" src="images/FleetBox_images/Wedding-Limo.jpeg" alt="">
+				<div class="Content-Box">
+					<h2 class="mb-3">Wedding Limo Rentals</h2>
+					<div class="borderr"></div>
+					<p class="bb-descr mt-3">
+						Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her
+						home in stretch limo with luxury interior and comfort. We would love to be a part of your
+						special day by offering you the best limo service. We have a range of limo rides for you to
+						choose from. Visit our fleet for more information or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your special
+						ride.
+					</p>
+					<div class="LinksBox">
+						<a class="Box-Links" href="">BOOK NOW</a>
+						<div class="LinkBorder"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
+				<div class="Content-Box">
+					<h2 class="mb-3">Special Occasion Limo</h2>
+					<div class="borderr"></div>
+					<p style="margin-bottom:20px;" class="bb-descr mt-3">
+						Looking to plan a party, a special event or even a date with a special someone. If you want
+						to feel confident and amazing you need a luxury limo ride to reach that occasion. We
+						understand the power of first impressions, therefore we would make sure you have a great
+						first impression on your special occasion. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for a limo ride.
+					</p>
+					<div class="LinksBox">
+						<a class="Box-Links" href="">BOOK NOW</a>
+						<div class="LinkBorder"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<img class="Box-Image" src="images/FleetBox_images/Niggra-Falls.jpeg" alt="">
+				<div class="Content-Box">
+					<h2 class="mb-3">Niagara Falls Tours</h2>
+					<div class="borderr"></div>
+					<p style="margin-bottom:43px;" class="bb-descr mt-3">
+						Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
+						luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the
+						world Niagara falls. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for special Niagara Limo Deals.
+					</p>
+					<div class="LinksBox">
+						<a class="Box-Links" href="">BOOK NOW</a>
+						<div class="LinkBorder"></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
+				<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
+				<div class="Content-Box">
+					<h2 class="mb-3">Pearson For You <br>( Custom Solutions)</h2>
+					<div class="borderr"></div>
+					<p style="margin-bottom:36px;" class="bb-descr mt-3">
+						If you think you have a certain set of requirements not covered in our standard packages. We
+						are more than willing to help you with a customized limousine rental solution. Call us at
+						<a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for custom limo solutions.
+					</p>
+					<div class="LinksBox">
+						<a class="Box-Links" href="">BOOK NOW</a>
+						<div class="LinkBorder"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
 <section class="testimonial parallax">
 	<div class="container">
 		<div class="fleet-carousel" data-columns="1">
@@ -300,130 +448,6 @@ include ('./header.php');
 				</div>
 			</div>
 		</div>
-	</div>
-</section>
-<section class="template-title has-over ovvs">
-	<div class="container">
-		<h3 class="title">Our Services</h3>
-		<div class="row">
-			<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
-				<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
-			</div>
-		</div>
-		<p class="subtitle">Our aim is to fill a gap in niche market of Trade</p>
-	</div>
-</section>
-<section>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-				<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
-				<div class="Content-Box">
-					<h2 class="mb-3">Airport Limo Service</h2>
-					<div class="borderr"></div>
-					<p style="margin-bottom:48px;" class="bb-descr mt-3">
-						Looking to book a limo for the airport transfer. We are here to help with the best service
-						and luxurious fleet. We have a dedicated fleet for airport transfers which covers all
-						international and domestic airports of GTA. Call us at <br><a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
-						airport.
-					</p>
-					<div>
-						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
-							<div class="LinkBorder"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-				<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
-				<div class="Content-Box">
-					<h2 class="mb-3">Corporate Limo Service</h2>
-					<div class="borderr"></div>
-					<p style="margin-bottom:24px;" class="bb-descr mt-3">
-						Limo Service for the corporate world is specifically designed to attend professional
-						needs of the corporate world. This service includes limousines rentals for corporate
-						meetings and recreational activities.
-						You can also book this service for airport transfers. Have an important meeting? you
-						need a reliable limo service.
-					</p>
-					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
-						<div class="LinkBorder"></div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-				<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
-				<div class="Content-Box">
-					<h2 class="mb-3">Wedding Limo Rentals</h2>
-					<div class="borderr"></div>
-					<p class="bb-descr mt-3">
-						Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her
-						home in stretch limo with luxury interior and comfort. We would love to be a part of your
-						special day by offering you the best limo service. We have a range of limo rides for you to
-						choose from. Visit our fleet for more information or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your special
-						ride.
-					</p>
-					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
-						<div class="LinkBorder"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-				<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
-				<div class="Content-Box">
-					<h2 class="mb-3">Special Occasion Limo</h2>
-					<div class="borderr"></div>
-					<p style="margin-bottom:20px;" class="bb-descr mt-3">
-						Looking to plan a party, a special event or even a date with a special someone. If you want
-						to feel confident and amazing you need a luxury limo ride to reach that occasion. We
-						understand the power of first impressions, therefore we would make sure you have a great
-						first impression on your special occasion. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for a limo ride.
-					</p>
-					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
-						<div class="LinkBorder"></div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
-				<img class="Box-Image" src="images/FleetBox_images/fleet4.jpg" alt="">
-				<div class="Content-Box">
-					<h2 class="mb-3">Niagara Falls Tours</h2>
-					<div class="borderr"></div>
-					<p style="margin-bottom:43px;" class="bb-descr mt-3">
-						Planning a day at Niagara fall makes it as memorable as seeing the falls through booking a
-						luxury limo for your ride to niagara. We guarantee a comfortable trip to the wonder of the
-						world Niagara falls. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for special Niagara Limo Deals.
-					</p>
-					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
-						<div class="LinkBorder"></div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
-				<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
-				<div class="Content-Box">
-					<h2 class="mb-3">Pearson For You <br>( Custom Solutions)</h2>
-					<div class="borderr"></div>
-					<p style="margin-bottom:36px;" class="bb-descr mt-3">
-						If you think you have a certain set of requirements not covered in our standard packages. We
-						are more than willing to help you with a customized limousine rental solution. Call us at
-						<a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for custom limo solutions.
-					</p>
-					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
-						<div class="LinkBorder"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 	</div>
 </section>
 <!-- End Testimonial Area -->

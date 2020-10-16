@@ -185,6 +185,7 @@
 	<!-- jQuery Validation -->
 	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="js/additional-methods.min.js"></script>
+	<script src="js/Jquery.js" ></script>
 </body>
 
 </html>

@@ -3023,6 +3023,10 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     font-size: 18px;
   }
 
+  .Seclect{
+    margin: 0px !important;
+  }
+
   .service-rates-heading span p {
     font-size: 12px !important;
     
@@ -3123,14 +3127,49 @@ div.loader-background {
 }
 
 .Modal{
-  height: 555px;
+  height: 850px;
   position: relative;
   margin-bottom: 30px;
 
 }
 
+.Seclect{
+  margin-left: 27px !important;
+}
+
 .adjust-modal-about{
   top: 0;
+}
+
+.top-modal{
+  height: 60px;
+  background-color: #151515;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  text-align: left;
+  position: relative;
+}
+
+.top-modal .Get-a-quote {
+  position: absolute; 
+  top: 0;
+  padding: 10px 40px;
+  background: #eee;
+  background: transparent;
+  color: #d9c77e;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.top-modal .Book {
+  position: absolute; 
+  top: 0;
+  right: 0;
+  padding: 10px 40px;
+  background: transparent;
+  color: #d9c77e;
+  text-transform: uppercase;
+  font-size: 18px;
 }
 
 .Golden{
