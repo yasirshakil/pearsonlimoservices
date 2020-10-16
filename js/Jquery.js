@@ -33,3 +33,15 @@ console.log("ssss")
         }
         
     });
+
+
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 670) {
+            $(".Animation-About").addClass("animate__animated animate__fadeInLeftBig");
+        } else {
+            $(".Animation-About").removeClass("animate__animated animate__fadeInLeftBig");
+        }
+        
+    });

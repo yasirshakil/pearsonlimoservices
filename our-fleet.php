@@ -11,7 +11,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="template-title center">
-							<h1> Our Fleet </h1>
+							<h1 class="animate__animated animate__zoomInDown Delay"> Our Fleet </h1>
 							<span> OUr Fleet </span>
 							<div class="row">
 								<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
@@ -108,7 +108,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$90 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -139,7 +139,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$120 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -159,7 +159,7 @@
 					<div class="col-md-12">
 						<div class="select-car ver1">
 							<div class="image-car one-half">
-								<img height="200px" width="100%" src="images/cars/betling.png" alt="">
+								<img height="200px" width="100%" src="images/cars/bentley.png" alt="">
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
@@ -177,7 +177,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$00 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -208,7 +208,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$400 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -239,7 +239,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$90 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -270,7 +270,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$120 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -308,7 +308,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$120 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -339,7 +339,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$95 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -370,7 +370,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$00 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -401,7 +401,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$150 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -439,7 +439,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$125 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -470,7 +470,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$170 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -501,7 +501,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$175 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -532,7 +532,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$275 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -563,7 +563,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$65 <span class="hour">/ hour</span></span>
+									<span>$275 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>

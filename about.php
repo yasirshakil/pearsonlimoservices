@@ -10,7 +10,7 @@ include ('./header.php');
 	<div class="row mb-3">
 		<div class="col-md-12">
 			<section class="template-title center">
-				<h1 class="title has-over">About Us</h1>
+				<h1 class="title has-over animate__animated animate__zoomInDown Delay">About Us</h1>
 				<span>About us</span>
 				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
 					<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
@@ -21,7 +21,7 @@ include ('./header.php');
 	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0">
+				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig Delay">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
 						<!-- <ul class="tab_booking">
 							<li class="active"><a href="#bk-1">Get A Quote</a></li>
@@ -245,7 +245,7 @@ include ('./header.php');
 	</div>
 </section>
 <section>
-	<div class="container">
+	<div class="container Animation-About">
 		<div class="row">
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
