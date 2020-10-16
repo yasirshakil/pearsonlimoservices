@@ -1,5 +1,5 @@
 
-console.log("ssss")
+// console.log("ssss")
     $(window).scroll(function() {
         
         var scroll = $(window).scrollTop();
@@ -8,6 +8,17 @@ console.log("ssss")
             $(".Our-fleet").addClass("animate__animated animate__backInUp ");
         } else {
             $(".Our-fleet").removeClass("animate__animated animate__backInUp ");
+        }
+    });
+
+    $(window).scroll(function() {
+        
+        // var scroll = $(window).scrollTop();
+        var scroll = $(window).scrollTop();
+        if (scroll >= 2200) {
+            $(".Services-animate").addClass("animate__animated animate__backInUp ");
+        } else {
+            $(".Services-animate").removeClass("animate__animated animate__backInUp ");
         }
     });
 
@@ -26,15 +37,13 @@ console.log("ssss")
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
 
-        if (scroll >= 2000) {
+        if (scroll >= 2200) {
             $(".Animate").addClass("animate__animated animate__fadeInLeftBig");
         } else {
             $(".Animate").removeClass("animate__animated animate__fadeInLeftBig");
         }
         
     });
-
-
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
 
@@ -43,5 +52,4 @@ console.log("ssss")
         } else {
             $(".Animation-About").removeClass("animate__animated animate__fadeInLeftBig");
         }
-        
     });
