@@ -3364,6 +3364,10 @@ hr{
 	opacity: 0;
 }
 
+.op-0{
+	opacity: 0;
+}
+
 .Get-Class {
 	opacity: 0;
 }
@@ -3377,6 +3381,18 @@ hr{
 }
 
 .Services-animate{
+	opacity: 0;
+}
+
+.about-row-1-services{
+	opacity: 0;
+}
+
+.about-row-2-services{
+	opacity: 0;
+}
+
+.About-Services{
 	opacity: 0;
 }
 

@@ -3770,5 +3770,9 @@ div.loader-background {
 }
 
 .OnlineBookig .animate__animated {
-  opacity: 1;
+  opacity: 1 !important;
+}
+
+.animate__animated{
+  opacity: 1 !important;
 }

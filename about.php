@@ -10,7 +10,7 @@ include ('./header.php');
 	<div class="row mb-3">
 		<div class="col-md-12">
 			<section class="template-title center">
-				<h1 class="title has-over animate__animated animate__zoomInDown Delay">About Us</h1>
+				<h1 class="title has-over animate__animated animate__zoomInDown animate__delay-1s 1s">About Us</h1>
 				<span>About us</span>
 				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
 					<div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
@@ -21,7 +21,7 @@ include ('./header.php');
 	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig Delay">
+				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
 						<!-- <ul class="tab_booking">
 							<li class="active"><a href="#bk-1">Get A Quote</a></li>
@@ -86,7 +86,7 @@ include ('./header.php');
 								
 								<!-- </div> -->
 								<div class="btn-submit">
-									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"alt=""></a>
+									<a href="#" class="About-Point-1 register_now">Reserve Now<img src="images/icon/arrow-white.png"alt=""></a>
 								</div>
 							</form>
 						</div>
@@ -193,7 +193,7 @@ include ('./header.php');
 						make it available at your doorstep. That is why we always say:
 					</p>
 					<h3 class="mb-4 text-center"><b>“A limousine experience that is hard to forget”</b></h3>
-					<h3 style="color:#d9c77e;font-weight:bold;" class="mb-2">Call To Action:</h3>
+					<h3 style="color:#d9c77e;font-weight:bold;" class="About-Services-point">Call To Action:</h3>
 					<p class="mb-2 text-justify">
 						If you want to feel the difference and you are looking for a quality limo rental solution, we
 						are the right fit for you. Our three step solution makes it easier for you to have a limo ride
@@ -235,7 +235,7 @@ include ('./header.php');
 <!-- Start Testimonial Area -->
 <section class="template-title has-over ovvs">
 	<div class="container">
-		<h3 class="title">Our Services</h3>
+		<h3 class="title About-Point-2 About-Services">Our Services</h3>
 		<div class="row">
 			<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 				<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
@@ -246,7 +246,7 @@ include ('./header.php');
 </section>
 <section>
 	<div class="container Animation-About">
-		<div class="row">
+		<div class="row about-row-1-services ">
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 				<div class="Content-Box">
@@ -303,7 +303,7 @@ include ('./header.php');
 				</div>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row about-row-2-services">
 			<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 				<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 				<div class="Content-Box">

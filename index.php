@@ -683,12 +683,12 @@
 	<section class="info-box parallax parallax_img change_text">
 		<div class="container">
 			<div class="wrapper-content">
-				<h3 class="title">
+				<h3 class="title Home-point-2">
 					Or anywhere you need us to take
 				</h3>
-				<p class="content">Not only taking to night parties, weddings, casinos, birthdays but we also take
+				<p class="content ">Not only taking to night parties, weddings, casinos, birthdays but we also take
 					you to anywhere you want to go. </p>
-				<p class="contact"><span style="color:#d9c77e;">Call Now </span><a class="Highlight point" href="tel:437-800-1547">437-800-1547</a></p>
+				<p class="contact Home-point-3"><span style="color:#d9c77e;">Call Now </span><a class="Highlight " href="tel:437-800-1547">437-800-1547</a></p>
 
 				<a href="#" class="booking">Online Booking</a>
 			</div>
@@ -719,12 +719,12 @@
 								destination and time preferences and that is the first step toward your limo ride </p>
 						</li>
 						<li>
-							<h3><b>2 - Confirmation</b></h3>
+							<h3 class="Services-Animated-point"><b>2 - Confirmation</b></h3>
 							<p>Select the limousine you want to ride in and confirm your booking. You would receive
 								confirmation messages via email and sms.</p>
 						</li>
 						<li>
-							<h3 class="Services-Animated-point"><b>3 - Destination</b></h3>
+							<h3><b>3 - Destination</b></h3>
 							<p>On the day of your travel all you need to think is of your destination. After
 								confirmation, your limo ride would be ready to pick you up on the time and place you
 								have provided and we would take you to your destination.</p>
