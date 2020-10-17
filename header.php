@@ -105,6 +105,9 @@
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="services.php">Services</a>
 										<ul class="menu-dropdown after-drop">
+										
+											<li class="show-on-mobile"><a href="services.php">Services</a></li>
+											
 											<li><a href="airportpickup.php">Airport Pickup Procedure</a></li>
 										</ul>
 									</li>
@@ -121,10 +124,46 @@
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="contact.php">Contact</a>
 										<ul class="menu-dropdown after-drop">
+											<li class="show-on-mobile"><a href="contact.php">Contact</a></li>
 											<li><a href="faq.php">FAQ</a></li>
 										</ul>
 									</li>
 								</ul>
+								<!-- <div class="menu2">
+								
+								<nav class="navbar navbar-inverse">
+  <div class="container-fluid mobile-nav-show">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1 <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Page 1-1</a></li>
+            <li><a href="#">Page 1-2</a></li>
+            <li><a href="#">Page 1-3</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Page 2</a></li>
+        <li><a href="#">Page 3</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+									</div> -->
 							</div>
 						</div>
 					</div>
