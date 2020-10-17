@@ -62,7 +62,7 @@
     //   })
 
       $(document).ready(function(){
-        $('.Our-fleet').waypoint(function(direction){
+        $('.gg').waypoint(function(direction){
             $('.Our-fleet').addClass('animate__animated animate__backInUp')
           })
       })

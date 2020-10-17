@@ -6,7 +6,7 @@
 <div class="layout-theme">
 	<!-- End Copyright -->
 	<!-- Start Tp Banner -->
-	<section class="tp-banner has-tab">
+	<section class="tp-banner gg has-tab">
 		<div id="rev_slider_1078_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container"
 			data-alias="classic4export" data-source="gallery"
 			style="margin:0px auto;background-color:transparent;padding:0px;margin;">
