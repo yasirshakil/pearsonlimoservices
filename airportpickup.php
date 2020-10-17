@@ -12,7 +12,7 @@ include ('./header.php');
                     </p>
                     <p class="">
                         Just as you plan to visit <a class="Highlight" href="">Toronto</a>  and you are in need of Ground Transportation from <a class="Highlight" href="">Toronto Pearson Airport</a> 
-                        Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:9059749873">905-974-9873</a>
+                        Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:437-800-1547"> 437-800-1547</a>
                         to pre-book your Toronto Airport Limo. You have the option of booking your Limo online by
                         filling our <a class="Highlight" href="">online reservation form</a> or writing us an email <a class="Highlight" href="">reservation@pearsonlimoservices.ca</a> with
                         your travel plan details. Our representative will assist you through simple procedures of
@@ -28,7 +28,7 @@ include ('./header.php');
                     </p>
                     <div class="ReservationBox">
                         <p class="makeReservation m-auto"><a href="tel:8889003001"><i class="fa fa-phone"></i>888-900-3001</a></p>
-                        <p class="makeReservation m-auto"><a href="tel:+19059749873"><i class="fa fa-mobile-phone"></i>905-974-9873</a></p>
+                        <p class="makeReservation m-auto"><a href="tel:437-800-1547"><i class="fa fa-mobile-phone"></i> 437-800-1547</a></p>
                     </div>
                     <div class="ReservationBox">
                         <p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/reservation.php"><i class="fa fa-car"></i>Make Reservation</a></p>

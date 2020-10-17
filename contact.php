@@ -125,7 +125,7 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 				<div class="col-md-4 pl-md-5">
 					<div class="address-box">
 						<p class="mb-2">Let’s get in touch and here out your requirements. We have a dedicated line to answer all your questions. Following are the ways you can contact us.</p>
-						<p class="mb-2"><b>Apt # 1605,20 Tubman Avenue, Toronto On M5A 0M8</b></p>
+						<p class="mb-2"><b>20 Tubman Avenue, Toronto, On MSA 0M8</b></p>
 						<div class="contact">
 							<p class="makeReservation"><a href="mailto:info@pearsonlimoservices.ca"><i class="fa fa-envelope"></i>info@pearsonlimoservices.ca</a></p>
 							<p class="makeReservation"><a href="tel:8889003001"><i class="fa fa-phone"></i>888-900-3001</a></p>

@@ -69,7 +69,7 @@ include ('./header.php');
                 <h5 class="ml-2">GMC Yukon XL Details</h5>
                 <p>
                 <div class="About-Car">
-                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger : 6<br>
+                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger : 7<br>
                 </div>
                 <div class="About-Car">
                     <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 6<br>
