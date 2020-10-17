@@ -3059,9 +3059,14 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     font-size: 10px;
 }
 
+
 .howItWorks-ImgBox img{
   height: 370px;
   width: auto;
+}
+
+.howItWorks-ImgBox .animate__animated {
+  opacity: 1;
 }
 
 .Limousine-Reservation {
@@ -3758,4 +3763,12 @@ div.loader-background {
 /* Animations */
 .animate__backInLeft {
   animation-delay: 2s !important;
+}
+
+.Our-fleet{
+  opacity: 0;
+}
+
+.OnlineBookig .animate__animated {
+  opacity: 1;
 }

@@ -3361,5 +3361,24 @@ hr{
 .howItWorks-ImgBox{
 	display: flex;
 	justify-content: center;
+	opacity: 0;
 }
+
+.Get-Class {
+	opacity: 0;
+}
+
+.Animate-row-1-services{
+	opacity: 0;
+}
+
+.Animate-row-2-services{
+	opacity: 0;
+}
+
+.Services-animate{
+	opacity: 0;
+}
+
+
 

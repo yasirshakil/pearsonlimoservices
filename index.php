@@ -233,7 +233,7 @@
 									<input type="hidden" id="dtp_input3" value="" /><br />
 								</div>
 								<div class="btn-submit">
-									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"
+									<a href="#" class="register_now ff">Reserve Now<img src="images/icon/arrow-white.png"
 											alt=""></a>
 								</div>
 							</form>
@@ -243,9 +243,7 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Tp Banner -->
-	<!-- Start Template title --
-	<section class="template-title has-over text-up">
+	<!-- <section class="template-title has-over text-up">
 		<div class="container">
 			<h3 class="title Our-Fleet">Our Fleet</h3>
 			<div class="row">
@@ -256,7 +254,7 @@
 			<p class="subtitle">A limo ride for everyone, your choice is our command. We have the most versatile limo
 				fleet in the business. You name it and we have it.</p>
 		</div>
-	</section>
+	</section> -->
 	<!-- End Template title -->
 	<!-- Start Block Fleet -->
 	<section class="block-fleet no-slider mt">
@@ -269,7 +267,7 @@
 				</div>
 				<p class="subtitle">Our booking process is simple and efficient</p>
 			</div>
-		<div class="container">
+		<div class="container ff">
 			<ul class="tab_menu">
 				<li class="current"><a href="#tab-1">All</a></li>
 				<li><a href="#tab-2">Sedan</a></li>
@@ -690,7 +688,7 @@
 				</h3>
 				<p class="content">Not only taking to night parties, weddings, casinos, birthdays but we also take
 					you to anywhere you want to go. </p>
-				<p class="contact"><span style="color:#d9c77e;">Call Now </span><a class="Highlight" href="tel:437-800-1547">437-800-1547</a></p>
+				<p class="contact"><span style="color:#d9c77e;">Call Now </span><a class="Highlight point" href="tel:437-800-1547">437-800-1547</a></p>
 
 				<a href="#" class="booking">Online Booking</a>
 			</div>
@@ -713,7 +711,7 @@
 				<div class="col-md-7 full-sm howItWorks-ImgBox">
 					<img src="images/Yasir infographics shape.png" alt="">
 				</div>
-				<div class="col-md-5 full-sm">
+				<div class="col-md-5 full-sm Works-Imformation howItWorks-ImgBox">
 					<ul>
 						<li>
 							<h3><b>1 - Information</b></h3>
@@ -726,7 +724,7 @@
 								confirmation messages via email and sms.</p>
 						</li>
 						<li>
-							<h3><b>3 - Destination</b></h3>
+							<h3 class="Services-Animated-point"><b>3 - Destination</b></h3>
 							<p>On the day of your travel all you need to think is of your destination. After
 								confirmation, your limo ride would be ready to pick you up on the time and place you
 								have provided and we would take you to your destination.</p>
@@ -800,8 +798,8 @@
 				</div>
 			</section> -->
 	<section>
-		<div class="container Animate">
-			<div class="row ">
+		<div class="container ">
+			<div class="row Animate-row-1-services">
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 					<div class="Content-Box">
@@ -858,7 +856,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row Animate-row-2-services">
 				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 					<div class="Content-Box">

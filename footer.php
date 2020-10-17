@@ -184,8 +184,10 @@
 	<script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>
 	<!-- jQuery Validation -->
 	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+	<script src="/path/to/noframework.waypoints.min.js"></script>
 	<script type="text/javascript" src="js/additional-methods.min.js"></script>
 	<script src="js/Jquery.js" ></script>
+
 </body>
 
 </html>
