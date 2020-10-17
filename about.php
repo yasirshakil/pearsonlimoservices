@@ -36,11 +36,11 @@ include ('./header.php');
 							<form class="form-booking px-3" method="get" action="#">
 							<div class="pick-address">
 									<label>Name</label>
-									<input type="text" name="Name" placeholder="Drop Your Name,...">
+									<input type="text" name="Name" placeholder=" Name,...">
 								</div>
 								<div class="pick-address">
 									<label>Email</label>
-									<input type="text" name="Email" placeholder="Drop Your Email,...">
+									<input type="text" name="Email" placeholder="Email,...">
 								</div>
 								<div class="pick-address">
 									<label>Phone-No</label>

@@ -8,13 +8,13 @@ include ('./header.php');
                     <p class="mb-2 AreaDetails">
                         Arriving at <a class="Highlight" href="">Toronto Pearson Airport</a>  from an International destination or from within Canada, let
                         us take care of your ground transportation just as you arrive in <a class="Highlight" href="">Toronto</a> . You can pre-book your
-                        ride with Platinum Rides Airport Limo and travel to your destination hassle-free.
+                        ride with Pearson Limo Services Airport Limo and travel to your destination hassle-free.
                     </p>
                     <p class="">
                         Just as you plan to visit <a class="Highlight" href="">Toronto</a>  and you are in need of Ground Transportation from <a class="Highlight" href="">Toronto Pearson Airport</a> 
                         Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:9059749873">905-974-9873</a>
                         to pre-book your Toronto Airport Limo. You have the option of booking your Limo online by
-                        filling our <a class="Highlight" href="">online reservation form</a> or writing us an email <a class="Highlight" href="">reservation@platinumrides.ca</a> with
+                        filling our <a class="Highlight" href="">online reservation form</a> or writing us an email <a class="Highlight" href="">reservation@pearsonlimoservices.ca</a> with
                         your travel plan details. Our representative will assist you through simple procedures of
                         booking a ride and book your Limo or luxury sedan, SUV, Stretch Limo, Mini Bus, Highway coach
                         service from <a class="Highlight" href="">Toronto Pearson Airport</a> to your destination.
@@ -48,14 +48,14 @@ include ('./header.php');
                     <hr>
                     <p class="mb-2">
                         When You <b>Arrive at</b> <a class="Highlight" href="">Toronto Pearson Airport</a> you just need to follow a simple pickup procedure to
-                        get to your prearranged Limo service booked with Platinum Rides.
+                        get to your prearranged Limo service booked with Pearson Limo Services.
                     </p>
                     <h2 class="my-2 Airport-pickup-headings">PICK UP Procedure: Toronto Pearson Airport (YYZ) Terminal 1.(Door A)</h2>
                     <p class="mb-2 ">Clear Customs, pick up your checked-in bags if any, and walk through the
                         arrival hall, just as you step out of the arrival hall and come out to the terminal’s public
                         area you will see the doors with alphabets. You need to look for <b>Door A</b>. you will see a
                         <b>prearranged Limousine Counter at the Door A</b> inside Arrival hall Walk to the counter and inform
-                        the commissioner (officer) that you are pre-booked with Platinum Rides. The officer will then
+                        the commissioner (officer) that you are pre-booked with Pearson Limo Services. The officer will then
                         page your driver informing him of your arrival at the door. Your Limo will be released from the
                         compound and your Limo will arrive at Door A in about 4 minutes. If you have trouble finding the
                         prearranged Limousine counter or you need any assistance upon arrival, please don’t hesitate to
@@ -71,14 +71,14 @@ include ('./header.php');
                     <p class="mb-2">
                         When you reached to <b>Door A (POST 7)</b>  you will see a prearranged Limousine Counter at the Door A
                         inside Arrival hall Walk to the counter and inform the commissioner (officer) that you are
-                        pre-booked with Platinum Rides. The officer will then page your driver informing him of your arrival
+                        pre-booked with Pearson Limo Services. The officer will then page your driver informing him of your arrival
                         at the door. Your Limo will be released from the compound and <b>your Limo will arrive at Door A (POST7) </b>
                         in about 4 minutes. If you have trouble finding the prearranged Limousine counter or you need any
                         assistance upon arrival, please don’t hesitate to CALL us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> and we will
                         assist
                         you through the pickup procedure.
                     </p>
-                    <hr>
+                    <!-- <hr>
                     <h2 class="my-2 Airport-pickup-headings">Meet and Greet Service: Toronto Pearson Airport (YYZ)</h2>
                     <p class="mb-2">
                         We offer <b>Meet and Greet Service at Toronto Pearson Airport.</b> Platinum rides along with its
@@ -88,7 +88,7 @@ include ('./header.php');
                         started. They will make you feel like home, take care of your luggage, assist with any queries
                         and purchases, and escort to your luxurious limousine waiting for you at the exit. <b>Try it- It’s</b>
                         great!
-                    </p>
+                    </p> -->
                 </div>
             </div>
         </div>

@@ -108,7 +108,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$90 <span class="hour">/ hour</span></span>
+									<span>$120 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -139,7 +139,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$120 <span class="hour">/ hour</span></span>
+									<span>$150 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -177,7 +177,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$00 <span class="hour">/ hour</span></span>
+									<span>$350 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -264,13 +264,13 @@
 									<p class="text-justify">This limousine is the jewel of Toronto parties. This stretched Mercedes is one of
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 7</li>
 										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$120 <span class="hour">/ hour</span></span>
+									<span>$90 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -333,13 +333,13 @@
 									<p class="text-justify">The Cadillac XTS has been a popular choice with luxury sedan clients for more
 										than a decade..</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 8</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 10</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$95 <span class="hour">/ hour</span></span>
+									<span>$125 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -370,7 +370,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$00 <span class="hour">/ hour</span></span>
+									<span>$150 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -401,7 +401,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$150 <span class="hour">/ hour</span></span>
+									<span>$175 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -439,7 +439,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$125 <span class="hour">/ hour</span></span>
+									<span>$150 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -470,7 +470,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$170 <span class="hour">/ hour</span></span>
+									<span>$195 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -501,7 +501,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$175 <span class="hour">/ hour</span></span>
+									<span>$225 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -532,7 +532,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$275 <span class="hour">/ hour</span></span>
+									<span>$350 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -563,7 +563,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$275 <span class="hour">/ hour</span></span>
+									<span>$400 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>

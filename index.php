@@ -690,7 +690,7 @@
 					you to anywhere you want to go. </p>
 				<p class="contact Home-point-3"><span style="color:#d9c77e;">Call Now </span><a class="Highlight " href="tel:437-800-1547">437-800-1547</a></p>
 
-				<a href="#" class="booking">Online Booking</a>
+				<a href="Reservation.php" class="booking">Online Booking</a>
 			</div>
 		</div>
 	</section>
@@ -738,7 +738,7 @@
 	<!-- Start Template title -->
 	<section class="template-title has-over ovvs">
 		<div class="container">
-			<h3 class="title Services-animate ">Our Services</h3>
+			<h3 class="title Services-animate">Our Services</h3>
 			<div class="row">
 				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
