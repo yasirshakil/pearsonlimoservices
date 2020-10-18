@@ -8,8 +8,7 @@ use PHPMailer\PHPMailer\Exception;
 // Load Composer's autoloader
 require 'vendor/autoload.php';
 
-// // echo "<script> alert("working"); </script>";
-	if (isset($_POST['submit'])) {
+	if (isset($_POST['form_of'])) {
 		$date      = $_POST['date'];
 		$hours     = $_POST['hours'];
 		$minutes   = $_POST['minutes'];
@@ -40,12 +39,6 @@ require 'vendor/autoload.php';
 			    $mail->addAddress('info@pearsonlimoservice.ca', 'Joe User');     // Add a recipient
 			    $mail->addAddress('yasir.shakeel@cooperativecomputing.com');               // Name is optional
 			    $mail->addReplyTo('yasir.shakeel@cooperativecomputing.com', 'Information');
-			    // $mail->addCC('cc@example.com');
-			    // $mail->addBCC('bcc@example.com');
-
-			    // Attachments
-			    // $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
-			    // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
 
 			    // Content
 				$mail->isHTML(true);                                  // Set email format to HTML
@@ -60,43 +53,13 @@ require 'vendor/autoload.php';
 				$mail->AltBody  = 'This is the body in plain text for non-HTML mail clients';
 
 			    $mail->send();
-			    echo 'Message has been sent';
+			    echo json_encode([
+			    	'status_code' => 200,
+			    	'message' => 'Thank you for your response'
+			    ]);
 			} catch (Exception $e) {
 			    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 			}
-		//echo "DONE";
-		// $from      = "Pearson Limo Service";
-		// $webmaster = "info@pearsonlimoservice.ca";
-		// $to        = "m.yasirshakil@gmail.com";
-		// $subject   = "Contact Us form Pearsonlimoservice";
-		// $headers   = "From: " . $from . "<" . $webmaster . ">\r\n";
-		// $headers   .= "X-Mailer: PHP/". phpversion() . "\r\n";
-		// $headers   .= "MIME-Version: 1.0" . "\r\n";
-		// $headers   .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-
-		// $message   = "<html><body>";
-		// $message   .= "<p> Date:". $_POST['date'] . "<p>";
-		// $message   .= "<p> Hours:". $_POST['hours'] . "<p>";
-		// $message   .= "<p> Minutes:". $_POST['minutes'] . "<p>";
-		// $message   .= "<p> Period:". $_POST['period'] . "<p>";
-		// $message   .= "<p> Select Car:". $_POST['select-car'] . "<p>";
-		// $message   .= "<p> Name:". $_POST['name'] . "<p>";
-		// $message   .= "<p> Email:". $_POST['email'] . "<p>";
-		// $message   .= "<p> Phone Number:". $_POST['telephone'] . "<p>";
-		// $sendmail  = mail($to, $subject, $message, $headers);
-		// echo "<script> alert("Thank you") </script>";
 		}
 	}
-
-	// if (isset($_POST) && isset($_POST['form_of']) && $_POST['form_of'] == 'contact'):
-	// 	echo json_encode([
-	// 		"status_code" => 200,
-	// 		"message" => "Thank you for submitting your response."
-	// 	]);
-	// else:
-	// 	return json_encode([
-	// 		"status_code" => 400,
-	// 		"message" => "Error"
-	// 	]);
- // 	endif;
 ?>

@@ -165,16 +165,17 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 <?php
 	include ('./footer.php');
 ?>
-<!-- <script>
+<script>
 	$("#contact-form").submit( function(e){
 		e.preventDefault()
 		if( $(this).valid() ) {
+			alert("jello")
 			$(".loader-div").removeClass("d-none").addClass('loader-background')
 			$.ajax({
 	          url     : $(this).attr('action'),
 	          type    : 'post',
 	          dataType: 'json',
-	          data    : $('#contact-form input').serialize(),
+	          data    : $('#contact-form').serialize(),
 	          success : function(json) {
 	            if(json['status_code'] == 200) {
 	              $("#contact-form")[0].reset();
@@ -202,55 +203,5 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 	$("#contact-form").validate({
 	    errorClass: "validate-error"
 	});
-</script> -->
+</script>
 <!-- End Footer -->
-<!-- <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-//echo "<script> alert("working"); </script>";
-echo "Start";
-
-die('hello');
-
-// if(isset($_POST['submit'])) {
-// 	die('hello');
-// }
-	// if (isset($_POST['submit']))
-	// {
-	// 	$date      = $_POST['date'];
-	// 	$hours     = $_POST['hours'];
-	// 	$minutes   = $_POST['minutes'];
-	// 	$period    = $_POST['period'];
-	// 	$selectcar = $_POST['select-car'];
-	// 	$name      = $_POST['name'];
-	// 	$email     = $_POST['email'];
-	// 	$number    = $_POST['number'];
-	// 	if ($date == '' || $hours == '' || $minutes == '' || $period == '' || $selectcar == '' || $name == '' || $email == '' || $number == '') {
-	// 			//echo "<script> alert("all fields required"); </script>";
-	// 		echo "Required";
-	// 	}
-
-	// 	$form      = "Pearson Limo Service";
-	// 	$webmaster = "info@pearsonlimoservice.ca"
-	// 	$to        = "m.yasirshakil@gmail.com";
-	// 	$subject   = "Contact Us form Pearsonlimoservice"
-	// 	$headers   = "From: " . $from . "<" . $webmaster . ">\r\n";
-	// 	$headers   .= "X-Mailer: PHP/". phpversion() . "\r\n";
-	// 	$headers   .= "MIME-Version: 1.0" . "\r\n";
-	// 	$headers   .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-
-	// 	$message   = "<html><body>";
-	// 	$message   .= "<p> Date:". $_POST['date'] . "<p>";
-	// 	$message   .= "<p> Hours:". $_POST['hours'] . "<p>";
-	// 	$message   .= "<p> Minutes:". $_POST['minutes'] . "<p>";
-	// 	$message   .= "<p> Period:". $_POST['period'] . "<p>";
-	// 	$message   .= "<p> Select Car:". $_POST['select-car'] . "<p>";
-	// 	$message   .= "<p> Name:". $_POST['name'] . "<p>";
-	// 	$message   .= "<p> Email:". $_POST['email'] . "<p>";
-	// 	$message   .= "<p> Phone Number:". $_POST['number'] . "<p>";
-	// 	$sendmail  = mail($to, $subject, $message, $headers);
-	// 	//echo "<script> alert("Thank you") </script>";
-	// 	echo "End";
-	// }
-?> -->
