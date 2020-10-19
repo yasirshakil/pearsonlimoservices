@@ -51,26 +51,26 @@ include ('./header.php');
 						limo services, out of town and special occasion limo service, and personalized limo solutions.
 					</p>
 				</div>
-				<div
-					class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
+				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
 						<div class="top-modal">
 							<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
 							<a class="Book" href="Reservation.php">Book Now</a>
 						</div>
 						<div id="bk-1" class="schedule-booking">
-							<form class="form-booking px-3" method="get" action="#">
+							<form class="form-booking px-3" method="post" id="get-a-quote" action="/functions.php">
+							<input type="hidden" name="form_of" value="get-a-quote">
 								<div class="pick-address">
 									<label>Name</label>
-									<input type="text" name="Name" placeholder=" Name">
+									<input type="text" name="name" placeholder=" Name">
 								</div>
 								<div class="pick-address">
 									<label>Email</label>
-									<input type="text" name="Email" placeholder="Email">
+									<input type="email" name="email" placeholder="Email">
 								</div>
 								<div class="pick-address">
 									<label>Phone-No</label>
-									<input type="text" name="Contact" placeholder="Contact">
+									<input type="text" name="contact" placeholder="Contact">
 								</div>
 								<div class="pick-address">
 									<label>PickUp</label>
@@ -78,13 +78,13 @@ include ('./header.php');
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>
-									<input type="text" name="pick-up" placeholder="From: address">
+									<input type="text" name="drop-off" placeholder="From: address">
 								</div>
 								<div class="pick-date">
 									<label>Pick Up Date</label>
 									<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
 										data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
-										<input size="16" type="text" value="" placeholder="Wed 19 July, 2017"
+										<input size="16" name="pickup-date" type="text" value="" placeholder="Wed 19 July, 2017"
 											readonly="">
 										<span class="add-on"><i class="icon-remove"></i></span>
 										<span class="add-on"><i class="icon-th"></i></span>
@@ -96,15 +96,17 @@ include ('./header.php');
 									<div class="controls input-append date form_time" data-date=""
 										data-date-format="hh:ii p" data-link-field="dtp_input3"
 										data-link-format="hh:ii">
-										<input size="16" type="text" value="" placeholder="12:25 am" readonly="">
+										<input size="16" type="text" value="" name="pickup-time" placeholder="12:25 am" readonly="">
 										<span class="add-on"><i class="icon-remove"></i></span>
 										<span class="add-on"><i class="icon-th"></i></span>
 									</div>
 									<input type="hidden" id="dtp_input3" value=""><br>
 								</div>
 								<div class="btn-submit">
-									<a href="#" class="About-Point-2 register_now">Reserve Now<img
-											src="images/icon/arrow-white.png" alt=""></a>
+									<a href="javascript:void(0)" id="form-submit-link" class="About-Point-2">
+										Reserve Now
+										<img src="images/icon/arrow-white.png" alt="">
+									</a>
 								</div>
 							</form>
 						</div>
@@ -336,6 +338,44 @@ include ('./header.php');
 	</div>
 </section>
 <?php
-		include ('./footer.php');
-	?>
+	include ('./footer.php');
+?>
+
+<script>
+	$("#form-submit-link").click( function(e){
+		e.preventDefault()
+		if( $("#get-a-quote").valid() ) {
+			$(".loader-div").removeClass("d-none").addClass('loader-background')
+			$.ajax({
+	          url     : $("#get-a-quote").attr('action'),
+	          type    : 'post',
+	          data    : $('#get-a-quote').serialize(),
+	          success : function(json) {
+	            if(json['status_code'] == 200) {
+	              $("#contact-form")[0].reset();
+
+	              	$("select").each( function(){
+	                    $(this).children('option:eq(0)').trigger('change');
+	              	});
+
+	              $('#get-a-quote').before('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+	            }
+	            $(".alert-success").fadeTo(2000, 500).slideUp(500, function(){
+	              $(".alert-success").slideUp(500);
+	              $(".alert-success").remove()
+	            });
+	          },
+	          error: function(xhr, ajaxOptions, thrownError) {
+	            alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+	          }
+	        }).done(function() {
+	          $(".loader-div").addClass("d-none").removeClass('loader-background')
+	        });
+		}
+	})
+
+	$("#get-a-quote").validate({
+	    errorClass: "validate-error"
+	});
+</script>
 <!-- End Footer -->

@@ -169,7 +169,6 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 	$("#contact-form").submit( function(e){
 		e.preventDefault()
 		if( $(this).valid() ) {
-			alert("jello")
 			$(".loader-div").removeClass("d-none").addClass('loader-background')
 			$.ajax({
 	          url     : $(this).attr('action'),
