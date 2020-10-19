@@ -120,16 +120,19 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="sdl-booking add-box AddBox">
-						<ul class="tab_booking">
-							<li class="active"><a href="#bk-1">Distance</a></li>
-							<li><a href="#bk-2">Hourly</a></li>
-							<li><a href="#bk-3">Flat Rate</a></li>
-						</ul>
+						<div class="top-modal">
+							<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
+							<a class="Book" href="Reservation.php">Book Now</a>
+						</div>
 						<div id="bk-1" class="schedule-booking">
 							<form class="form-booking px-3" method="get" action="#">
 								<div class="pick-address">
-									<label>Pick Up Address</label>
-									<input type="text" name="pick-up" placeholder="From: address, airport, hotel, ...">
+									<label>Name</label>
+									<input type="text" name="Name" placeholder=" Name">
+								</div>
+								<div class="pick-address">
+									<label>Phone-No</label>
+									<input type="text" name="Contact" placeholder="Contact">
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>
@@ -144,17 +147,6 @@
 										<span class="add-on"><i class="icon-th"></i></span>
 									</div>
 									<input type="hidden" id="dtp_input2" value="" /><br />
-								</div>
-								<div class="pick-time">
-									<label>Pick Up Time</label>
-									<div class="controls input-append date form_time" data-date=""
-										data-date-format="hh:ii p" data-link-field="dtp_input3"
-										data-link-format="hh:ii">
-										<input size="16" type="text" value="" placeholder="12:25 am" readonly>
-										<span class="add-on"><i class="icon-remove"></i></span>
-										<span class="add-on"><i class="icon-th"></i></span>
-									</div>
-									<input type="hidden" id="dtp_input3" value="" /><br />
 								</div>
 								<div class="btn-submit">
 									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"
