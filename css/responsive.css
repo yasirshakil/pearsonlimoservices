@@ -228,7 +228,7 @@
 		display:none;
 	}
 	.header-04 .navigation .menu > li > a{
-		padding: 12px 20px;
+		padding: 12px 8px;
 	}
 	.header-04 .top-header .left-content ul li:last-child{
 		display:none;
@@ -329,7 +329,7 @@
 		padding:0;
 	}
 	.header-04 .navigation .menu > li > a,.header-05 .navigation .menu > li:not(.logo-pro_text) > a{
-		padding:12px 23px;
+		/* padding:10px 10px; */
 		border-radius:3px;
 	}
 	.header-04 .navigation .menu > li:hover a{

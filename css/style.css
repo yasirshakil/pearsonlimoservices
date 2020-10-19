@@ -999,6 +999,22 @@ button:focus {
   padding: 0;
   line-height: 40px;
 }
+
+.nav-sec{
+  text-align: center;
+  margin-top:36px;
+}
+
+/* .header-04 .navigation .menu > li > a,.header-05 .navigation .menu > li:not(.logo-pro_text) > a{
+  padding:10px 25px;
+  border-radius:3px;
+} */
+
+.menu li a {
+  padding: 10px 30px;
+  /* background-color: red !important; */
+}
+
 .main-menu > ul > li > a {
   color: #1e1e1e;
 }
@@ -2981,6 +2997,15 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   .Content-Box h2 {
     font-size: 32px;
   }
+
+.menu ul li a {
+  padding: 10px 10px;
+  text-align: left;
+}
+
+.nav-sec{
+  text-align: left ;
+}
   .Content-Box {
     padding: 10px;
     justify-content: center;

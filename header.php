@@ -82,7 +82,7 @@
 					<div class="logo col-1g-2 col-md-2 col-sm-6 col-6">
 						<img height="100%" width="100%" src="images/logo/Pearson-logo.png" alt="">
 					</div>
-					<div class="col-1g-10 col-md-10 col-sm-6 col-6 mt-4 text-center">
+					<div class="col-1g-10 col-md-10 col-sm-6 col-6 nav-sec">
 						<div class="navigation">
 							<div class="mobile-menu">
 								<span></span>
