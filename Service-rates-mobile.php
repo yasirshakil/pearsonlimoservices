@@ -323,71 +323,71 @@ include ('./header.php');
       </div>
       <div class="Services-rates ">
         <div class><span class="price">$500</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$500</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$700</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$850</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$00</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$2200</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$700</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$00</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$850</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$750</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$00</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$1100</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$900</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$1300</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$1350</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$1900</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$2000</span> / hour</div>
-        <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="btn-section">
         <button class="Services-rates-btns-center">Book Now</button>
@@ -510,71 +510,88 @@ include ('./header.php');
       </div>
       <div class="Services-rates">
         <div class><span class="price">$65</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$65</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$90</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$120</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$00</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$500</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$90</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$00</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$120</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$175</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$00</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$250</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$225</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$300</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$325</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$600</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="Services-rates">
         <div class><span class="price">$750</span> / hour</div>
-        <p class="Our-Services-Text">*Starting 2 Hr Service + 13% HST</p>
+        <p class="Our-Services-Text">*Starting From + 13% HST
+        </p>
       </div>
       <div class="btn-section">
         <button class="Services-rates-btns">Book Now</button>
@@ -583,23 +600,24 @@ include ('./header.php');
   </div>
 </div>
 <div class="container mb-5">
-			<div class="limoking">
-				<h5><b>Please Note:</b></h5>
-				<p>Rates shown represent the “one-way” cost “per vehicle” to/from the airport for each of the
-					respective city/vehicle combinations. Rates quoted are for the vehicle not the number of
-					passengers.</p>
-				<ul>
-					<li>Additional Fee charged for use of Toll Highway 407.</li>
-					<li>Additional Charges Apply for Extra Stops for respective Vehicles.</li>
-					<li>All Rates are subject to 13% HST (Govt Tax)</li>
-					<li>All reservations are subject to 15% Driver Gratuity</li>
-					<li>Additional Charges Apply For airport pick-ups</li>
-				</ul>
-				<p>If there is anything we haven’t covered, or if you have any special requirements please let us
-					know and we will do our best to accommodate your transport needs in any way we can regardless of
-					volume, budget, or urgency. Please call us at any time of the day or night <a class="Highlight" href="tel:437-800-1547">437-800-1547</a></p>
-			</div>
-		</div>
+  <div class="limoking">
+    <h5><b>Please Note:</b></h5>
+    <p>Rates shown represent the “one-way” cost “per vehicle” to/from the airport for each of the
+      respective city/vehicle combinations. Rates quoted are for the vehicle not the number of
+      passengers.</p>
+    <ul>
+      <li>Additional Fee charged for use of Toll Highway 407.</li>
+      <li>Additional Charges Apply for Extra Stops for respective Vehicles.</li>
+      <li>All Rates are subject to 13% HST (Govt Tax)</li>
+      <li>All reservations are subject to 15% Driver Gratuity</li>
+      <li>Additional Charges Apply For airport pick-ups</li>
+    </ul>
+    <p>If there is anything we haven’t covered, or if you have any special requirements please let us
+      know and we will do our best to accommodate your transport needs in any way we can regardless of
+      volume, budget, or urgency. Please call us at any time of the day or night <a class="Highlight"
+        href="tel:437-800-1547">437-800-1547</a></p>
+  </div>
+</div>
 
 <?php
 	include ('./footer.php');

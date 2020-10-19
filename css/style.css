@@ -2883,14 +2883,19 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 .Highlight{
   color: #d9c77e;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
+}
+
+.call-now{
+  color: #d9c77e;
+  font-size: 24px;
 }
 
 .Highlight:hover{
   color: #d9c77e;
   text-decoration: underline;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
 }
 

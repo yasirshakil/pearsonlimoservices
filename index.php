@@ -688,7 +688,7 @@
 				</h3>
 				<p class="content ">Not only taking to night parties, weddings, casinos, birthdays but we also take
 					you to anywhere you want to go. </p>
-				<p class="contact Home-point-3"><span style="color:#d9c77e;">Call Now </span><a class="Highlight " href="tel:437-800-1547">437-800-1547</a></p>
+				<p class="contact Home-point-3"><span class="call-now">Call Now </span><a class="Highlight " href="tel:437-800-1547">437-800-1547</a></p>
 
 				<a href="Reservation.php" class="booking">Online Booking</a>
 			</div>
