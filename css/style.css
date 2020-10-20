@@ -2899,7 +2899,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 .Highlight{
   color: #d9c77e;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -2911,7 +2911,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 .Highlight:hover{
   color: #d9c77e;
   text-decoration: underline;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -3757,6 +3757,10 @@ div.loader-background {
 }
 
 .Services-rates div .price {
+  font-size: 40px;
+}
+
+.Services-rates div .callForQuote {
   font-size: 30px;
 }
 

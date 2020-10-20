@@ -3,23 +3,6 @@ include ('./header.php');
 ?>
         <div class="container my-5 bgColor">
             <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                    <h1 style="color:#d9c77e;" class="mb-5 AjaxLimo">Airport Pickup Procedure</h1>
-                    <p class="mb-2 AreaDetails">
-                        Arriving at <a class="Highlight" href="">Toronto Pearson Airport</a>  from an International destination or from within Canada, let
-                        us take care of your ground transportation just as you arrive in <a class="Highlight" href="">Toronto</a> . You can pre-book your
-                        ride with Pearson Limo Services Airport Limo and travel to your destination hassle-free.
-                    </p>
-                    <p class="">
-                        Just as you plan to visit <a class="Highlight" href="">Toronto</a>  and you are in need of Ground Transportation from <a class="Highlight" href="">Toronto Pearson Airport</a> 
-                        Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:437-800-1547"> 437-800-1547</a>
-                        to pre-book your Toronto Airport Limo. You have the option of booking your Limo online by
-                        filling our <a class="Highlight" href="">online reservation form</a> or writing us an email <a class="Highlight" href="">reservation@pearsonlimoservices.ca</a> with
-                        your travel plan details. Our representative will assist you through simple procedures of
-                        booking a ride and book your Limo or luxury sedan, SUV, Stretch Limo, Mini Bus, Highway coach
-                        service from <a class="Highlight" href="">Toronto Pearson Airport</a> to your destination.
-                    </p>
-                </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig">
                     <h3 class="Reaervationonline text-center">ONLINE RESERVATION</h3>
                     <p class="AreaDetails mb-5">
@@ -43,6 +26,23 @@ include ('./header.php');
                         </li>
                         </ul>
                     </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <h1 style="color:#d9c77e;" class="mb-5 AjaxLimo">Airport Pickup Procedure</h1>
+                    <p class="mb-2 AreaDetails">
+                        Arriving at <a class="Highlight" href="">Toronto Pearson Airport</a>  from an International destination or from within Canada, let
+                        us take care of your ground transportation just as you arrive in <a class="Highlight" href="">Toronto</a> . You can pre-book your
+                        ride with Pearson Limo Services Airport Limo and travel to your destination hassle-free.
+                    </p>
+                    <p class="">
+                        Just as you plan to visit <a class="Highlight" href="">Toronto</a>  and you are in need of Ground Transportation from <a class="Highlight" href="">Toronto Pearson Airport</a> 
+                        Pearson Airport to any destination in Ontario, let us take care of<b> CALL us at</b> <a class="Highlight" href="tel:437-800-1547"> 437-800-1547</a>
+                        to pre-book your Toronto Airport Limo. You have the option of booking your Limo online by
+                        filling our <a class="Highlight" href="">online reservation form</a> or writing us an email <a class="Highlight" href="">reservation@pearsonlimoservices.ca</a> with
+                        your travel plan details. Our representative will assist you through simple procedures of
+                        booking a ride and book your Limo or luxury sedan, SUV, Stretch Limo, Mini Bus, Highway coach
+                        service from <a class="Highlight" href="">Toronto Pearson Airport</a> to your destination.
+                    </p>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                     <hr>
