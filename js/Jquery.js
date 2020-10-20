@@ -5,12 +5,12 @@ $(document).ready(function () {
     $(".Home-point-2").waypoint(function (direction) {
         $(".Get-Class").addClass("animate__animated animate__backInUp");
     });
-    $(".Home-point-3").waypoint(function (direction) {
+    $(".Home-point-2").waypoint(function (direction) {
         $(".howItWorks-ImgBox").addClass(
             "animate__animated animate__fadeInLeftBig"
         );
     });
-    $(".Home-point-3").waypoint(function (direction) {
+    $(".Home-point-2").waypoint(function (direction) {
         $(".Works-Imformation").addClass(
             "animate__animated animate__fadeInRightBig"
         );
