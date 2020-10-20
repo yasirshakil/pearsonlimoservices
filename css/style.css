@@ -2807,6 +2807,7 @@ ul.social-ft li:last-child {
 .limoking ul li {
   color: #000;
   font-weight: 500;
+  list-style: disc ;
 }
 
 /* .Contact-detail:focus{

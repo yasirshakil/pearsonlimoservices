@@ -601,7 +601,7 @@ include ('./header.php');
 </div>
 <div class="container mb-5">
   <div class="limoking">
-    <h5><b>Please Note:</b></h5>
+    <h2 class="Golden">Please Note:</h2>
     <p>Rates shown represent the “one-way” cost “per vehicle” to/from the airport for each of the
       respective city/vehicle combinations. Rates quoted are for the vehicle not the number of
       passengers.</p>
@@ -610,7 +610,7 @@ include ('./header.php');
       <li>Additional Charges Apply for Extra Stops for respective Vehicles.</li>
       <li>All Rates are subject to 13% HST (Govt Tax)</li>
       <li>All reservations are subject to 15% Driver Gratuity</li>
-      <li>Additional Charges Apply For airport pick-ups</li>
+      <li> <b>Additional Charges Apply For airport pick-ups</b></li>
     </ul>
     <p>If there is anything we haven’t covered, or if you have any special requirements please let us
       know and we will do our best to accommodate your transport needs in any way we can regardless of
