@@ -2,8 +2,8 @@
 include ('./header.php');
 ?>
         <div class="container my-5 bgColor">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig">
+            <div class="">
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig" style="float:right;">
                     <h3 class="Reaervationonline text-center">ONLINE RESERVATION</h3>
                     <p class="AreaDetails mb-5">
                         It is a long established fact that a reader will be distracted by
