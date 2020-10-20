@@ -135,22 +135,15 @@
 									<input type="text" name="Contact" placeholder="Contact">
 								</div>
 								<div class="pick-dropday">
-									<label>Drop Off Address</label>
-									<input type="text" name="pick-up" placeholder="From: address, airport, hotel, ...">
+									<label>Pickup Address</label>
+									<input type="text" name="pick-up" placeholder="Pickup">
 								</div>
-								<div class="pick-date">
-									<label>Pick Up Date</label>
-									<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
-										data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
-										<input size="16" type="text" value="" placeholder="Wed 19 July, 2017" readonly>
-										<span class="add-on"><i class="icon-remove"></i></span>
-										<span class="add-on"><i class="icon-th"></i></span>
-									</div>
-									<input type="hidden" id="dtp_input2" value="" /><br />
+								<div class="pick-dropday">
+									<label>Drop Off Address</label>
+									<input type="text" name="pick-up" placeholder="Drop off address">
 								</div>
 								<div class="btn-submit">
-									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"
-											alt=""></a>
+									<a href="#" class="register_now">Submit<img src="images/icon/arrow-white.png" alt=""></a>
 								</div>
 							</form>
 						</div>
@@ -251,7 +244,7 @@
 	<!-- Start Block Fleet -->
 	<section class="block-fleet no-slider mt">
 	<div class="template-title has-over mtt ovvs">
-				<h3 class="title Our-fleet">Out Fleet</h3>
+				<h3 class="title Our-fleet">Our Fleet</h3>
 				<div class="row">
 					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
 						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>

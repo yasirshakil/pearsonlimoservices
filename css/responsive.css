@@ -235,7 +235,7 @@
 	}
 	.has-tab .sdl-booking.add-box{
 		max-width: 460px;
-		margin: 0 auto;
+		margin: -22px auto;
 		margin-top: 50px;
 	}
 	.header-05 .top-header .left-content ul li:last-child{
@@ -275,7 +275,7 @@
 		text-align:left;
 		left:0;
 		top:100%;
-		padding: 25px 15px 20px 30px;
+		/* padding: 25px 15px 20px 30px; */
 		min-width: 270px;
 		background:#FFF;
 		border-radius:4px;

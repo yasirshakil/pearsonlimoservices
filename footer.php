@@ -57,13 +57,13 @@
 								<a href="#" title="">Chauffeurs</a>
 							</li>
 							<li>
-								<a href="#" title="">About us</a>
+								<a href="about.php" title="">About us</a>
 							</li>
-							<li>
+							<!-- <li>
 								<a href="#" title="">Blog</a>
-							</li>
+							</li> -->
 							<li>
-								<a href="#" title="">FAQs</a>
+								<a href="faq.php" title="">FAQs</a>
 							</li>
 							<li>
 								<a href="#" title="">Testimonials</a>
@@ -72,7 +72,7 @@
 								<a href="#" title="">Terms & Conditions</a>
 							</li>
 							<li>
-								<a href="#" title="">Contact</a>
+								<a href="contact.php" title="">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -84,25 +84,25 @@
 						</h3>
 						<ul>
 							<li>
-								<a href="#" title="">Chrysler 300</a>
+								<a href="chryler-detail.php" title="">Chrysler 300</a>
 							</li>
 							<li>
-								<a href="#" title="">Bmw 750i</a>
+								<a href="bmw750i-Details.php" title="">Bmw 750i</a>
 							</li>
 							<li>
-								<a href="#" title="">Rolls-Royce Phantom</a>
+								<a href="Rolls-royce-Details.php" title="">Rolls-Royce Phantom</a>
 							</li>
 							<li>
-								<a href="#" title="">Caddilac XTS</a>
+								<a href="Cadillac-details.php" title="">Caddilac XTS</a>
 							</li>
 							<li>
-								<a href="#" title="">Mercedes S50</a>
+								<a href="mercedes-detail.php" title="">Mercedes S500</a>
 							</li>
 							<li>
-								<a href="#" title="">Chevrolet suburban </a>
+								<a href="Chevrolet-Details.php" title="">Chevrolet suburban </a>
 							</li>
 							<li>
-								<a href="#" title="">Hummer Strech Limousine </a>
+								<a href="Hummer-Stretch-Limo-Details.php" title="">Hummer Strech Limousine </a>
 							</li>
 						</ul>
 					</div>

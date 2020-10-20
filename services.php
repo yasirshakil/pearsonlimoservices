@@ -26,10 +26,67 @@ include ('./header.php');
 
 			Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious
 			fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports
-			of GTA. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
+			of GTA. <br> Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
 			airport.
 		</p>
 		<div class="row">
+		<div
+				class="col-lg-5 col-md-6 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
+				<div class="sdl-booking add-box AddBox adjust-modal-about">
+					<div class="top-modal">
+						<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
+						<a class="Book" href="Reservation.php">Book Now</a>
+					</div>
+					<div id="bk-1" class="schedule-booking">
+						<form class="form-booking px-3" method="get" action="#">
+							<div class="pick-address">
+								<label>Name</label>
+								<input type="text" name="Name" placeholder=" Name">
+							</div>
+							<div class="pick-address">
+								<label>Email</label>
+								<input type="text" name="Email" placeholder="Email">
+							</div>
+							<div class="pick-address">
+								<label>Phone-No</label>
+								<input type="text" name="Contact" placeholder="Contact">
+							</div>
+							<div class="pick-address">
+								<label>PickUp</label>
+								<input type="text" name="pickup" placeholder="PickUp">
+							</div>
+							<div class="pick-dropday">
+								<label>Drop Off Address</label>
+								<input type="text" name="pick-up" placeholder="From: address">
+							</div>
+							<div class="pick-date">
+								<label>Pick Up Date</label>
+								<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
+									data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
+									<input size="16" type="text" value="" placeholder="Wed 19 July, 2017" readonly="">
+									<span class="add-on"><i class="icon-remove"></i></span>
+									<span class="add-on"><i class="icon-th"></i></span>
+								</div>
+								<input type="hidden" id="dtp_input2" value=""><br>
+							</div>
+							<div class="pick-time">
+								<label>Pick Up Time</label>
+								<div class="controls input-append date form_time" data-date=""
+									data-date-format="hh:ii p" data-link-field="dtp_input3" data-link-format="hh:ii">
+									<input size="16" type="text" value="" placeholder="12:25 am" readonly="">
+									<span class="add-on"><i class="icon-remove"></i></span>
+									<span class="add-on"><i class="icon-th"></i></span>
+								</div>
+								<input type="hidden" id="dtp_input3" value=""><br>
+							</div>
+							<div class="btn-submit">
+								<a href="#" class="About-Point-2 register_now">Reserve Now<img
+										src="images/icon/arrow-white.png" alt=""></a>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
 			<div class="col-lg-7 col-md-6 pr-5">
 				<div class="row">
 					<div class="col-lg-6 col-md-6 col-sm-6">
@@ -118,65 +175,6 @@ include ('./header.php');
 					</div>
 				</div>
 			</div>
-			<div
-					class="col-lg-5 col-md-6 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
-					<div class="sdl-booking add-box AddBox adjust-modal-about">
-						<div class="top-modal">
-							<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
-							<a class="Book" href="Reservation.php">Book Now</a>
-						</div>
-						<div id="bk-1" class="schedule-booking">
-							<form class="form-booking px-3" method="get" action="#">
-								<div class="pick-address">
-									<label>Name</label>
-									<input type="text" name="Name" placeholder=" Name">
-								</div>
-								<div class="pick-address">
-									<label>Email</label>
-									<input type="text" name="Email" placeholder="Email">
-								</div>
-								<div class="pick-address">
-									<label>Phone-No</label>
-									<input type="text" name="Contact" placeholder="Contact">
-								</div>
-								<div class="pick-address">
-									<label>PickUp</label>
-									<input type="text" name="pickup" placeholder="PickUp">
-								</div>
-								<div class="pick-dropday">
-									<label>Drop Off Address</label>
-									<input type="text" name="pick-up" placeholder="From: address">
-								</div>
-								<div class="pick-date">
-									<label>Pick Up Date</label>
-									<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
-										data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
-										<input size="16" type="text" value="" placeholder="Wed 19 July, 2017"
-											readonly="">
-										<span class="add-on"><i class="icon-remove"></i></span>
-										<span class="add-on"><i class="icon-th"></i></span>
-									</div>
-									<input type="hidden" id="dtp_input2" value=""><br>
-								</div>
-								<div class="pick-time">
-									<label>Pick Up Time</label>
-									<div class="controls input-append date form_time" data-date=""
-										data-date-format="hh:ii p" data-link-field="dtp_input3"
-										data-link-format="hh:ii">
-										<input size="16" type="text" value="" placeholder="12:25 am" readonly="">
-										<span class="add-on"><i class="icon-remove"></i></span>
-										<span class="add-on"><i class="icon-th"></i></span>
-									</div>
-									<input type="hidden" id="dtp_input3" value=""><br>
-								</div>
-								<div class="btn-submit">
-									<a href="#" class="About-Point-2 register_now">Reserve Now<img
-											src="images/icon/arrow-white.png" alt=""></a>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
 		</div>
 		<!-- <div class="row">
 					<div class="col-md-12">

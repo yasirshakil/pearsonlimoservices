@@ -41,9 +41,9 @@
 					<div class="col-xs-12 col-sm-12 col-md-6 left-content">
 						<ul>
 							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us"
-									href="tel:+18889211116">+1888-900-3001</a></li>
+									href="tel:+18889211116">888-900-3001</a></li>
 							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us"
-									href="tel:+1437-800-1547">+1437-800-1547</a></li>
+									href="tel:+1437-800-1547">437-800-1547</a></li>
 							<li>
 								<i class="fa fa-envelope mr-2"></i>
 								<a class="Contact-us"
