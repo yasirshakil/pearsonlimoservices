@@ -73,7 +73,7 @@ include ('./header.php');
 								</div>
 								<div class="btn-submit">
 									<a href="javascript:void(0)" id="form-submit-link" class="About-Point-2">
-										Reserve Now
+										Submit
 										<img src="images/icon/arrow-white.png" alt="">
 									</a>
 								</div>

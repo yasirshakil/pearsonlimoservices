@@ -80,7 +80,7 @@ include ('./header.php');
 								<input type="hidden" id="dtp_input3" value=""><br>
 							</div>
 							<div class="btn-submit">
-								<a href="#" class="About-Point-2 register_now">Reserve Now<img
+								<a href="#" class="About-Point-2 register_now">Submit<img
 										src="images/icon/arrow-white.png" alt=""></a>
 							</div>
 						</form>
