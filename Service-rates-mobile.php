@@ -191,15 +191,15 @@ include ('./header.php');
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote </span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote </span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote </span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="btn-section">
@@ -322,71 +322,71 @@ include ('./header.php');
         </h3>
       </div>
       <div class="Services-rates ">
-        <div class><span class="price">$500</span> / hour</div>
+        <div class><span class="price">$500</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$500</span> / hour</div>
+        <div class><span class="price">$500</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$700</span> / hour</div>
+        <div class><span class="price">$700</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$850</span> / hour</div>
+        <div class><span class="price">$850</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / hour</div>
+        <div class><span class="price">$00</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$2200</span> / hour</div>
+        <div class><span class="price">$2200</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$700</span> / hour</div>
+        <div class><span class="price">$700</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / hour</div>
+        <div class><span class="price">$00</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$850</span> / hour</div>
+        <div class><span class="price">$850</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$750</span> / hour</div>
+        <div class><span class="price">$750</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / hour</div>
+        <div class><span class="price">$00</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$1100</span> / hour</div>
+        <div class><span class="price">$1100</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$900</span> / hour</div>
+        <div class><span class="price">$900</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$1300</span> / hour</div>
+        <div class><span class="price">$1300</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span></div>
+        <div class><span class="price">Call For Quote </span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote </span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote </span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="btn-section">
@@ -509,87 +509,87 @@ include ('./header.php');
         </h3>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$65</span> / hour</div>
+        <div class><span class="price">$65</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$65</span> / hour</div>
+        <div class><span class="price">$65</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$90</span> / hour</div>
+        <div class><span class="price">$90</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$120</span> / hour</div>
+        <div class><span class="price">$120</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / hour</div>
+        <div class><span class="price">$00</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$500</span> / hour</div>
+        <div class><span class="price">$500</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$90</span> / hour</div>
+        <div class><span class="price">$90</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / hour</div>
+        <div class><span class="price">$00</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$120</span> / hour</div>
+        <div class><span class="price">$120</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$175</span> / hour</div>
+        <div class><span class="price">$175</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / hour</div>
+        <div class><span class="price">$00</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$250</span> / hour</div>
+        <div class><span class="price">$250</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$225</span> / hour</div>
+        <div class><span class="price">$225</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$300</span> / hour</div>
+        <div class><span class="price">$300</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">Call For Quote</span> / hour</div>
+        <div class><span class="price">Call For Quote</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>

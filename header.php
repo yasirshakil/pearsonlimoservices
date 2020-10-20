@@ -115,10 +115,10 @@
 										<a class="links" href="Service-rates-mobile.php">Service Rates</a>
 									</li>
 									<li>
-										<a class="links" href="Area-We-Serve.php">area we serve</a>
+										<a class="links" href="Area-We-Serve.php">Area We Serve</a>
 									</li>
 									<li>
-										<a class="links" href="Reservation.php">reservation</a>
+										<a class="links" href="Reservation.php">Reservation</a>
 									</li>
 									</li>
 									<li class="has-dropdown Dropdown">

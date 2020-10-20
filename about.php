@@ -4,6 +4,7 @@ include ('./header.php');
 <!-- Start About Area -->
 <section class="about">
 	<div class="row mb-3">
+		
 		<div class="col-md-12">
 			<section class="template-title center">
 				<h1 class="title has-over animate__animated animate__zoomInDown animate__delay-1s 1s">About Us</h1>
@@ -17,41 +18,7 @@ include ('./header.php');
 	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 col-md-12 col-sm-12 col-12 pr-5">
-					<p class="mb-2  text-justify">
-						At Pearson Limo Service we believe our client is our priority. We strive in serving you as per
-						your requirement.
-						We focus on differentiating our service quality to make your limousine ride a memorable
-						experience. Our dedicated
-						and trained team of professionals are always there to help you find the best limousine solution
-						for your travel needs.
-						Pearson Limo Service, is the name you can rely on as we believe in giving superior quality
-						service and placing our customers
-						as our priority. <br>
-						We have devised a system which ensures a comfortable and luxurious limo ride each time you book
-						with us. Pearson Limo service is dedicated toward achieving the best industry standards. We
-						focus on limousines rental solutions which match your needs, we provide what you require.
-					</p>
-					<h3 style="color:#d9c77e;font-weight:bold;" class="mb-2 text-justify About-Services-point">Approach:
-					</h3>
-					<p class="mb-2">
-						Our approach is simple, understanding your needs is our main focus. We have a wide range of limo
-						fleet with multiple standard packages for limousine rentals. What makes us different from others
-						is that we dont tell you which limousine ride is available, we cater your choice of a limo and
-						make it available at your doorstep. That is why we always say:
-					</p>
-					<h3 class="mb-4 text-center"><b>“A limousine experience that is hard to forget”</b></h3>
-					<h3 style="color:#d9c77e;font-weight:bold;" class="About-Point-1">Call To Action:</h3>
-					<p class="mb-2 text-justify">
-						If you want to feel the difference and you are looking for a quality limo rental solution, we
-						are the right fit for you. Our three step solution makes it easier for you to have a limo ride
-						on your doorstep within no time. Information, confirmation and you are all set for your
-						destination. Booking a Limousine is as simple as that with Pearson Limousines services. We would
-						cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate
-						limo services, out of town and special occasion limo service, and personalized limo solutions.
-					</p>
-				</div>
-				<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
+			<div class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
 					<div class="sdl-booking add-box AddBox adjust-modal-about">
 						<div class="top-modal">
 							<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
@@ -111,6 +78,40 @@ include ('./header.php');
 							</form>
 						</div>
 					</div>
+				</div>
+				<div class="col-lg-7 col-md-12 col-sm-12 col-12 pr-5">
+					<p class="mb-2  text-justify">
+						At Pearson Limo Service we believe our client is our priority. We strive in serving you as per
+						your requirement.
+						We focus on differentiating our service quality to make your limousine ride a memorable
+						experience. Our dedicated
+						and trained team of professionals are always there to help you find the best limousine solution
+						for your travel needs.
+						Pearson Limo Service, is the name you can rely on as we believe in giving superior quality
+						service and placing our customers
+						as our priority. <br>
+						We have devised a system which ensures a comfortable and luxurious limo ride each time you book
+						with us. Pearson Limo service is dedicated toward achieving the best industry standards. We
+						focus on limousines rental solutions which match your needs, we provide what you require.
+					</p>
+					<h3 style="color:#d9c77e;font-weight:bold;" class="mb-2 text-justify About-Services-point">Approach:
+					</h3>
+					<p class="mb-2">
+						Our approach is simple, understanding your needs is our main focus. We have a wide range of limo
+						fleet with multiple standard packages for limousine rentals. What makes us different from others
+						is that we dont tell you which limousine ride is available, we cater your choice of a limo and
+						make it available at your doorstep. That is why we always say:
+					</p>
+					<h3 class="mb-4 text-center"><b>“A limousine experience that is hard to forget”</b></h3>
+					<h3 style="color:#d9c77e;font-weight:bold;" class="About-Point-1">Call To Action:</h3>
+					<p class="mb-2 text-justify">
+						If you want to feel the difference and you are looking for a quality limo rental solution, we
+						are the right fit for you. Our three step solution makes it easier for you to have a limo ride
+						on your doorstep within no time. Information, confirmation and you are all set for your
+						destination. Booking a Limousine is as simple as that with Pearson Limousines services. We would
+						cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate
+						limo services, out of town and special occasion limo service, and personalized limo solutions.
+					</p>
 				</div>
 			</div>
 		</div>
