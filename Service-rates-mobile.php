@@ -601,7 +601,7 @@ include ('./header.php');
 </div>
 <div class="container mb-5">
   <div class="limoking">
-    <h2 class="Golden">Please Note:</h2>
+    <h2 class="limoColor">Please Note:</h2>
     <p>Rates shown represent the “one-way” cost “per vehicle” to/from the airport for each of the
       respective city/vehicle combinations. Rates quoted are for the vehicle not the number of
       passengers.</p>
