@@ -38,7 +38,7 @@
 		<div class="top-header">
 			<div class="container-fluid ">
 				<div class="row">
-					<div class="col-lg-7 col-md-7 col-sm-12 left-content p-0">
+					<div class="col-lg-7 col-md-7 col-sm-12 left-content ">
 						<ul>
 							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us"
 									href="tel:+18889211116">888-900-3001

@@ -1178,12 +1178,15 @@ button:focus {
 .header-04 .box-right .view_search i {
   font-size: 26px;
 }
+
+
 .header-04 .top-header .left-content ul li,
 .header-05 .top-header .left-content ul li {
   display: inline-block;
   vertical-align: middle;
   font-size: 17px;
   line-height: 30px;
+
   color: #fff;
   font-weight: 500;
   /* padding-right: 25px; */
@@ -1240,6 +1243,11 @@ button:focus {
   position: relative;
   min-height: 12px;
   padding-right: 73px;
+}
+
+.left-content ul li:first-child {
+  padding: 0px 10px 0px 0px;
+  margin-left: 56px;
 }
 
 .left-content ul li {
@@ -3047,9 +3055,22 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 }
 
+.right-content .login {
+  margin-right: 30px;
+}
+
 @media only screen and (min-device-width: 280px) and (max-device-width: 812px) {
   .ReservationBox{
     display: inline-block;
+  }
+
+  .right-content .login {
+    margin-right: 0px;
+  }
+
+  .left-content ul li:first-child {
+ 
+    margin-left: 0px;
   }
 
 
@@ -3061,6 +3082,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   .left-content ul{
     text-align: center;
     display: grid;
+    padding: 0 !important;
   }
 
   .service-rates-heading{
