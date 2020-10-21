@@ -135,7 +135,7 @@ include ('./header.php');
 								<img height="100px" width="100%" src="images/FleetBox_images/fleet3.jpg" alt="">
 							</div>
 							<div class="services-content">
-								<h4><a class="Golden" href="Out-of-Town-Limo-Services.php">Out of town Limo</a></h4>
+								<h4><a class="Golden" href="Out-of-Town-Limo-Services.php">Out of Town Limo</a></h4>
 							</div>
 						</div>
 					</div>
