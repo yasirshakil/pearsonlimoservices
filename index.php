@@ -989,3 +989,40 @@
 		include ('./footer.php');
 	?>
 <!-- End Footer -->
+<script>
+	$("#form-submit-link").click(function (e) {
+		e.preventDefault()
+		if ($("#get-a-quote").valid()) {
+			$(".loader-div").removeClass("d-none").addClass('loader-background')
+			$.ajax({
+				url: $("#get-a-quote").attr('action'),
+				type: 'post',
+				data: $('#get-a-quote').serialize(),
+				success: function (json) {
+					if (json['status_code'] == 200) {
+						$("#contact-form")[0].reset();
+
+						$("select").each(function () {
+							$(this).children('option:eq(0)').trigger('change');
+						});
+
+						$('#get-a-quote').before('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+					}
+					$(".alert-success").fadeTo(2000, 500).slideUp(500, function () {
+						$(".alert-success").slideUp(500);
+						$(".alert-success").remove()
+					});
+				},
+				error: function (xhr, ajaxOptions, thrownError) {
+					alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+				}
+			}).done(function () {
+				$(".loader-div").addClass("d-none").removeClass('loader-background')
+			});
+		}
+	})
+
+	$("#get-a-quote").validate({
+		errorClass: "validate-error"
+	});
+</script>
