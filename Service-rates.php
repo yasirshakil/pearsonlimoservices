@@ -534,7 +534,7 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$500</div>
+        <div class><span class="price">$450</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
@@ -549,7 +549,7 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$120</div>
+        <div class><span class="price">$150</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>

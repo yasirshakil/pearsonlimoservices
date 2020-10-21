@@ -1581,6 +1581,7 @@ button:focus {
 .widget-about ul.social-ft li {
   display: inline-block;
   padding-right: 30px;
+
 }
 .bottom-01,
 .bottom-04 {
@@ -3064,6 +3065,19 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     display: inline-block;
   }
 
+  .padding{
+    padding-right: 0 !important;
+  }
+
+  .about{
+    margin-bottom: 0px !important;
+  }
+
+  .padding{
+    padding-right: 50px;
+  }
+  
+
   .right-content .login {
     margin-right: 0px;
   }
@@ -3204,6 +3218,7 @@ div.loader-background {
 
 }
 
+
 .Seclect{
   margin-left: 27px !important;
 }
@@ -3278,6 +3293,10 @@ div.loader-background {
 .Cars-Detail {
   border-radius: 10px;
   background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100%);
+}
+
+.about{
+  margin-bottom: 150px;
 }
 
 .About-Car {

@@ -3,8 +3,7 @@ include ('./header.php');
 ?>
 <!-- Start About Area -->
 <section class="about">
-	<div class="row mb-3">
-
+	<div class="">
 		<div class="col-md-12">
 			<section class="template-title center">
 				<h1 class="title has-over animate__animated animate__zoomInDown animate__delay-1s 1s">About Us</h1>
@@ -17,71 +16,72 @@ include ('./header.php');
 	</div>
 	<section>
 		<div class="container">
-			<div class="row">
-				<div
-					class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
-					<div class="sdl-booking add-box AddBox adjust-modal-about">
-						<div class="top-modal">
-							<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
-							<a class="Book" href="Reservation.php">Book Now</a>
-						</div>
-						<div id="bk-1" class="schedule-booking">
-							<form class="form-booking px-3" method="post" id="get-a-quote" action="/functions.php">
-								<input type="hidden" name="form_of" value="get-a-quote">
-								<div class="pick-address">
-									<label>Name</label>
-									<input type="text" name="name" placeholder=" Name">
+		<div class="">
+			<div style="float:right;" class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
+				<div class="sdl-booking add-box AddBox adjust-modal-about">
+					<div class="top-modal">
+						<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
+						<a class="Book" href="Reservation.php">Book Now</a>
+					</div>
+					<div id="bk-1" class="schedule-booking">
+						<form class="form-booking px-3" method="post" id="get-a-quote" action="/functions.php">
+							<input type="hidden" name="form_of" value="get-a-quote">
+							<div class="pick-address">
+								<label>Name</label>
+								<input type="text" name="name" placeholder=" Name">
+							</div>
+							<div class="pick-address">
+								<label>Email</label>
+								<input type="email" name="email" placeholder="Email">
+							</div>
+							<div class="pick-address">
+								<label>Phone-No</label>
+								<input type="text" name="contact" placeholder="Contact">
+							</div>
+							<div class="pick-address">
+								<label>PickUp</label>
+								<input type="text" name="pickup" placeholder="PickUp">
+							</div>
+							<div class="pick-dropday">
+								<label>Drop Off Address</label>
+								<input type="text" name="drop-off" placeholder="From: address">
+							</div>
+							<div class="pick-date">
+								<label>Pick Up Date</label>
+								<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
+									data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
+									<input size="16" name="pickup-date" type="text" value=""
+										placeholder="Wed 19 July, 2017" readonly="">
+									<span class="add-on"><i class="icon-remove"></i></span>
+									<span class="add-on"><i class="icon-th"></i></span>
 								</div>
-								<div class="pick-address">
-									<label>Email</label>
-									<input type="email" name="email" placeholder="Email">
+								<input type="hidden" id="dtp_input2" value=""><br>
+							</div>
+							<div class="pick-time">
+								<label>Pick Up Time</label>
+								<div class="controls input-append date form_time" data-date=""
+									data-date-format="hh:ii p" data-link-field="dtp_input3"
+									data-link-format="hh:ii">
+									<input size="16" type="text" value="" name="pickup-time" placeholder="12:25 am"
+										readonly="">
+									<span class="add-on"><i class="icon-remove"></i></span>
+									<span class="add-on"><i class="icon-th"></i></span>
 								</div>
-								<div class="pick-address">
-									<label>Phone-No</label>
-									<input type="text" name="contact" placeholder="Contact">
-								</div>
-								<div class="pick-address">
-									<label>PickUp</label>
-									<input type="text" name="pickup" placeholder="PickUp">
-								</div>
-								<div class="pick-dropday">
-									<label>Drop Off Address</label>
-									<input type="text" name="drop-off" placeholder="From: address">
-								</div>
-								<div class="pick-date">
-									<label>Pick Up Date</label>
-									<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
-										data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
-										<input size="16" name="pickup-date" type="text" value=""
-											placeholder="Wed 19 July, 2017" readonly="">
-										<span class="add-on"><i class="icon-remove"></i></span>
-										<span class="add-on"><i class="icon-th"></i></span>
-									</div>
-									<input type="hidden" id="dtp_input2" value=""><br>
-								</div>
-								<div class="pick-time">
-									<label>Pick Up Time</label>
-									<div class="controls input-append date form_time" data-date=""
-										data-date-format="hh:ii p" data-link-field="dtp_input3"
-										data-link-format="hh:ii">
-										<input size="16" type="text" value="" name="pickup-time" placeholder="12:25 am"
-											readonly="">
-										<span class="add-on"><i class="icon-remove"></i></span>
-										<span class="add-on"><i class="icon-th"></i></span>
-									</div>
-									<input type="hidden" id="dtp_input3" value=""><br>
-								</div>
-								<div class="btn-submit">
-									<a href="javascript:void(0)" id="form-submit-link" class="About-Point-2">
-										Submit
-										<img src="images/icon/arrow-white.png" alt="">
-									</a>
-								</div>
-							</form>
-						</div>
+								<input type="hidden" id="dtp_input3" value=""><br>
+							</div>
+							<div class="btn-submit">
+								<a href="javascript:void(0)" id="form-submit-link" class="About-Point-2">
+									Submit
+									<img src="images/icon/arrow-white.png" alt="">
+								</a>
+							</div>
+						</form>
 					</div>
 				</div>
-				<div class="col-lg-7 col-md-12 col-sm-12 col-12 pr-5">
+			</div>
+		</div>
+			<div class="">
+				<div class="col-lg-7 col-md-12 col-sm-12 col-12 padding">
 					<p class="mb-2  text-justify">
 						At Pearson Limo Service we believe our client is our priority. We strive in serving you as per
 						your requirement.
@@ -114,7 +114,7 @@ include ('./header.php');
 						cater all your needs: airport transfers. Wedding limo rental, Niagara Limo rentals, corporate
 						limo services, out of town and special occasion limo service, and personalized limo solutions.
 					</p>
-				</div>
+				</div>			
 			</div>
 		</div>
 	</section>
