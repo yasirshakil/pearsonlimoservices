@@ -23,7 +23,7 @@
 	<link rel="stylesheet" href="css/responsive.css">
 	<link rel="stylesheet" href="css/Dummy Css/Dummy.Css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
 
 <body>
@@ -36,22 +36,29 @@
 	<!-- Start Header -->
 	<header id="header" class="header-04">
 		<div class="top-header">
-			<div class="container-fluid px-5">
+			<div class="container-fluid ">
 				<div class="row">
-					<div class="col-xs-12 col-sm-12 col-md-6 left-content">
+					<div class="col-lg-7 col-md-7 col-sm-12 left-content p-0">
 						<ul>
 							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us"
-									href="tel:+18889211116">888-900-3001</a></li>
+									href="tel:+18889211116">888-900-3001
+								</a>
+							</li>
 							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us"
-									href="tel:+1437-800-1547">437-800-1547</a></li>
+									href="tel:+1437-800-1547">437-800-1547
+								</a>
+							</li>
 							<li>
 								<i class="fa fa-envelope mr-2"></i>
 								<a class="Contact-us"
-									href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca</a>
+									href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca
+								</a>
 							</li>
 						</ul>
 					</div>
-					<div class="col-xs-12 col-sm-12 col-md-6 right-content">
+					<!-- <div class="col-lg-4 col-md-3 col-sm-12 center-content">				
+					</div> -->
+					<div class="col-lg-5 col-md-5 col-sm-12 right-content">
 						<div class="login">
 							<a class="Font-Links" href="#">
 								<i class="fa fa-facebook font-Awesome"></i>
@@ -105,14 +112,14 @@
 									<li class="has-dropdown Dropdown">
 										<a class="links" href="services.php">Services</a>
 										<ul class="menu-dropdown after-drop">
-										
+
 											<li class="show-on-mobile"><a href="services.php">Services</a></li>
-											
+
 											<li><a href="airportpickup.php">Airport Pickup Procedure</a></li>
 										</ul>
 									</li>
 									<li>
-										<a class="links" href="Service-rates-mobile.php">Service Rates</a>
+										<a class="links" href="Service-rates.php">Service Rates</a>
 									</li>
 									<li>
 										<a class="links" href="Area-We-Serve.php">Area We Serve</a>

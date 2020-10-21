@@ -120,10 +120,10 @@ include ('./header.php');
         <div class="img">
           <img src="images/cars/55.jpg" alt="" />
         </div>
-        <div class="Cars-names">50 Passengers Limo Bus</div>
+        <div class="Cars-names">48 Passengers Limo Bus</div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+    <div class="col-lg-3 col-md-3 col-sm-6 col-6 mb-3">
       <div class="services-rates-tital"></div>
       <div class="tital">
         <h3 class="service-rates-heading">
@@ -143,7 +143,7 @@ include ('./header.php');
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$120</span> / hour</div>
+        <div class><span class="price">$150</span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -187,7 +187,7 @@ include ('./header.php');
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$195</span> / hour</div>
+        <div class><span class="callForQuote">Call For Quote </span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -206,7 +206,7 @@ include ('./header.php');
         <button class="Services-rates-btns">Book Now</button>
       </div>
     </div>
-    <div class="col-lg-2 col-md-3 col-sm-6 col-6 image-section p-0 offset responsive">
+    <div class="col-lg-2 col-md-3 col-sm-6 col-6 image-section p-0 mb-3 offset responsive">
       <div class="tital-sapce"></div>
       <div class="img-box">
         <div class="img">
@@ -308,10 +308,10 @@ include ('./header.php');
         <div class="img">
           <img src="images/cars/55.jpg" alt="" />
         </div>
-        <div class="Cars-names">50 Passengers Limo Bus</div>
+        <div class="Cars-names">48 Passengers Limo Bus</div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-3 col-sm-6 col-6 center-section">
+    <div class="col-lg-3 col-md-3 col-sm-6 col-6 center-section mb-3">
       <div class="tital-center">
         <h3 class="service-rates-heading">
           PER DAY RATE
@@ -350,7 +350,7 @@ include ('./header.php');
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / Day</div>
+        <div class><span class="price">$700</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -358,11 +358,7 @@ include ('./header.php');
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$750</span> / Day</div>
-        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
-      </div>
-      <div class="Services-rates">
-        <div class><span class="price">$00</span> / Day</div>
+        <div class><span class="price">$950</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -370,11 +366,15 @@ include ('./header.php');
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$900</span> / Day</div>
+        <div class><span class="price">$1250</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$1300</span> / Day</div>
+        <div class><span class="price">$1200</span> / Day</div>
+        <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
+      </div>
+      <div class="Services-rates">
+        <div class><span class="callForQuote">Call For Quote </span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -393,7 +393,7 @@ include ('./header.php');
         <button class="Services-rates-btns-center">Book Now</button>
       </div>
     </div>
-    <div class="col-lg-2 col-md-3 col-sm-6 col-6 image-section p-0 offset responsive">
+    <div class="col-lg-2 col-md-3 col-sm-6 col-6 image-section p-0 offset mb-3 responsive">
       <div class="tital-sapce"></div>
       <div class="img-box">
         <div class="img">
@@ -495,10 +495,10 @@ include ('./header.php');
         <div class="img">
           <img src="images/cars/55.jpg" alt="" />
         </div>
-        <div class="Cars-names">50 Passengers Limo Bus</div>
+        <div class="Cars-names">48 Passengers Limo Bus</div>
       </div>
     </div>
-    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+    <div class="col-lg-3 col-md-3 col-sm-6 col-6 mb-3">
       <div class="tital">
         <h3 class="service-rates-heading">
           AIRPORT TRANSFER
@@ -524,12 +524,12 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$120</div>
+        <div class><span class="price">$150</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</div>
+        <div class><span class="price">$375</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
@@ -544,7 +544,7 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</div>
+        <div class><span class="price">$90</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
@@ -559,7 +559,7 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</div>
+        <div class><span class="price">$225</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
@@ -574,7 +574,7 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$300</div>
+        <div class><span class="callForQuote">Call For Quote</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
@@ -599,7 +599,7 @@ include ('./header.php');
     </div>
   </div>
 </div>
-<div class="container mb-5">
+<div class="container mb-5 px-4">
   <div class="limoking">
     <h2 class="limoColor">Please Note:</h2>
     <p>Rates shown represent the “one-way” cost “per vehicle” to/from the airport for each of the

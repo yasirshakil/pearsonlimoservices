@@ -274,10 +274,10 @@
 								</h4>
 								<ul>
 									<li class="author">
-										<a href="#"><img src="images/icon/author.png" alt="">Max . 3</a>
+										<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
 									</li>
 								</ul>
 							</div>
@@ -314,10 +314,10 @@
 								</h4>
 								<ul>
 									<li class="author">
-										<a href="#"><img src="images/icon/author.png" alt="">Max . 8</a>
+										<a href="#"><img src="images/icon/author.png" alt="">Max . 10</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 6</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
 									</li>
 								</ul>
 							</div>
@@ -341,7 +341,7 @@
 										<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
 									</li>
 								</ul>
 							</div>
@@ -361,7 +361,7 @@
 										<a href="#"><img src="images/icon/author.png" alt="">Max . 4</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
 									</li>
 								</ul>
 							</div>
@@ -378,10 +378,10 @@
 								</h4>
 								<ul>
 									<li class="author">
-										<a href="#"><img src="images/icon/author.png" alt="">Max . 2</a>
+										<a href="#"><img src="images/icon/author.png" alt="">Max . 3</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 2</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
 									</li>
 								</ul>
 							</div>
@@ -466,10 +466,10 @@
 								</h4>
 								<ul>
 									<li class="author">
-										<a href="#"><img src="images/icon/author.png" alt="">Max . 8</a>
+										<a href="#"><img src="images/icon/author.png" alt="">Max . 10</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 6</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 3</a>
 									</li>
 								</ul>
 							</div>
@@ -569,14 +569,14 @@
 							</div>
 							<div class="fleet-content fleet-details">
 								<h4 class="fleet-title">
-									<a href="#">45 PASSENGER LIMO BUS</a>
+									<a href="#">48 PASSENGER LIMO BUS</a>
 								</h4>
 								<ul>
 									<li class="author">
-										<a href="#"><img src="images/icon/author.png" alt="">Max . 45</a>
+										<a href="#"><img src="images/icon/author.png" alt="">Max . 48</a>
 									</li>
 									<li class="mail">
-										<a href="#"><img src="images/icon/mail.png" alt="">Max . 45</a>
+										<a href="#"><img src="images/icon/mail.png" alt="">Max . 48</a>
 									</li>
 								</ul>
 							</div>

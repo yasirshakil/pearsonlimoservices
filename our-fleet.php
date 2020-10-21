@@ -39,7 +39,7 @@
 									<p class="text-justify">Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -70,7 +70,7 @@
 										than a decade..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -134,7 +134,7 @@
 										a kind of limousine that you cannot find anywhere else in Toronto.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -172,7 +172,7 @@
 									<p class="text-justify">Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson limo services  Limousine fleet.</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 4</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -202,8 +202,8 @@
 									<p class="text-justify">The Cadillac XTS has been a popular choice with luxury sedan clients for more
 										than a decade..</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 2</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 2</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 3</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 3</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -365,7 +365,7 @@
 									<p class="text-justify">Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
 										<li><img src="images/booking/people.png" alt=""> Max . 14</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 6</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 4</li>
 									</ul>
 								</div>
 								<div class="bottom">
@@ -470,7 +470,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$195 <span class="hour">/ hour</span></span>
+									<span>Call For Quote <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -501,7 +501,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$225 <span class="hour">/ hour</span></span>
+									<span>Call For Quote  <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -532,7 +532,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$350 <span class="hour">/ hour</span></span>
+									<span>Call For Quote  <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -549,7 +549,7 @@
 							</div>
 							<div class="box-text one-half">
 								<div class="top">
-									<h3>50 passenger limo bus</h3>
+									<h3>48 passenger limo bus</h3>
 									<!-- <div class="name-car">
 										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
 									</div> -->
@@ -557,17 +557,17 @@
 								<div class="content">
 									<p class="text-justify">Pearson limo services  has the largest selection of Cadillac Escalades in GreaterToronto..</p>
 									<ul>
-										<li><img src="images/booking/people.png" alt=""> Max . 50</li>
-										<li><img src="images/booking/vali.png" alt=""> Max . 50</li>
+										<li><img src="images/booking/people.png" alt=""> Max . 48</li>
+										<li><img src="images/booking/vali.png" alt=""> Max . 48</li>
 									</ul>
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$400 <span class="hour">/ hour</span></span>
+									<span>Call For Quote  <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
-										<a class="Box-Links text-center btn-width-class" href="50-Passenges-Bus.php" title="">Details</span></a>
+										<a class="Box-Links text-center btn-width-class" href="48-Passenges-Bus.php" title="">Details</span></a>
 									</div>
 								</div>
 							</div>

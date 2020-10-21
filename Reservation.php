@@ -386,7 +386,7 @@ include ('./header.php');
                 <img src="images/cars/55.jpg" alt="">
               </div>
               <div class="reservation-cars-select">
-                <h5 class="mb-1 Reservation-cars-name">50 Passengers Limo Bus</h5>
+                <h5 class="mb-1 Reservation-cars-name">48 Passengers Limo Bus</h5>
                 <button>Select Car</button>
               </div>
             </div>

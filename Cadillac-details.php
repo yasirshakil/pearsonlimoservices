@@ -79,7 +79,7 @@ include ('./header.php');
                     <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 4<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 2<br>
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 3<br>
                 </div>
                 <div class="About-Car">
                     <i class=" fa fa-play mr-2" aria-hidden="true "></i>Flat screen TV’s, DVD player with CD player with AM <br> / FM surround sound, Plush leather seats<br>

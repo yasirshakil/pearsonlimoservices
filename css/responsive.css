@@ -1175,10 +1175,11 @@
 		text-align:center;
 	}
 	.header-04 .top-header .left-content ul li,.header-05 .top-header .left-content ul li{
-		padding:0 15px;
+		/* padding:0 15px; */
 	}
 	.header-04 .top-header .right-content,.header-05 .top-header .right-content{
-		text-align:center;
+		text-align:center ;
+		padding: 0px 0px 0px 25px;
 	}
 	.sdl-booking.add-box {
 	    margin-bottom: 0px;

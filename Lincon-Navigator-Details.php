@@ -27,7 +27,7 @@ include ('./header.php');
                         <h5 class=""> PER HOUR RATE</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$55 </b></h6>
+                        <h6><b>$150 </b></h6>
                         <p>/ HOUR <sub>*Minimum 2 Hr Service</sub></p>
                         <p class=''> </p>
                     </span>
@@ -39,7 +39,7 @@ include ('./header.php');
                         <h5 class=""> PER DAY RATE</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$700 </b></h6>
+                        <h6><b>$1100 </b></h6>
                         <p>/ DAY <sub>*12 Hour Service</sub></p>
                         <p class=''> </p>
                     </span>
@@ -51,7 +51,7 @@ include ('./header.php');
                         <h5 class="">AIRPORT TRANSFER</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$55</b></h6>
+                        <h6><b>$225</b></h6>
                         <p><sub>*Starting From</sub></p>
                         <p class=''> </p>
                     </span>
@@ -78,7 +78,7 @@ include ('./header.php');
                     <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 14<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 6<br>
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 4<br>
                 </div>
                 <div class="About-Car">
                     <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound

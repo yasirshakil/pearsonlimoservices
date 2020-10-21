@@ -8,8 +8,8 @@ include ('./header.php');
         <div class="row my-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mb-5">
                 <section class="template-title center">
-                    <h1 class="title has-over">50 Passengers Limo Bus</h1>
-                    <span>50 Passengers Limo Bus</span>
+                    <h1 class="title has-over">48 Passengers Limo Bus</h1>
+                    <span>48 Passengers Limo Bus</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
                         <div class="Borders m-auto co-lg-5 col-md-5 col-sm-6 col-6"></div>
                     </div>
@@ -59,7 +59,7 @@ include ('./header.php');
                 </div>
             </div>
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
-                <h3 class="mb-2 limoColor">50 Passengers Limo Bus:</h3>
+                <h3 class="mb-2 limoColor">48 Passengers Limo Bus:</h3>
                 <p class="mb-2">
                     Platinum Rides Offers Luxury Limo Bus is luxurious, and the biggest on the fleet. Enjoy this ultra
                     luxurious custom limo bus with seating for 55 passengers. Cruise Toronto in style on board this
@@ -76,13 +76,13 @@ include ('./header.php');
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
-                <h5 class="ml-2">50 Passengers Limo Bus</h5>
+                <h5 class="ml-2">48 Passengers Limo Bus</h5>
                 <p>
                 <div class="About-Car">
-                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 50<br>
+                    <i class="fa fa-male mr-3" aria-hidden="true"></i>Max. Passenger: 48<br>
                 </div>
                 <div class="About-Car">
-                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 50<br>
+                    <i class=" fa fa-suitcase mr-2" aria-hidden="true "></i>Max. Baggage: 48<br>
                 </div>
                 <div class="About-Car">
                     <i class=" fa fa-play mr-2" aria-hidden="true "></i>CD player with AM / FM Surround Sound
