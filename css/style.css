@@ -2479,6 +2479,7 @@ ul.social-ft li:last-child {
   background-color: #d9c77e;
   color: #000000;
   font-weight: bold;
+  letter-spacing: 1px;
 }
 
 .Contact-us:hover {
@@ -2488,6 +2489,7 @@ ul.social-ft li:last-child {
 .Contact-us-2{
   color: #d9c77e;
   font-weight: bold;
+  letter-spacing: 1px;
 }
 
 .Contact-us-2:hover{
