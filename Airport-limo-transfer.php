@@ -38,21 +38,17 @@ include ('./header.php');
                 <h3 class="mb-2">We also offer additional services under our airport limo in toronto category as follow
                 </h3>
                 <p class="text-justify mb-2">
-                    Meet and Greet: We offer official meet and greet service at the airport arrival areas, where a
+                    <b>Meet and Greet:</b> We offer official meet and greet service at the airport arrival areas, where a
                     friendly and professional staff member would receive you and your luggage and escort to your
                     designated limo service.
                 </p>
                 <p class="text-justify mb-2">
-                    Hotel Booking: We can also help you book a hotel or drop you off at the nearest hotel with your
+                    <b>Hotel Booking:</b> We can also help you book a hotel or drop you off at the nearest hotel with your
                     destination. Our Chauffeurs are well aware of the general market and would be more than happy to
                     make suggestions.
                 </p>
-                <p class="text-justify mb-2">
-                    Non Emergency Medical transfers. If you are coming to Toronto to seek medical attention we would be
-                    able to assist you to take you to a designated hospital. For more details visit.
-                </p>
                 <p class="text-justify mb-5">
-                    City Tours: Airport transfers are city wide with pearson limo. We would pick and drop you to the
+                    <b>City Tours:</b> Airport transfers are city wide with pearson limo. We would pick and drop you to the
                     airport from any city in GTA. Visit areas we serve for more details.
                 </p>
                 <a class="booking-btn mr-5" href="">Our Fleet</a>
