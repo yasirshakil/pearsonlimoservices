@@ -26,26 +26,6 @@ include ('./header.php');
 					<div id="bk-1" class="schedule-booking">
 						<form class="form-booking px-3" method="post" id="get-a-quote" action="/functions.php">
 							<input type="hidden" name="form_of" value="get-a-quote">
-							<div class="pick-address">
-								<label>Name</label>
-								<input type="text" name="name" placeholder=" Name">
-							</div>
-							<div class="pick-address">
-								<label>Email</label>
-								<input type="email" name="email" placeholder="Email">
-							</div>
-							<div class="pick-address">
-								<label>Phone-No</label>
-								<input type="text" name="contact" placeholder="Contact">
-							</div>
-							<div class="pick-address">
-								<label>PickUp</label>
-								<input type="text" name="pickup" placeholder="PickUp">
-							</div>
-							<div class="pick-dropday">
-								<label>Drop Off Address</label>
-								<input type="text" name="drop-off" placeholder="From: address">
-							</div>
 							<div class="pick-date">
 								<label>Pick Up Date</label>
 								<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
@@ -68,6 +48,26 @@ include ('./header.php');
 									<span class="add-on"><i class="icon-th"></i></span>
 								</div>
 								<input type="hidden" id="dtp_input3" value=""><br>
+							</div>
+							<div class="pick-address">
+								<label>Name</label>
+								<input type="text" name="name" placeholder=" Name">
+							</div>
+							<div class="pick-address">
+								<label>Email</label>
+								<input type="email" name="email" placeholder="Email">
+							</div>
+							<div class="pick-address">
+								<label>Phone-No</label>
+								<input type="text" name="contact" placeholder="Contact">
+							</div>
+							<div class="pick-address">
+								<label>PickUp Address</label>
+								<input type="text" name="pickup" placeholder="PickUp Address">
+							</div>
+							<div class="pick-dropday">
+								<label>Drop Off Address</label>
+								<input type="text" name="drop-off" placeholder="From: address">
 							</div>
 							<div class="btn-submit">
 								<a href="javascript:void(0)" id="form-submit-link" class="About-Point-2">

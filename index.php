@@ -136,7 +136,7 @@
 								</div>
 								<div class="pick-dropday">
 									<label>Pickup Address</label>
-									<input type="text" name="pick-up" placeholder="Pickup">
+									<input type="text" name="pick-up" placeholder="Pickup Address">
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>

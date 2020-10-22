@@ -39,27 +39,7 @@ include ('./header.php');
 					</div>
 					<div id="bk-1" class="schedule-booking">
 						<form class="form-booking px-3" method="get" action="#">
-							<div class="pick-address">
-								<label>Name</label>
-								<input type="text" name="Name" placeholder=" Name">
-							</div>
-							<div class="pick-address">
-								<label>Email</label>
-								<input type="text" name="Email" placeholder="Email">
-							</div>
-							<div class="pick-address">
-								<label>Phone-No</label>
-								<input type="text" name="Contact" placeholder="Contact">
-							</div>
-							<div class="pick-address">
-								<label>PickUp</label>
-								<input type="text" name="pickup" placeholder="PickUp">
-							</div>
-							<div class="pick-dropday">
-								<label>Drop Off Address</label>
-								<input type="text" name="pick-up" placeholder="From: address">
-							</div>
-							<div class="pick-date">
+						<div class="pick-date">
 								<label>Pick Up Date</label>
 								<div class=" date form_date" data-date="" data-date-format="dd MM yyyy"
 									data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
@@ -78,6 +58,26 @@ include ('./header.php');
 									<span class="add-on"><i class="icon-th"></i></span>
 								</div>
 								<input type="hidden" id="dtp_input3" value=""><br>
+							</div>
+							<div class="pick-address">
+								<label>Name</label>
+								<input type="text" name="Name" placeholder=" Name">
+							</div>
+							<div class="pick-address">
+								<label>Email</label>
+								<input type="text" name="Email" placeholder="Email">
+							</div>
+							<div class="pick-address">
+								<label>Phone-No</label>
+								<input type="text" name="Contact" placeholder="Contact">
+							</div>
+							<div class="pick-address">
+								<label>PickUp Address</label>
+								<input type="text" name="pickup" placeholder="PickUp Address">
+							</div>
+							<div class="pick-dropday">
+								<label>Drop Off Address</label>
+								<input type="text" name="pick-up" placeholder="From: address">
 							</div>
 							<div class="btn-submit">
 								<a href="#" class="About-Point-2 register_now">Submit<img
