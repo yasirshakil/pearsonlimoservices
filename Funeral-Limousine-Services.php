@@ -43,7 +43,7 @@ include ('./header.php');
                 </p>
                 <p class="text-justify mb-5">
                     For more information about our limo service, please contact us today. The number to call to speak to
-                    someone from our office is <a class="Highlight" href="tel:+1905-974-9873">+1905-974-9873</a> When you call, we can provide you with a free
+                    someone from our office is <a class="Highlight" href="tel:+437-800-1547">+437-800-1547</a> When you call, we can provide you with a free
                     consultation to go over the details of the job. And we can go over the pricing options available. We
                     look forward to helping you through this difficult time.
                 </p>
