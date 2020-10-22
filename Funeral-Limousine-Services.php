@@ -47,7 +47,7 @@ include ('./header.php');
                     consultation to go over the details of the job. And we can go over the pricing options available. We
                     look forward to helping you through this difficult time.
                 </p>
-                <a class="booking-btn" href="">Our Fleet</a>
+                <a class="booking-btn mr-5" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>

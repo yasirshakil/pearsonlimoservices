@@ -34,7 +34,7 @@ include ('./header.php');
                 </p>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
-                <a class="booking-btn" href="">Our Fleet</a>
+                <a class="booking-btn mr-5" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>

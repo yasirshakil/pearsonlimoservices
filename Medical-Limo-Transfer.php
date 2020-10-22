@@ -49,7 +49,7 @@ include ('./header.php');
                     or call our dispatch for more
                     inquiries <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
                 </p>
-                <a class="booking-btn" href="">Our Fleet</a>
+                <a class="booking-btn mr-5" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>
