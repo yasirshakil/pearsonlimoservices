@@ -1071,6 +1071,9 @@ button:focus {
   border-radius: 3px;
   padding: 11px 34px 9px 42px;
 }
+
+.ListBox ul li {list-style: disc; margin: 0px 0px 0px 20px;}
+
 .header-03 .box-right .login {
   margin-right: 6px;
   border: 0;

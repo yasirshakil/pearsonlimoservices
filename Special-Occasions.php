@@ -40,7 +40,7 @@ include ('./header.php');
                     The luxury and the comfort of a limousine clubbed with extraordinary service of pearson limo, the
                     best limo rental service in toronto. You get the most amazing experience for your special occasions.
                 </p>
-                <a class="booking-btn mr-5" href="">Our Fleet</a>
+                <a class="booking-btn " href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>

@@ -141,7 +141,7 @@ include ('./header.php');
 					<p style="margin-bottom:48px;" class="bb-descr mt-3">
 						Looking to book a limo for the airport transfer. We are here to help with the best service
 						and luxurious fleet. We have a dedicated fleet for airport transfers which covers all
-						international and domestic airports of GTA. Call us at <br><a class="Highlight"
+						international and domestic airports of GTA. Call us at <a class="Highlight"
 							href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
 						airport.
 					</p>

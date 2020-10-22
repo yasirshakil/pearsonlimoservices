@@ -52,7 +52,7 @@ include ('./header.php');
                     online for wedding packages.</h4>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                <a class="booking-btn mr-5" href="">Our Fleet</a>
+                <a class="booking-btn " href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>

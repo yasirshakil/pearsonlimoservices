@@ -13,7 +13,7 @@ include ('./header.php');
 
                         Non-Emergency Medical Limo Transfer</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                        <div class="Borders m-auto co-lg-10 col-md-10 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
@@ -37,7 +37,7 @@ include ('./header.php');
                     </p>
                 </div>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5 ListBox">
                 <ul class="mb-2 text-justify">
                     <li>Appointments with doctors or specialists</li>
                     <li>Dental appointment</li>
@@ -45,13 +45,13 @@ include ('./header.php');
                     <li>Physical therapy sessions</li>
                     <li>Dialysis treatments</li>
                 </ul>
-                <p class="mb-5 text-justify">
+                <p class="mb-5 text-left">
                     If you have any questions regarding our medical transportation service, Please Email us <a
                         class="Highlight" href="mailto:pearsonlimoervices.ca">info@pearsonlimoervices.ca</a>
                     or call our dispatch for more
                     inquiries <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
                 </p>
-                <a class="booking-btn mr-5" href="">Our Fleet</a>
+                <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>
