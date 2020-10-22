@@ -29,10 +29,10 @@ include ('./header.php');
 			of GTA. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
 			airport.
 		</p>
-		<div class="row">
+		<div class="">
 		<div
-				class="col-lg-5 col-md-6 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
-				<div class="sdl-booking add-box AddBox adjust-modal-about">
+				class="col-lg-5 col-md-6 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s" style="float: right;">
+				<div class="sdl-booking add-box AddBox adjust-modal-about" >
 					<div class="top-modal">
 						<a class="Get-a-quote" href="#bk-1">Get A Quote</a>
 						<a class="Book" href="Reservation.php">Book Now</a>
