@@ -14,23 +14,25 @@ include ('./header.php');
                     </div>
                 </section>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                <img width="100%" src="images/FleetBox_images/fleet2.jpeg" alt="" />
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                <p class="text-justify mb-2">
-                    If you are looking for a professional limousine service to cater your corporate needs; we have the
-                    right solution for you. Our system is designed to understand your needs and offer limousine rental
-                    solutions as per your requirement. A dedicated fleet with highly trained chauffeur awaits your call
-                    at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
-                </p>
-                <p class="text-justify mb-2">
-                    At Pearson Limousine Service, we understand the business environment and the professional approach
-                    toward doing business. We cater our corporate limo clients as our business partners. Therefore we
-                    have a dedicated team to understand your business requirement and offer you special solutions. Your
-                    executives are our prestigious guest with utmost priority. We focus on time management and custom
-                    solutions when it comes to serving the corporate world.
-                </p>
+            <div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12" style="float:right;">
+                    <img width="100%" src="images/FleetBox_images/fleet2.jpeg" alt="" />
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                    <p class="text-justify mb-2">
+                        If you are looking for a professional limousine service to cater your corporate needs; we have the
+                        right solution for you. Our system is designed to understand your needs and offer limousine rental
+                        solutions as per your requirement. A dedicated fleet with highly trained chauffeur awaits your call
+                        at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
+                    </p>
+                    <p class="text-justify mb-2">
+                        At Pearson Limousine Service, we understand the business environment and the professional approach
+                        toward doing business. We cater our corporate limo clients as our business partners. Therefore we
+                        have a dedicated team to understand your business requirement and offer you special solutions. Your
+                        executives are our prestigious guest with utmost priority. We focus on time management and custom
+                        solutions when it comes to serving the corporate world.
+                    </p>
+                </div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5">
                 <p class="text-justify mb-2">If you are planning to come to Toronto for an important meeting, let us

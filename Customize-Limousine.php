@@ -14,24 +14,26 @@ include ('./header.php');
                     </div>
                 </section>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <img style="height: auto; width: 100%;" src="images/FleetBox_images/fleet6.png" alt="" />
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <p class="text-justify mb-2">
-                    If you think you have a certain set of requirements not covered in our standard packages. We are
-                    more than willing to help you with a customized limousine rental solution. Call us at<a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
-                    for custom limo solutions Custom Solutions are important when you have unique needs, therefore we
-                    have a dedicated limo service to cater these needs. If you want more than one limo for more than one
-                    trip and existing packages are not what you are looking for, give us a call and we will provide you
-                    with a customized limousine rental plan which would be unique just like you
-                </p>
-                <p class="text-justify mb-2">
-                    We encourage our customers to choose custom solutions for our platinum services. When you opt into a
-                    custom package the standard services are complemented with additional services and wait times. As
-                    you are willing to go an extra mile we are right there with you. Call us or visit our website for
-                    custom limousine rental solutions.
-                </p>
+            <div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12" style="float:right;">
+                    <img style="height: auto; width: 100%;" src="images/FleetBox_images/fleet6.png" alt="" />
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <p class="text-justify mb-2">
+                        If you think you have a certain set of requirements not covered in our standard packages. We are
+                        more than willing to help you with a customized limousine rental solution. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
+                        for custom limo solutions Custom Solutions are important when you have unique needs, therefore we
+                        have a dedicated limo service to cater these needs. If you want more than one limo for more than one
+                        trip and existing packages are not what you are looking for, give us a call and we will provide you
+                        with a customized limousine rental plan which would be unique just like you
+                    </p>
+                    <p class="text-justify mb-2">
+                        We encourage our customers to choose custom solutions for our platinum services. When you opt into a
+                        custom package the standard services are complemented with additional services and wait times. As
+                        you are willing to go an extra mile we are right there with you. Call us or visit our website for
+                        custom limousine rental solutions.
+                    </p>
+                </div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
                 <a class="booking-btn mr-5" href="">Our Fleet</a>

@@ -14,25 +14,27 @@ include ('./header.php');
                     </div>
                 </section>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <img style="height: auto; width: 100%;" src="images/FleetBox_images/wdding-limo.jpeg" alt="" />
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <p class="text-justify mb-2">
-                    Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
-                    stretch limo with luxury interior and comfort. We would love to be a part of your special day by
-                    offering you the best limo service. We have a range of limo rides for you to choose from. Visit our
-                    fleet for more information or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your special ride.
-                </p>
-                <p class="text-justify mb-2">
-                    The biggest event in your life just got better, we would be pleased to help you out in your grand
-                    celebrations. A wedding is incomplete without a limousine ride, our range of stretched limos is a
-                    perfect fit for your bride. Bring her home in style and give her the best. Our wedding limo service
-                    is not limited to wedding day arrivals and departures only. We would be there throughout the
-                    process. You name it and we would be there to assist you from salon appointments to receptions. We
-                    can provide limo rental service throughout your wedding.
+            <div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12" style="float:right;">
+                    <img style="height: auto; width: 100%;" src="images/FleetBox_images/wdding-limo.jpeg" alt="" />
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <p class="text-justify mb-2">
+                        Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
+                        stretch limo with luxury interior and comfort. We would love to be a part of your special day by
+                        offering you the best limo service. We have a range of limo rides for you to choose from. Visit our
+                        fleet for more information or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your special ride.
+                    </p>
+                    <p class="text-justify mb-2">
+                        The biggest event in your life just got better, we would be pleased to help you out in your grand
+                        celebrations. A wedding is incomplete without a limousine ride, our range of stretched limos is a
+                        perfect fit for your bride. Bring her home in style and give her the best. Our wedding limo service
+                        is not limited to wedding day arrivals and departures only. We would be there throughout the
+                        process. You name it and we would be there to assist you from salon appointments to receptions. We
+                        can provide limo rental service throughout your wedding.
 
-                </p>
+                    </p>
+                </div>
             </div>
             <div class="col-lg-12 mt-5">
                 <p class="text-justify mb-2">

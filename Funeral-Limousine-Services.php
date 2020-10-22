@@ -14,22 +14,24 @@ include ('./header.php');
                     </div>
                 </section>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <img style="height: auto; width: 100%;" src="images/FleetBox_images/Funeral-limo.jpg" alt="" />
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <p class="text-justify mb-2">
-                    We provide service to funerals, wakes, and any other kind of service where a loved one has passed.
-                    We provide not only limos but sedans, SUVs, stretch limousine, charter buses, sprinter vans, and
-                    much more for you and your family. We will help as much as we can on that solemn day to make you a
-                    little bit happier and brighter.
-                </p>
-                <p class="text-justify mb-2">
-                    Our most common vehicle for this day is our Pearson Limo Service Funeral Sedan Rentals. These are mainly
-                    black and will fit any decor you have in mind. Use these vehicles to drive around in and go from the
-                    wake to the funeral or to wherever you need to be. We will assist you in any way shape or form. We
-                    all know it is difficult to lose a loved one, so let us help with all of your transportation needs.
-                </p>
+            <div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12" style="float: right;">
+                    <img style="height: auto; width: 100%;" src="images/FleetBox_images/Funeral-limo.jpg" alt="" />
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                    <p class="text-justify mb-2">
+                        We provide service to funerals, wakes, and any other kind of service where a loved one has passed.
+                        We provide not only limos but sedans, SUVs, stretch limousine, charter buses, sprinter vans, and
+                        much more for you and your family. We will help as much as we can on that solemn day to make you a
+                        little bit happier and brighter.
+                    </p>
+                    <p class="text-justify mb-2">
+                        Our most common vehicle for this day is our Pearson Limo Service Funeral Sedan Rentals. These are mainly
+                        black and will fit any decor you have in mind. Use these vehicles to drive around in and go from the
+                        wake to the funeral or to wherever you need to be. We will assist you in any way shape or form. We
+                        all know it is difficult to lose a loved one, so let us help with all of your transportation needs.
+                    </p>
+                </div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
                 <p class="text-justify mb-2">

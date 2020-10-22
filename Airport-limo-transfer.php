@@ -13,7 +13,8 @@ include ('./header.php');
                     </div>
                 </section>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+            <div class="">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-12" style="float: right;">
                 <img width="100%" src="images/FleetBox_images/fleet1.jpg" alt="" />
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
@@ -31,6 +32,7 @@ include ('./header.php');
                     airport transfers understand both the urgency and accuracy of airport travels. Therefore, we urge
                     you to book a limo ride which brings in both comfort, luxury and peace of mind.
                 </p>
+            </div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center mt-5 details">
                 <h3 class="mb-2">We also offer additional services under our airport limo in toronto category as follow
