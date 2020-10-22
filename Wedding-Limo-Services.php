@@ -46,7 +46,7 @@ include ('./header.php');
                     pleasure to be on your side on your big day,
 
                 </p>
-                <h4 class="mb-5"><b>Call us</b> <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Book us
+                <h4 class="mb-5">Call us <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Book us
                     online for wedding packages.</h4>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
