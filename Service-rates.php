@@ -167,7 +167,7 @@ include ('./header.php');
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$120</span> / hour</div>
+        <div class><span class="price">$150</span> / hour</div>
         <p class="Our-Services-Text">*Min 2 Hr Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -330,7 +330,7 @@ include ('./header.php');
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$700</span> / Day</div>
+        <div class><span class="price">$850</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -338,11 +338,11 @@ include ('./header.php');
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$00</span> / Day</div>
+        <div class><span class="price">$2100</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$2200</span> / Day</div>
+        <div class><span class="price">$2550</span> / Day</div>
         <p class="Our-Services-Text">*8 Hour Service + 13% HST</p>
       </div>
       <div class="Services-rates">
@@ -519,12 +519,12 @@ include ('./header.php');
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$90</div>
+        <div class><span class="price">$190</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
       <div class="Services-rates">
-        <div class><span class="price">$150</div>
+        <div class><span class="price">$160</div>
         <p class="Our-Services-Text">*Starting From + 13% HST
         </p>
       </div>
