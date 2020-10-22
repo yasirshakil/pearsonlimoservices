@@ -21,12 +21,6 @@ include ('./header.php');
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/Funeral-limo.jpg" alt="" />
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <h4 class="mb-2">
-                    Medical
-                </h4>
-                <h4 class="mb-2">
-                    Non-Emergency Medical Limo Transfer
-                </h4>
                 <p class="text-justify mb-2">
                     Platinum Rides Limo Services offers non-emergency patient transfer services provider for people with
                     disabilities who require non-emergency transportation service. We focus primarily on patient

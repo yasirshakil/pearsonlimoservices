@@ -25,12 +25,12 @@ include ('./header.php');
                     best out of town limo packages in the business. Book our limo rental services and relax through your
                     journey. Our experienced drivers would take you to your town of destination. You can choose any limo
                     ride from our fleet for your out of town plan. We also provide round trips and weekend trips. You
-                    need our solution. Call us at to have more information:
+                    need our solution. Call us at to have more information.
                 </p>
                 <p class="text-justify mb-2">
                     Having a plan to visit Niagara falls or feeling lucky for a Casino trip in Niagara, we offer
-                    exclusive 24/7 service to Niagara Falls. Limo rides at its best, just book it and leave the rest to
-                    us. Call us for more information
+                    exclusive 24/7 service to Niagara Falls. Limo Rides at its best, just book it and leave the rest to
+                    us. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for more information
                 </p>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">

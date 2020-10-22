@@ -17,7 +17,6 @@ include ('./header.php');
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/fleet4.jpg" alt="" />
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <h4 class="mb-2">Limo For special occasion</h4>
                 <p class="text-justify mb-2">
                     Planning for the big day, make it grand by planning on booking a limo. Imagine bringing her home in
                     stretch limo with luxury interior and comfort. We would love to be a part of your special day by

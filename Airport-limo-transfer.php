@@ -17,9 +17,6 @@ include ('./header.php');
                 <img width="100%" src="images/FleetBox_images/fleet1.jpg" alt="" />
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                <h4 class="Services-Details">
-                    Airport Limo Service
-                </h4>
                 <p class="text-justify mb-2">
                     Looking to book a limo for the airport transfer. We are here to help with the best service and
                     luxurious fleet. We have a dedicated fleet for airport transfers which covers all international and

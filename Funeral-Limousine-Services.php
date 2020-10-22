@@ -18,9 +18,6 @@ include ('./header.php');
                 <img style="height: auto; width: 100%;" src="images/FleetBox_images/Funeral-limo.jpg" alt="" />
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <h4 class="Services-Details">
-                    Funeral Limo Services
-                </h4>
                 <p class="text-justify mb-2">
                     We provide service to funerals, wakes, and any other kind of service where a loved one has passed.
                     We provide not only limos but sedans, SUVs, stretch limousine, charter buses, sprinter vans, and
