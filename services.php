@@ -26,7 +26,7 @@ include ('./header.php');
 
 			Looking to book a limo for the airport transfer. We are here to help with the best service and luxurious
 			fleet. We have a dedicated fleet for airport transfers which covers all international and domestic airports
-			of GTA. <br> Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
+			of GTA. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for your perfect ride to
 			airport.
 		</p>
 		<div class="row">
@@ -87,7 +87,7 @@ include ('./header.php');
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-7 col-md-6 pr-5">
+			<div class="col-lg-7 col-md-6">
 				<div class="row">
 					<div class="col-lg-6 col-md-6 col-sm-6">
 						<div class="services-item center">

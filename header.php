@@ -38,7 +38,7 @@
 		<div class="top-header">
 			<div class="container-fluid ">
 				<div class="row">
-					<div class="col-lg-7 col-md-7 col-sm-12 left-content ">
+					<div class="col-lg-9 col-md-9 col-sm-12 left-content ">
 						<ul>
 							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us"
 									href="tel:+18889211116">888-900-3001
@@ -58,7 +58,7 @@
 					</div>
 					<!-- <div class="col-lg-4 col-md-3 col-sm-12 center-content">				
 					</div> -->
-					<div class="col-lg-5 col-md-5 col-sm-12 right-content">
+					<div class="col-lg-2 col-md-2 col-sm-12 right-content">
 						<div class="login">
 							<a class="Font-Links" href="#">
 								<i class="fa fa-facebook font-Awesome"></i>

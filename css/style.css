@@ -1245,13 +1245,20 @@ button:focus {
   padding-right: 73px;
 }
 
-.left-content ul li:first-child {
+.left-content ul li{
   padding: 0px 10px 0px 0px;
-  margin-left: 56px;
+  margin:0px 0px 0px 10px;
+}
+
+.left-content ul li:first-child{
+  margin-left: -65px;
 }
 
 .left-content ul li {
   padding: 0px 10px 0px 0px;
+  /* border: solid 1px #d9c77e;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px 5px #d9c77e; */
 }
 .top-menuleft.no_bo {
   display: inline-block;
@@ -2505,6 +2512,7 @@ ul.social-ft li:last-child {
 
 .left-content {
   color: #d9c77e !important;
+  text-align: center;
 }
 
 .Nav-Links-Box {
@@ -3057,7 +3065,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 }
 
 .right-content .login {
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 @media only screen and (min-device-width: 280px) and (max-device-width: 812px) {
