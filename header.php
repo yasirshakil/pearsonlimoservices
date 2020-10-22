@@ -38,27 +38,27 @@
 		<div class="top-header">
 			<div class="container-fluid ">
 				<div class="row">
-					<div class="col-lg-9 col-md-9 col-sm-12 left-content ">
-						<ul>
-							<li><i class="fa fa-phone mr-2 "></i><a class="Contact-us"
-									href="tel:+18889211116">888-900-3001
-								</a>
-							</li>
-							<li><i class="fa fa-mobile mr-2"></i><a class="Contact-us"
-									href="tel:+1437-800-1547">437-800-1547
-								</a>
-							</li>
-							<li>
-								<i class="fa fa-envelope mr-2"></i>
-								<a class="Contact-us"
-									href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca
-								</a>
-							</li>
-						</ul>
+					<div class="col-lg-6 col-md-12 col-sm-12 p-0 left-content ">
+
+						<div class="content">
+							Phone : <i class="fa fa-phone mr-2 ml-1 "></i><a class="Contact-us"
+								href="tel:+18889211116">888-900-3001
+							</a>
+						</div>
+						<div class="content-2">
+							Toll Free : <i class="fa fa-mobile mr-2 ml-1"></i><a class="Contact-us-2"
+								href="tel:+1437-800-1547">437-800-1547
+							</a>
+						</div>
 					</div>
-					<!-- <div class="col-lg-4 col-md-3 col-sm-12 center-content">				
-					</div> -->
-					<div class="col-lg-2 col-md-2 col-sm-12 right-content">
+					<div class="col-lg-3 col-md-12 col-sm-12 center-content ">
+						<div class="content">
+							Text Us : <i class="fa fa-envelope mr-2 ml-1"></i>
+							<a class="Contact-us" href="mailto:info@pearsonlimoservices.ca">info@pearsonlimoservices.ca
+							</a>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-12 col-sm-12 right-content p-0">
 						<div class="login">
 							<a class="Font-Links" href="#">
 								<i class="fa fa-facebook font-Awesome"></i>
