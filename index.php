@@ -729,7 +729,7 @@
 					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
 				</div>
 			</div>
-			<p class="subtitle">Our aim is to fill a gap in niche market of Trade</p>
+			<p class="subtitle">Our services is what makes the difference</p>
 		</div>
 	</section>
 	<!-- End Template title -->
