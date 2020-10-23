@@ -907,7 +907,7 @@
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Alma Patterson ( Gold )</h4>
+							<h4 class="name">Alma Patterson</h4>
 							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
@@ -918,7 +918,7 @@
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Michael Cooke ( Gold )</h4>
+							<h4 class="name">Michael Cooke</h4>
 							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
@@ -929,7 +929,7 @@
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Cherie Brown ( Gold )</h4>
+							<h4 class="name">Cherie Brown</h4>
 						</div>
 					</div>
 					<div class="items">
@@ -939,7 +939,7 @@
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Amy Adam ( Gold )</h4>
+							<h4 class="name">Amy Adam</h4>
 						</div>
 					</div>
 				</div>

@@ -108,7 +108,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$120 <span class="hour">/ hour</span></span>
+									<span>$150 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
@@ -308,7 +308,7 @@
 								</div>
 								<div class="bottom">
 									<div class="price">
-									<span>$120 <span class="hour">/ hour</span></span>
+									<span>$150 <span class="hour">/ hour</span></span>
 									</div>
 									<div class="btn-select">
 									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
