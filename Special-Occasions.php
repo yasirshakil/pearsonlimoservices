@@ -1,9 +1,9 @@
 <?php
 include ('./header.php');
 ?>
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="container">
-        <div class="row">
+        <div class="row my-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
                 <section class="template-title center mt-5">
                     <h1 class="title has-over">Limo For special occasion</h1>
@@ -33,14 +33,16 @@ include ('./header.php');
                     </p>
                 </div>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
                 <p class="text-justify mb-5">
                     We understand the importance of a special occasion, it can be anything from a birthday party, a
                     bachelor party, bridal showers to friends getting together. A limo ride makes it even more special.
                     The luxury and the comfort of a limousine clubbed with extraordinary service of pearson limo, the
                     best limo rental service in toronto. You get the most amazing experience for your special occasions.
                 </p>
-                <a class="booking-btn " href="">Our Fleet</a>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 px-2 Services-btn">
+                <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>
