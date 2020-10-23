@@ -798,7 +798,7 @@
 						</p>
 						<div>
 							<div class="LinksBox">
-								<a class="Box-Links" href="">BOOK NOW</a>
+								<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 								<div class="LinkBorder"></div>
 							</div>
 						</div>
@@ -817,7 +817,7 @@
 							need a reliable limo service.
 						</p>
 						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
+							<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 							<div class="LinkBorder"></div>
 						</div>
 					</div>
@@ -835,7 +835,7 @@
 							ride.
 						</p>
 						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
+							<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 							<div class="LinkBorder"></div>
 						</div>
 					</div>
@@ -854,7 +854,7 @@
 							first impression on your special occasion. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for a limo ride.
 						</p>
 						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
+							<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 							<div class="LinkBorder"></div>
 						</div>
 					</div>
@@ -870,7 +870,7 @@
 							world Niagara falls. Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for special Niagara Limo Deals.
 						</p>
 						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
+							<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 							<div class="LinkBorder"></div>
 						</div>
 					</div>
@@ -886,7 +886,7 @@
 							<a class="Highlight" href="tel:437-800-1547">437-800-1547</a>for custom limo solutions.
 						</p>
 						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
+							<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 							<div class="LinkBorder"></div>
 						</div>
 					</div>

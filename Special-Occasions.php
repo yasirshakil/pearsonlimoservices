@@ -9,7 +9,7 @@ include ('./header.php');
                     <h1 class="title has-over">Limo For special occasion</h1>
                     <span>Limo For special occasion</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                        <div class="Borders m-auto co-lg-6 col-md-6 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
