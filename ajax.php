@@ -4,43 +4,45 @@ include ('./header.php');
     <div class="container-fluid ">
         <div class="container mt-5 mb-5 bgColor">
             <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig">
-                    <h3 class="Reaervationonline text-center">ONLINE RESERVATION</h3>
-                    <p class="AreaDetails mb-5">
-                        It is a long established fact that a reader will be distracted by
-                        the readable content of a page when looking at its layout.
-                    </p>
-						<div class="ReservationBox">
-							<p class="makeReservation m-auto"><a href="tel:8889211116"><i class="fa fa-phone"></i>888-900-3001</a></p>
-                    		<p class="makeReservation m-auto"><a href="tel:9059749873"><i class="fa fa-mobile-phone"></i>905-974-9873</a></p>
-						</div>
-						<div class="ReservationBox">
-							<p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/reservation.php"><i class="fa fa-car"></i>Make Reservation</a></p>
-                   			<p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/our-fleet.php"><i class="fa fa-car"></i>Our Fleet</a></p>
-						</div>
-                    <div class="social_Links_Div ml-3">
-                        <a  href=""><i class="fa fa-facebook"></i></a>
-                        <a  href=""><i class="fa fa-twitter"></i></a>
-                        <a  href=""><i class="fa fa-google-plus"></i></a>
-                        <a  href=""><i class="fa fa-linkedin"></i></a>
-                        <a  href=""><i class="fa fa-instagram"></i></a>
-                        </li>
-                        </ul>
-                        <br /><br />
+                <div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12 py-3 OnlineBookig" style="float: right;">
+                        <h3 class="Reaervationonline text-center">ONLINE RESERVATION</h3>
+                        <p class="AreaDetails mb-5">
+                            It is a long established fact that a reader will be distracted by
+                            the readable content of a page when looking at its layout.
+                        </p>
+                            <div class="ReservationBox">
+                                <p class="makeReservation m-auto"><a href="tel:8889211116"><i class="fa fa-phone"></i>888-900-3001</a></p>
+                                <p class="makeReservation m-auto"><a href="tel:9059749873"><i class="fa fa-mobile-phone"></i>905-974-9873</a></p>
+                            </div>
+                            <div class="ReservationBox">
+                                <p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/reservation.php"><i class="fa fa-car"></i>Make Reservation</a></p>
+                                <p class="makeReservation m-auto"><a href="https://www.pearsonlimoservices.ca/our-fleet.php"><i class="fa fa-car"></i>Our Fleet</a></p>
+                            </div>
+                        <div class="social_Links_Div ml-3">
+                            <a  href=""><i class="fa fa-facebook"></i></a>
+                            <a  href=""><i class="fa fa-twitter"></i></a>
+                            <a  href=""><i class="fa fa-google-plus"></i></a>
+                            <a  href=""><i class="fa fa-linkedin"></i></a>
+                            <a  href=""><i class="fa fa-instagram"></i></a>
+                            </li>
+                            </ul>
+                            <br /><br />
+                        </div>
                     </div>
-				</div>
-                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                    <h1 class="mb-2 AjaxLimo">Ajax Limousine Services </h1>
-                    <p class="mb-2 AreaDetails">Ajax, the town named after a royal navy cruiser, deserves a royal treatment. Therefore, we at
-                        Platinum Rides take pride in providing its finest Ajax limo service in the eastern part of GTA
-                        throughout the town of Ajax. Our Ajax airport shuttle service is available from Ajax to YYZ Pearson
-                        International Airport and vice versa throughout the year. Ajax Limo Rentals and Airport
-                        Transportation to/from Toronto Airport, Buffalo Airport, Niagara Airport and Hamilton Airport Our
-                        extraordinary and luxurious fleet of limousines are ready at your disposal in Ajax and its
-                        surrounding areas, to get a quote or make your reservation call us at
-                        <span style="color: #d9c77e;"><a class="Highlight" href="tel:9059749873">905-974-9873</a></span> or visit:
-                        <span><a class="Highlight" href="https://pearsonlimoservices.ca">www.Pearsonlimoservices.ca</a></span>
-                    </p>
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                        <h1 class="mb-2 AjaxLimo">Ajax Limousine Services </h1>
+                        <p class="mb-2 AreaDetails">Ajax, the town named after a royal navy cruiser, deserves a royal treatment. Therefore, we at
+                            Platinum Rides take pride in providing its finest Ajax limo service in the eastern part of GTA
+                            throughout the town of Ajax. Our Ajax airport shuttle service is available from Ajax to YYZ Pearson
+                            International Airport and vice versa throughout the year. Ajax Limo Rentals and Airport
+                            Transportation to/from Toronto Airport, Buffalo Airport, Niagara Airport and Hamilton Airport Our
+                            extraordinary and luxurious fleet of limousines are ready at your disposal in Ajax and its
+                            surrounding areas, to get a quote or make your reservation call us at
+                            <span style="color: #d9c77e;"><a class="Highlight" href="tel:9059749873">905-974-9873</a></span> or visit:
+                            <span><a class="Highlight" href="https://pearsonlimoservices.ca">www.Pearsonlimoservices.ca</a></span>
+                        </p>
+                    </div>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
 					<hr>
