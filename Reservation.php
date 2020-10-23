@@ -18,11 +18,18 @@ include ('./header.php');
           <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
         </div>
       </section>
+      <div class="well Form-bg" style="padding: 20px !important; box-shadow: none; -webkit-box-shadow: none;">
+        <p style="margin-top: 10px; font-size: 16px;"><i class="fa fa-info-circle text-warning"></i>&nbsp; If you require limousine service within the next 8 hours, or you wish to modify an existing reservation, please call <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>.</p>
+      </div>
+      <p style="margin-top:10px;">
+        Four step reservation, booking a limo ride has never been easier. Our limo rental service starts off with information and then confirmation which concludes our process and starts your journey toward your destination. Book a form below to experience the difference.
+      </p style="margin-top:5px;">
+      <p class="lead" style="font-size:21px;">Thank you for choosing Pearson Limo Service!</p>
     </div>
   </div>
 </section>
 <!-- Used some part of the code from Chris Wright (https://codepen.io/chriswrightdesign/)'s Pen  -->
-<div class="container my-5">
+<div class="container my-4">
   <dt>
     <!-- accordion tab 2 - Shipping Info -->
     <a href="#accordion1" aria-expanded="false" aria-controls="accordion1"
