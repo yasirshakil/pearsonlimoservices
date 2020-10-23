@@ -27,7 +27,7 @@ include ('./header.php');
                         <h5 class=""> PER HOUR RATE</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$150 </b></h6>
+                        <h6><b>$125 </b></h6>
                         <p>/ HOUR <sub>*Minimum 2 Hr Service</sub></p>
                         <p class=''> </p>
                     </span>
