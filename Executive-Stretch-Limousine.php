@@ -51,7 +51,7 @@ include ('./header.php');
                         <h5 class="">AIRPORT TRANSFER</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$175</b></h6>
+                        <h6><b>$200</b></h6>
                         <p><sub>*Starting From</sub></p>
                         <p class=''> </p>
                     </span>
