@@ -2,9 +2,9 @@
 include ('./header.php');
 ?>
 <!-- End Header -->
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="container">
-        <div class="row mb-5">
+        <div class="row my-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
             <section class="template-title center mt-5">
                     <h1 class="title has-over">Funeral Limo Services</h1>
@@ -43,13 +43,15 @@ include ('./header.php');
                     reflect on the person you have lost and all that they mean to you. With a limo, you can be yourself
                     and mourn as you see fit. No one will judge and no one will see you upset.
                 </p>
-                <p class="text-justify mb-5">
+                <p class="text-justify">
                     For more information about our limo service, please contact us today. The number to call to speak to
                     someone from our office is <a class="Highlight" href="tel:+437-800-1547">437-800-1547</a> When you call, we can provide you with a free
                     consultation to go over the details of the job. And we can go over the pricing options available. We
                     look forward to helping you through this difficult time.
                 </p>
-                <a class="booking-btn " href="">Our Fleet</a>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 px-2  Services-btn">
+                <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>

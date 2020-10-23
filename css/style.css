@@ -2962,7 +2962,15 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 .Services-Heading{
   color: #d9c77e;
+}
 
+.Services-btn{
+  display: flex;
+  justify-content: center;
+}
+
+.Services-btn a {
+  margin: 0px 20px 0px 20px;
 }
 
 .Highlight{
@@ -3064,6 +3072,16 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   
   .Content-Box h2 {
     font-size: 32px;
+  }
+
+
+  .Services-btn{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .Services-btn a {
+    margin: 0;
   }
 
 .menu ul li a {

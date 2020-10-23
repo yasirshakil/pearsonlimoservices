@@ -2,7 +2,7 @@
 include ('./header.php');
 ?>
 
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
@@ -35,8 +35,8 @@ include ('./header.php');
                     </p>
                 </div>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center my-5">
-                <a class="booking-btn " href="">Our Fleet</a>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 px-2 my-5 Services-btn">
+                <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>

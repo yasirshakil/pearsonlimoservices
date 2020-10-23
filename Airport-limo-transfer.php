@@ -1,7 +1,7 @@
 <?php
 include ('./header.php');
 ?>
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
@@ -47,14 +47,17 @@ include ('./header.php');
                     destination. Our Chauffeurs are well aware of the general market and would be more than happy to
                     make suggestions.
                 </p>
-                <p class="text-justify mb-5">
+                <p class="text-justify">
                     <b>City Tours:</b> Airport transfers are city wide with pearson limo. We would pick and drop you to the
                     airport from any city in GTA. Visit areas we serve for more details.
                 </p>
-                <a class="booking-btn " href="">Our Fleet</a>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 px-2 my-5 Services-btn mb-5">
+                <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>
+
     </div>
 </div>
 <div class="scroll-top"></div>

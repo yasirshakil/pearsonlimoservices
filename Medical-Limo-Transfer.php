@@ -1,7 +1,7 @@
 <?php
 include ('./header.php');
 ?>
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
@@ -45,12 +45,14 @@ include ('./header.php');
                     <li>Physical therapy sessions</li>
                     <li>Dialysis treatments</li>
                 </ul>
-                <p class="mb-5 text-left">
+                <p class="text-left">
                     If you have any questions regarding our medical transportation service, Please Email us <a
                         class="Highlight" href="mailto:pearsonlimoervices.ca">info@pearsonlimoervices.ca</a>
                     or call our dispatch for more
                     inquiries <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>
                 </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 px-2 mb-5 Services-btn">
                 <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>

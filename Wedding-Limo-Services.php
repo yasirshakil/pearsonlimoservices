@@ -2,7 +2,7 @@
 include ('./header.php');
 ?>
 <!-- End Header -->
-<div class="container-fluid">
+<div class="container-fluid p-0">
     <div class="container">
         <div class="row mb-5">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
@@ -10,7 +10,7 @@ include ('./header.php');
                     <h1 class="title has-over">Wedding Limo Services</h1>
                     <span>Wedding Limo Services</span>
                     <div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-1 mt-1">
-                        <div class="Borders m-auto co-lg-2 col-md-2 col-sm-6 col-6"></div>
+                        <div class="Borders m-auto co-lg-4 col-md-4 col-sm-6 col-6"></div>
                     </div>
                 </section>
             </div>
@@ -51,8 +51,8 @@ include ('./header.php');
                 <h4 class="mb-5">Call us <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Book us
                     online for wedding packages.</h4>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                <a class="booking-btn " href="">Our Fleet</a>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 px-2 Services-btn">
+                <a class="booking-btn" href="">Our Fleet</a>
                 <a class="booking-btn" href="">Book Now</a>
             </div>
         </div>
