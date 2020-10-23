@@ -147,7 +147,7 @@ include ('./header.php');
 					</p>
 					<div>
 						<div class="LinksBox">
-							<a class="Box-Links" href="">BOOK NOW</a>
+							<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 							<div class="LinkBorder"></div>
 						</div>
 					</div>
@@ -166,7 +166,7 @@ include ('./header.php');
 						need a reliable limo service.
 					</p>
 					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
+						<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 						<div class="LinkBorder"></div>
 					</div>
 				</div>
@@ -185,7 +185,7 @@ include ('./header.php');
 						ride.
 					</p>
 					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
+						<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 						<div class="LinkBorder"></div>
 					</div>
 				</div>
@@ -205,7 +205,7 @@ include ('./header.php');
 							href="tel:437-800-1547">437-800-1547</a> for a limo ride.
 					</p>
 					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
+						<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 						<div class="LinkBorder"></div>
 					</div>
 				</div>
@@ -222,7 +222,7 @@ include ('./header.php');
 						for special Niagara Limo Deals.
 					</p>
 					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
+						<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 						<div class="LinkBorder"></div>
 					</div>
 				</div>
@@ -238,7 +238,7 @@ include ('./header.php');
 						<a class="Highlight" href="tel:437-800-1547">437-800-1547</a> for custom limo solutions.
 					</p>
 					<div class="LinksBox">
-						<a class="Box-Links" href="">BOOK NOW</a>
+						<a class="Box-Links" href="Reservation.php">BOOK NOW</a>
 						<div class="LinkBorder"></div>
 					</div>
 				</div>
