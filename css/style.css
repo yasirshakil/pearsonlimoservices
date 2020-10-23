@@ -3075,15 +3075,6 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   }
 
 
-  .Services-btn{
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .Services-btn a {
-    margin: 0;
-  }
-
 .menu ul li a {
   padding: 10px 10px;
   text-align: left;
@@ -3135,6 +3126,15 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 @media only screen and (min-device-width: 280px) and (max-device-width: 812px) {
   .ReservationBox{
     display: inline-block;
+  }
+
+  .Services-btn{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .Services-btn a {
+    margin: 0;
   }
 
   .left-content .content {
