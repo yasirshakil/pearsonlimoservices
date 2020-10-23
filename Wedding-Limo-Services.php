@@ -43,7 +43,7 @@ include ('./header.php');
                     royalty.
                 </p>
                 <p class="text-justify mb-2">
-                    Pearson lImo services; wedding limo rentals is one of the most loved services, with the best price
+                    Pearson limo services; wedding limo rentals is one of the most loved services, with the best price
                     out there and the superior quality no one can beat. We believe it is not only your event it's our
                     pleasure to be on your side on your big day,
 
