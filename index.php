@@ -903,69 +903,43 @@
 					<div class="items">
 						<div class="content">
 							<img src="images/icon/qteleft.png" class="first" alt="">
-							<p> I have used iChauffeur on a business level for a number of years now and always find
-								them to have high quality vehicles
-								available even at short notice, their drivers are always well turned out and very
-								professional with any potential clients
-								we have with us. The booking and payment process is very easy and I wouldn’t
-								hesitate to recommend
-								iChauffeur to anyone and have done so on many occasions!</p>
+							<p> Our experience was awesome! Our plane was earlier than even the updates showed so we were at baggage claim slightly before the driver arrived but he took our bags to the car for us and provided an excellent smooth ride to our hotel! I would totally recommend it to a friend!</p>
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Ali Tufan</h4>
-							<p class="company">General Manager, Coca Co.</p>
+							<h4 class="name">Alma Patterson ( Gold )</h4>
+							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
 					<div class="items">
 						<div class="content">
 							<img src="images/icon/qteleft.png" class="first" alt="">
-							<p>I have used iChauffeur on a business level for a number of years now and always find
-								them to have high quality vehicles
-								available even at short notice, their drivers are always well turned out and very
-								professional with any potential clients
-								we have with us. The booking and payment process is very easy and I wouldn’t
-								hesitate to recommend
-								iChauffeur to anyone and have done so on many occasions!</p>
+							<p>We used Pearson Limo service to pick up at Toronto Pearson Airport and deliver to a hotel in midtown. Our flight arrived about 20 mins early and our driver was there to meet us for early arrival. Car was clean, driver nice and professional, trip uneventful. Had a different driver returned to Toronto Pearson Airport, again the driver was able to respond to an earlier pickup within 10 mins of request, professional and calm. Car clean. I would use it again. Price comparable to other companies.</p>
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Ali Tufan</h4>
-							<p class="company">General Manager, Coca Co.</p>
+							<h4 class="name">Michael Cooke ( Gold )</h4>
+							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
 					<div class="items">
 						<div class="content">
 							<img src="images/icon/qteleft.png" class="first" alt="">
-							<p>I have used iChauffeur on a business level for a number of years now and always find
-								them to have high quality vehicles
-								available even at short notice, their drivers are always well turned out and very
-								professional with any potential clients
-								we have with us. The booking and payment process is very easy and I wouldn’t
-								hesitate to recommend
-								iChauffeur to anyone and have done so on many occasions!</p>
+							<p>I would highly recommend it! Our driver Malik was so nice. Communication was on spot. We were so pleased with our service; we booked another car to pick up our friends when they arrived in YTZ. Also, some other friends of ours booked as well. It took the stress and hassle out of trying to find a ride into Toronto. The peace of mind was worth it!! Thank you again for superb and friendly service. Will use again!!</p>
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Ali Tufan</h4>
-							<p class="company">General Manager, Coca Co.</p>
+							<h4 class="name">Cherie Brown ( Gold )</h4>
 						</div>
 					</div>
 					<div class="items">
 						<div class="content">
 							<img src="images/icon/qteleft.png" class="first" alt="">
-							<p>I have used iChauffeur on a business level for a number of years now and always find
-								them to have high quality vehicles
-								available even at short notice, their drivers are always well turned out and very
-								professional with any potential clients
-								we have with us. The booking and payment process is very easy and I wouldn’t
-								hesitate to recommend
-								iChauffeur to anyone and have done so on many occasions!</p>
+							<p>We celebrated our wedding last week and the transportation was excellent thanks to Pearson Limo Service. Our 52 guests traveled in a large bus (all of them said it was very comfortable) and we did it in a very nice limo, Hummer. The company gave us a simple but elegant decoration of the vehicle, which my wife and I loved. We really appreciate the punctuality that the drivers had, since it was a very special day for us and we didn't want to be worried about anything. Thanks also to the coordinator Paul who was attentive to our requests all the time.</p>
 							<img src="images/icon/qteright.png" class="last" alt="">
 						</div>
 						<div class="info">
-							<h4 class="name">Ali Tufan</h4>
-							<p class="company">General Manager, Coca Co.</p>
+							<h4 class="name">Amy Adam ( Gold )</h4>
 						</div>
 					</div>
 				</div>

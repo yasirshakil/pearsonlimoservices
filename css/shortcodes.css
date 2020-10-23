@@ -3009,7 +3009,8 @@ hr{
 }
 .testimonial .items .content p{
 	font-size: 16px;
-    line-height: 24px;
+	line-height: 24px;
+	text-align: left;
 	color: white;
 	font-weight: 500;
 	display:inline-block;
@@ -3030,6 +3031,7 @@ hr{
 .testimonial .items .info .name{
 	color: #d9c77e;
 	line-height: 20px;
+	/* margin-left: 46px; */
 }
 .testimonial .items .info .company{
 	color:#fff;
