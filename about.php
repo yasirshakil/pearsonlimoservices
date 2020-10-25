@@ -324,6 +324,8 @@ include ('./header.php');
 						$(".alert-success").slideUp(500);
 						$(".alert-success").remove()
 					});
+            
+					window.open("/welcome.php");1
 				},
 				error: function (xhr, ajaxOptions, thrownError) {
 					alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);

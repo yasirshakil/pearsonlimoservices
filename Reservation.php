@@ -1,13 +1,6 @@
 <?php
 include ('./header.php');
 ?>
-
-
-<!-- Start Header -->
-<!-- End Header -->
-<!-- Start Top Title -->
-<!-- End Top Title -->
-<!-- Start Accordion Area -->
 <section>
   <div class="container mt-5">
     <div class="col-md-12">
@@ -38,8 +31,9 @@ include ('./header.php');
   <dd class="" id="accordion1" aria-hidden="true">
     <div class="container-fluid" style="">
       <!-- <p class="headings">Information</p> -->
-      <form class="main-container my-4">
+      <form class="main-container my-4" action="/functions.php" id="reservation-form">
         <div class="row mb-3">
+          <input type="hidden" name="form_of" value="reservation_form">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
             <Label for="">Pickup time</label>
           </div>
@@ -75,7 +69,6 @@ include ('./header.php');
             <i class="i-icon">i</i>
           </div>
         </div>
-      </form>
     </div>
   </dd>
   <dt>
@@ -86,7 +79,7 @@ include ('./header.php');
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="">
       <!-- <p class="headings">Passengers Details</p> -->
-      <form class="main-container my-4">
+      <div class="main-container my-4">
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
             <label class="" for="">Name</label>
@@ -223,7 +216,7 @@ include ('./header.php');
             <i class="i-icon">i</i>
           </div>
         </div>
-      </form>
+      </div>
     </div>
   </dd>
   <div class="accordion3">
@@ -244,7 +237,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Chryler 300</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -253,7 +246,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Cadillac XTS</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -262,7 +255,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">BMW 75i</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -271,7 +264,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Mercedes S550</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
           </div>
@@ -282,7 +275,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Bentley Flying Spur</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -291,7 +284,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Rolls Royce Phantom</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -300,7 +293,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Chevrolet Suburban</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -309,7 +302,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">GMC Yukon XL</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
           </div>
@@ -320,7 +313,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Cadillac Escalade</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -329,7 +322,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Lincoln MKT Strech </h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -338,7 +331,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Lincoln Navigator</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -347,7 +340,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Hummer Stretch Limousine</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
           </div>
@@ -358,7 +351,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">Mercedes Benz Sprinter</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -367,7 +360,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">20 Passengers Mini bus</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -376,7 +369,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">30 Passengers Mini Bus</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -385,7 +378,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">40 Passengers Limo Bus</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6 col-6 p-2 Select-Cars">
@@ -394,7 +387,7 @@ include ('./header.php');
               </div>
               <div class="reservation-cars-select">
                 <h5 class="mb-1 Reservation-cars-name">48 Passengers Limo Bus</h5>
-                <button>Select Car</button>
+                <button type="button">Select Car</button>
               </div>
             </div>
           </div>
@@ -409,8 +402,8 @@ include ('./header.php');
   <dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
     <div class="container-fluid" style="">
       <!-- <p class="headings">Billing Information</p> -->
-      <form class="main-container my-4">
-        <form class="main-container my-4">
+      <div class="main-container my-4">
+        <div class="main-container my-4">
           <div class="row mb-3">
             <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
               <label class="" for="">Payment Method</label>
@@ -575,11 +568,12 @@ include ('./header.php');
               </div>
             </div>
           </div>
-        </form>
+        </div>
         <div class="button-container">
-          <button class="Contact-Btn mr-5" type="submit">Submit</button>
+          <button class="Contact-Btn mr-5" id="submit" type="submit">Submit</button>
         </div>
       </form>
+      </div>
     </div>
   </dd>
   <!-- end accordion tab 3 -->
@@ -702,39 +696,73 @@ include ('./header.php');
 })
 
 $(document).ready(function() {
-
   $("#Payment-Method").change(function() {
     var creditCard = $("#Payment-Method option:selected").val();
     if (creditCard == "credit-card")
     {
-        $("#credit-card").css("display", "block")
+      $("#credit-card").css("display", "block")
     } else {
-         $("#credit-card").css("display", "none")
-         $("#billing-detail-yes").css("display", "none")
+      $("#credit-card").css("display", "none")
+      $("#billing-detail-yes").css("display", "none")
     }
   });
 
   $("#Billing-Detail").change(function() {
-      var no = $("#Billing-Detail option:selected").val()
+    var no = $("#Billing-Detail option:selected").val()
 
-      if(no == "No")
-      {
-          $("#billing-detail-yes").css("display", "block")
-      }else {
-          $("#billing-detail-yes").css("display", "none")
-      }
+    if(no == "No")
+    {
+      $("#billing-detail-yes").css("display", "block")
+    }else {
+      $("#billing-detail-yes").css("display", "none")
+    }
   });
 
-    $("#Payment-Method").change(function() {
+  $("#Payment-Method").change(function() {
     var account = $("#Payment-Method option:selected").val()
 
     if(account == "Account")
     {
-        $("#account-selected").css("display", "block")
+      $("#account-selected").css("display", "block")
     } else {
-        $("#account-selected").css("display", "none")
+      $("#account-selected").css("display", "none")
     }
-});
+  });
+
+  $("#reservation-form").submit( function(e){
+    e.preventDefault()
+    if( $(this).valid() ) {
+      $(".loader-div").removeClass("d-none").addClass('loader-background')
+      $.ajax({
+            url     : $(this).attr('action'),
+            type    : 'post',
+            dataType: 'json',
+            data    : $('#reservation-form').serialize(),
+            success : function(json) {
+              if(json['status_code'] == 200) {
+                $("#contact-form")[0].reset();
+
+                $("select").each( function(){
+                  $(this).children('option:eq(0)').trigger('change');
+                });
+
+                $('.Form-bg').prepend('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+              }
+              $(".alert-success").fadeTo(2000, 500).slideUp(500, function(){
+                $(".alert-success").slideUp(500);
+                $(".alert-success").remove()
+              });
+              
+              window.open("/welcome.php");
+            },
+            error: function(xhr, ajaxOptions, thrownError) {
+              alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+            }
+          }).done(function() {
+            $(".loader-div").addClass("d-none").removeClass('loader-background')
+          });
+    }
+  })
 });
 
 </script>

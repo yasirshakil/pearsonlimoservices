@@ -125,25 +125,30 @@
 							<a class="Book" href="Reservation.php">Book Now</a>
 						</div>
 						<div id="bk-1" class="schedule-booking">
-							<form class="form-booking px-3" method="get" action="#">
+							<form class="form-booking px-3" id="form-booking" method="get" action="/functions.php">
 								<div class="pick-address">
 									<label>Name</label>
-									<input type="text" name="Name" placeholder=" Name">
+									<input type="text" name="Name" required="" placeholder=" Name">
 								</div>
 								<div class="pick-address">
 									<label>Phone-No</label>
-									<input type="text" name="Contact" placeholder="Contact">
+									<input type="text" name="Contact" required="" placeholder="Contact">
+								</div>
+								<div class="pick-address">
+									<label>Email</label>
+									<input type="email" name="email" required="" placeholder="Email">
 								</div>
 								<div class="pick-dropday">
 									<label>Pickup Address</label>
-									<input type="text" name="pick-up" placeholder="Pickup Address">
+									<input type="text" name="pick-up" required="" placeholder="Pickup Address">
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>
-									<input type="text" name="pick-up" placeholder="Drop off address">
+									<input type="text" name="pick-up" required="" placeholder="Drop off address">
 								</div>
+								<input type="hidden" name="form_of" value="home-get-a-qoute">
 								<div class="btn-submit">
-									<a href="#" class="register_now">Submit<img src="images/icon/arrow-white.png" alt=""></a>
+									<a href="#" class="form-submit-link">Submit<img src="images/icon/arrow-white.png" alt=""></a>
 								</div>
 							</form>
 						</div>
@@ -180,8 +185,7 @@
 									<input type="hidden" id="dtp_input3" value="" /><br />
 								</div>
 								<div class="btn-submit">
-									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png"
-											alt=""></a>
+									<a href="#" class="register_now">Reserve Now<img src="images/icon/arrow-white.png" alt=""></a>
 								</div>
 							</form>
 						</div>
@@ -964,28 +968,31 @@
 	?>
 <!-- End Footer -->
 <script>
-	$("#form-submit-link").click(function (e) {
+	$(".form-submit-link").click(function (e) {
 		e.preventDefault()
-		if ($("#get-a-quote").valid()) {
+		if ($("#form-booking").valid()) {
 			$(".loader-div").removeClass("d-none").addClass('loader-background')
 			$.ajax({
-				url: $("#get-a-quote").attr('action'),
-				type: 'post',
-				data: $('#get-a-quote').serialize(),
-				success: function (json) {
-					if (json['status_code'] == 200) {
-						$("#contact-form")[0].reset();
+				url     : $("#form-booking").attr('action'),
+				type    : 'post',
+				dataType: 'json',
+				data    : $('#form-booking').serialize(),
+				success : function(json) {
+					if(json['status_code'] == 200) {
+					  $("#form-booking")[0].reset();
 
-						$("select").each(function () {
-							$(this).children('option:eq(0)').trigger('change');
-						});
+					  $("select").each( function(){
+					        $(this).children('option:eq(0)').trigger('change');
+					  });
 
-						$('#get-a-quote').before('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+					  $('#form-booking').prepend('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
 					}
-					$(".alert-success").fadeTo(2000, 500).slideUp(500, function () {
-						$(".alert-success").slideUp(500);
-						$(".alert-success").remove()
+					$(".alert-success").fadeTo(2000, 500).slideUp(500, function(){
+					  $(".alert-success").slideUp(500);
+					  $(".alert-success").remove()
 					});
+
+					window.open("/welcome.php");
 				},
 				error: function (xhr, ajaxOptions, thrownError) {
 					alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
@@ -996,7 +1003,7 @@
 		}
 	})
 
-	$("#get-a-quote").validate({
+	$("#form-booking").validate({
 		errorClass: "validate-error"
 	});
 </script>
