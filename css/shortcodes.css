@@ -3395,5 +3395,22 @@ hr{
 	opacity: 0;
 }
 
+.checkIcon{
+	font-size: 100px !important;
+}
+
+.reservationComplete{
+	/* width: 320px;
+    text-align: center;
+    margin: auto; */
+}
+
+.bookTrip{
+	background: #d9c77e;
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 30px;
+}
+
 
 
