@@ -103,7 +103,7 @@ include ('./header.php');
                 </ul>
                 <h3 class="mb-2"><b>The Lincoln MKT Limousine comes fully equipped with:</b></h3>
                 <ul class='listPoints '>
-                    <li>Room for Up to 10 Passengers – even standing up! (depending on the size of the passengers)</li>
+                    <li>Room for Up to 14 Passengers – even standing up! (depending on the size of the passengers)</li>
                     <li>Fully Stocked Bar</li>
                     <li>Leather Limo Bench Seating</li>
                     <li>Color Changing Lights</li>
