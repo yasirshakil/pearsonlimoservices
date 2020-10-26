@@ -134,10 +134,10 @@
 									<label>Phone-No</label>
 									<input type="text" name="Contact" required="" placeholder="Contact">
 								</div>
-								<div class="pick-address">
+								<!-- <div class="pick-address">
 									<label>Email</label>
 									<input type="email" name="email" required="" placeholder="Email">
-								</div>
+								</div> -->
 								<div class="pick-dropday">
 									<label>Pickup Address</label>
 									<input type="text" name="pick-up" required="" placeholder="Pickup Address">
