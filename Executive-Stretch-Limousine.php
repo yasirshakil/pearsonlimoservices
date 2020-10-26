@@ -61,7 +61,10 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">Executive Stretch Limousine:</h3>
                 <p class="mb-2">
-                Platinum Rides offer the Lincoln stretch limo has been one of our top-notch collections when it comes to the limo services. Lincoln stretch limousines provide spacious seating of 8 people with 31 feet stretched beauty, making it essentially the best limo to ride for special occasions. LED interior, private bar, spacious seating, leather interior and a majestic exterior makes it a sight to watch. Enjoy the luxury and power of the Lincoln Stretch limo with Platinum rides.  A private LED light show, a privacy divider and capacity to have an in-house party Lincoln stretch limo is one of our top most booked limos when it comes to travel parties and casino rides. Feel like a star by booking the Rockstar of Limo world through platinum rides Lincoln limo service.                </p>
+                    LINCOLN MKT STRETCH LIMOUSINE is one of the luxury limos that you can’t help but to stop and stare
+                    at! With a beautiful front and sleek back, to the stunning white complexion–it stops you in your tracks.
+                    Fitting 10 passengers and a good time!
+                </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
                 <h5 class="ml-2">Executive Stretch Limousine Details</h5>
@@ -81,40 +84,61 @@ include ('./header.php');
                 </p>
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
-                <p>
-                We will offer you the most appropriate package according to your desires. After the payment, the deal will be done from both sides. Then, we will inform you officially that your request has been accommodated.
-                </p>
-                <hr>
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-2">
-                <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 ">
+                <ul class='listPoints mb-5'>
+                    <p class="mb-2">
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
+                </ul>
+                <h3 class="mb-2"><b>The Lincoln MKT Limousine comes fully equipped with:</b></h3>
+                <ul class='listPoints mb-5'>
+                    <li>Room for Up to 10 Passengers – even standing up! (depending on the size of the passengers)</li>
+                    <li>Fully Stocked Bar</li>
+                    <li>Leather Limo Bench Seating</li>
+                    <li>Color Changing Lights</li>
+                    <li>Flat-Screen TVs</li>
+                    <li>Laser Lights</li>
+                    <li>Multiple USB Charger Outlets</li>
+                    <li>Bluetooth Stereo (sync your own playlist wirelessly!)</li>
+                    <li>CD/DVD player</li>
+                    <li>Beverage Bar with glasses and ice (feel free to bring your own beverages)</li>
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                     <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
-                    <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
-                    <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
-                    <li>Meet and greet at an airport for only 49.00</li>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
                 </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <hr>
-                <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
                     car, or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Tollfree <a
                         class="Highlight" href="tel:888-900-3001">888-900-3001</a>

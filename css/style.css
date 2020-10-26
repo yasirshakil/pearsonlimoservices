@@ -249,6 +249,18 @@ input[type="submit"] {
   transition: all 0.3s ease-in-out;
 } */
 
+.bold{
+  font-weight: 600;
+}
+
+.listPoints{
+  list-style: disc;
+}
+
+.listPoints li {
+  margin: 0 18px;
+}
+
 .Contact-Btn{
   position: relative;
   height: 50px;

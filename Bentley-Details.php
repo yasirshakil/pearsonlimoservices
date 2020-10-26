@@ -61,14 +61,16 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">Bentley Flying Spur:</h3>
                 <p class="mb-2">
-                    For years, the Lincoln Town Car has dictated the standards of the limousine market. Style, class,
-                    and comfort are the three qualities of Lincoln town car limousine. This limousine is the perfect and
-                    luxurious transport service with a modern and elegant stretch for any occasion. <br>
-                    This limousine is able to accommodate 4 passengers. It is a real star limousine with colored lights
-                    and soft interiors which make it perfect for any evening particularly different from the usual
-                    routine. <br>
-                    Whatever your special event or requirement, you can trust Platinum Rides to provide the finest
-                    Lincoln Town Car and the most professional chauffeurs available anywhere in Toronto.
+                    Pearson Limo Service offer high style and elegance our new state of the art Bentley Flying Spur
+                    limousines is the perfect choice. The most distinguished of client know the true luxury that comes
+                    with the Bentley name. Bentley Flying Spur Limo is the ultimate in luxury and convenience. When
+                    introduced, it literally reset standards for automotive luxury, design, and craftsmanship. Bentley Flying
+                    Spur Limo sedan comfortable seat about 2 to 4 passengers’ maximum. These elegant limos are at your
+                    service for any occasion, from weddings to proms to sporting events to nights out, airport, or simply
+                    for a more memorable ride. The attraction and appeal of a Bentley Flying Spur seems endless; a
+                    vehicle akin to a state-of-the-art sanctuary, ideal for royalty, heads of state, diplomats, corporate
+                    executives, and entertainers who deem privacy and comfort top priorities. Plush all-leather seating,
+                    deep fully-tinted rear compartment windows.
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail my-4 p-5">
@@ -89,21 +91,77 @@ include ('./header.php');
                 </p>
                 <a class="Box-Links ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <p class="bold mb-2 text-justify">
+                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
+                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
+                    and location, and reservations can be made easily and quickly! Our system is up to date and you
+                    have the opportunity to book online or with a representative.
+                </p>
+                <p>
+                   <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
+                    Please specify your needs when you make your reservation.
+                </p>
+                <hr>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
+                <ul class='listPoints'>
+                    <p>
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
+                </ul>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <p class="mb-2 text-justify">Pearson Limo fleet are daily inspected and maintained for your safety and comfort in mind. Please
+                    call any time to set up an appointment or place your airport transportation request online on the
+                    reservation page.
+                </p>
+                    <hr>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
+                </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
+                <h3 class="mb-2"><b>SPECIAL OFFERS</b></h3>
+                <ul class="listPoints">
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>There will be free 1 hour waiting charges for airport pickups.</li>
                     <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
                     <li>Meet and greet at an airport for only 49.00</li>
                 </ul>
                 <hr>
                 <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
-                    car, or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a>or Tollfree <a
-                        class="Highlight" href="tel:888-900-3001">888-900-3001</a>
+                    car, or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Tollfree <a
+                    class="Highlight" href="tel:888-900-3001">888-900-3001</a>
                 </p>
             </div>
         </div>

@@ -61,18 +61,14 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">Chrysler 300:</h3>
                 <p class="mb-2">
-                    Chrysler 300 Stretch Limo is an ultra-modern and sleek addition to the Pearson Limo
-                    fleet. This unique retro design is reminiscent and exceptional. The Chrysler 300 limo is very
-                    impressive, spacious and elegant. With its interior and amenities,
-                    this Chrysler Limo will turn heads. It was created amazingly and the result definitely impresses
-                    everyone. It is affordable and will suit all your needs. It represents the pinnacle of style and
-                    elegance. You cannot go wrong with choosing
-                    this massive fleet limo to get you to your big event.
-                    <hr> Pearson Limo is proud to offer this new exotic limousine for the price of a traditional
-                    stretch limo. The Chrysler 300 is the perfect wedding vehicln when choosing one of our modern SUV
-                    limousines or when you want to stand out from
-                    the crowd. Allow Pearson Limo of Greater Toronto provide you with first class service on your
-                    special day, special event or prom!
+                    Pearson Limo Service offers luxury sedan car and is able to fit 3-4 passengers, with modest luggage,
+                    comfortable. Chrysler 300 limo can be used for business and corporate events, wedding transfers and
+                    airport transportation but can be used for need necessary. From airport transportation to all major
+                    public and private airports. anniversaries and weddings, birthdays and bachelors, night on the town or
+                    simply sight seeing tours. Each driver is fully screened, trained, licensed and dressed. Each vehicle is
+                    inspected, cleaned and properly serviced to ensure the utmost safety for our passengers. Rates can vary
+                    from date, time and location, and reservations can be made easily and quickly! Our system is up to date
+                    and you have the opportunity to book online or with a representative.
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
@@ -94,45 +90,69 @@ include ('./header.php');
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <!-- <p class="bold mb-2 text-justify">
+                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
+                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
+                    and location, and reservations can be made easily and quickly! Our system is up to date and you
+                    have the opportunity to book online or with a representative.
+                </p> -->
                 <p>
-                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
-                    in mind. Please call any time to set up an appointment or place your airport transportation request
-                    online on the reservation page.
+                   <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
+                    Please specify your needs when you make your reservation.
                 </p>
                 <hr>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-5">
-                <p>Airport transportation for departures and arrivals.<br> Corporate meetings and events transportation
-                    services.<br> Comfortable, safe, convenient limousine services.<br> Door to Door transportation
-                    Services.
-                </p>
-                <hr>
-                <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
+                <ul class='listPoints'>
+                    <p>
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the payment, the deal
-                    will be done from both sides. Then, we will inform you officially that your request has been
-                    accommodated.</p>
+                <p class="mb-2 text-justify">Pearson Limo fleet are daily inspected and maintained for your safety and comfort in mind. Please
+                    call any time to set up an appointment or place your airport transportation request online on the
+                    reservation page.
+                </p>
                     <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
+                </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <hr>
+                <h3 class="mb-2"><b>SPECIAL OFFERS</b></h3>
+                <ul class="listPoints">
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>There will be free 1 hour waiting charges for airport pickups.</li>
                     <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
                     <li>Meet and greet at an airport for only 49.00</li>
                 </ul>
                 <hr>

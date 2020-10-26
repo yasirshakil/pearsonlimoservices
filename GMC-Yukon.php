@@ -61,8 +61,14 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">GMC Yukon XL:</h3>
                 <p class="mb-2">
-                Are you thinking of renting a GMC Yukon XL Limousine? If so, Platinum Rides has the largest selection of GMC Yukon XL in Greater Toronto. One of the most popular limos, the GMC Yukon XL is a real filibuster. When you see this ride arriving, you know that someone special is inside. Escalade limos can seat anywhere from 5-6 people depending on the stretch. It has more room than a normal limousine and it also allows your guests to have a much more comfortable:<br>
-                Whether you are looking to party with the boys or girls for that one last time or want to arrive in style to that prom? Platinum Rides GMC Yukon XL will help you make a grand entrance to that special event.
+                    Pearson Limo Service offers luxury SUV and is able to fit 6-7 passengers, with modest luggage,
+                    comfortable. GMC Yukon limo service can be used for business and corporate events, wedding limo
+                    rentals and airport limo transfer but can be used for need necessary. From airport transportation to all
+                    major public and private airports. anniversaries and weddings, birthdays and bachelors, night on the
+                    town or simply sight seeing tours. Each driver is fully screened, trained, licensed and dressed. Each
+                    vehicle is inspected, cleaned and properly serviced to ensure the utmost safety for our passengers.
+                    Rates can vary from date, time and location, and reservations can be made easily and quickly! Our
+                    system is up to date and you have the opportunity to book online or with a representative.                
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
@@ -85,21 +91,69 @@ include ('./header.php');
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <!-- <p class="bold mb-2 text-justify">
+                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
+                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
+                    and location, and reservations can be made easily and quickly! Our system is up to date and you
+                    have the opportunity to book online or with a representative.
+                </p> -->
                 <p>
-                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
-                    in mind. Please call any time to set up an appointment or place your airport transportation request
-                    online on the reservation page.
+                   <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
+                    Please specify your needs when you make your reservation.
                 </p>
                 <hr>
             </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
+                <ul class='listPoints'>
+                    <p>
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
+                </ul>
+            </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
+                <p class="mb-2 text-justify">Pearson Limo fleet are daily inspected and maintained for your safety and comfort in mind. Please
+                    call any time to set up an appointment or place your airport transportation request online on the
+                    reservation page.
+                </p>
+                    <hr>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
+                </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <hr>
+                <h3 class="mb-2"><b>SPECIAL OFFERS</b></h3>
+                <ul class="listPoints">
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>There will be free 1 hour waiting charges for airport pickups.</li>
                     <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
                     <li>Meet and greet at an airport for only 49.00</li>
                 </ul>
                 <hr>

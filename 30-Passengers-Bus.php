@@ -61,15 +61,17 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">30 Passengers Bus:</h3>
                 <p class="mb-2">
-                    Platinum Rides offers Limo Buses cater to your group transportation needs with luxury and comfort.
-                    Our Party Buses contain an audio-visual system consisting of an AM/FM Stereo, multi-disk CD player,
-                    video cassette player, two televisions and an integrated PA system.
+                    Pearson Limo Service offers 30 Passengers Limo Party Bus is brand new and a perfect fit for
+                    Birthday Parties (Sweet Sixteens and Quinceañera), Proms, Bachelor and Bachelorette
+                    Parties, and trips to Toronto, Niagara Falls, Blue Mountains (or simply nights on the town).
+                    Comes equipped with plenty of room for dancing (even includes a dancing pole!), a full
+                    featured entertainment system, WIFI, bar equipment and complementary refreshments,
+                    leather seats and couch-style seating for a wonderfully comfortable environment for your
+                    party.
                     <hr>
-                    For groups up to 36 passengers no other vehicle can compare to its luxury and comfort. Each of the
-                    touring windows has a special black cloth shade in additional to the privacy glass. An aerodynamic
-                    passenger door is used to reduce street noise. Additional amenities include a privacy curtain
-                    separating the chauffeur and passenger compartments, interior neon accent lighting, ice and glass
-                    compartments, dual thermos dispensers and wraparound leather seats.
+                    We offer unlimited pickups/drop-offs during your session, and also offer overnight service
+                    for trips to AC or other destinations.  We are happy to work with you to get you exactly
+                    the experience you want.
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
@@ -91,43 +93,57 @@ include ('./header.php');
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <p class="bold mb-2 text-justify">
+                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
+                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
+                    and location, and reservations can be made easily and quickly! Our system is up to date and you
+                    have the opportunity to book online or with a representative.
+                </p>
                 <p>
+                   <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
+                    Please specify your needs when you make your reservation.
+                </p>
+                <hr>
+                <h3 class="mb-2"><b>The Minibus Limousine comes fully equipped with:</b></h3>
+                <ul class="listPoints mb-2">
+                    <li>Room for Up to 20 Passengers – even standing up! (depending on the size of the passengers)</li>
+                    <li>Fully Stocked Bar</li>
+                    <li>Leather Limo Bench Seating</li>
+                    <li>Color Changing Lights</li>
+                    <li>Flat-Screen TVs</li>
+                    <li>Laser Lights</li>
+                    <li>Multiple USB Charger Outlets</li>
+                    <li>Bluetooth Stereo (sync your own playlist wirelessly!)</li>
+                    <li>CD/DVD player</li>
+                    <li>Beverage Bar with glasses and ice (feel free to bring your own beverages)</li>
+                </ul>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <p class="mb-2 text-justify">Pearson Limo fleet are daily inspected and maintained for your safety and comfort in mind. Please
+                    call any time to set up an appointment or place your airport transportation request online on the
+                    reservation page.
+                </p>
+                    <hr>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
+                </ul>
+                <p class="mb-2">
                     We will offer you the most appropriate package according to your desires. After the payment, the
                     deal will be done from both sides. Then, we will inform you officially that your request has been
                     accommodated.
                 </p>
-                <hr>
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-2">
-                <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
-                </ul>
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the
-                    payment, the deal
-                    will be done from both sides. Then, we will inform you officially that your request has been
-                    accommodated.</p>
-                <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
-                    <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
-                    <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
-                    <li>Meet and greet at an airport for only 49.00</li>
-                </ul>
                 <hr>
                 <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired

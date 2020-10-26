@@ -61,8 +61,12 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">Mercedes Benz Sprinter:</h3>
                 <p class="mb-2">
-                Platinum Rides offers the safest and durable limo ride, for your light traveling and small group moment needs. Mercedes Benz Sprinter is now a part of our limo fleet. The vehicle features safety and luxury at the same time. It is an upscale vehicle with a high-end touch to it, customized to a mini party bus for limo riders. A capacity of 10-14 people, make your out of town trips more luxurious with Mercedes Benz sprinter. Planning a small get together or an escape to the wild with your family. Planning a small bachelor or weeding party. Mercedes Benz Sprinter is a perfect limo choice. Luxurious interior, extraordinary space and luggage capacity and unbeatable safety features, this vehicle can provide with the touch of luxury,<br>
-
+                    <b>Pearson Limo Service offers Mercedes Benz Sprinter Limo</b> is the perfect blend of size and style.
+                    It has all of the elegance and fun features you’d find in traditional stretch limousine but it’s shorter
+                    than a party bus – making it just right for your party and your budget. The Mercedes Sprinter Van is
+                    great for every occasion and the perfect fit for groups like large wedding parties, small bachelorette
+                    parties, or the squad of friends going to prom and winter formal. And, the vehicle’s body type gives
+                    the Sprinter Limo Bus a few unique features that other limo rentals just don’t offer.
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
@@ -83,41 +87,73 @@ include ('./header.php');
                 </p>
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
-                <p>
-                We will offer you the most appropriate package according to your desires. After the payment, the deal will be done from both sides. Then, we will inform you officially that your request has been accommodated.
-                </p>
-                <hr>
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-2">
-            <ul>
-                <li>Up to 14 Passengers</li>
-                <li>Black Leather Interior</li>
-                <li>Complimentary Bottled Water</li>
-                <li>Satellite GPS Vehicle Tracking</li>
-                <li>Tinted privacy windows</li>
-                <li>All wheel drive, fit for any weather conditions</li>
-                <li>-2 large flat-screen TVs</li>
-                <li>-4 USB plug-ins &amp; Phone Chargers</li>
-                <li>-Perimeter seating, reclining seats</li>
-                <li>Very comfortable for meetings and corporate travel</li>
-            </ul>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 ">
+                <ul class='listPoints mb-5'>
+                    <li>Room for Up to 12 Passengers – even standing up! (depending on the size of the</li>
+                    <li>passengers)</li>
+                    <li>Leather Limo Bench Seating</li>
+                    <li>Color Changing Lights</li>
+                    <li>Flat-Screen TVs</li>
+                    <li>Laser Lights</li>
+                    <li>Multiple USB Charger Outlets</li>
+                    <li>Bluetooth Stereo (sync your own playlist wirelessly!)</li>
+                    <li>CD/DVD player</li>
+                    <li>Beverage Bar with glasses and ice (feel free to bring your own beverages)</li>
+                </ul>
+                <!-- <ul class='listPoints mb-5'>
+                    <p class="mb-2">
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
+                </ul> -->
+                <!-- <h3 class="mb-2"><b>The Lincoln MKT Limousine comes fully equipped with:</b></h3>
+                <ul class='listPoints mb-5'>
+                    <li>Room for Up to 10 Passengers – even standing up! (depending on the size of the passengers)</li>
+                    <li>Fully Stocked Bar</li>
+                    <li>Leather Limo Bench Seating</li>
+                    <li>Color Changing Lights</li>
+                    <li>Flat-Screen TVs</li>
+                    <li>Laser Lights</li>
+                    <li>Multiple USB Charger Outlets</li>
+                    <li>Bluetooth Stereo (sync your own playlist wirelessly!)</li>
+                    <li>CD/DVD player</li>
+                    <li>Beverage Bar with glasses and ice (feel free to bring your own beverages)</li>
+                </ul> -->
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <!-- <p class="mb-2">We will offer you the most appropriate package according to your desires. After the payment, the deal
-                    will be done from both sides. Then, we will inform you officially that your request has been
-                    accommodated.</p> -->
                     <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
-                    <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
-                    <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
-                    <li>Meet and greet at an airport for only 49.00</li>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
                 </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <hr>
-                <p>
                     Don’t waste your time in searching of useless sites, go on Book now, and reserve your desired
                     car, or Call us at <a class="Highlight" href="tel:437-800-1547">437-800-1547</a> or Tollfree <a
                         class="Highlight" href="tel:888-900-3001">888-900-3001</a>

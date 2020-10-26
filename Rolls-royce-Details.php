@@ -58,10 +58,21 @@ include ('./header.php');
                     <hr>
                 </div>
             </div>
-            <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
+            <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                 <h3 class="mb-2 limoColor">Rolls Royce Phantom:</h3>
-                <p class="mb-2">
-                King of Sedans, the luxurious Rolls Royce Phantom VIII edition has been recently added to the limo fleet collection of Platinum rides. The ultra luxurious Royal Royce Phantom is the most comfortable and stretched design when it comes to luxury sedans. Time seems to slow down when you are riding a Phantom, so let our professional chaffers drive you to your destination while you lean back and relax in the custom designed pure and soft leather seats and wool carpets. This amazing vehicle and its built makes your ride exclusive and out of this world.  A luxury world of your own inside one of the most expensive sedans out there. The trade mark long hatch front and glossy outdoor finish this sedan is custom built for the riders of Platinum rides:
+                <p class="mb-2 text-justify">
+                    Pearson Limo Service offers Rolls Royce Phantom is the epitome of timeless luxury,
+                    embodying power and regal style on the road, you get the finest contemporary luxury
+                    limousine available today. The VIP Edition Rolls Royce Phantom is reassessing what it
+                    means to travel in privacy, comfort and style. For a luxury vehicle with the most impressive
+                    engine performance and quiet power on the road, the VIP Edition Rolls Royce cannot be
+                    matched. The rear-wheel drive eight-speed automatic Phantom is powered by a 6.8 Liter V-
+                    12, producing 563 horsepower and also boasts of a segment-leading fuel economy due to
+                    modern tech direct injection and variable valve and camshaft control. The attraction and
+                    appeal of a Rolls Royce seems endless; a vehicle akin to a state-of-the-art sanctuary, ideal
+                    for royalty, heads of state, diplomats, corporate executives, and entertainers who deem
+                    privacy and comfort top priorities. Plush all-leather seating, deep fully-tinted rear
+                    compartment windows.
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail p-5 my-4">
@@ -83,40 +94,69 @@ include ('./header.php');
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <p class="bold mb-2 text-justify">
+                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
+                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
+                    and location, and reservations can be made easily and quickly! Our system is up to date and you
+                    have the opportunity to book online or with a representative.
+                </p>
                 <p>
-                    Pearson Limo fleets also are daily inspected and maintained for your safety and comfort
-                    in mind. Please call any time to set up an appointment or place your airport transportation request
-                    online on the reservation page.
+                   <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
+                    Please specify your needs when you make your reservation.
                 </p>
                 <hr>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
-                <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+                <ul class='listPoints'>
+                    <p>
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the payment, the deal
-                    will be done from both sides. Then, we will inform you officially that your request has been
-                    accommodated.</p>
+                <p class="mb-2 text-justify">Pearson Limo fleet are daily inspected and maintained for your safety and comfort in mind. Please
+                    call any time to set up an appointment or place your airport transportation request online on the
+                    reservation page.
+                </p>
                     <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
+                </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <hr>
+                <h3 class="mb-2"><b>SPECIAL OFFERS</b></h3>
+                <ul class="listPoints">
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>There will be free 1 hour waiting charges for airport pickups.</li>
                     <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
                     <li>Meet and greet at an airport for only 49.00</li>
                 </ul>
                 <hr>

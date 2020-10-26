@@ -60,14 +60,20 @@ include ('./header.php');
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 py-4 pr-5">
                 <h3 class="mb-2 limoColor">BMW 750I:</h3>
                 <p class="mb-2">
-                    A luxurious experience you would always remember. Our limo fleet now includes the latest 2020 BMW 7
-                    Series 750i. A powerful machine, with amazing tech and dazzling features. BMW 750i is all about
-                    power, style, cutting edge technology, floating air control and simply luxurious. BMW 750i is the
-                    latest edition to our limo fleet. It’s available for booking. Give us a call to enjoy the luxurious
-                    ride of this perfect combination of beauty and the beast. The quilted Merino leathers interior with
-                    massaging chairs and amazing audio systems, this stretched beauty is far superior than any of its
-                    predecessors. BMW 750i is a perfect example of a luxury limo ride you want to book. Key features of
-                    this amazing vehicle include:
+                    Pearson Limo Service offers executive style sedan BMW 750i and is able to fit 3-4 passengers,
+                    with modest luggage, comfortable A luxurious experience you would always remember. Our
+                    limo fleet now includes the latest 2020 BMW 7 Series 750i. A powerful machine, with amazing
+                    tech and dazzling features. BMW 750i is all about power, style, cutting edge technology,
+                    floating air control and simply luxurious. BMW 750i is the latest edition to our limo fleet. It’s
+                    available for booking. Give us a call to enjoy the luxurious ride of this perfect combination of
+                    beauty and the beast. Pearson Limo offers a variety of modern customizations, including fine
+                    all-leather seating, an upgraded climate control package, additional electric ports, vanity
+                    mirrors, well-placed overhead LED reading lamps, dual embedded LCD screens. All added
+                    materials are customized to preserve and match the original BMW interior and exterior finish.
+                    Limo Service can be used for business and corporate events, wedding limo rentals and airport
+                    limo transfer but can be used for need necessary. From airport transportation to all major
+                    public and private airports. anniversaries and weddings, birthdays and bachelors, night on the
+                    town or simply sight seeing tours. Each driver is fully screened, trained, licensed and dressed.
                 </p>
             </div>
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 Cars-Detail my-4 p-5">
@@ -89,34 +95,70 @@ include ('./header.php');
                 </p>
                 <a class="Box-Links ml-2 m-3" href=""> Make Reservation</a>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
+                <p class="bold mb-2 text-justify">
+                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
+                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
+                    and location, and reservations can be made easily and quickly! Our system is up to date and you
+                    have the opportunity to book online or with a representative.
+                </p>
+                <p>
+                   <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
+                    Please specify your needs when you make your reservation.
+                </p>
                 <hr>
-                <ul>
-                    <li>Up to 4 Passengers</li>
-                    <li>Black Leather Interior</li>
-                    <li>Heated Seats</li>
-                    <li>XM Sirius Radio, AUX, DVD Player</li>
-                    <li>iPhone/android Charger</li>
-                    <li>Complimentary Bottled Water</li>
-                    <li>Satellite GPS Vehicle Tracking</li>
-                    <li>Electrical Outlet for laptops</li>
-                    <li>Rear or Dual Climate Controls</li>
-                    <li>Tinted privacy windows</li>
-                    <li>All wheel drive, fit for any weather conditions</li>
-                    <li>Daily Newspapers and Magazines</li>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12 mb-5">
+                <ul class='listPoints'>
+                    <p>
+                        <b>
+                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
+                            including:
+                        </b>
+                    </p>
+                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
+                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
+                    <li><b>YZD:</b> Downsview Airport</li>
+                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
+                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
+                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
+                    <li><b>IAG:</b> Niagara Falls International Airport</li>
                 </ul>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <p class="mb-2">We will offer you the most appropriate package according to your desires. After the
-                    payment, the deal will be done from both sides. Then, we will inform you officially that your
-                    request has been accommodated</p>
+                <p class="mb-2 text-justify">Pearson Limo fleet are daily inspected and maintained for your safety and comfort in mind. Please
+                    call any time to set up an appointment or place your airport transportation request online on the
+                    reservation page.
+                </p>
+                    <hr>
+                <h3 class="mb-2"><b>Services Offered in this Vehicle</b></h3>
+                <ul class="listPoints mb-5">
+                    <li>Airport Limo Service</li>
+                    <li>Corporate Limo Transfer</li>
+                    <li>Point to point service</li>
+                    <li>Dedicated chauffeur service</li>
+                    <li>Night life service</li>
+                    <li>Birthday parties</li>
+                    <li>Proms</li>
+                    <li>Casino trips</li>
+                    <li>Scenic tours</li>
+                    <li>Winery tours</li>
+                    <li>Sport events</li>
+                    <li>and more...</li>
+                </ul>
+                <p class="mb-2">
+                    We will offer you the most appropriate package according to your desires. After the payment, the
+                    deal will be done from both sides. Then, we will inform you officially that your request has been
+                    accommodated.
+                </p>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <hr>
-                <h3 class="mb-2">SPECIAL OFFERS</h3>
-                <ul>
+                <h3 class="mb-2"><b>SPECIAL OFFERS</b></h3>
+                <ul class="listPoints">
                     <li>We offer free stop of 10 minutes on the way to or from Airport.</li>
-                    <li>There will be no waiting charges for airport pickups.</li>
+                    <li>There will be free 1 hour waiting charges for airport pickups.</li>
                     <li>Wake Up Calls</li>
-                    <li>Coffee & News Paper</li>
                     <li>Meet and greet at an airport for only 49.00</li>
                 </ul>
                 <hr>
