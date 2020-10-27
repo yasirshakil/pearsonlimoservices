@@ -1,7 +1,7 @@
 <!-- Header -->
 <?php
-		include ('./header.php');
-	?>
+	include ('./header.php');
+?>
 <!-- End Header -->
 <div class="layout-theme">
 	<!-- End Copyright -->
@@ -991,8 +991,6 @@
 					  $(".alert-success").slideUp(500);
 					  $(".alert-success").remove()
 					});
-
-					window.open("/welcome.php");
 				},
 				error: function (xhr, ajaxOptions, thrownError) {
 					alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);

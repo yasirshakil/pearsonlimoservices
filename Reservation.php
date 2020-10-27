@@ -740,7 +740,7 @@ $(document).ready(function() {
             data    : $('#reservation-form').serialize(),
             success : function(json) {
               if(json['status_code'] == 200) {
-                $("#contact-form")[0].reset();
+                $("#reservation-form")[0].reset();
 
                 $("select").each( function(){
                   $(this).children('option:eq(0)').trigger('change');
@@ -753,7 +753,7 @@ $(document).ready(function() {
                 $(".alert-success").remove()
               });
               
-              window.open("/welcome.php");
+              window.open("/welcome.php?reg_num="+json['reg_num']);
             },
             error: function(xhr, ajaxOptions, thrownError) {
               alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);

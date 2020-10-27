@@ -16,10 +16,10 @@
 				$to = $email;
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
-				$message .= '<p style="color:#080;font-size:18px;">Will you marry me?</p>';
+				$message .= '<h1 style="color:#f40;">'.ucfirst($name).'</h1>';
+				$message .= '<p style="color:#080;font-size:18px;">Thank you for your response.</p>';
 				$message .= '</body></html>';
-				$headers = "From: info@pearsonlimoservice.ca";
+				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 			    
@@ -27,10 +27,9 @@
 				$to = 'info@pearsonlimoservice.ca';
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
-				$message .= '<p style="color:#080;font-size:18px;">Query</p>';
+				$message .= '<p style="color:#080;font-size:18px;">Contact form</p>';
 				$message .= '</body></html>';
-				$headers = "From: ".$email;
+				$headers = "From: ".$email."\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 
@@ -62,10 +61,10 @@
 				$to = $email;
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
-				$message .= '<p style="color:#080;font-size:18px;">Will you marry me?</p>';
+				$message .= '<h1 style="color:#f40;">'.ucfirst($name).'</h1>';
+				$message .= '<p style="color:#080;font-size:18px;">Thank you for contacting us. We will back to you soon</p>';
 				$message .= '</body></html>';
-				$headers = "From: info@pearsonlimoservice.ca";
+				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 			    
@@ -73,10 +72,9 @@
 				$to = 'info@pearsonlimoservice.ca';
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
 				$message .= '<p style="color:#080;font-size:18px;">Get a Qoute</p>';
 				$message .= '</body></html>';
-				$headers = "From: ".$email;
+				$headers = "From: ".$email."\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 
@@ -91,6 +89,8 @@
 	} else if (isset($_POST['form_of']) && $_POST['form_of'] == 'reservation_form') {
 		$input = $_POST;
 		$email = $_POST['Drop-Your-Email'];
+		$reg_num = (rand(10,100000));
+  		$reg_num = str_pad($reg_num,6,0,STR_PAD_LEFT);
 		if (false) 
 		{
 			echo json_encode([
@@ -102,10 +102,11 @@
 				$to = $email;
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
-				$message .= '<p style="color:#080;font-size:18px;">Will you marry me?</p>';
+				$message .= '<h1 style="color:#f40;">'.$_POST['Drop-Your-Name'].'</h1>';
+				$message .= '<p style="color:#080;font-size:18px;">Thank you for your reservation.</p>';
+				$message .= '<p style="color:#080;font-size:18px;">Here is your registration number.'.$reg_num.'</p>';
 				$message .= '</body></html>';
-				$headers = "From: info@pearsonlimoservice.ca";
+				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 			    
@@ -113,16 +114,16 @@
 				$to = 'info@pearsonlimoservice.ca';
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
 				$message .= '<p style="color:#080;font-size:18px;">Reservation Form</p>';
 				$message .= '</body></html>';
-				$headers = "From: ".$email;
+				$headers = "From: ".$email."\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 
 				echo json_encode([
 			    	'status_code' => 200,
-			    	'message' => 'Thank you for your response'
+			    	'message' => 'Thank you for your response',
+			    	'reg_num' => $reg_num
 			    ]);
 			} catch (Exception $e) {
 			    echo "Message could not be sent. Mailer Error: $e->getMessage()";
@@ -142,10 +143,11 @@
 				$to = $email;
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
-				$message .= '<p style="color:#080;font-size:18px;">Will you marry me?</p>';
+				$message .= '<h1 style="color:#f40;">'.$_POST['Name'].'</h1>';
+				$message .= '<p style="color:#080;font-size:18px;">Thank you for contact us.</p>';
+				$message .= '<p style="color:#080;font-size:18px;">We will back to you soon.</p>';
 				$message .= '</body></html>';
-				$headers = "From: info@pearsonlimoservice.ca";
+				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 			    
@@ -153,10 +155,9 @@
 				$to = 'info@pearsonlimoservice.ca';
 				$subject = "Here is the subject";				
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">Hi Jane!</h1>';
 				$message .= '<p style="color:#080;font-size:18px;">Get a Qoute Form</p>';
 				$message .= '</body></html>';
-				$headers = "From: ".$email;
+				$headers = "From: ".$email."\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
 
