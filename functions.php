@@ -104,7 +104,7 @@
 				$message = '<html><body>';
 				$message .= '<h1 style="color:#f40;">'.$_POST['Drop-Your-Name'].'</h1>';
 				$message .= '<p style="color:#080;font-size:18px;">Thank you for your reservation.</p>';
-				$message .= '<p style="color:#080;font-size:18px;">Here is your registration number.'.$reg_num.'</p>';
+				$message .= '<p style="color:#080;font-size:18px;">Here is your registration number '.$reg_num.'</p>';
 				$message .= '</body></html>';
 				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
