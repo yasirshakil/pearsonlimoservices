@@ -27,7 +27,7 @@ include ('./header.php');
                         <h5 class=""> PER HOUR RATE</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$1950 </b></h6>
+                        <h6><b>Call For Quote </b></h6>
                         <p>/ HOUR <sub>*Minimum 2 Hr Service</sub></p>
                         <p class=''> </p>
                     </span>
@@ -39,7 +39,7 @@ include ('./header.php');
                         <h5 class=""> PER DAY RATE</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$1300 </b></h6>
+                        <h6><b>Call For Quote </b></h6>
                         <p>/ DAY <sub>*12 Hour Service</sub></p>
                         <p class=''> </p>
                     </span>
@@ -51,7 +51,7 @@ include ('./header.php');
                         <h5 class="">AIRPORT TRANSFER</h5>
                     </span>
                     <span class="rates-heading2">
-                        <h6><b>$300</b></h6>
+                        <h6><b>Call For Quote</b></h6>
                         <p><sub>*Starting From</sub></p>
                         <p class=''> </p>
                     </span>
