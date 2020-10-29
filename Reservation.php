@@ -56,7 +56,7 @@ include ('./header.php');
             <label class="" for="">Your Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Your-ocation" id="Your-ocation" class="reservation-form info-field" type="text">
+            <input name="Your-location" id="Your-location" class="reservation-form info-field" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -65,7 +65,7 @@ include ('./header.php');
             <label class="" for="">Drop Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
-            <input name="Pickup Date" id="Pickup Date" class="reservation-form info-field" type="text">
+            <input name="dropLocation" id="dropLocation" class="reservation-form info-field" type="text">
             <i class="i-icon">i</i>
           </div>
         </div>
@@ -752,7 +752,7 @@ $(document).ready(function() {
                 $(".alert-success").slideUp(500);
                 $(".alert-success").remove()
               });
-              
+
               window.open("/welcome.php?reg_num="+json['reg_num']);
             },
             error: function(xhr, ajaxOptions, thrownError) {

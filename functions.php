@@ -208,15 +208,15 @@ EOF;
 		$name        = ucfirst($_POST['name']);
 		$email       = $_POST['email'];
 		$contact     = $_POST['contact'];
-		if ($pickup_date == '' || $pickup_time == '' || $pickup == '' || $dropoff == '' || $name == '' || $email == '' || $contact == '') 
+		if ($pickup_date == '' || $pickup_time == '' || $pickup == '' || $dropoff == '' || $name == '' || $email == '' || $contact == '')
 		{
 			echo json_encode([
 		    	'status_code' => 400,
 		    	'message' => 'All Fields need to be filled.'
 		    ]);
 		} else {
-			try {	    
-				
+			try {
+
 				$to = $email;
 				$subject = "Pearson Limo Service - Get A Qoute.";
 				$template = <<<EOF
@@ -406,32 +406,50 @@ EOF;
 			}
 		}
 	} else if (isset($_POST['form_of']) && $_POST['form_of'] == 'reservation_form') {
-		$input = $_POST;
-		$email = $_POST['Drop-Your-Email'];
-		$reg_num = (rand(10,100000));
-  		$reg_num = str_pad($reg_num,6,0,STR_PAD_LEFT);
-		if (false) 
+			$input             = $_POST;
+			$time              = $input['Pickup-time'];
+			$date              = $input['Pickup-Date'];
+			$location          = $input['Your-location'];
+			$name              = $input['Drop-Your-Name'];
+			$contact           = $input['Contact'];
+			$email             = $input['Drop-Your-Email'];
+			$passenger         = $input['No-Of-Passengers'];
+			$luggage           = $input['Luggage'];
+			$kids              = $input['No-Of-Kids'];
+			$childSeatRequired = $input['Child-Seat-Required'];
+			$childSeatCount    = $input['Child-Seat-Count'];
+			$childSeatType     = $input['Child-Seat-type'];
+			$cars              = $input['cars'];
+			$paymentMethod     = $input['Payment-Method'];
+			if (!empty($cars)) {
+				$cars = implode(' ', $cars);
+			}
+				echo "<pre>"; print_r($input); die();
+
+			$reg_num = (rand(10,100000));
+			$reg_num = str_pad($reg_num,6,0,STR_PAD_LEFT);
+		if (false)
 		{
 			echo json_encode([
-		    	'status_code' => 400,
-		    	'message' => 'All Fields need to be filled.'
+				'status_code' => 400,
+				'message'     => 'All Fields need to be filled.'
 		    ]);
 		} else {
 			try {
-				$to = $email;
-				$subject = "Here is the subject";				
+				$to      = $email;
+				$subject = "Here is the subject";
 				$message = '<html><body>';
-				$message .= '<h1 style="color:#f40;">'.$_POST['Drop-Your-Name'].'</h1>';
+				$message .= '<h1 style="color:#f40;">'.$name.'</h1>';
 				$message .= '<p style="color:#080;font-size:18px;">Thank you for your reservation.</p>';
 				$message .= '<p style="color:#080;font-size:18px;">Here is your registration number '.$reg_num.'</p>';
 				$message .= '</body></html>';
 				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
-			    
+
 
 				$to = 'info@pearsonlimoservice.ca';
-				$subject = "Here is the subject";				
+				$subject = "Here is the subject";
 				$message = '<html><body>';
 				$message .= '<p style="color:#080;font-size:18px;">Reservation Form</p>';
 				$message .= '</body></html>';
@@ -451,7 +469,7 @@ EOF;
 	} else if (isset($_POST['form_of']) && $_POST['form_of'] == 'home-get-a-qoute') {
 		$input = $_POST;
 		$email = $_POST['email'];
-		if (false) 
+		if (false)
 		{
 			echo json_encode([
 		    	'status_code' => 400,
@@ -460,7 +478,7 @@ EOF;
 		} else {
 			try {
 				$to = $email;
-				$subject = "Here is the subject";				
+				$subject = "Here is the subject";
 				$message = '<html><body>';
 				$message .= '<h1 style="color:#f40;">'.$_POST['Name'].'</h1>';
 				$message .= '<p style="color:#080;font-size:18px;">Thank you for contact us.</p>';
@@ -469,10 +487,10 @@ EOF;
 				$headers = "From: info@pearsonlimoservice.ca\r\n";
 				$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 				mail($to,$subject,$message,$headers);
-			    
+
 
 				$to = 'info@pearsonlimoservice.ca';
-				$subject = "Here is the subject";				
+				$subject = "Here is the subject";
 				$message = '<html><body>';
 				$message .= '<p style="color:#080;font-size:18px;">Get a Qoute Form</p>';
 				$message .= '</body></html>';
