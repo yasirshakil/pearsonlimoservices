@@ -49,7 +49,7 @@
 									<span>$65 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="chryler-detail.php"
 										title="">Details</span></a>
 								</div>
@@ -83,7 +83,7 @@
 								</div>
 								<div class="btn-select">
 
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Cadillac-details.php"
 										title="">Details</span></a>
 
@@ -117,7 +117,7 @@
 									<span>$150 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="bmw750i-Details.php"
 										title="">Details</span></a>
 								</div>
@@ -149,7 +149,7 @@
 									<span>$150 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="mercedes-detail.php"
 										title="">Details</span></a>
 								</div>
@@ -189,7 +189,7 @@
 									<span>$350 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Bentley-Details.php"
 										title="">Details</span></a>
 								</div>
@@ -221,7 +221,7 @@
 									<span>$400 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Rolls-royce-Details.php"
 										title="">Details</span></a>
 								</div>
@@ -254,7 +254,7 @@
 									<span>$90 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Chevrolet-Details.php"
 										title="">Details</span></a>
 								</div>
@@ -286,7 +286,7 @@
 									<span>$90 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="GMC-Yukon.php"
 										title="">Details</span></a>
 								</div>
@@ -326,7 +326,7 @@
 									<span>$125<span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Cadillac-Esclade.php"
 										title="">Details</span></a>
 								</div>
@@ -358,7 +358,7 @@
 									<span>$140 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class"
 										href="Executive-Stretch-Limousine.php" title="">Details</span></a>
 								</div>
@@ -391,7 +391,7 @@
 									<span>$150 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Lincon-Navigator-Details.php"
 										title="">Details</span></a>
 								</div>
@@ -424,7 +424,7 @@
 									<span>$175 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class"
 										href="Hummer-Stretch-Limo-Details.php" title="">Details</span></a>
 								</div>
@@ -464,7 +464,7 @@
 									<span>$150 <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="Mercedes-Benz-Sprinter.php"
 										title="">Details</span></a>
 								</div>
@@ -496,7 +496,7 @@
 									<span>Call For Quote <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="20-Passenger-Bus.php"
 										title="">Details</span></a>
 								</div>
@@ -529,7 +529,7 @@
 									<span>Call For Quote <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="30-Passengers-Bus.php"
 										title="">Details</span></a>
 								</div>
@@ -561,7 +561,7 @@
 									<span>Call For Quote <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="40 Passengers-Bus.php"
 										title="">Details</span></a>
 								</div>
@@ -594,7 +594,7 @@
 									<span>Call For Quote <span class="hour">/ hour</span></span>
 								</div>
 								<div class="btn-select">
-									<a class="Box-Links mr-3" href="#" title="">Book Now</span></a>
+									<a class="Box-Links mr-3" href="Reservation.php" title="">Book Now</span></a>
 									<a class="Box-Links text-center btn-width-class" href="48-Passenges-Bus.php"
 										title="">Details</span></a>
 								</div>
