@@ -27,16 +27,16 @@
 						</h3>
 						<ul>
 							<li>
-								<a href="#" title="">Airport Limo Service</a>
+								<a href="Airport-limo-transfer.php" title="">Airport Limo Service</a>
 							</li>
 							<li>
-								<a href="#" title="">Corporate Limo Service</a>
+								<a href="Corporate-Limo-Services.php" title="">Corporate Limo Service</a>
 							</li>
 							<li>
-								<a href="#" title="">Wedding Limo Rentals</a>
+								<a href="Wedding-Limo-Services.php" title="">Wedding Limo Rentals</a>
 							</li>
 							<li>
-								<a href="#" title="">Special Occasion Limo</a>
+								<a href="Special-Occasions.php" title="">Special Occasion Limo</a>
 							</li>
 							<li>
 								<a href="#" title="">Niagara Falls Tours</a>
@@ -53,11 +53,12 @@
 							About us
 						</h3>
 						<ul>
-							<li>
-								<a href="#" title="">Chauffeurs</a>
+
+							<li>	
+								<a href="about.php" title="">About us</a>
 							</li>
 							<li>
-								<a href="about.php" title="">About us</a>
+								<a href="airportpickup.php" title="">Airport Pickup Procedure</a>
 							</li>
 							<!-- <li>
 								<a href="#" title="">Blog</a>
@@ -65,8 +66,6 @@
 							<li>
 								<a href="faq.php" title="">FAQs</a>
 							</li>
-							<li>
-								<a href="#" title="">Testimonials</a>
 							</li>
 							<li>
 								<a href="#" title="">Terms & Conditions</a>

@@ -115,7 +115,10 @@
 									<li>
 										<a class="links" href="our-fleet.php">Our Fleet</a>
 									</li>
-									<li class="has-dropdown Dropdown">
+									<li>
+										<a class="links" href="services.php">Services</a>
+									</li>
+									<!-- <li class="has-dropdown Dropdown">
 										<a class="links" href="services.php">Services</a>
 										<ul class="menu-dropdown after-drop">
 
@@ -123,7 +126,7 @@
 
 											<li><a href="airportpickup.php">Airport Pickup Procedure</a></li>
 										</ul>
-									</li>
+									</li> -->
 									<li>
 										<a class="links" href="Service-rates.php">Service Rates</a>
 									</li>
@@ -134,13 +137,16 @@
 										<a class="links" href="Reservation.php">Reservation</a>
 									</li>
 									</li>
-									<li class="has-dropdown Dropdown">
+									<li>
+										<a class="links" href="contact.php">Contact</a>
+									</li>
+									<!-- <li class="has-dropdown Dropdown">
 										<a class="links" href="contact.php">Contact</a>
 										<ul class="menu-dropdown after-drop">
 											<li class="show-on-mobile"><a href="contact.php">Contact</a></li>
 											<li><a href="faq.php">FAQ</a></li>
 										</ul>
-									</li>
+									</li> -->
 								</ul>
 								<!-- <div class="menu2">
 								
