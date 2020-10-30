@@ -68,7 +68,7 @@
 							</li>
 							</li>
 							<li>
-								<a href="#" title="">Terms & Conditions</a>
+								<a href="termsandcondition.php" title="">Terms & Conditions</a>
 							</li>
 							<li>
 								<a href="contact.php" title="">Contact</a>
