@@ -7,8 +7,9 @@
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 	<!-- Mobile Specific Metas -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="keywords" content="Pearson Airport Limo, Pearson airport limousine, Limo to Pearson, Pearson airport limo flat rate, Pearson limo, Toronto airport limo, Toronto Pearson limo, Toronto Limousine Service, Limo service, Airport car service, Black Limo, Black Car service, Airport Limo Service, Corporate Limo Service, Wedding Limo Rental, YYZ limo, YYZ car service, YYZ limo rates, Airport limo rates, Pearson airport pickup service, Pearson Limo services, Toronto Limo Service, Airport Limo Toronto, GTA limo service, Limousine Rentals">
 	<meta name="author" content="CreativeLayers">
-	<title>Pearson Limo Services</title>
+	<title>Pearson Limo Services | Pearson Airport Limo | Pearson airport limousine | Limo to Pearson | Pearson airport limo flat rate | Pearson limo | Toronto airport limo | Toronto Pearson limo | Toronto Limousine Service | Limo service | Airport car service | Black Limo | Black Car service | Airport Limo Service | Corporate Limo Service | Wedding Limo Rental | YYZ limo | YYZ car service | YYZ limo rates | Airport limo rates | Pearson airport pickup service | Pearson Limo services | Toronto Limo Service | Airport Limo Toronto | GTA limo service | Limousine Rentals </title>
 	<!-- Boostrap style -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-glyphicons.css">
