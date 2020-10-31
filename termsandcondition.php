@@ -16,7 +16,7 @@ include ('./header.php');
     </section>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-        <h3 class="mb-2">Reservation Agreement:</h3>
+        <h3 class="mb-2 limoColor">Reservation Agreement:</h3>
         <p class="mb-2"> A minimum 50% deposit is required upon the confirmation of your reservation. The company is not
           liable in
           the event of a mechanical breakdown while on the charter. Any lost time due to mechanical breakdown will be
@@ -27,19 +27,19 @@ include ('./header.php');
           vehicles. Any fines incurred will be paid for by the passengers. The company is not responsible for any
           articles left in the limousine. </p>
         <hr>
-        <h3 class="mb-2"> Additional Charges: </h3>
+        <h3 class="mb-2 limoColor"> Additional Charges: </h3>
         <p class="mb-2"> For hourly reservations, any extra time used other than reserved for will be charge in
           15-minute increments
           based on the hourly rate. Transfer reservations, which are based on distance rather than time, additional
           stops and waiting time will be at an extra charge based on the vehicle type.</p>
         <hr>
-        <h3 class="mb-2"> Airport Arrival Time: </h3>
+        <h3 class="mb-2 limoColor"> Airport Arrival Time: </h3>
         <p class="mb-2">We allow a 45-minute wait time for domestic flights and a 1 hour wait time for international
           flights upon
           flight arrival time. Any additional time will be charged in
           15-minute increments based on the hourly rate of the vehicle type.</p>
         <hr>
-        <h3 class="mb-2">Cancellation:</h3>
+        <h3 class="mb-2 limoColor">Cancellation:</h3>
         <p class="mb-2">Cancellations must be received 72 hours prior to the scheduled pick-up time with valid reason.
           If the
           cancellation policy is not followed, the total amount will be charged for the reservation. For wedding and
@@ -50,26 +50,26 @@ include ('./header.php');
           be refundable. During the peak time (May to Sep) month of December and New Years Eve, we do require a minimum
           of two weeks notice to cancel a reservation for the deposit to be refundable.</p>
         <hr>
-        <h3 class="mb-2">Vehicle Change:</h3>
+        <h3 class="mb-2 limoColor">Vehicle Change:</h3>
         <p>Depending on weather conditions, Platinum Rides Limousine. is not responsible for delays or cancellations
           caused by the weather due to unsafe road conditions (i.e. snow, traffic, accidents, etc.). The company
           withholds the right to dispatch a different vehicle type other than requested in bad weather conditions. The
           replacement vehicle will accommodate the number of passengers stated during the creation of your reservation
         </p>
         <hr class="mb-2">
-        <h3 class="mb-2">Changes to the Trip:</h3>
+        <h3 class="mb-2 limoColor">Changes to the Trip:</h3>
         <p>Any changes to a reservation must be communicated through our office. Changes made with a chauffeur are not
           final. Changes must be made through our office by e-mail or phone. Requests for changes by email must be sent
           at least 24hours before the scheduled pick-up time. Reservation changes by phone may be accepted with a 2-hour
           notice. All changes will depend on availability and may not be able to be made.</p>
         <hr>
-        <h3 class="mb-2">Pet Policy:</h3>
+        <h3 class="mb-2 limoColor">Pet Policy:</h3>
         <p>The company must be notified if the client is travelling with a pet. The pet must also be kept in a kennel
           for the duration of the trip. If not properly notified, the driver may refuse service due to personal issues,
           such as allergies to the pet. Another chauffeur will be arranged to complete the transfer. The company is not
           liable in the event of delays during this process.</p>
         <hr>
-        <h3 class="mb-2">Vehicle Damage:</h3>
+        <h3 class="mb-2 limoColor">Vehicle Damage:</h3>
         <p>The party paying for the reservation is responsible for all damages and/or cleaning charges incurred by the
           renter and/or party of the renter, including but not limited to: Vomit/Sickness $200, Alcohol spillage $100,
           smoking violation $200, Damage to upholstery/seats $500 - $1000, Opening a vehicle door into another vehicle
