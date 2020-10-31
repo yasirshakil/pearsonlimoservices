@@ -53,7 +53,7 @@ include ('./header.php');
         </div>
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">Your Location</label>
+            <label class="" for="">Pickup Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
             <input name="Your-location" id="Your-location" class="reservation-form info-field" type="text">
@@ -62,7 +62,7 @@ include ('./header.php');
         </div>
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">Drop Location</label>
+            <label class="" for="">Drop Off Location</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
             <input name="dropLocation" id="dropLocation" class="reservation-form info-field" type="text">
@@ -100,7 +100,7 @@ include ('./header.php');
         </div>
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
-            <label class="" for="">Drop Your Email</label>
+            <label class="" for="">Email</label>
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
             <input name="Drop-Your-Email" id="Drop-Your-Email" placholder="example@gmail.com" class="reservation-form passenger-field" type="Email">
@@ -209,6 +209,7 @@ include ('./header.php');
           </div>
           <div class="col-lg-5 col-md-5 col-sm-12 col-12 Form-section">
               <select class="reservation-form passenger-field" name="Child-Seat-type" id="Child-Seat-type">
+                <option value="Infant"></option>
                 <option value="Infant">Infant</option>
                 <option value="Toddler">Toddler</option>
                 <option value="Booster Seat">Booster Seat</option>
