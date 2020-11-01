@@ -42,7 +42,7 @@
 					<div class="col-lg-6 col-md-12 col-sm-12 p-0 left-content ">
 						<div class="content">
 							<span>
-								<a class="Contact-us" href="tel:+18889211116">
+								<a class="Contact-us" href="tel:+8889003001">
 									<i class="fa fa-phone mr-2 ml-1 "></i>888-900-3001
 								</a>
 							</span>
