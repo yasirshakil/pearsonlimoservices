@@ -140,11 +140,11 @@
 								</div> -->
 								<div class="pick-dropday">
 									<label>Pickup Address</label>
-									<input type="text" name="pick-up" required="" placeholder="Pickup Address">
+									<input type="text" name="pick-up" id="street_address_1" required="" placeholder="Pickup Address">
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>
-									<input type="text" name="drop-off" required="" placeholder="Drop off address">
+									<input type="text" name="drop-off" id="street_address_2" required="" placeholder="Drop off address">
 								</div>
 								<input type="hidden" name="form_of" value="home-get-a-qoute">
 								<div class="btn-submit">

@@ -156,8 +156,9 @@
 	<!-- End Copyright -->
 	<div class="scroll-top">
 	</div>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMq7CKP7-v8LKVLoFFiLAvGNTLcSstO9E&libraries=places&ver=null"></script>
+	<!-- <script src='http://maps.googleapis.com/maps/api/js?v=3&sensor=false&libraries=places&key=xxx'></script> -->
 	<!-- Javascript -->
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPaFytr0Qj9R6Y6fIEIiwpyDlBPL4Go5Q&;libraries=places&ver=null"></script>
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/parallax.js"></script>
 	<script type="text/javascript" src="js/waypoints.min.js"></script>
@@ -187,7 +188,6 @@
 	<script src="/path/to/noframework.waypoints.min.js"></script>
 	<script type="text/javascript" src="js/additional-methods.min.js"></script>
 	<script src="js/Jquery.js" ></script>
-
 </body>
 
 </html>

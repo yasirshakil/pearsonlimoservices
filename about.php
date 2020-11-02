@@ -24,7 +24,7 @@ include ('./header.php');
 						<a class="Book" href="Reservation.php">Book Now</a>
 					</div>
 					<div id="bk-1" class="schedule-booking">
-						<form class="form-booking px-3" method="post" id="get-a-quote" action="/functions.php">
+						<form class="form-booking px-3" autocomplete="off" method="post" id="get-a-quote" action="/functions.php">
 							<input type="hidden" name="form_of" value="get-a-quote">
 							<div class="pick-date">
 								<label>Pick Up Date</label>
@@ -67,7 +67,7 @@ include ('./header.php');
 							</div>
 							<div class="pick-dropday">
 								<label>Drop Off Address</label>
-								<input type="text" name="drop-off" placeholder="From: address">
+								<input type="text" id="street_address_2" name="drop-off" placeholder="From: address">
 							</div>
 							<div class="btn-submit">
 								<a href="javascript:void(0)" id="form-submit-link" class="About-Point-2">
