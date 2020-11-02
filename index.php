@@ -128,11 +128,11 @@
 							<form class="form-booking px-3" id="form-booking" method="get" action="/functions.php">
 								<div class="pick-address">
 									<label>Name</label>
-									<input type="text" name="Name" required="" placeholder=" Name">
+									<input type="text" name="name" required="" placeholder=" Name">
 								</div>
 								<div class="pick-address">
-									<label>Phone-No</label>
-									<input type="text" name="Contact" required="" placeholder="Contact">
+									<label>Email</label>
+									<input type="email" name="email" required="" placeholder="Email">
 								</div>
 								<!-- <div class="pick-address">
 									<label>Email</label>
@@ -144,7 +144,7 @@
 								</div>
 								<div class="pick-dropday">
 									<label>Drop Off Address</label>
-									<input type="text" name="pick-up" required="" placeholder="Drop off address">
+									<input type="text" name="drop-off" required="" placeholder="Drop off address">
 								</div>
 								<input type="hidden" name="form_of" value="home-get-a-qoute">
 								<div class="btn-submit">
@@ -975,17 +975,18 @@
 			$.ajax({
 				url     : $("#form-booking").attr('action'),
 				type    : 'post',
-				dataType: 'json',
 				data    : $('#form-booking').serialize(),
 				success : function(json) {
 					if(json['status_code'] == 200) {
-					  $("#form-booking")[0].reset();
+					  	$("#form-booking")[0].reset();
 
-					  $("select").each( function(){
+					  	$("select").each( function(){
 					        $(this).children('option:eq(0)').trigger('change');
-					  });
+					  	});
 
-					  $('#form-booking').prepend('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+					  	$('#form-booking').prepend('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+					} else if (json['status_code'] == 400) {
+						$('#get-a-quote').before('<div class="alert alert-danger alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
 					}
 					$(".alert-success").fadeTo(2000, 500).slideUp(500, function(){
 					  $(".alert-success").slideUp(500);

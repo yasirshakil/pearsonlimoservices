@@ -63,7 +63,7 @@ include ('./header.php');
 							</div>
 							<div class="pick-address">
 								<label>PickUp Address</label>
-								<input type="text" name="pickup" placeholder="PickUp Address">
+								<input type="text" id="street_address_1" name="pickup" placeholder="PickUp Address">
 							</div>
 							<div class="pick-dropday">
 								<label>Drop Off Address</label>
@@ -319,6 +319,8 @@ include ('./header.php');
 						});
 
 						$('#get-a-quote').before('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+					} else if (json['status_code'] == 400) {
+						$('#get-a-quote').before('<div class="alert alert-danger alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
 					}
 					$(".alert-success").fadeTo(2000, 500).slideUp(500, function () {
 						$(".alert-success").slideUp(500);

@@ -184,7 +184,9 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
 	              });
 
 	              $('.Form-bg').prepend('<div class="alert alert-success alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
-	            }
+	            } else if (json['status_code'] == 400) {
+					$('#get-a-quote').before('<div class="alert alert-danger alert-dismissible">' + json['message'] + '<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+				}
 	            $(".alert-success").fadeTo(2000, 500).slideUp(500, function(){
 	              $(".alert-success").slideUp(500);
 	              $(".alert-success").remove()
