@@ -38,32 +38,33 @@ $(document).ready(function () {
             autocompletes[i] = new google.maps.places.Autocomplete(
                 document.getElementById('street_address_'+i), {types: ['geocode']}
             );
-            autocompletes[i].street_address = 'street_address_'+i;
-            autocompletes[i].address_city = 'address_city_'+i;
-            autocompletes[i].address_postal_code = 'address_postal_code_'+i;
-            autocompletes[i].addListener('place_changed', fillInAddress);
+            // autocompletes[i].street_address = 'street_address_'+i;
+            // autocompletes[i].address_city = 'address_city_'+i;
+            // autocompletes[i].address_postal_code = 'address_postal_code_'+i;
+            //autocompletes[i].addListener('place_changed', fillInAddress);
         }
     }
 
-    function fillInAddress() {
-      // Get the place details from the autocomplete object.
-      var place = this.getPlace();
+    // function fillInAddress() {
+    //      // Get the place details from the autocomplete object.
+    //     var place = this.getPlace();
 
-      (document.getElementById(this.address_city) != null) ? document.getElementById(this.address_city).value = '' : '';
-      (document.getElementById(this.address_postal_code) != null) ? document.getElementById(this.address_postal_code).value = '' : '';
+    //     (document.getElementById(this.address_city) != null) ? document.getElementById(this.address_city).value = '' : '';
+    //     (document.getElementById(this.address_postal_code) != null) ? document.getElementById(this.address_postal_code).value = '' : '';
         
-      for (var i = 0; i < place.address_components.length; i++) {
-        var addressComponent = place.address_components[i];
-        var street_no   = place.address_components[0]['long_name'];
-        var street_name = place.address_components[1]['short_name'];
-        document.getElementById(this.street_address).value = street_no + ' ' + street_name;
-        if(addressComponent.types[0] == 'locality' && document.getElementById(this.address_city) != null)
-            document.getElementById(this.address_city).value = addressComponent['long_name'];
-        if(addressComponent.types[0] == 'postal_code' && document.getElementById(this.address_postal_code) != null)
-            document.getElementById(this.address_postal_code).value = addressComponent['long_name'];
-      }
+    //     console.log(place.address_components);
+    //     for (var i = 0; i < place.address_components.length; i++) {
+    //     var addressComponent = place.address_components[i];
+    //     var street_no   = place.address_components[0]['long_name'];
+    //     var street_name = place.address_components[1]['short_name'];
+    //     // document.getElementById(this.street_address).value = street_no + ' ' + street_name;
+    //     if(addressComponent.types[0] == 'locality' && document.getElementById(this.address_city) != null)
+    //         document.getElementById(this.address_city).value = addressComponent['long_name'];
+    //     if(addressComponent.types[0] == 'postal_code' && document.getElementById(this.address_postal_code) != null)
+    //         document.getElementById(this.address_postal_code).value = addressComponent['long_name'];
+    //     }
         
-    }
+    // }
 
     google.maps.event.addDomListener(window, 'load', initialize);
 
