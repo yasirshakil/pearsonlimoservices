@@ -789,7 +789,7 @@
 	<section>
 		<div class="container ">
 			<div class="row Animate-row-1-services">
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet1.jpg" alt="">
 					<div class="Content-Box">
 						<h2 class="mb-3">Airport Limo Service</h2>
@@ -808,7 +808,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet5.jpeg" alt="">
 					<div class="Content-Box">
 						<h2 class="mb-3">Corporate Limo Service</h2>
@@ -826,7 +826,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/wdding-limo.jpeg">
 					<div class="Content-Box">
 						<h2 class="mb-3">Wedding Limo Rentals</h2>
@@ -844,9 +844,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="row Animate-row-2-services">
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/fleet3.jpg" alt="">
 					<div class="Content-Box">
 						<h2 class="mb-3">Special Occasion Limo</h2>
@@ -863,7 +861,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 Col-Box">
 					<img class="Box-Image" src="images/FleetBox_images/Niggra-Falls.jpeg" alt="">
 					<div class="Content-Box">
 						<h2 class="mb-3">Niagara Falls Tours</h2>
@@ -879,7 +877,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 Col-Box mb-5">
+				<div class="col-lg-4 col-md-6 col-sm-12 col-12 Col-Box mb-5">
 					<img class="Box-Image" src="images/FleetBox_images/fleet6.png" alt="">
 					<div class="Content-Box">
 						<h2 class="mb-3">Pearson For You <br>(Custom Solutions)</h2>

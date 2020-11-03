@@ -16,7 +16,7 @@ include ('./header.php');
 	</div>
 	<section>
 		<div class="container">
-		<div class="">
+		<div class="row">
 			<div style="float:right;" class="col-lg-5 col-md-12 col-sm-12 col-12 Modal p-0 animate__animated animate__fadeInLeftBig animate__delay-1s 1s">
 				<div class="sdl-booking add-box AddBox adjust-modal-about">
 					<div class="top-modal">
@@ -79,8 +79,6 @@ include ('./header.php');
 					</div>
 				</div>
 			</div>
-		</div>
-			<div class="">
 				<div class="col-lg-7 col-md-12 col-sm-12 col-12 padding">
 					<p class="mb-2  text-justify">
 						At Pearson Limo Service we believe our client is our priority. We strive in serving you as per

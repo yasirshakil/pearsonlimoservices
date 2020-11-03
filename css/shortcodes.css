@@ -2792,6 +2792,8 @@ hr{
 }
 .fleet-item .images{
 	padding-right: 7px;
+	width: 100%;
+}
 }
 .fleet-content{
 	padding-top:10px;

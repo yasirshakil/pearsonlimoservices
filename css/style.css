@@ -2647,9 +2647,8 @@ ul.social-ft li:last-child {
 /* background-color: red; */
 
 .fleet-img {
-  height: 200px !important;
-  width: 350px;
-  padding: 0px;
+  height: 200px;
+
 }
 
 .fleet-details {
@@ -3994,4 +3993,5 @@ div.loader-background {
 .animate__animated{
   opacity: 1 !important;
 }
+
 
