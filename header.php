@@ -93,10 +93,10 @@
 		<div class="bottom-header">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="logo col-1g-2 col-md-4 col-sm-6 col-6">
+					<div class="logo col-1g-2 col-md-2 col-sm-6 col-6">
 						<img height="100%" width="100%" src="images/logo/Pearson-logo.png" alt="">
 					</div>
-					<div class="col-1g-10 col-md-8 col-sm-6 col-6 nav-sec">
+					<div class="col-1g-10 col-md-10 col-sm-6 col-6 nav-sec">
 						<div class="navigation">
 							<div class="mobile-menu">
 								<span></span>
