@@ -27,22 +27,22 @@
 						</h3>
 						<ul>
 							<li>
-								<a href="Airport-limo-transfer.php" title="">Airport Limo Service</a>
+								<a class="footerLinks" href="Airport-limo-transfer.php" title="">Airport Limo Service</a>
 							</li>
 							<li>
-								<a href="Corporate-Limo-Services.php" title="">Corporate Limo Service</a>
+								<a class="footerLinks" href="Corporate-Limo-Services.php" title="">Corporate Limo Service</a>
 							</li>
 							<li>
-								<a href="Wedding-Limo-Services.php" title="">Wedding Limo Rentals</a>
+								<a class="footerLinks" href="Wedding-Limo-Services.php" title="">Wedding Limo Rentals</a>
 							</li>
 							<li>
-								<a href="Special-Occasions.php" title="">Special Occasion Limo</a>
+								<a class="footerLinks" href="Special-Occasions.php" title="">Special Occasion Limo</a>
 							</li>
 							<li>
-								<a href="#" title="">Niagara Falls Tours</a>
+								<a class="footerLinks" href="#" title="">Niagara Falls Tours</a>
 							</li>
 							<li>
-								<a href="#" title="">Pearson For You ( Custom Solutions )</a>
+								<a class="footerLinks" href="#" title="">Pearson For You ( Custom Solutions )</a>
 							</li>
 						</ul>
 					</div>
@@ -55,23 +55,23 @@
 						<ul>
 
 							<li>	
-								<a href="about.php" title="">About us</a>
+								<a class="footerLinks" href="about.php" title="">About us</a>
 							</li>
 							<li>
-								<a href="airportpickup.php" title="">Airport Pickup Procedure</a>
+								<a class="footerLinks" href="airportpickup.php" title="">Airport Pickup Procedure</a>
 							</li>
 							<!-- <li>
 								<a href="#" title="">Blog</a>
 							</li> -->
 							<li>
-								<a href="faq.php" title="">FAQs</a>
+								<a class="footerLinks" href="faq.php" title="">FAQs</a>
 							</li>
 							</li>
 							<li>
-								<a href="termsandcondition.php" title="">Terms & Conditions</a>
+								<a class="footerLinks" href="termsandcondition.php" title="">Terms & Conditions</a>
 							</li>
 							<li>
-								<a href="contact.php" title="">Contact</a>
+								<a class="footerLinks" href="contact.php" title="">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -83,25 +83,25 @@
 						</h3>
 						<ul>
 							<li>
-								<a href="chryler-detail.php" title="">Chrysler 300</a>
+								<a class="footerLinks" href="chryler-detail.php" title="">Chrysler 300</a>
 							</li>
 							<li>
-								<a href="bmw750i-Details.php" title="">Bmw 750i</a>
+								<a class="footerLinks" href="bmw750i-Details.php" title="">Bmw 750i</a>
 							</li>
 							<li>
-								<a href="Rolls-royce-Details.php" title="">Rolls-Royce Phantom</a>
+								<a class="footerLinks" href="Rolls-royce-Details.php" title="">Rolls-Royce Phantom</a>
 							</li>
 							<li>
-								<a href="Cadillac-details.php" title="">Caddilac XTS</a>
+								<a class="footerLinks" href="Cadillac-details.php" title="">Caddilac XTS</a>
 							</li>
 							<li>
-								<a href="mercedes-detail.php" title="">Mercedes S500</a>
+								<a class="footerLinks" href="mercedes-detail.php" title="">Mercedes S500</a>
 							</li>
 							<li>
-								<a href="Chevrolet-Details.php" title="">Chevrolet suburban </a>
+								<a class="footerLinks" href="Chevrolet-Details.php" title="">Chevrolet suburban </a>
 							</li>
 							<li>
-								<a href="Hummer-Stretch-Limo-Details.php" title="">Hummer Strech Limousine </a>
+								<a class="footerLinks" href="Hummer-Stretch-Limo-Details.php" title="">Hummer Strech Limousine </a>
 							</li>
 						</ul>
 					</div>
@@ -120,22 +120,22 @@
 					</div>
 					<ul class="city">
 						<li>
-							<a href="#" title="">TORONTO</a>
+							<a class="footerLinks" href="#" title="">TORONTO</a>
 						</li>
 						<li>
-							<a href="#" title="">RICHMOND HILL</a>
+							<a class="footerLinks" href="#" title="">RICHMOND HILL</a>
 						</li>
 						<li>
-							<a href="#" title="">OSHAWA</a>
+							<a class="footerLinks" href="#" title="">OSHAWA</a>
 						</li>
 						<li>
-							<a href="#" title="">MUSKOKA</a>
+							<a class="footerLinks" href="#" title="">MUSKOKA</a>
 						</li>
 						<li>
-							<a href="#" title="">OAKVILLE</a>
+							<a class="footerLinks" href="#" title="">OAKVILLE</a>
 						</li>
 						<li>
-							<a href="#" title="">NIAGARA FALLS</a>
+							<a class="footerLinks" href="#" title="">NIAGARA FALLS</a>
 						</li>
 					</ul>
 				</div>

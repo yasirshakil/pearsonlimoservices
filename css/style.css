@@ -2327,10 +2327,37 @@ footer {
   margin-top: 15px;
 }
 
+
+
 .widget-footer ul li,
 .widget-footer ul li a,
 ul.social-ft li a {
+
+}
+
+.footerLinks{
   color: #969696;
+  position: relative;
+}
+
+.footerLinks::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 1px;
+  width: 0;
+  transition: 0.5s ease-in-out;
+  visibility: hidden;
+}
+
+.footerLinks:hover::after{
+  width: 100%;
+  background: #d9c77e;
+  visibility: visible;
+
+
+
 }
 
 ul.social-ft li a:hover {
