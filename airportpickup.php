@@ -78,17 +78,6 @@ include ('./header.php');
                         assist
                         you through the pickup procedure.
                     </p>
-                    <!-- <hr>
-                    <h2 class="my-2 Airport-pickup-headings">Meet and Greet Service: Toronto Pearson Airport (YYZ)</h2>
-                    <p class="mb-2">
-                        We offer <b>Meet and Greet Service at Toronto Pearson Airport.</b> Platinum rides along with its
-                        airport limousine transfers provide a prestigious service of meet and greet at the airport. Are
-                        you expecting a VIP guest or you are new to Canada; we are there to give you a warm welcome. Our
-                        Courteous and Friendly Staff would be there at the arrival terminal to get your visit to Canada
-                        started. They will make you feel like home, take care of your luggage, assist with any queries
-                        and purchases, and escort to your luxurious limousine waiting for you at the exit. <b>Try it- It’s</b>
-                        great!
-                    </p> -->
                 </div>
             </div>
         </div>

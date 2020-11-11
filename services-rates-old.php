@@ -530,78 +530,7 @@ include ('./header.php');
 					know and we will do our best to accommodate your transport needs in any way we can regardless of
 					volume, budget, or urgency. Please call us at any time of the day or night <a class="Highlight" href="tel:437-800-1547">437-800-1547</a></p>
 			</div>
-		</div>
-		<!-- End Services Ratea -->
-		<!-- Start Section Iconbox -->
-		<!-- <section class="section-iconbox">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="template-title center">
-							<h1>Why Choose Us</h1>
-							<span>Why Choose Us</span>
-							<p class="subtitle">Explore our first class limousine & car rental services</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-lg-3 col-sm-6">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/01.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Easy Online Booking</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectadipiscing elit. Aenean commodo ligula eget dolor.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/02.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Professional Drivers</a>
-								</h3>
-								<p>A new shuttle train service between Singapore and Johor Bahru kicked off on Wednesday. </p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/03.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Variety of Car Brands</a>
-								</h3>
-								<p>The service, called Shuttle Tebrau, is  operated by Malaysia’s JB Sentral in just five minutes.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/04.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Online Payment</a>
-								</h3>
-								<p>York Airport Service is a private bus company that provides transportation area airports and Manhattan.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Section Iconbox -->
-		
+		</div>		
 	<?php
 	include ('./footer.php');
 ?>

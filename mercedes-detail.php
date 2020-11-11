@@ -101,12 +101,6 @@ include ('./header.php');
                 <a class="Car-Detail-Btn ml-2 m-3" href="Reservation.php"> Make Reservation</a>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 mt-5">
-                <!-- <p class="bold mb-2 text-justify">
-                    Each driver is fully screened, trained, licensed and dressed. Each vehicle is inspected, cleaned and
-                    properly serviced to ensure the utmost safety for our passengers. Rates can vary from date, time
-                    and location, and reservations can be made easily and quickly! Our system is up to date and you
-                    have the opportunity to book online or with a representative.
-                </p> -->
                 <p>
                    <b> NOTE:</b> YES, we can provide Booster Seats for Toddlers and Car Seats for Infants upon request;
                     Please specify your needs when you make your reservation.

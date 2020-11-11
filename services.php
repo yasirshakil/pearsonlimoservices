@@ -176,31 +176,6 @@ include ('./header.php');
 				</div>
 			</div>
 		</div>
-		<!-- <div class="row">
-					<div class="col-md-12">
-						<div class="pagination-area ver-6">
-							<ul>
-							    <li class="prev ">
-							    	<a href="#" class="waves-effect" title="">
-							    		<img src="images/icon/prev.png" alt="">
-							    	</a>
-							    </li>
-							    <li>
-							    	<a href="#" class="waves-effect" title="">1</a>
-							    </li>
-							    <li class="active"><a href="#" class="waves-effect" title="">2</a></li>
-							    <li><a href="#" class="waves-effect" title="">6</a></li>
-							    <li><a href="#" class="waves-effect" title="">...</a></li>
-							    <li><a href="#" class="waves-effect" title="">22</a></li>
-							    <li class="next">
-							    	<a href="#" class="waves-effect" title="">
-							    		<img src="images/icon/next.png" alt="">
-								    </a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div> -->
 	</div>
 </section>
 <!-- End Services Area -->

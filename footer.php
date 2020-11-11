@@ -157,8 +157,6 @@
 	<div class="scroll-top">
 	</div>
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCMq7CKP7-v8LKVLoFFiLAvGNTLcSstO9E&libraries=places&ver=null"></script>
-	<!-- <script src='http://maps.googleapis.com/maps/api/js?v=3&sensor=false&libraries=places&key=xxx'></script> -->
-	<!-- Javascript -->
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/parallax.js"></script>
 	<script type="text/javascript" src="js/waypoints.min.js"></script>

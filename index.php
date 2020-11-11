@@ -42,28 +42,6 @@
 							style="z-index: 16; white-space: nowrap;font-weight: 400;">Travel the way you want<br>
 							Travel as you desire
 						</div>
-						<!-- <a href="#" target="_self" class="tp-caption button-a text-center"         
-	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-	                            data-x="['center','center','center','center']" data-hoffset="['300','-95','-95','-75']" 
-	                            data-y="['middle','middle','middle','middle']" data-voffset="['104','104','104','104']" 
-								data-fontsize="['16','16','16','16']"
-								data-lineheight="['24','24','24','24']"
-	                            data-fontweight="['400','400','400','400']"
-	                            data-width="['auto']"
-	                            data-height="['auto']"
-	                            style="z-index: 3;">OUR company
-	                            </a>END LAYER LINK -->
-						<!-- <a href="#" target="_self" class="tp-caption button-b text-center"         
-	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-	                            data-x="['center','center','center','center']" data-hoffset="['490','95','95','75']" 
-	                            data-y="['middle','middle','middle','middle']" data-voffset="['104','104','104','104']"
-								data-fontsize="['16','16','16','16']"
-								data-lineheight="['24','24','24','24']"
-	                            data-fontweight="['400','400','400','400']"
-	                            data-width="['auto']"
-	                            data-height="['auto']"
-	                            style="z-index: 3;">contact us
-	                            </a>END LAYER LINK -->
 					</li>
 					<li data-index="rs-3050" data-transition="slideremovedown" data-slotamount="7"
 						data-hideafterloop="0" data-hideslideonmobile="off" data-easein="Power3.easeInOut"
@@ -90,28 +68,6 @@
 							style="z-index: 16; white-space: nowrap;font-weight: 400;"> Wherever you want and whenever
 							<br> you want we would take you
 						</div>
-						<!-- <a href="#" target="_self" class="tp-caption button-a text-center"         
-	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-	                            data-x="['center','center','center','center']" data-hoffset="['300','-95','-95','-75']" 
-	                            data-y="['middle','middle','middle','middle']" data-voffset="['104','104','104','104']" 
-								data-fontsize="['16','16','16','16']"
-								data-lineheight="['24','24','24','24']"
-	                            data-fontweight="['400','400','400','400']"
-	                            data-width="['auto']"
-	                            data-height="['auto']"
-	                            style="z-index: 3;">OUR company
-	                            </a><!- END LAYER LINK -->
-						<!-- <a href="#" target="_self" class="tp-caption button-b text-center"         
-	                            data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-	                            data-x="['center','center','center','center']" data-hoffset="['490','95','95','75']" 
-	                            data-y="['middle','middle','middle','middle']" data-voffset="['104','104','104','104']"
-								data-fontsize="['16','16','16','16']"
-								data-lineheight="['24','24','24','24']"
-	                            data-fontweight="['400','400','400','400']"
-	                            data-width="['auto']"
-	                            data-height="['auto']"
-	                            style="z-index: 3;">contact us
-	                            </a>END LAYER LINK -->
 					</li>
 				</ul>
 			</div>
@@ -134,10 +90,6 @@
 									<label>Email</label>
 									<input type="email" name="email" required="" placeholder="Email">
 								</div>
-								<!-- <div class="pick-address">
-									<label>Email</label>
-									<input type="email" name="email" required="" placeholder="Email">
-								</div> -->
 								<div class="pick-dropday">
 									<label>Pickup Address</label>
 									<input type="text" name="pick-up" id="street_address_1" required="" placeholder="Pickup Address">
@@ -232,20 +184,6 @@
 			</div>
 		</div>
 	</section>
-	<!-- <section class="template-title has-over text-up">
-		<div class="container">
-			<h3 class="title Our-Fleet">Our Fleet</h3>
-			<div class="row">
-				<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
-					<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
-				</div>
-			</div>
-			<p class="subtitle">A limo ride for everyone, your choice is our command. We have the most versatile limo
-				fleet in the business. You name it and we have it.</p>
-		</div>
-	</section> -->
-	<!-- End Template title -->
-	<!-- Start Block Fleet -->
 	<section class="block-fleet no-slider mt">
 	<div class="template-title has-over mtt ovvs">
 				<h3 class="title Our-fleet">Our Fleet</h3>
@@ -509,7 +447,6 @@
 								<h4 class="fleet-title">
 									<a href="#">HUMMER 2</a>
 								</h4>
-								<!-- <h4 class="automatic">4 Matic</h4> -->
 								<ul>
 									<li class="author">
 										<a href="#"><img src="images/icon/author.png" alt="">Max . 14</a>
@@ -589,86 +526,6 @@
 				</div>
 			</div>
 	</section>
-	<!-- End Block Fleet -->
-	<!-- Start Template title -->
-	<!-- Why Chose Us Section -->
-	<!-- <section class="template-title has-over text-up">
-			<div class="container">
-				<h3 class="title">Why Choose Us</h3>
-				<div class="row">
-					<div class="co-lg-12 col-md-12 col-sm-12 col-12 mb-2 mt-2">
-						<div class="Borders m-auto co-lg-3 col-md-3 col-sm-6 col-6"></div>
-					</div>
-				</div>
-				<p class="subtitle">Explore our first class limousine & car rental services</p>
-			</div>
-		</section>
-		 End Template title
-		 Start Section Iconbox
-		<section class="section-iconbox fix-ts">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3 col-sm-6 col-xs-12 size-table">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/001.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Easy Online Booking</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectadipiscing elit. Aenean commodo ligula eget dolor.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 size-table">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/002.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Professional Drivers</a>
-								</h3>
-								<p>A new shuttle train service between Singapore and Johor Bahru kicked off on
-									Wednesday. </p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 size-table">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/003.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Variety of Car Brands</a>
-								</h3>
-								<p>The service, called Shuttle Tebrau, is operated by Malaysia’s JB Sentral in just five
-									minutes.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6 col-xs-12 size-table">
-						<div class="iconbox center">
-							<div class="iconbox-icon">
-								<img src="images/iconbox/004.png" alt="">
-							</div>
-							<div class="iconbox-content">
-								<h3>
-									<a href="#" title="">Online Payment</a>
-								</h3>
-								<p>York Airport Service is a private bus company that provides transportation area
-									airports and Manhattan.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> -->
-	<!-- End Section Iconbox -->
-	<!-- Start Info Box -->
 	<section class="info-box parallax parallax_img change_text">
 		<div class="container">
 			<div class="wrapper-content">
@@ -736,56 +593,6 @@
 			<p class="subtitle">Our services is what makes the difference</p>
 		</div>
 	</section>
-	<!-- End Template title -->
-	<!-- Start Icon Box -->
-	<!-- <section class="icon-box bbt">
-				<div class="container">
-					<ul class="tab_services">
-						<li class="active"><a href="#sv-1">
-							<img src="images/icon/forma1.png" alt="">
-							Limousine Service
-						</a></li>
-						<li><a href="#sv-2">
-							<img src="images/icon/forma2.png" alt="">
-							Chauffeur Service
-						</a></li>
-						<li><a href="#sv-3">
-							<img src="images/icon/forma3.png" alt="">
-							Airport Transfers
-						</a></li>
-					</ul>
-					<div id="sv-1" class="content-box">
-						<div class="position-content">
-							<p class="left-content">The exclusive way to travel</p>
-							<p class="center-content">Enjoy the comfort of our limousines and business vans. Prepare for your next business meeting in peace, or let your chauffeur show you the highlights of the city.</p>
-							<p class="right-content">However you may spend your time – you can fully rely on your chauffeur, stay relaxed, and reach your destination safely. Step right in and sit back. We will take care of everything else.</p>
-						</div>
-						<div class="view_service">
-							<a href="#">More Service<img src="images/icon/arrow-next.png" alt=""></a>
-						</div>
-					</div>
-					<div id="sv-2" class="content-box">
-						<div class="position-content">
-							<p class="left-content">The exclusive way to travel</p>
-							<p class="center-content">Enjoy the comfort of our limousines and business vans. Prepare for your next business meeting in peace, or let your chauffeur show you the highlights of the city.</p>
-							<p class="right-content">However you may spend your time – you can fully rely on your chauffeur, stay relaxed, and reach your destination safely. Step right in and sit back. We will take care of everything else.</p>
-						</div>
-						<div class="view_service">
-							<a href="#">More Service<img src="images/icon/arrow-next.png" alt=""></a>
-						</div>
-					</div>
-					<div id="sv-3" class="content-box">
-						<div class="position-content">
-							<p class="left-content">The exclusive way to travel</p>
-							<p class="center-content">Enjoy the comfort of our limousines and business vans. Prepare for your next business meeting in peace, or let your chauffeur show you the highlights of the city.</p>
-							<p class="right-content">However you may spend your time – you can fully rely on your chauffeur, stay relaxed, and reach your destination safely. Step right in and sit back. We will take care of everything else.</p>
-						</div>
-						<div class="view_service">
-							<a href="#">More Service<img src="images/icon/arrow-next.png" alt=""></a>
-						</div>
-					</div>
-				</div>
-			</section> -->
 	<section>
 		<div class="container ">
 			<div class="row Animate-row-1-services">
@@ -910,7 +717,6 @@
 						</div>
 						<div class="info">
 							<h4 class="name">Alma Patterson</h4>
-							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
 					<div class="items">
@@ -948,17 +754,6 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Testimonial -->
-	<!-- Start Template Title -->
-	<!-- <section class="template-title has-over ovvs">
-				<div class="container">
-					<h3 class="title">Articles & Tips</h3>
-					<p class="subtitle">Explore some of the best tips from around the world</p>
-				</div>
-			</section> -->
-	<!-- End Template Title -->
-	<!-- Start Blog Slider -->
-	<!-- End Blog Slider -->
 </div>
 <!-- Start Footer -->
 <?php

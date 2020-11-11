@@ -78,7 +78,6 @@ include ('./header.php');
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion2" aria-hidden="true">
     <div class="container-fluid" style="">
-      <!-- <p class="headings">Passengers Details</p> -->
       <div class="main-container my-4">
         <div class="row mb-3">
           <div class="col-lg-2 col-md-3 col-sm-12 col-12 Label-Box">
@@ -402,7 +401,6 @@ include ('./header.php');
   </dt>
   <dd class="accordion-content accordionItem is-collapsed" id="accordion4" aria-hidden="true">
     <div class="container-fluid" style="">
-      <!-- <p class="headings">Billing Information</p> -->
       <div class="main-container my-4">
         <div class="main-container my-4">
           <div class="row mb-3">

@@ -132,23 +132,6 @@ $publickey = "6LfYC88ZAAAAALDFxQp0cQUNfw3fljwfQOzx8Fee";
                     		<p class="makeReservation"><a href="tel:437-800-1547"><i class="fa fa-mobile-phone"></i>437-800-1547</a></p>
 						</div>
 					</div>
-					<!-- <div class="address-box style1">
-						<h4>Call directly</h4>
-						<p><a style="color: #d9c77e;" href="tel:+14373707407">+1 (437) 370-7407</a></p>
-						<div class="hours">
-							<h5>Work Hours</h5>
-							<ul>
-								<li>Monday - Friday : 08h00 - 17h30</li>
-								<li>Saturday: 08h00 - 12h00, Sunday off work</li>
-							</ul>
-						</div>
-						<div class="follow">
-							<h5>Follow Us</h5>
-							<ul>
-
-							</ul>
-						</div>
-					</div> -->
 				</div>
 			</div>
 		</div>

@@ -257,7 +257,6 @@ include ('./header.php');
 						</div>
 						<div class="info">
 							<h4 class="name">Alma Patterson</h4>
-							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
 					<div class="items">
@@ -268,7 +267,6 @@ include ('./header.php');
 						</div>
 						<div class="info">
 							<h4 class="name">Michael Cooke</h4>
-							<!-- <p class="company">General Manager, Coca Co.</p> -->
 						</div>
 					</div>
 					<div class="items">

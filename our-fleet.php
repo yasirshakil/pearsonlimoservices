@@ -32,9 +32,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Chrysler 300</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -65,9 +62,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Cadillac XTS</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -100,9 +94,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>BMW 750i</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -132,9 +123,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Mercedes S550</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -157,10 +145,6 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-
-					<!-- <div class="loadmore">
-							<a href="#" title="">Load More</a>
-						</div> -->
 				</div>
 			</div>
 			<div class="row">
@@ -172,9 +156,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Bentley flying spur </h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -204,9 +185,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>ROLLS ROYCE PHANTOM</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -237,9 +215,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Chevrolet Suburban</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -269,9 +244,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>GMC YUKON XL</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -294,10 +266,6 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-
-					<!-- <div class="loadmore">
-							<a href="#" title="">Load More</a>
-						</div> -->
 				</div>
 			</div>
 			<div class="row">
@@ -309,9 +277,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Cadillac Escalade platinum</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -341,9 +306,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Lincoln MKT STRETCH LIMOUSINE</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -374,9 +336,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Lincoln Navigator</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -407,9 +366,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Hummer Stretch Limousine</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -432,10 +388,6 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-
-					<!-- <div class="loadmore">
-							<a href="#" title="">Load More</a>
-						</div> -->
 				</div>
 			</div>
 			<div class="row">
@@ -447,9 +399,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>Mercedes Benz Sprinter</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -479,9 +428,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3> 20 passenger mini limo bus</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -512,9 +458,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>30 passenger mini limo bus</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -544,9 +487,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>40 passenger limo bus</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -577,9 +517,6 @@
 						<div class="box-text one-half">
 							<div class="top">
 								<h3>48 passenger limo bus</h3>
-								<!-- <div class="name-car">
-										Mercedes-Benz E-Class, BMW 5 Series, Cadillac XTS, or similar
-									</div> -->
 							</div>
 							<div class="content">
 								<p class="text-justify">Pearson Limo Service , is the name you can rely on as we believe
@@ -602,10 +539,6 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-
-					<!-- <div class="loadmore">
-							<a href="#" title="">Load More</a>
-						</div> -->
 				</div>
 			</div>
 		</div>
@@ -687,215 +620,6 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Section Iconbox -->
-	<!-- Start Footer -->
-	<!-- <footer id="footer">
-			<div class="container">				
-				<div class="row">
-					<div class="col-lg-3 col-md-3 col-sm-6">
-						<div class="widget-footer widget-about">
-							<div class="logo-ft">
-								<a href="#" title="">
-									<img src="images/logo-ft.png" alt="">
-								</a>
-							</div>
-							<ul class="infomation-ft">
-							    <li>
-							    	329 Queensberry Street, North Melbourne VIC 3051, Australia.
-							    </li>
-							    <li>123 456 7890</li>
-							    <li>support@prodrive.com</li>
-							</ul>
-							<ul class="social-ft">
-							    <li>
-							    	<a href="#" title="Facebook">
-							    		<i class="fa fa-facebook" aria-hidden="true"></i>
-							    	</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="Twitter">
-							    		<i class="fa fa-twitter" aria-hidden="true"></i>
-							    	</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="Instagram">
-							    		<i class="fa fa-instagram" aria-hidden="true"></i>
-							    	</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="Pinterest">
-							    		<i class="fa fa-pinterest" aria-hidden="true"></i>
-							    	</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="Dribble">
-							    		<i class="fa fa-dribbble" aria-hidden="true"></i>
-							    	</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="Google">
-							    		<i class="fa fa-google" aria-hidden="true"></i>
-							    	</a>
-							    </li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-lg-2 col-md-3 col-sm-6">
-						<div class="widget-footer widget-services">
-							<h3 class="title-ft">
-								Our services
-							</h3>
-							<ul>
-							    <li>
-							    	<a href="#" title="">Airport transfer</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Limousine service</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Chauffeur service</a>
-							    </li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-lg-2 col-md-3 col-sm-6">
-						<div class="widget-footer widget-services">
-							<h3 class="title-ft">
-								About us
-							</h3>
-							<ul>
-							    <li>
-							    	<a href="#" title="">Chauffeurs</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">About us</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Blog</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">FAQs</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Testimonials</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Terms & Conditions</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Contact</a>
-							    </li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-lg-2 col-md-3 col-sm-6">
-						<div class="widget-footer widget-services">
-							<h3 class="title-ft">
-								Our cars
-							</h3>
-							<ul>
-							    <li>
-							    	<a href="#" title="">Mercedes S-Class</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Mercedes E-Class</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Rolls-Royce Phantom</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Bentley Mulsanne</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Mercedes V-Class</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Range Rover</a>
-							    </li>
-							    <li>
-							    	<a href="#" title="">Luxury Minibus</a>
-							    </li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 col-sm-6">
-						<div class="widget-footer widget-apps">
-							<ul>
-							    <li class="app-store">
-							    	<a href="#" title="App Store">
-							    		<div class="image-app">
-								    		<img src="images/icon/app-store.png" alt="">
-								    	</div>
-								    	<div class="text">
-								    		<h5>App Store</h5>
-								    		<p>Available now on the</p>
-								    	</div>
-							    	</a>
-							    </li>
-							    <li class="google-play">
-							    	<a href="#" title="google-play">
-							    		<div class="image-app">
-								    		<img src="images/icon/google-play.png" alt="">
-								    	</div>
-								    	<div class="text">
-								    		<h5>Google Play</h5>
-								    		<p>Get in on</p>
-								    	</div>
-							    	</a>
-							    </li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer> -->
-	<!-- End Footer -->
-	<!-- Start Footer Bottom -->
-	<!-- <section class="footer-bottom">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="title">
-							Our Top Cities
-						</div>
-						<ul class="city">
-							<li>
-								<a href="#" title="">New York</a>
-							</li>
-							<li>
-								<a href="#" title="">Istanbul</a>
-							</li>
-							<li>
-								<a href="#" title="">London</a>
-							</li>
-							<li>
-								<a href="#" title="">Berlin</a>
-							</li>
-							<li>
-								<a href="#" title="">Los Angeles</a>
-							</li>
-							<li>
-								<a href="#" title="">Paris</a>
-							</li>
-							<li>
-								<a href="#" title="">All cities</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</section> -->
-	<!-- End Footer -->
-	<!-- Start Copyright -->
-	<!-- <section class="copyright">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<p>Copyright Prodrive © 2018.  All Rights Reserved</p>
-					</div>
-				</div>
-			</div>			
-		</section> -->
 </div>
 <!-- Start Footer -->
 <?php

@@ -2,8 +2,6 @@
 include ('./header.php');
 ?>
 <!-- Start Top Title -->
-<!-- <div class="col-lg-3 col-md-3 col-sm-6 col-6"></div> -->
-
 <div class="container my-5">
   <section class="template-title center">
     <div class="template-title center">

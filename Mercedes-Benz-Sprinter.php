@@ -100,34 +100,6 @@ include ('./header.php');
                     <li>CD/DVD player</li>
                     <li>Beverage Bar with glasses and ice (feel free to bring your own beverages)</li>
                 </ul>
-                <!-- <ul class='listPoints mb-5'>
-                    <p class="mb-2">
-                        <b>
-                            Our Airport Limo Service can pick-up and drop you off to any of the airports,
-                            including:
-                        </b>
-                    </p>
-                    <li><b>YYZ:</b> Toronto Pearson International Airport</li>
-                    <li><b>YTZ:</b> Billy Bishop Toronto City Airport</li>
-                    <li><b>YZD:</b> Downsview Airport</li>
-                    <li><b>YKZ:</b> Toronto Buttonville Municipal Airport</li>
-                    <li><b>YHM:</b> John C. Munro Hamilton International Airport</li>
-                    <li class="mb-2"><b>BUF:</b> Buffalo Niagara International Airport</li>
-                    <li><b>IAG:</b> Niagara Falls International Airport</li>
-                </ul> -->
-                <!-- <h3 class="mb-2"><b>The Lincoln MKT Limousine comes fully equipped with:</b></h3>
-                <ul class='listPoints mb-5'>
-                    <li>Room for Up to 10 Passengers – even standing up! (depending on the size of the passengers)</li>
-                    <li>Fully Stocked Bar</li>
-                    <li>Leather Limo Bench Seating</li>
-                    <li>Color Changing Lights</li>
-                    <li>Flat-Screen TVs</li>
-                    <li>Laser Lights</li>
-                    <li>Multiple USB Charger Outlets</li>
-                    <li>Bluetooth Stereo (sync your own playlist wirelessly!)</li>
-                    <li>CD/DVD player</li>
-                    <li>Beverage Bar with glasses and ice (feel free to bring your own beverages)</li>
-                </ul> -->
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                     <hr>
