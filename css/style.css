@@ -2355,9 +2355,6 @@ ul.social-ft li a {
   width: 100%;
   background: #d9c77e;
   visibility: visible;
-
-
-
 }
 
 ul.social-ft li a:hover {
@@ -2366,6 +2363,7 @@ ul.social-ft li a:hover {
 
 .widget-footer ul li a:hover {
   color: #d9c77e;
+  font-weight: bold
 }
 .widget-footer h3.title-ft {
   color: #d9c77e;
