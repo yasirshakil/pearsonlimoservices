@@ -249,11 +249,11 @@ input[type="submit"] {
   transition: all 0.3s ease-in-out;
 } */
 
-.bold{
+.bold {
   font-weight: 600;
 }
 
-.listPoints{
+.listPoints {
   list-style: disc;
 }
 
@@ -261,7 +261,7 @@ input[type="submit"] {
   margin: 0 18px;
 }
 
-.Contact-Btn{
+.Contact-Btn {
   position: relative;
   height: 50px;
   width: 120px;
@@ -272,11 +272,11 @@ input[type="submit"] {
   letter-spacing: 2px;
   text-transform: uppercase;
   z-index: 2;
-  transition: all 0.3s ;
+  transition: all 0.3s;
 }
 
-.Contact-Btn::after{
-  content: '';
+.Contact-Btn::after {
+  content: "";
   background-color: black;
   position: absolute;
   height: 100%;
@@ -284,17 +284,16 @@ input[type="submit"] {
   transform: rotatex(-90deg);
   top: 0;
   left: 0;
-  transition: all 0.3s ;
+  transition: all 0.3s;
 }
 
-.Contact-Btn:hover::after{
+.Contact-Btn:hover::after {
   transform: rotatex(0deg);
   z-index: -2;
-
 }
 
-.Contact-Btn:hover{
-  color:#d9c77e;
+.Contact-Btn:hover {
+  color: #d9c77e;
 }
 
 select,
@@ -517,7 +516,7 @@ button:focus {
   outline: none;
 }
 
-.limoColor{
+.limoColor {
   color: #d9c77e;
 }
 
@@ -1012,9 +1011,9 @@ button:focus {
   line-height: 40px;
 }
 
-.nav-sec{
+.nav-sec {
   /* text-align: center; */
-  margin-top:36px;
+  margin-top: 36px;
 }
 
 /* .header-04 .navigation .menu > li > a,.header-05 .navigation .menu > li:not(.logo-pro_text) > a{
@@ -1084,7 +1083,10 @@ button:focus {
   padding: 11px 34px 9px 42px;
 }
 
-.ListBox ul li {list-style: disc; margin: 0px 0px 0px 20px;}
+.ListBox ul li {
+  list-style: disc;
+  margin: 0px 0px 0px 20px;
+}
 
 .header-03 .box-right .login {
   margin-right: 6px;
@@ -1194,7 +1196,6 @@ button:focus {
   font-size: 26px;
 }
 
-
 .header-04 .top-header .left-content ul li,
 .header-05 .top-header .left-content ul li {
   display: inline-block;
@@ -1262,18 +1263,16 @@ button:focus {
 
 .left-content .content {
   padding: 0px 20px 0px 20px;
-  margin:0px 0px 0px 10px;
+  margin: 0px 0px 0px 10px;
   color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-
-
-.left-content .content-2{
+.left-content .content-2 {
   padding: 0px 20px 0px 20px;
-  margin:0px 0px 0px 10px;
+  margin: 0px 0px 0px 10px;
   background: #1e1e1e;
   color: #fff;
   display: flex;
@@ -1291,7 +1290,6 @@ button:focus {
   /* justify-content: center; */
   align-items: center;
 }
-
 
 .top-menuleft.no_bo {
   display: inline-block;
@@ -1384,7 +1382,6 @@ button:focus {
 .header-05 .top-header .box-right {
   display: inline-block;
   vertical-align: middle;
-
 }
 .header-05 .top-header .login a {
   color: #969696;
@@ -1621,7 +1618,6 @@ button:focus {
 .widget-about ul.social-ft li {
   display: inline-block;
   padding-right: 30px;
-
 }
 .bottom-01,
 .bottom-04 {
@@ -2327,20 +2323,17 @@ footer {
   margin-top: 15px;
 }
 
-
-
 .widget-footer ul li,
 .widget-footer ul li a,
 ul.social-ft li a {
-
 }
 
-.footerLinks{
+.footerLinks {
   color: #969696;
   position: relative;
 }
 
-.footerLinks::after{
+.footerLinks::after {
   content: "";
   position: absolute;
   bottom: 0;
@@ -2351,7 +2344,7 @@ ul.social-ft li a {
   visibility: hidden;
 }
 
-.footerLinks:hover::after{
+.footerLinks:hover::after {
   width: 100%;
   background: #d9c77e;
   visibility: visible;
@@ -2363,7 +2356,7 @@ ul.social-ft li a:hover {
 
 .widget-footer ul li a:hover {
   color: #d9c77e;
-  font-weight: bold
+  font-weight: bold;
 }
 .widget-footer h3.title-ft {
   color: #d9c77e;
@@ -2526,13 +2519,13 @@ ul.social-ft li:last-child {
   color: #fff;
 }
 
-.Contact-us-2{
+.Contact-us-2 {
   color: #d9c77e;
   font-weight: bold;
   letter-spacing: 1px;
 }
 
-.Contact-us-2:hover{
+.Contact-us-2:hover {
   color: #fff;
 }
 
@@ -2673,7 +2666,6 @@ ul.social-ft li:last-child {
 
 .fleet-img {
   height: 200px;
-
 }
 
 .fleet-details {
@@ -2789,8 +2781,8 @@ ul.social-ft li:last-child {
   z-index: 1;
 }
 
-.Box-Links::after{
-  content: '';
+.Box-Links::after {
+  content: "";
   height: 100%;
   width: 100%;
   background: #bf9c60;
@@ -2802,7 +2794,7 @@ ul.social-ft li:last-child {
   transition: all 0.3s;
 }
 
-.Box-Links:hover::after{
+.Box-Links:hover::after {
   transform: rotatex(0deg);
 }
 
@@ -2910,7 +2902,7 @@ ul.social-ft li:last-child {
 .limoking ul li {
   color: #000;
   font-weight: 500;
-  list-style: disc ;
+  list-style: disc;
 }
 
 /* .Contact-detail:focus{
@@ -2962,21 +2954,22 @@ ul.social-ft li:last-child {
   box-shadow: 0px 0px 2px 2px #d9c77e;
 }
 
-.Form-Tital{
-  
+.Form-Tital {
 }
 
-.Form-bg{
-    border: solid 1px #d9c77e;
-    box-shadow: 0px 0px 5px #d9c77e;
-    /* background: rgb(251,251,251);
+.Form-bg {
+  border: solid 1px #d9c77e;
+  box-shadow: 0px 0px 5px #d9c77e;
+  /* background: rgb(251,251,251);
     background: linear-gradient(0deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 50%, rgba(219,201,129,0.5858718487394958) 100%); */
-    background: rgb(251,251,251);
-background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 50%, rgba(218,204,146,0.87718837535014) 100%);
+  background: rgb(251, 251, 251);
+  background: linear-gradient(
+    313deg,
+    rgba(251, 251, 251, 1) 0%,
+    rgba(254, 254, 253, 0) 50%,
+    rgba(218, 204, 146, 0.87718837535014) 100%
+  );
 }
-
-
-
 
 /* Area-We-Serve end */
 
@@ -2996,11 +2989,11 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 
 /* Reservation ende */
 
-.Services-Heading{
+.Services-Heading {
   color: #d9c77e;
 }
 
-.Services-btn{
+.Services-btn {
   display: flex;
   justify-content: center;
 }
@@ -3009,50 +3002,53 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   margin: 0px 40px 0px 40px;
 }
 
-.Highlight{
+.Highlight {
   color: #d9c77e;
   font-size: 20px;
   font-weight: 600;
 }
 
-.call-now{
+.call-now {
   color: #d9c77e;
   font-size: 24px;
 }
 
-.Highlight:hover{
+.Highlight:hover {
   color: #d9c77e;
   text-decoration: underline;
   font-size: 20px;
   font-weight: 600;
 }
 
-.PearsonLimoNumber{
+.PearsonLimoNumber {
   color: #d9c77e;
   font-size: 18px;
 }
 
-.Services-Details{
+.Services-Details {
   font-weight: 700;
 }
 
-.Boking-btn{
-
+.Boking-btn {
   background-color: red !important;
 }
 
 /* Area Pages Start */
-.OnlineBookig{
-  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100% );
+.OnlineBookig {
+  background: linear-gradient(
+    180deg,
+    rgba(247, 240, 192, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(254, 253, 249, 0.9640231092436975) 100%
+  );
   /* border: solid 1px #d9c77e; */
 }
 
-.ReservationBox{
+.ReservationBox {
   display: flex;
 }
 
-
-.makeReservation{
+.makeReservation {
   /* padding: 10px 5px 10px 5px; */
   margin-bottom: 20px !important;
   background: #d9c77e;
@@ -3060,7 +3056,7 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 }
 
 .makeReservation a {
-  text-decoration:  none;
+  text-decoration: none;
 }
 
 .makeReservation a i {
@@ -3097,28 +3093,21 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   text-align: center;
 }
 
-
-
-
-
 /* Area Pages end */
 
-
 @media only screen and (min-device-width: 280px) and (max-device-width: 1024px) {
-  
   .Content-Box h2 {
     font-size: 32px;
   }
 
+  .menu ul li a {
+    padding: 10px 10px;
+    text-align: left;
+  }
 
-.menu ul li a {
-  padding: 10px 10px;
-  text-align: left;
-}
-
-.nav-sec{
-  text-align: left ;
-}
+  .nav-sec {
+    text-align: left;
+  }
   .Content-Box {
     padding: 10px;
     justify-content: center;
@@ -3131,12 +3120,11 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     display: block !important;
   }
 
-
   .Area-We-Serve-Heading {
     font-size: 30px;
   }
 
-  .About-Text-Col{
+  .About-Text-Col {
     margin-top: 50px;
   }
 
@@ -3147,12 +3135,11 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     text-align: left !important;
     text-align: center;
     line-height: 24px;
-}
+  }
 
-.responsive{
-  display: block !important;
-}
-
+  .responsive {
+    display: block !important;
+  }
 }
 
 .right-content .login {
@@ -3160,11 +3147,11 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
 }
 
 @media only screen and (min-device-width: 280px) and (max-device-width: 812px) {
-  .ReservationBox{
+  .ReservationBox {
     display: inline-block;
   }
 
-  .Services-btn{
+  .Services-btn {
     display: flex;
     justify-content: space-between;
   }
@@ -3186,77 +3173,72 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     /* justify-content: center; */
     align-items: center;
     flex-direction: column;
-
   }
 
-  .padding{
+  .padding {
     padding-right: 0 !important;
   }
 
-  .about{
+  .about {
     margin-bottom: 0px !important;
   }
 
-  .padding{
+  .padding {
     padding-right: 50px;
   }
-  
 
   .right-content .login {
     margin-right: 0px;
   }
 
   .left-content ul li:first-child {
- 
     margin-left: 0px;
   }
 
+  .center-content {
+    text-align: center;
+    color: #000000 !important;
+    padding: 0 !important;
+  }
 
-.center-content{
-  text-align: center;
-  color: #000000 !important;
-  padding: 0 !important;
-}
+  .center-content .content {
+    width: 100%;
+    height: 100%;
+    padding: 0px 20px 0px 20px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-.center-content .content {
-  width: 100%;
-  height: 100%;
-  padding: 0px 20px 0px 20px;
-  color: #000000;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+  .header-04 .top-header .right-content,
+  .header-05 .top-header .right-content {
+    text-align: center;
+  }
 
-.header-04 .top-header .right-content, .header-05 .top-header .right-content {
-  text-align: center;
-}
+  .center-content ul li i {
+    color: #fff !important;
+  }
 
-.center-content ul li i{
-  color: #fff !important;
-}
-
-
-  .left-content ul{
+  .left-content ul {
     text-align: right;
     display: grid;
     padding: 0 !important;
   }
 
-  .service-rates-heading{
+  .service-rates-heading {
     font-size: 18px;
   }
 
-  .Seclect{
+  .Seclect {
     margin: 0px !important;
   }
 
   .service-rates-heading span p {
     font-size: 12px !important;
-    
   }
 
-  .Our-Services-Text{
+  .Our-Services-Text {
     font-size: 12px;
   }
 
@@ -3266,10 +3248,9 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     text-align: center;
     width: 100%;
     font-size: 16px !important;
-}
-  
+  }
 
-  .AjaxLimo{
+  .AjaxLimo {
     font-size: 30px;
   }
   .Area-We-Serve-Btn {
@@ -3281,32 +3262,31 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
     text-transform: uppercase;
     text-align: center;
     font-size: 10px;
-}
+  }
 
+  .howItWorks-ImgBox img {
+    height: 370px;
+    width: auto;
+  }
 
-.howItWorks-ImgBox img{
-  height: 370px;
-  width: auto;
-}
+  .howItWorks-ImgBox .animate__animated {
+    opacity: 1;
+  }
 
-.howItWorks-ImgBox .animate__animated {
-  opacity: 1;
-}
+  .Limousine-Reservation {
+    font-size: 36px;
+  }
 
-.Limousine-Reservation {
-  font-size: 36px;
-}
+  .Airport-pickup-headings {
+    line-height: 25px;
+    font-size: 25px;
+  }
 
-.Airport-pickup-headings{
-  line-height: 25px;
-  font-size: 25px;
-}
+  .Reservation-cars-name {
+    font-size: 13px !important;
+  }
 
-.Reservation-cars-name {
-  font-size: 13px !important;
-}
-
-/* .box-text .bottom .btn-select a {
+  /* .box-text .bottom .btn-select a {
   line-height: 50px;
   height: 50px;
   padding: 0px 85px 0 20px !important;
@@ -3318,16 +3298,15 @@ background: linear-gradient(313deg, rgba(251,251,251,1) 0%, rgba(254,254,253,0) 
   margin: 5px 10px 0px 0px;
 } */
 
-.select-car .box-text .bottom .price,
-.select-car .box-text .bottom .btn-select,.select-car.ofl .bottom .price,.select-car.ofl .bottom .btn-select{
-	display: flex;
-	justify-content: space-between;
-	padding-right: 0px;
+  .select-car .box-text .bottom .price,
+  .select-car .box-text .bottom .btn-select,
+  .select-car.ofl .bottom .price,
+  .select-car.ofl .bottom .btn-select {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 0px;
+  }
 }
-
-}
-
-
 
 .validate-error {
   color: red;
@@ -3344,7 +3323,7 @@ div.loader-background {
   position: fixed;
 }
 
-.loader-div>img {
+.loader-div > img {
   position: absolute;
   margin: auto 0;
   top: 0;
@@ -3355,23 +3334,22 @@ div.loader-background {
   height: 25%;
 }
 
-.Modal{
+.Modal {
   height: 850px;
   position: relative;
   margin-bottom: 30px;
   z-index: 99 !important;
 }
 
-
-.Seclect{
+.Seclect {
   margin-left: 27px !important;
 }
 
-.adjust-modal-about{
+.adjust-modal-about {
   top: 0;
 }
 
-.top-modal{
+.top-modal {
   height: 60px;
   background-color: #151515;
   border-top-left-radius: 3px;
@@ -3381,7 +3359,7 @@ div.loader-background {
 }
 
 .top-modal .Get-a-quote {
-  position: absolute; 
+  position: absolute;
   top: 0;
   padding: 10px 40px;
   background: #eee;
@@ -3392,7 +3370,7 @@ div.loader-background {
 }
 
 .top-modal .Book {
-  position: absolute; 
+  position: absolute;
   top: 0;
   right: 0;
   padding: 10px 40px;
@@ -3402,23 +3380,22 @@ div.loader-background {
   font-size: 18px;
 }
 
-.animate__zoomInDown{
+.animate__zoomInDown {
   animation-delay: 1s !important;
 }
 
-.Golden{
+.Golden {
   color: #d9c77e;
   font-weight: 600;
 }
 
-.Golden:hover{
+.Golden:hover {
   color: #d9c77e;
   text-decoration: underline;
   font-weight: 600;
 }
 
-
-.howItWorks-ImgBox img{
+.howItWorks-ImgBox img {
   height: 400px;
   width: auto;
 }
@@ -3436,10 +3413,15 @@ div.loader-background {
 
 .Cars-Detail {
   border-radius: 10px;
-  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(247, 240, 192, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(254, 253, 249, 0.9640231092436975) 100%
+  );
 }
 
-.about{
+.about {
   margin-bottom: 150px;
 }
 
@@ -3462,18 +3444,23 @@ div.loader-background {
   color: #fff;
 }
 
-.limoking-car-rate-wrapper{
+.limoking-car-rate-wrapper {
   background-color: red;
 }
 
-.Rates{
+.Rates {
   padding: 28px 60px;
   border-radius: 10px;
-  background: linear-gradient( 180deg, rgba(247, 240, 192, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(254, 253, 249, 0.9640231092436975) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(247, 240, 192, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(254, 253, 249, 0.9640231092436975) 100%
+  );
   height: auto;
 }
 
-.rates-heading{
+.rates-heading {
   display: flex;
 }
 
@@ -3483,18 +3470,18 @@ div.loader-background {
   color: #000;
 }
 
-.rates-heading2{
+.rates-heading2 {
   display: flex;
   margin-left: 40px;
 }
 
-.rates-heading2 p{
+.rates-heading2 p {
   color: #000;
   font-size: 17px;
   margin-right: 10px;
 }
 
-.rates-heading2 sub{
+.rates-heading2 sub {
   font-size: 12px;
   margin-left: 8px;
 }
@@ -3505,26 +3492,19 @@ div.loader-background {
   margin-right: 10px;
 }
 
-.small-text{
+.small-text {
   color: #000;
   font-size: 12px !important;
 }
 
-.Reservation-request-box{
+.Reservation-request-box {
   display: flex;
   align-items: center;
 }
 
+/* reservation start */
 
-
-
-
-
-
- /* reservation start */
-
-
- .heading-primary {
+.heading-primary {
   font-size: 2em;
   padding: 2em;
   text-align: center;
@@ -3562,7 +3542,7 @@ div.loader-background {
 .accordion__Heading {
   background-color: #d9c77e;
   /*text-align: center; */
-  
+
   text-indent: 3px;
   font-weight: 700;
   padding: 1.5em;
@@ -3590,11 +3570,11 @@ div.loader-background {
   color: #000;
 }
 
-.hov:hover{
+.hov:hover {
   color: #000 !important;
 }
 
-.hov:focus{
+.hov:focus {
   color: #000 !important;
 }
 
@@ -3735,7 +3715,7 @@ div.loader-background {
   cursor: pointer;
   display: inline-block;
   font-style: normal;
-  font-family: 'Libre Baskerville';
+  font-family: "Libre Baskerville";
   height: 20px;
   line-height: 1.3em;
   text-align: center;
@@ -3757,13 +3737,13 @@ div.loader-background {
 .hint-description {
   display: none;
   background: #3b3b3b;
-  border: 1px solid #099DF6;
+  border: 1px solid #099df6;
   border-radius: 3px;
   font-size: 0.8em;
   color: #ffffff;
   font-weight: bold;
   /*padding: 1em; */
-  
+
   position: absolute;
   left: 30px;
   top: -15px;
@@ -3780,7 +3760,7 @@ div.loader-background {
   top: 15px;
   border-style: solid;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #099DF6;
+  border-color: transparent #099df6;
 }
 /* overlay styling */
 
@@ -3789,18 +3769,18 @@ div.loader-background {
   border-right-color: #3b3b3b;
 }
 
-.Reservation-btn-submit{
+.Reservation-btn-submit {
   height: 40px;
   width: 90px;
   background: #d9c77e;
   border-radius: 5px;
 }
 
-.Select-Cars{ 
+.Select-Cars {
   height: 200px;
 }
 
-.reservation-cars{
+.reservation-cars {
   height: 60%;
   width: 100%;
   display: flex;
@@ -3808,14 +3788,12 @@ div.loader-background {
   position: relative;
 }
 
-
 .reservation-cars img {
   width: auto;
   height: 100%;
-
 }
 
-.reservation-cars-select{
+.reservation-cars-select {
   height: 40%;
   width: 100%;
 }
@@ -3827,18 +3805,18 @@ div.loader-background {
   border-radius: 5px;
 }
 
-.Label-Box{
+.Label-Box {
   display: flex;
   align-items: center;
 }
 
-.Form-section{
+.Form-section {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.i-icon{
+.i-icon {
   background-color: #d9c77e;
   margin-left: 10px;
   width: 30px;
@@ -3851,8 +3829,7 @@ div.loader-background {
   font-size: 18px;
 }
 
-.active-car
-{
+.active-car {
   border: 1px solid #d9c77e;
   box-shadow: 0px -1px 10px 1px #d9c77e;
 }
@@ -3860,19 +3837,17 @@ div.loader-background {
   font-size: 20px;
 }
 
-.hour{
+.hour {
   color: #d9c77e !important;
   font-size: 18px !important;
 }
 
 /* Services Rates Start*/
 
-.img-box{
+.img-box {
   padding: 20px 0px;
   height: 200px;
   box-sizing: border-box;
-
-
 }
 
 .img-box .img img {
@@ -3880,12 +3855,12 @@ div.loader-background {
   height: auto;
 }
 
-.Services-rates{
+.Services-rates {
   height: 200px;
   /* background-color: red; */
   box-sizing: border-box;
   border-bottom: 1px solid #eee;
-  border-right:  1px solid #eee; 
+  border-right: 1px solid #eee;
   border-left: 1px solid #eee;
   display: flex;
   flex-direction: column;
@@ -3894,20 +3869,18 @@ div.loader-background {
   text-align: center;
 }
 
-
-
-.img-box .img{
+.img-box .img {
   width: 100%;
 }
 
-.img-box .Cars-names{
+.img-box .Cars-names {
   height: auto;
   text-align: center;
   width: 100%;
   font-size: 20px;
 }
 
-.tital{
+.tital {
   text-align: center;
   border-radius: 5px 5px 0px 0px;
   width: 100%;
@@ -3915,7 +3888,7 @@ div.loader-background {
   background-color: #d9c77e;
 }
 
-.tital-center{
+.tital-center {
   text-align: center;
   border-radius: 5px 5px 0px 0px;
   width: 100%;
@@ -3927,17 +3900,15 @@ div.loader-background {
   color: #fff;
 }
 
-
-.tital-sapce{
+.tital-sapce {
   height: 100px;
   width: 100%;
-  
 }
 
-.center-section .Services-rates{
+.center-section .Services-rates {
   box-sizing: border-box;
   border-bottom: 1px solid #eee;
-  border-right:  1px solid #000; 
+  border-right: 1px solid #000;
   border-left: 1px solid #000;
 }
 
@@ -3961,14 +3932,13 @@ div.loader-background {
 
 .Services-rates div .callForQuote {
   font-size: 30px;
-
 }
 
-.responsive{
+.responsive {
   display: none;
 }
 
-.btn-section{
+.btn-section {
   height: 50px;
   width: 100%;
 }
@@ -3980,7 +3950,7 @@ div.loader-background {
   border-radius: 0px 0px 5px 5px;
 }
 
-.btn-section .Services-rates-btns-center{
+.btn-section .Services-rates-btns-center {
   height: 100%;
   width: 100%;
   background-color: #000;
@@ -3988,18 +3958,17 @@ div.loader-background {
   border-radius: 0px 0px 5px 5px;
 }
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1336px){
+@media only screen and (min-device-width: 768px) and (max-device-width: 1336px) {
   .responsive {
     display: none !important;
   }
 
-.header-04 .top-header .right-content .login, .header-04 .top-header .right-content .tr-w {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0 ;
-
-}
-
+  .header-04 .top-header .right-content .login,
+  .header-04 .top-header .right-content .tr-w {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+  }
 }
 
 /* Animations */
@@ -4007,7 +3976,7 @@ div.loader-background {
   animation-delay: 2s !important;
 }
 
-.Our-fleet{
+.Our-fleet {
   opacity: 0;
 }
 
@@ -4015,8 +3984,32 @@ div.loader-background {
   opacity: 1 !important;
 }
 
-.animate__animated{
+.animate__animated {
   opacity: 1 !important;
 }
 
+/* Extras */
 
+.Web_Color_BG {
+  background-color: #d9c77e;
+}
+
+.AreaHeading {
+  position: relative;
+  margin: 20px 0;
+  width: max-content;
+}
+
+.AreaHeading::after {
+  content: "";
+  height: 3px;
+  width: 100%;
+  background: #d9c77e;
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+}
+
+.Gold_Color {
+  color: #d9c77e;
+}
