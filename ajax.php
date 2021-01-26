@@ -166,7 +166,7 @@ include ('./header.php');
                 <hr>
             </div>
             <div class="w-100">
-                <img src="./images/ajax.jfif" alt="">
+                <img src="./images/Ajax.jpeg" alt="">
             </div>
             <h3 class="my-4 pt-3 Gold_Color mx-auto"><b>Meet & Greet Service:</b></h3>
             <p>Are you or your client new to the City of Toronto or arriving at Toronto Pearson International Airport
